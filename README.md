@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dimanikulin and I have 25 years of experience as Software Developer.
-- 👀 Interesting domains: Billing systems, Embedded, Mobile, Media, Healthcare, Automotive, Communication, Manufacturing, Logistic, Supply chain management, Security, Geoinformatics, Railways
+- 👀 Interesting domains: Billing systems, Embedded, Mobile, Media, Healthcare, Automotive, Communication, Manufacturing, Logistic, Supply chain management, Security, Geoinformatics, Railways   
 Interesting technologies - Cloud, IoT, Data Platforms, Devops, Architecture
 - 🌱 I’m currently learning a Software Architecture
 - 💞️ I’m looking to collaborate on helping to develop my product
