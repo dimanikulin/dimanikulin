@@ -2,7 +2,7 @@
 - 👀 Interesting domains: Billing systems, Embedded, Mobile, Media, Healthcare, Automotive, Communication, Manufacturing, Logistic, Supply chain management, Security, Geoinformatics, Railways
 Interesting technologies - Cloud, IoT, Data Platforms, Devops, Architecture
 - 🌱 I’m currently learning a Software Architecture
-- 💞️ I’m looking to collaborate on helping to develop my product?
+- 💞️ I’m looking to collaborate on helping to develop my product
 - 📫 How to reach me: Email and Twitter.   
 Deep understanding in MS and Cross-platform programming.   
 I can help with Software Verification Testing(Unit and Integration testing), use of QT to create Cross-platform and Multi-language UI, MS OS customization, Win32 API hooking and make MS OS more secure.    
