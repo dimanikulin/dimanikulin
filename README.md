@@ -19,3 +19,6 @@ I can help with Software Architecture aspects such as
 -	choosing style, design patterns and development technologies for web application to support the desktop and mobile requirements;
 -	choosing the cloud services for MOM;
 -	choosing the caches.
+
+- [As a product manager](./post1.md);
+
