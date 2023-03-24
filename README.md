@@ -5,7 +5,7 @@
 Billing systems, Embedded, Mobile, Media, Healthcare, Communication, Geoinformatics, Railways
 
 ## Expertise in technologies
-I have deep understanding of MicroSoft OS programming and big expereince with cross-platform programming for OSs - MS, Mac, QNX, Linux, Symbian 9.x, UIQ, Windows Mobile, AIX, CentOs.
+I have deep understanding of Microsoft OS programming and big expereince with cross-platform programming for OSs - MS, Mac, QNX, Linux, Symbian 9.x, UIQ, Windows Mobile, AIX, CentOs.
 
 I can help with Software Verification Testing(Unit and Integration testing) of medical devices with GTest and Squish; use of QT to create Cross-platform and Multi-language UI, MS OS customization, Win32 API hooking and making MS OS more secure.
 
