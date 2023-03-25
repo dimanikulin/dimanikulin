@@ -38,8 +38,8 @@ I can help with **Software Architecture** aspects such as
 - choosing the **caches**.
 
 ## My posts
-[We need more Messengers!](./content/MoreMessengers.md)
-[Number Of Interviews](./content/NumberOfInterviews.md)
+- [We need more Messengers!](./content/MoreMessengers.md)
+- [Number Of Interviews](./content/NumberOfInterviews.md)
 
 ## What projects are currently occupying most of my time?
 
