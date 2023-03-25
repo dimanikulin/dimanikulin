@@ -9,7 +9,6 @@ And this year (the same as previous one) I was nominated as a Top Interviewer in
 In 2022 it was quite the same
 https://www.linkedin.com/posts/dimanikulin_globallogic-activity-6894337668830822401-iBcr/?utm_source=share&utm_medium=member_desktop
 
-NumberOfInterviews
 <img src="./Images/NumberOfInterviews.jpg" alt="Number Of Interviews" />
 
 ### Tags
