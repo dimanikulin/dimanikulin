@@ -29,7 +29,7 @@ I can help with **Software Architecture** aspects such as
 - working with **Stakeholders**, **Business Requirements** and **Functional decomposition**;
 - participation in **Presales**, **Estimation**, **Discovery**, **Design and Review stages**;
 - working with **Quality attributes** and **their Tactics**;
-- creation the **Software Architecture Document;
+- creation the **Software Architecture Document**;
 - choosing the **NoSQL DB**;
 - designing the **Search system**;
 - securing the system on **cloud** to keep **private** data;
@@ -40,6 +40,7 @@ I can help with **Software Architecture** aspects such as
 ## My posts
 - [We need more Messengers!](./content/MoreMessengers.md)
 - [Number Of Interviews](./content/NumberOfInterviews.md)
+- [Interesting facts about number 12](./content/InterestingFactsAbout12.md)
 
 ## What projects are currently occupying most of my time?
 
