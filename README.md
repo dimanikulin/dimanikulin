@@ -9,7 +9,7 @@ I have deep understanding of **Microsoft OS** programming and big expereince wi
 
 I can help with **Software Verification Testing**(Unit and Integration testing) of medical devices with **GTest and Squish**; use of **QT** to create **Cross-platform** and **Multi-language UI**, **MS OS customization**, **Win32 API hooking** and **making MS OS more secure**.
 
-In addition, I can help with creating the system to **collect the data** from **mobile** devices. 
+In addition, I can help with creating the system to **collect the data** from�**mobile**�devices.�
 
 - **Languages** : C++11/14, C, PowerShell, XML/XSLT, PL-SQL, C#, SQL, bash, Jscript, UML
 - **Libs** :STL, boost, DDS, flatbuf, Poco, MadCodHook, Komodia, QT, ACE, Cocoa, RestKit, libsyncml, ASP.NET, GSOAP, MFC, Stingray Objective Studio, COM
@@ -39,6 +39,7 @@ I can help with **Software Architecture** aspects such as
 
 ## My posts
 [We need more Messengers!](./content/MoreMessengers.md)
+[Number Of Interviews](./content/NumberOfInterviews.md)
 
 ## What projects are currently occupying most of my time?
 
