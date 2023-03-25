@@ -37,7 +37,7 @@ I can help with **Software Architecture** aspects such as
 - choosing the **cloud services** for **MOM**;
 - choosing the **caches**.
 
-## Additionaly 
+## What projects are currently occupying most of my time?
 [As a product manager](./post1.md)
 
 - 🌱 I’m currently learning a Software Architecture
