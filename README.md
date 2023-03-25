@@ -1,13 +1,13 @@
 ## About Me
-ğŸ‘‹ My name is Dmytro Nikulin and I have **25**Â years of experience as Software Developer/Lead.
+My name is **Dmytro Nikulin** and I have **25** of years of experience as Software Developer/Lead.
 
 ## Expertise in domains
 Billing systems, Embedded, Mobile, Media, Healthcare, Communication, Geoinformatics, Railways
 
 ## Expertise in technologies
-I have deep understanding ofÂ **Microsoft OS** programming and big expereince with cross-platform programming for OSs - **MS**, **Mac**, **QNX**, **Linux**, **Symbian 9.x**, **UIQ**, **Windows Mobile**, **AIX**, **CentOs**.
+I have deep understanding of **Microsoft OS** programming and big expereince with cross-platform programming for OSs - **MS**, **Mac**, **QNX**, **Linux**, **Symbian 9.x**, **UIQ**, **Windows Mobile**, **AIX**, **CentOs**.
 
-I can help withÂ **Software Verification Testing**(Unit and Integration testing) of medical devices with **GTest and Squish**; use ofÂ **QT**Â to createÂ **Cross-platform**Â andÂ **Multi-language UI**,Â **MS OS customization**,Â **Win32 API hooking**Â and **makingÂ MS OSÂ moreÂ secure**.
+I can help with **Software Verification Testing**(Unit and Integration testing) of medical devices with **GTest and Squish**; use of **QT** to create **Cross-platform** and **Multi-language UI**, **MS OS customization**, **Win32 API hooking** and **making MS OS more secure**.
 
 In addition, I can help with creating the system to **collect the data** from **mobile** devices. 
 
@@ -17,25 +17,25 @@ In addition, I can help with creating the system to **collect the data** from **
 - **DB**: SQLlite, Oracle, MS SQL
 - **Debugging**: GDB
 
-## InterestingÂ domains
-ğŸ‘€ Automotive, Manufacturing, Logistic, Security 
+## Interesting domains
+Automotive, Manufacturing, Logistic, Security 
 
-## InterestingÂ technologies
-ğŸ‘€ Â Cloud, IoT, Data Platforms, Devops, Architecture
+## Interesting technologies
+Cloud, IoT, Data Platforms, Devops, Architecture
 
-I can help withÂ **BigData**Â tools such asÂ **Spark**,Â **Kafka**,Â **Hive**Â andÂ **MongoDB**Â (choosing tools and configuration)
+I can help with **BigData** tools such as **Spark**, **Kafka**, **Hive** and **MongoDB** (choosing tools and configuration)
 
-I can help withÂ **Software Architecture**Â aspects such as
-- working withÂ **Stakeholders**,Â **Business Requirements**Â andÂ **Functional decomposition**;
-- participation inÂ **Presales**,Â **Estimation**,Â **Discovery**,Â **DesignÂ andÂ ReviewÂ stages**;
-- working withÂ **Quality attributes**Â and **theirÂ Tactics**;
-- creation theÂ **Software Architecture Document;
-- choosing theÂ **NoSQL DB**;
-- designing theÂ **SearchÂ system**;
-- securingÂ the system on **cloud** to keep **private** data;
-- choosing **style**, **design patterns** and **development technologies** forÂ **webÂ application**Â to support the desktop and mobile requirements;
-- choosing the **cloud services** forÂ **MOM**;
-- choosing theÂ **caches**.
+I can help with **Software Architecture** aspects such as
+- working with **Stakeholders**, **Business Requirements** and **Functional decomposition**;
+- participation in **Presales**, **Estimation**, **Discovery**, **Design and Review stages**;
+- working with **Quality attributes** and **their Tactics**;
+- creation the **Software Architecture Document;
+- choosing the **NoSQL DB**;
+- designing the **Search system**;
+- securing the system on **cloud** to keep **private** data;
+- choosing **style**, **design patterns** and **development technologies** for **web application** to support the desktop and mobile requirements;
+- choosing the **cloud services** for **MOM**;
+- choosing the **caches**.
 
 ## My posts
 - [We need more Messengers!](./content/MoreMessengers.md)
@@ -44,6 +44,6 @@ I can help withÂ **Software Architecture**Â aspects such as
 ## What projects are currently occupying most of my time?
 
 
-- ğŸŒ± Iâ€™m currently learning a Software Architecture
-- ğŸ’ï¸ Iâ€™m looking to collaborate on helping to develop my product
-- ğŸ“« How to reach me: Telegram and Twitter.
+- I am currently learning a Software Architecture
+- I am looking to collaborate on helping to develop my product
+- How to reach me: Telegram and Twitter.
