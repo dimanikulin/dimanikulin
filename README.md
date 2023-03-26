@@ -45,6 +45,7 @@ I can help with **Software Architecture** aspects such as
 - [Where pUTEN will leave to?](./content/PutenToLeave.md)
 - [Usual Talks](./content/UsualTalks.md)
 - [Summer Time](./content/SummerTime.md)
+- [Find a Job In Summer](./content/FindJobInSummer.md)
 
 ## Intersting facts
 - [Interesting facts about number 11](./content/InterestingFactsAbout11.md)
