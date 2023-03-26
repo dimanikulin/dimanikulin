@@ -45,6 +45,7 @@ I can help with **Software Architecture** aspects such as
 - [Shahed](./content/Shahed.md)
 - [Miranda](./content/Miranda.md)
 - [Best gift for Ukrainian](./content/GiftForUkrainian.md)
+- [What does it mean for me to be online?](./content/BeingOnline.md)
 
 ## What projects are currently occupying most of my time?
 
