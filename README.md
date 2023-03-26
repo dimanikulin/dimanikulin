@@ -50,6 +50,7 @@ I can help with **Software Architecture** aspects such as
 - [Which title describes better a real job?](./content/Titles&Jobs.md)
 - [Fishing, attempt 0](./content/Fishing0.md)
 - [Where pUTEN will leave to?](./content/PutenToLeave.md)
+- [Active Listening](./content/ActiveListening.md)
 
 ## What projects are currently occupying most of my time?
 
