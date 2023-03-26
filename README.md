@@ -66,6 +66,7 @@ I can help with **Software Architecture** aspects such as
 - [Presents in GlobalLogic for an employer](./content/PresentsInGL.md)
 - [Just Joined a Project With Scrum](./content/JoinedProjectWithScrum.md)
 - [Fishing](./content/Fishing.md)
+- [Software Complexity](./content/SoftwareComplexity.md)
 
 ## What projects are currently occupying most of my time?
 - I am currently learning a Software Architecture
