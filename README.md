@@ -48,6 +48,8 @@ I can help with **Software Architecture** aspects such as
 - [What does it mean for me to be online?](./content/BeingOnline.md)
 - [How russians play chess](./content/RussansInGame.md)
 - [Which title describes better a real job?](./content/Titles&Jobs.md)
+- [Fishing, attempt 0](./content/Fishing0.md)
+- [Where pUTEN will leave to?](./content/PutenToLeave.md)
 
 ## What projects are currently occupying most of my time?
 
