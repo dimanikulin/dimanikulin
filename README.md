@@ -1,6 +1,9 @@
 ## About Me
 My name is **Dmytro Nikulin** and I have **25** of years of experience as Software Developer/Lead.
 
+## Certificates
+[Coursera](./content/Coursera.md)
+
 ## Expertise in domains
 Billing systems, Embedded, Mobile, Media, Healthcare, Communication, Geoinformatics, Railways
 
