@@ -1,4 +1,4 @@
-## Coursera Certificate
+## Coursera Certificates
 Business Implications of AI: A Nano-course
 <img src="./Images/CourseraCertificate1.jpg" alt="TBD" />
 
