@@ -6,5 +6,7 @@ It differs from what usually rUSSIANS do.
 They say all rude words they even know when they loose just chess game.
 Another example what rUSSIANS do when they loose the "GAME" on real battle field - they bomb usual people, infrastructure like usual TERRORISTS.
 
+<img src="./Images/RussansInGame.jpg" alt="Russans In Game" />
+
 ### Tags
-russiaisaterrorisstate warinukraine
+russiaterroriststate warinukraine stoprussia stopwar
