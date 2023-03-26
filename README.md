@@ -56,7 +56,7 @@ I can help with **Software Architecture** aspects such as
 - [What does it mean for me to be online?](./content/BeingOnline.md)
 - [Active Listening](./content/ActiveListening.md)
 
-# Other
+## Other
 - [Number Of Interviews](./content/NumberOfInterviews.md)
 - [Which title describes better a real job?](./content/Titles&Jobs.md)
 
