@@ -41,6 +41,7 @@ I can help with **Software Architecture** aspects such as
 - [We need more Messengers!](./content/MoreMessengers.md)
 - [Number Of Interviews](./content/NumberOfInterviews.md)
 - [Interesting facts about number 12](./content/InterestingFactsAbout12.md)
+- [Who are toxic people?](./content/ToxicPeople.md)
 
 ## What projects are currently occupying most of my time?
 
