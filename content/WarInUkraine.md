@@ -1,24 +1,13 @@
-## What is the best gift for Ukrainian people for Christmas and New Year?
-What is the best gift for Ukrainian people for Christmas and New Year?
+## Usual talks in unsual time
+Обычный разговор, в "необычное" время.
 
-- Patriot defense system **8%**
-- Atacms **16%**
-- pUTINs visit of Kobzon concert **76%**
+<img src="./Images/UsualTalks.jpg" alt="UsualTalks" />
 
-Any other options I forgot to mention?
+## Summer time
+Summer is definitely a time for vacation, relaxing ...
+But there are some "nuances"
 
-### Tags
-armukrainenow warinukraine
-
-## Яскрава місячна ніч
-Яскрава місячна ніч.
-Звичайна людина: Красива ніч. Романтика.
-Українець: Добре буде видно "Шахеди"
-
-<img src="./Images/shaheds.jpg" alt="shaheds.jpg" />
-
-### Tags
-warinukraine stoprussia
+<img src="./Images/SummerTime.jpg" alt="SummerTime" />
 
 ## How russians play chess?
 Yes, it is not really easy to resign.
@@ -30,9 +19,6 @@ Another example what rUSSIANS do when they loose the "GAME" on real battle field
 
 <img src="./Images/RussansInGame.jpg" alt="Russans In Game" />
 
-### Tags
-russiaterroriststate warinukraine stoprussia stopwar
-
 ## А на куди зибеться пУТЕНг?
 Яник зибався на ростов.
 А на куди зибеться пУТЕНг?
@@ -41,26 +27,6 @@ russiaterroriststate warinukraine stoprussia stopwar
 - На картопля-ленд **4%**
 - На Марс з Маском **11%**
 - До жиріка **84%**
-
-### Tags
-warinukraine staywithukraine
-
-## Usual talks in unsual time
-Обычный разговор, в "необычное" время.
-
-<img src="./Images/UsualTalks.jpg" alt="UsualTalks" />
-
-### Tags
-standwithukraine warinukraine
-
-## Summer time
-Summer is definitely a time for vacation, relaxing ...
-But there are some "nuances"
-
-<img src="./Images/SummerTime.jpg" alt="SummerTime" />
-
-### Tags
-ukrainewar, ukraine, summer, vacation
 
 ## Who are toxic people
 Who are **toxic** people?
@@ -71,5 +37,21 @@ People who..
 - say rude words **5%**
 - are rusnia **66%**
 
+## What is the best gift for Ukrainian people for Christmas and New Year?
+What is the best gift for Ukrainian people for Christmas and New Year?
+
+- Patriot defense system **8%**
+- Atacms **16%**
+- pUTINs visit of Kobzon concert **76%**
+
+Any other options I forgot to mention?
+
+## Яскрава місячна ніч
+Яскрава місячна ніч.
+Звичайна людина: Красива ніч. Романтика.
+Українець: Добре буде видно "Шахеди"
+
+<img src="./Images/shaheds.jpg" alt="shaheds.jpg" />
+
 ### Tags
-toxicpeople
+armukrainenow toxicpeople staywithukraine stoprussia stopwar russiaterroriststate warinukraine ukrainewar ukraine
