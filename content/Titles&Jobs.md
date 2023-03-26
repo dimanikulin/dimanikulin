@@ -4,8 +4,8 @@ From my side it is difficult to understand what "IT Consultant" really does and 
 
 Which title describes better a real job?
 
-IT Consultant **10%**
-C++ Developer **90%**
+- IT Consultant **10%**
+- C++ Developer **90%**
 
 ### Tags
 itconsulting itcompany cv
