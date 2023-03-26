@@ -65,10 +65,7 @@ I can help with **Software Architecture** aspects such as
 - [Which title describes better a real job?](./content/Titles&Jobs.md)
 - [Presents in GlobalLogic for an employer](./content/PresentsInGL.md)
 - [Just Joined a Project With Scrum](./content/JoinedProjectWithScrum.md)
-
-## Fishing
-- [Fishing, attempt 0](./content/Fishing0.md)
-- [Fishing, attempt 1](./content/Fishing1.md)
+- [Fishing](./content/Fishing.md)
 
 ## What projects are currently occupying most of my time?
 - I am currently learning a Software Architecture
