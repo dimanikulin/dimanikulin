@@ -37,24 +37,31 @@ I can help with **Software Architecture** aspects such as
 - choosing the **cloud services** for **MOM**;
 - choosing the **caches**.
 
-## My posts
-- [We need more Messengers!](./content/MoreMessengers.md)
-- [Number Of Interviews](./content/NumberOfInterviews.md)
-- [Interesting facts about number 12](./content/InterestingFactsAbout12.md)
+## Politics
 - [Who are toxic people?](./content/ToxicPeople.md)
 - [Shahed](./content/Shahed.md)
-- [Miranda](./content/Miranda.md)
 - [Best gift for Ukrainian](./content/GiftForUkrainian.md)
-- [What does it mean for me to be online?](./content/BeingOnline.md)
 - [How russians play chess](./content/RussansInGame.md)
-- [Which title describes better a real job?](./content/Titles&Jobs.md)
-- [Fishing, attempt 0](./content/Fishing0.md)
 - [Where pUTEN will leave to?](./content/PutenToLeave.md)
+
+## Intersting facts
+- [Interesting facts about number 11](./content/InterestingFactsAbout11.md)
+- [Interesting facts about number 12](./content/InterestingFactsAbout12.md)
+
+## Communication 
+- [We need more Messengers!](./content/MoreMessengers.md)
+- [Miranda](./content/Miranda.md)
+- [What does it mean for me to be online?](./content/BeingOnline.md)
 - [Active Listening](./content/ActiveListening.md)
 
+# Other
+- [Number Of Interviews](./content/NumberOfInterviews.md)
+- [Which title describes better a real job?](./content/Titles&Jobs.md)
+
+## Fishing
+- [Fishing, attempt 0](./content/Fishing0.md)
+
 ## What projects are currently occupying most of my time?
-
-
 - I am currently learning a Software Architecture
 - I am looking to collaborate on helping to develop my product
 - How to reach me: Telegram and Twitter.
