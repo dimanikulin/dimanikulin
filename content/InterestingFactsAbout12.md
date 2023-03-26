@@ -8,5 +8,7 @@
 
 Something else? please share in comments other facts.
 
+<img src="./Images/InterestingFactsAbout12.jpg" alt="InterestingFactsAbout12" />
+
 ### Tags
 interestingfacts
