@@ -40,11 +40,6 @@ I can help with **Software Architecture** aspects such as
 - choosing the **cloud services** for **MOM**;
 - choosing the **caches**.
 
-[War in Ukraine](./content/WarInUkraine.md)
-
-## Intersting facts
-- [Interesting facts about number 11](./content/InterestingFactsAbout11.md)
-- [Interesting facts about number 12](./content/InterestingFactsAbout12.md)
 
 ## Communication 
 - [We need more Messengers!](./content/MoreMessengers.md)
@@ -60,6 +55,8 @@ I can help with **Software Architecture** aspects such as
 - [Fishing](./content/Fishing.md)
 - [Software Complexity](./content/SoftwareComplexity.md)
 - [Find a Job In Summer](./content/FindJobInSummer.md)
+- [War in Ukraine](./content/WarInUkraine.md)
+- [Interesting facts](./content/InterestingFacts.md)
 
 ## What projects are currently occupying most of my time?
 - I am currently learning a Software Architecture
