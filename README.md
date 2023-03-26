@@ -44,7 +44,7 @@ I can help with **Software Architecture** aspects such as
 - [Who are toxic people?](./content/ToxicPeople.md)
 - [Shahed](./content/Shahed.md)
 - [Best gift for Ukrainian](./content/GiftForUkrainian.md)
-- [How russians play chess](./content/RussansInGame.md)
+- [How russians play chess](./content/RussiansInGame.md)
 - [Where pUTEN will leave to?](./content/PutenToLeave.md)
 - [Usual Talks](./content/UsualTalks.md)
 - [Summer Time](./content/SummerTime.md)
