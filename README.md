@@ -44,6 +44,7 @@ I can help with **Software Architecture** aspects such as
 - [How russians play chess](./content/RussansInGame.md)
 - [Where pUTEN will leave to?](./content/PutenToLeave.md)
 - [Usual Talks](./content/UsualTalks.md)
+- [Summer Time](./content/SummerTime.md)
 
 ## Intersting facts
 - [Interesting facts about number 11](./content/InterestingFactsAbout11.md)
