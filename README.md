@@ -43,6 +43,7 @@ I can help with **Software Architecture** aspects such as
 - [Best gift for Ukrainian](./content/GiftForUkrainian.md)
 - [How russians play chess](./content/RussansInGame.md)
 - [Where pUTEN will leave to?](./content/PutenToLeave.md)
+- [Usual Talks](./content/UsualTalks.md)
 
 ## Intersting facts
 - [Interesting facts about number 11](./content/InterestingFactsAbout11.md)
