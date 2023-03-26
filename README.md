@@ -40,15 +40,7 @@ I can help with **Software Architecture** aspects such as
 - choosing the **cloud services** for **MOM**;
 - choosing the **caches**.
 
-## Politics
-- [Who are toxic people?](./content/ToxicPeople.md)
-- [Shahed](./content/Shahed.md)
-- [Best gift for Ukrainian](./content/GiftForUkrainian.md)
-- [How russians play chess](./content/RussiansInGame.md)
-- [Where pUTEN will leave to?](./content/PutenToLeave.md)
-- [Usual Talks](./content/UsualTalks.md)
-- [Summer Time](./content/SummerTime.md)
-- [Find a Job In Summer](./content/FindJobInSummer.md)
+[War in Ukraine](./content/WarInUkraine.md)
 
 ## Intersting facts
 - [Interesting facts about number 11](./content/InterestingFactsAbout11.md)
@@ -67,6 +59,7 @@ I can help with **Software Architecture** aspects such as
 - [Just Joined a Project With Scrum](./content/JoinedProjectWithScrum.md)
 - [Fishing](./content/Fishing.md)
 - [Software Complexity](./content/SoftwareComplexity.md)
+- [Find a Job In Summer](./content/FindJobInSummer.md)
 
 ## What projects are currently occupying most of my time?
 - I am currently learning a Software Architecture
