@@ -60,6 +60,7 @@ I can help with **Software Architecture** aspects such as
 ## Other
 - [Number Of Interviews](./content/NumberOfInterviews.md)
 - [Which title describes better a real job?](./content/Titles&Jobs.md)
+- [Presents in GlobalLogic for an employer](./content/PresentsInGL.md)
 
 ## Fishing
 - [Fishing, attempt 0](./content/Fishing0.md)
