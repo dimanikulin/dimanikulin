@@ -44,6 +44,7 @@ I can help with **Software Architecture** aspects such as
 - [Who are toxic people?](./content/ToxicPeople.md)
 - [Shahed](./content/Shahed.md)
 - [Miranda](./content/Miranda.md)
+- [Best gift for Ukrainian](./content/GiftForUkrainian.md)
 
 ## What projects are currently occupying most of my time?
 
