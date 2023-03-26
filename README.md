@@ -47,6 +47,8 @@ I can help with **Software Architecture** aspects such as
 - [Best gift for Ukrainian](./content/GiftForUkrainian.md)
 - [What does it mean for me to be online?](./content/BeingOnline.md)
 - [How russians play chess](./content/RussansInGame.md)
+- [Which title describes better a real job?](./content/Titles&Jobs.md)
+
 ## What projects are currently occupying most of my time?
 
 
