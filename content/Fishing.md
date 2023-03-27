@@ -30,6 +30,17 @@ However, I need to reject this nice offer because I do not know what to do with 
 
 <img src="./Images/fishing03.jpg" alt="fishing 03" />
 
+# Attempt 3
+That is probably first time when I reject the high-paying job and WFH mode.
+
+They sent me an email with a job description.
+
+Also they even provided me a password and nice attachment to open so I could start working immediately.
+
+Not this time, sorry guys ;-)
+
+<img src="./Images/fishing04.jpg" alt="fishing 04" />
+
 
 ### Tags
 fishing
