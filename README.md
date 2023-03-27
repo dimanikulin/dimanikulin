@@ -3,6 +3,8 @@ My name is **Dmytro Nikulin** and I have **25** of years of experience as Softwa
 
 ## Certificates
 [Coursera](./content/Coursera.md)
+
+## Publications
 [Publications](./content/Publications.md)
 
 ## Expertise in domains
