@@ -21,5 +21,11 @@
 ### Certificate from Coursera - Identifying Security Vulnerabilities in C/C++ Programming
 <img src="./Images/CourseraCertificate7.jpg" alt="TBD" />
 
+### Certificate from Coursera - Enterprise Architecture
+<img src="./Images/CourseraCertificate8.jpg" alt="TBD" />
+
+### Certificate from Coursera - Embedded Software and Hardware Architecture
+<img src="./Images/CourseraCertificate9.jpg" alt="TBD" />
+
 ### Tags
 Coursera Certificate
