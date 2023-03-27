@@ -12,5 +12,14 @@
 ### Certificate from Coursera - Linux Tools for Developers
 <img src="./Images/CourseraCertificate4.jpg" alt="TBD" />
 
+### Certificate from Coursera - Linux for Developers
+<img src="./Images/CourseraCertificate5.jpg" alt="TBD" />
+
+### Certificate from Coursera - I/O-efficient algorithms
+<img src="./Images/CourseraCertificate6.jpg" alt="TBD" />
+
+### Certificate from Coursera - Identifying Security Vulnerabilities in C/C++ Programming
+<img src="./Images/CourseraCertificate7.jpg" alt="TBD" />
+
 ### Tags
 Coursera Certificate
