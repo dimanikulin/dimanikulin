@@ -6,5 +6,8 @@
 ### Version Control with Git
 <img src="./Images/CourseraCertificate2.jpg" alt="TBD" />
 
+### Structuring Machine Learning Projects
+<img src="./Images/CourseraCertificate3.jpg" alt="TBD" />
+
 ### Tags
 Coursera Certificate
