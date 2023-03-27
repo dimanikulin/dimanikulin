@@ -58,7 +58,7 @@ I can help with **Software Architecture** aspects such as
 - [War in Ukraine](./content/WarInUkraine.md)
 - [Interesting facts](./content/InterestingFacts.md)
 - [Fishing](./content/Fishing.md)
-- [Fishing](./content/Fishing.md)
+- [Just Joined LinkedIn](./content/JustJoinedLinkedIn.md)
 
 ## What projects are currently occupying most of my time?
 - I am currently learning a Software Architecture
