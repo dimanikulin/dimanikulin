@@ -60,5 +60,18 @@ Any other options I forgot to mention?
 
 <img src="./Images/shaheds.jpg" alt="shaheds.jpg" />
 
+## Якби у Вас була можливість, то що б Ви запитали у Тараса Чмута?
+
+П.С.
+Наступні питання не пропонувати:
+
+- Що там по русі?;
+
+- Що було в чорному ящику Кирила Буданова?
+
+- Коли ми отримаємо Ф-16?
+
+<img src="./Images/QuestionsToTarasChmut.png" />
+
 ### Tags
 armukrainenow toxicpeople staywithukraine stoprussia stopwar russiaterroriststate warinukraine ukrainewar ukraine
