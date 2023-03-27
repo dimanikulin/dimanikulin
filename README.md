@@ -2,8 +2,8 @@
 My name is **Dmytro Nikulin** and I have **25** of years of experience as Software Developer/Lead.
 
 ## Certificates
-[Coursera](./content/CertsCoursera.md)
-[Other](./content/CertsOther.md)
+- [Coursera](./content/CertsCoursera.md)
+- [Other](./content/CertsOther.md)
 
 ## Publications
 [Publications](./content/Publications.md)
