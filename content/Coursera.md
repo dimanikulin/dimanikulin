@@ -9,5 +9,8 @@
 ### Structuring Machine Learning Projects
 <img src="./Images/CourseraCertificate3.jpg" alt="TBD" />
 
+### Certificate from Coursera - Linux Tools for Developers
+<img src="./Images/CourseraCertificate4.jpg" alt="TBD" />
+
 ### Tags
 Coursera Certificate
