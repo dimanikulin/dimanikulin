@@ -1,6 +1,8 @@
 ## Other Certificates
 
-### English for STEM
+### Prometheus - English for STEM
+Issued Apr 2020, Credential ID 4d46d985b02647d0b457f0c8d183ab99
+
 <img src="./Images/certStem.jpg" alt="TBD" />
 
 ### Certificate of publication
