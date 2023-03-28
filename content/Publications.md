@@ -1,5 +1,5 @@
 ## Publications
-So far I have 3 publications:
+So far I have following publications:
 
 ### Exploring the World of Multimedia Information Retrieval Systems: A Comprehensive Guide
 The article provides an introduction to Multimedia Information Retrieval (MIR) systems, which are designed to search and retrieve information from multimedia sources like images, audio, and video. 
