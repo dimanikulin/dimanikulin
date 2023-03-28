@@ -20,7 +20,6 @@ My name is **Dmytro Nikulin** and I have **25** of years of experience as Softwa
 | EPAM SCHOOL of Digital Engineering        | October 2019   | June 2021  | Software Engineering |  Kiev, Ukraine   | 90 from 100    | MSDP in Software Engineering |
 | Kharkiv State Academy of Railway Transport| September 1996 | June 2001  | Math, electrics      |  Donetsk, Ukraine| 4.75 from 5    | Specialist |
 
-
 ## Certificates
 - [Coursera](./content/CertsCoursera.md)
 - [EPAM](./content/CertsEPAM.md)
@@ -51,6 +50,10 @@ In addition, I can help with creating the system to **collect the data** from **
 - **DB**: SQLlite, Oracle, MS SQL
 - **Debugging**: GDB
 
+## What projects are currently occupying most of my time?
+- I am currently learning a Software Architecture
+- I am looking to collaborate on helping to develop [my product](https://github.com/dimanikulin/fva)
+
 ## Interesting domains
 Automotive, Manufacturing, Logistic, Security 
 
@@ -71,7 +74,6 @@ I can help with **Software Architecture** aspects such as
 - choosing the **cloud services** for **MOM**;
 - choosing the **caches**.
 
-
 ## Communication 
 - [We need more Messengers!](./content/MoreMessengers.md)
 - [Miranda](./content/Miranda.md)
@@ -90,8 +92,3 @@ I can help with **Software Architecture** aspects such as
 - [Interesting facts](./content/InterestingFacts.md)
 - [Fishing](./content/Fishing.md)
 - [Just Joined LinkedIn](./content/JustJoinedLinkedIn.md)
-
-## What projects are currently occupying most of my time?
-- I am currently learning a Software Architecture
-- I am looking to collaborate on helping to develop my product
-- How to reach me: Telegram and Twitter.
