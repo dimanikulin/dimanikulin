@@ -13,7 +13,7 @@ My name is **Dmytro Nikulin** and I have **25** of years of experience as Softwa
 | MaxBill                | Apr 2006 | May 2008 | 2 yrs 2 mos  | Donetsk, Ukraine | Software Developer |
 | ISC of Donetsk railway | Aug 2001 | Apr 2006 | 4 yrs 9 mos  | Donetsk, Ukraine | Software Developer |
 
-Education 
+## Education 
 | Name                                      | Start          | End        |  Major Subjects      | Place            | Marks Obtained | Degree                 |
 | ------------------------------------------|----------------|------------| ---------------------| -----------------|----------------|:----------------------:|
 | [NaUKMA](https://www.ukma.edu.ua/)        | October 2019   | June 2021  | Software Engineering |  Kiev, Ukraine   | 90 from 100    | MSDP in Software Engineering |
