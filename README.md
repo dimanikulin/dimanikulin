@@ -28,9 +28,9 @@ My name is **Dmytro Nikulin** and I have **25** of years of experience as Softwa
 - [Other](./content/CertsOther.md)
 
 ## Recommendations
-- Given by Igor Odnovorov(Founder, Chief Technology Officer at e-Share (aka nCrypted Cloud, LLC)Founder, Chief Technology Officer at e-Share (aka nCrypted Cloud, LLC))
+- Given by Igor Odnovorov(Founder, Chief Technology Officer at e-Share (aka nCrypted Cloud, LLC))
 - March 23, 2015, Igor worked with Dmytro but they were at different companies
-Dmitry is a skilled and dedicated developer. He will be a good asset to any company he decided to be part of.
+- Dmitry is a skilled and dedicated developer. He will be a good asset to any company he decided to be part of.
 
 ## Publications
 [Publications](./content/Publications.md)
