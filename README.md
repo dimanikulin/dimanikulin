@@ -74,6 +74,17 @@ I can help with **Software Architecture** aspects such as
 - choosing the **cloud services** for **MOM**;
 - choosing the **caches**.
 
+## Honors & awards
+- Top Interviewer in Kyiv for C/C++, Issued by GlobalLogic, Jan 2023
+- Top Interviewer in Kyiv for C/C++, Issued by GlobalLogic, Jan 2022
+- Top Student, Issued by EPAM Master's Degree Program in Software Engineering, Jun 2021
+- Top Student, Issued by Kharkiv State Academy of Railway Transport, Jul 2001
+
+## Languages 
+- English, Limited working proficiency
+- Russian, Native or bilingual proficiency
+- Ukrainian, Native or bilingual proficiency
+
 ## Communication 
 - [We need more Messengers!](./content/MoreMessengers.md)
 - [Miranda](./content/Miranda.md)
