@@ -13,7 +13,7 @@ Published on Feb 20, 2023, at [DOU.eu](https://dou.eu/community/posts/what-are-m
 ### Perspective directions for the development of science and practice
 AUTOMATED APPROACH FOR THE IMPORTING THE NEW PHOTO SET TO PRIVATE PHOTO ALBUM TO MAKE IT MORE SEARCHABLE 
 
-Published on Jun 8, 2020, at [International Science Group] (https://isg-konf.com/perspective-directions-for-the-development-of-science-and-practice/	)
+Published on Jun 8, 2020, at [International Science Group](https://isg-konf.com/perspective-directions-for-the-development-of-science-and-practice/	)
 
 
 ### AUTOMATED APPROACH FOR THE IMPORTING THE NEW PHOTO SET TO PRIVATE PHOTO ALBUM TO MAKE IT MORE SEARCHABLE
