@@ -1,6 +1,17 @@
 ## About Me
 My name is **Dmytro Nikulin** and I have **25** of years of experience as Software Developer/Lead.
 
+## Experience
+| Name                 | Start           | End           |  Period           | Place        | Position      |
+| ---------------------|-----------------|---------------| ------------------| ------------ |:-------------:|
+| GlobalLogic          | May 2018        | Present       | 4 yrs 11 mos      |Kiev, Ukraine | Lead Software Engineer |
+| GlobalLogic          | Mar 2017        | May 2018      | 1 yr 3 mos      |Kiev, Ukraine | Software Developer |
+| Mobisoft Ltd          | Apr 2015        | Sep 2016       | 1 yr 6 mos      |Kiev, Ukraine | Software Engineer |
+| Metacom Company          | Apr 2013        | Mar 2015      | 2 yrs      |Lviv Region | Software Developer |
+
+
+
+                 
 ## Certificates
 - [Coursera](./content/CertsCoursera.md)
 - [EPAM](./content/CertsEPAM.md)
