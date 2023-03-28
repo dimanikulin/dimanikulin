@@ -24,6 +24,7 @@ Education
 ## Certificates
 - [Coursera](./content/CertsCoursera.md)
 - [EPAM](./content/CertsEPAM.md)
+- [Cisco](./content/CertsCisco.md)
 - [Other](./content/CertsOther.md)
 
 ## Publications
