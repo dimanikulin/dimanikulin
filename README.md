@@ -12,7 +12,15 @@ My name is **Dmytro Nikulin** and I have **25** of years of experience as Softwa
 | Biruza Software        | Jun 2008 | Apr 2012 | 3 yrs 11 mos | Donetsk, Ukraine | Software Developer |
 | MaxBill                | Apr 2006 | May 2008 | 2 yrs 2 mos  | Donetsk, Ukraine | Software Developer |
 | ISC of Donetsk railway | Aug 2001 | Apr 2006 | 4 yrs 9 mos  | Donetsk, Ukraine | Software Developer |
-                 
+
+Education 
+| Name                                      | Start          | End        |  Major Subjects      | Place            | Marks Obtained | Degree                 |
+| ------------------------------------------|----------------|------------| ---------------------| -----------------|----------------|:----------------------:|
+| [NaUKMA](https://www.ukma.edu.ua/)        | October 2019   | June 2021  | Software Engineering |  Kiev, Ukraine   | 90 from 100    | MSDP in Software Engineering |
+| EPAM SCHOOL of Digital Engineering        | October 2019   | June 2021  | Software Engineering |  Kiev, Ukraine   | 90 from 100    | MSDP in Software Engineering |
+| Kharkiv State Academy of Railway Transport| September 1996 | June 2001  | Math, electrics      |  Donetsk, Ukraine| 4.75 from 5    | Specialist |
+
+
 ## Certificates
 - [Coursera](./content/CertsCoursera.md)
 - [EPAM](./content/CertsEPAM.md)
