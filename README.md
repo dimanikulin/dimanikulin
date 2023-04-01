@@ -2,16 +2,16 @@
 My name is **Dmytro Nikulin** and I have **25** of years of experience as Software Developer/Lead.
 
 ## Experience
-| Name                   | Period                           | Place            | Position               |
-| -----------------------|----------------------------------| ---------------- |:----------------------:|
-| GlobalLogic            | May 2018 - Present(4 yrs 11 mos) | Kiev, Ukraine    | Lead Software Engineer |
-| GlobalLogic            | Mar 2017 - May 2018(1 yr 3 mos)  | Kiev, Ukraine    | Software Developer |
-| Mobisoft Ltd           | Apr 2015 - Sep 2016(1 yr 6 mos)  | Kiev, Ukraine    | Software Developer |
-| Metacom Company        | Apr 2013 - Mar 2015(2 yrs)       | Lviv Region      | Software Developer |
-| LogNet Systems         | Apr 2012 - Apr 2013(1 yr)        | Donetsk, Ukraine | Software Developer |
-| Biruza Software        | Jun 2008 - Apr 2012(3 yrs 11 mos)| Donetsk, Ukraine | Software Developer |
-| MaxBill                | Apr 2006 - May 2008(2 yrs 2 mos) | Donetsk, Ukraine | Software Developer |
-| ISC of Donetsk railway | Aug 2001 - Apr 2006(4 yrs 9 mos) | Donetsk, Ukraine | Software Developer |
+| Name                   | Period                           | Place   | Position               |
+| -----------------------|----------------------------------| --------|:----------------------:|
+| GlobalLogic            | May 2018 - Present(4 yrs 11 mos) | Kyiv    | Lead Software Engineer |
+| GlobalLogic            | Mar 2017 - May 2018(1 yr 3 mos)  | Kyiv    | Software Developer |
+| Mobisoft Ltd           | Apr 2015 - Sep 2016(1 yr 6 mos)  | Kyiv    | Software Developer |
+| Metacom Company        | Apr 2013 - Mar 2015(2 yrs)       | Lviv    | Software Developer |
+| LogNet Systems         | Apr 2012 - Apr 2013(1 yr)        | Donetsk | Software Developer |
+| Biruza Software        | Jun 2008 - Apr 2012(3 yrs 11 mos)| Donetsk | Software Developer |
+| MaxBill                | Apr 2006 - May 2008(2 yrs 2 mos) | Donetsk | Software Developer |
+| ISC of Donetsk railway | Aug 2001 - Apr 2006(4 yrs 9 mos) | Donetsk | Software Developer |
 
 ## Education 
 | Name                                      | Start          | End        |  Major Subjects      | Place            | Marks Obtained | Degree                 |
