@@ -31,9 +31,11 @@ My name is **Dmytro Nikulin** and I have **25** of years of experience as Softwa
 - [Other](./content/CertsOther.md)
 
 ## Recommendations
-- Given by Igor Odnovorov(Founder, Chief Technology Officer at e-Share (aka nCrypted Cloud, LLC))
-- March 23, 2015, Igor worked with Dmytro but they were at different companies
-- Dmitry is a skilled and dedicated developer. He will be a good asset to any company he decided to be part of.
+Given by Igor Odnovorov(Founder, Chief Technology Officer at e-Share (aka nCrypted Cloud, LLC))
+</br>
+March 23, 2015, Igor worked with Dmytro but they were at different companies
+</br>
+Dmitry is a skilled and dedicated developer. He will be a good asset to any company he decided to be part of.
 
 ## Publications
 [Publications](./content/Publications.md)
@@ -53,7 +55,10 @@ In addition, I can help with creating the system to **collect the data** from **
 - I am looking to collaborate on helping to develop [my product](https://github.com/dimanikulin/fva)
 
 ## Interesting domains
-Automotive, Manufacturing, Logistic, Security 
+- Automotive;
+- Manufacturing;
+- Logistic;
+- Security. 
 
 ## Interesting technologies
 Cloud, IoT, Data Platforms, Devops, Architecture
