@@ -85,6 +85,10 @@ I can help with **Software Architecture** aspects such as
 - Russian, Native or bilingual proficiency
 - Ukrainian, Native or bilingual proficiency
 
+## Visa
+
+## Trips
+
 ## Communication 
 - [We need more Messengers!](./content/MoreMessengers.md)
 - [Miranda](./content/Miranda.md)
