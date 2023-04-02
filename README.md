@@ -79,21 +79,22 @@ I can help with **Software Architecture** aspects such as
 - Top Student, Issued by Kharkiv State Academy of Railway Transport, Jul 2001
 
 ## Languages 
-- English, Limited working proficiency
-- Russian, Native or bilingual proficiency
-- Ukrainian, Native or bilingual proficiency
+|Language |Level Written|Spoken Level| 
+|---------|-------------|:----------:|
+|English  |Expert       |Advanced    | 
+|Russian  |Advanced     |Advanced    | 
+|Ukrainian|Advanced     |Advanced    |
 
 ## Visa
 USA, B-1/B-2, 11-Apr-2028
 
 ## Trips
-
-| Place    | Duration             |  Purpose         | 
-| ---------|----------------------|:----------------:|
-| Boston   | August 2019, 1 month | R&D              | 
-| Boston   | April 2018, 1 week   | New project start| 
-| Jerusalem| June 2017, 1 month   | R&D              |
-| Malta    | March 2007, 1 month  | system implementation and technical support  |
+|Place    |Duration            |  Purpose         | 
+|---------|--------------------|:----------------:|
+|Boston   |August 2019, 1 month|R&D               | 
+|Boston   |April 2018, 1 week  |New project start | 
+|Jerusalem|June 2017, 1 month  |R&D               |
+|Malta    |March 2007, 1 month |System implementation and technical support  |
  
 ## My posts in social networks
 - [Communication](./content/Communication.md)
