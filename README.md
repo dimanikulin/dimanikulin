@@ -2,16 +2,16 @@
 My name is **Dmytro Nikulin** and I have **25** of years of experience as Software Developer/Lead.
 
 ## Experience
-|Company               |Place  |Duration         | Role         |Project Description   |Responsibilities            |Operation Systems                  |Languages                            |Libraries&FrameWorks                                   |RDBMS  |IDE                       |Technologies|
-|----------------------|-------|-----------------|--------------|--------------------  |----------------------------|-----------------------------------|-------------------------------------|-------------------------------------------------------|-------|--------------------------|:----------:|
-|GlobalLogic           |Kyiv   |May 2018-Present | Tech Lead    |Huge medical product  |Development and verification|Windows 10;Ubuntu 16,20;QNX 6.6,7.1|C++11-17;Python 3;SQL;PowerShell;Bash|QT 5.8;GTest;boost;CMake;RTI DDS;flatbuf;Libcurl;Squish|SQLlite|QT Creator; MS Studio Code||
-|GlobalLogic           |Kyiv   |Mar 2017-May 2018| SW Developer |TV network company prj|Development and maintenance |Windows 10                         |C++03;PLSQL                          |Corba;STL                                              |Oracle |Embarcadere               ||
-|Mobisoft Ltd          |Kyiv   |Apr 2015-Sep 2016| SW Developer |Data gathering system |Development and maintenance |Windows XP, 7-10                   |C++11; C; SQL; Java; Python          |STL; Poco; Boost; MadCodHook; Komodia, Wix             |SQLlite|MSVS 2010, 2013;          | Win32 API hooks, Signing products, Windows login customization|
-|Metacom Company       |Lviv   |Apr 2013-Mar 2015| SW Developer | |
-|LogNet Systems        |Donetsk|Apr 2012-Apr 2013| SW Developer | |
-|Biruza Software       |Donetsk|Jun 2008-Apr 2012| SW Developer | |
-|MaxBill               |Donetsk|Apr 2006-May 2008| SW Developer | |
-|ISC of Donetsk railway|Donetsk|Aug 2001-Apr 2006| SW Developer | |
+|Company            |Place  |Duration         |Role        |Project Description   |Responsibilities            |Operation Systems                  |Languages                            |Libraries&FrameWorks                                   |RDBMS  |IDE                       |Technologies|
+|-------------------|-------|-----------------|------------|--------------------  |----------------------------|-----------------------------------|-------------------------------------|-------------------------------------------------------|-------|--------------------------|:----------:|
+|GlobalLogic        |Kyiv   |May 2018-Present |Tech Lead   |Huge medical product  |Development and verification|Windows 10;Ubuntu 16,20;QNX 6.6,7.1|C++11-17;Python 3;SQL;PowerShell;Bash|QT 5.8;GTest;boost;CMake;RTI DDS;flatbuf;Libcurl;Squish|SQLlite|QT Creator; MS Studio Code||
+|GlobalLogic        |Kyiv   |Mar 2017-May 2018|SW Developer|TV network company prj|Development and maintenance |Windows 10                         |C++03;PLSQL                          |Corba;STL                                              |Oracle |Embarcadere               ||
+|Mobisoft Ltd       |Kyiv   |Apr 2015-Sep 2016|SW Developer|Data gathering system |Development and maintenance |Windows XP, 7-10                   |C++11; C; SQL; Java; Python          |STL; Poco; Boost; MadCodHook; Komodia, Wix             |SQLlite|MSVS 2010, 2013;          | Win32 API hooks, Signing products, Windows login customization|
+|Metacom Company    |Lviv   |Apr 2013-Mar 2015|SW Developer| |
+|LogNet Systems     |Donetsk|Apr 2012-Apr 2013|SW Developer| |
+|Biruza Software    |Donetsk|Jun 2008-Apr 2012|SW Developer| |
+|MaxBill            |Donetsk|Apr 2006-May 2008|SW Developer| |
+|Donetsk railway ISC|Donetsk|Aug 2001-Apr 2006|SW Developer| |
 
 ## Education 
 | Name                                      | Place  | Duration            |  Major Subjects      | Marks Obtained | Degree                 |
