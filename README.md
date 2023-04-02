@@ -16,6 +16,7 @@ My name is **Dmytro Nikulin** and I have **25** of years of experience as Softwa
 |Railway ISC      |Donetsk|Aug 2001-Apr 2006|SW Developer|Railway systems products|Development and maintenance|Win2000;WinXP;NTTSE4.0;2000 Server|C++03; XML; XSL; SQL; Jscript        |MFC, STL, Stingray Objective Studio                    |Oracle |MSVS 6,7| COM |
 |Railway Institute|Donetsk|1998-Apr 2007    |SW Developer|Testing knowledge systems|Development and maintenance|MS Windows NT/2000/XP            |Pascal;C++03;XML;HTML; Jscript       |MFC, STL, Xerces                                       |       |Delphi, MSVS 6|ActiveX|
 |Trubnikov Enterprise|Donetsk|1999–2005     |IT guy      ||Technical support of OS and SW                    |MS DOS; Windows 9x; NTTSE4.0; 2000 server|Visual Basic                   |                                                     |MS Access|||
+
 ## Education 
 | Name                                      | Place  | Duration            |  Major Subjects      | Marks Obtained | Degree                 |
 | ------------------------------------------| -------|---------------------| ---------------------|----------------|:----------------------:|
@@ -46,12 +47,6 @@ I have deep understanding of **Microsoft OS** programming and big expereince wit
 I can help with **Software Verification Testing**(Unit and Integration testing) of medical devices with **GTest and Squish**; use of **QT** to create **Cross-platform** and **Multi-language UI**, **MS OS customization**, **Win32 API hooking** and **making MS OS more secure**.
 
 In addition, I can help with creating the system to **collect the data** from **mobile** devices. 
-
-- **Languages** : C++11/14, C, PowerShell, XML/XSLT, PL-SQL, C#, SQL, bash, Jscript, UML
-- **Libs** :STL, boost, DDS, flatbuf, Poco, MadCodHook, Komodia, QT, ACE, Cocoa, RestKit, libsyncml, ASP.NET, GSOAP, MFC, Stingray Objective Studio, COM
-- **Build** :CMake, Wix, Signing products, MSI, MsBuild
-- **DB**: SQLlite, Oracle, MS SQL
-- **Debugging**: GDB
 
 ## What projects are currently occupying most of my time?
 - I am currently learning a Software Architecture
