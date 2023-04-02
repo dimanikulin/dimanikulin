@@ -41,7 +41,14 @@ Dmitry is a skilled and dedicated developer. He will be a good asset to any comp
 [Publications](./content/Publications.md)
 
 ## Expertise in domains
-Billing systems, Embedded, Mobile, Media, Healthcare, Communication, Geoinformatics, Railways
+- Billing systems;
+- Embedded;
+- Mobile;
+- Media;
+- Healthcare;
+- Communication;
+- Geoinformatics;
+- Railways.
 
 ## Expertise in technologies
 I have deep understanding of **Microsoft OS** programming and big experience with cross-platform programming.
