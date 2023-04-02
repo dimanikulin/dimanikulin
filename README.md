@@ -14,6 +14,7 @@ My name is **Dmytro Nikulin** and I have **25** of years of experience as Softwa
 |Kvisot             |Donetsk|May 2008-Jul 2008|SW Developer|Commodity directory   |Development                 |MS XP; MS 2003 Server              |Pascal;SQL;Jscript;HTML;XML          |                                                     |MS Access|Delphi Code Gear 2007    ||
 |MaxBill            |Donetsk|Apr 2006-May 2008|SW Developer|Billing systems       |Development and maintenance |WinXP; MS 2003 Server; AIX 6       |C++03; XM; PL-SQL; bash              |STL, ACE, GSOAP                               |Oracle, SQL lite|MSVS 2005|
 |Donetsk railway ISC|Donetsk|Aug 2001-Apr 2006|SW Developer|Railway systems products|Development and maintenance|Win2000;WinXP;NTTSE4.0;2000 Server|C++03; XML; XSL; SQL; Jscript        |MFC, STL, Stingray Objective Studio                    |Oracle |MSVS 6,7| COM |
+|
 
 ## Education 
 | Name                                      | Place  | Duration            |  Major Subjects      | Marks Obtained | Degree                 |
@@ -88,6 +89,7 @@ I can help with **Software Architecture** aspects such as
 - Ukrainian, Native or bilingual proficiency
 
 ## Visa
+USA, B-1/B-2, 11-Apr-2028
 
 ## Trips
 
