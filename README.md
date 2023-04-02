@@ -2,9 +2,9 @@
 My name is **Dmytro Nikulin** and I have **25** of years of experience as Software Developer/Lead.
 
 ## Experience
-|Company               |Place  |Duration         | Role         |Project Description|Responsibilities|Operation Systems|Languages|Libraries&FrameWorks|RDBMS |IDE|Technologies|
-|----------------------|-------|-----------------|:------------:|-------------------|----------------|-----------------|---------|--------------------|------|---|:----------:|
-|GlobalLogic           |Kyiv   |May 2018-Present | Tech Lead    | |
+|Company               |Place  |Duration         | Role         |Project Description |Responsibilities|Operation Systems|Languages|Libraries&FrameWorks|RDBMS |IDE|Technologies|
+|----------------------|-------|-----------------|--------------|--------------------|----------------|-----------------|---------|--------------------|------|---|:----------:|
+|GlobalLogic           |Kyiv   |May 2018-Present | Tech Lead    |Huge medical product|
 |GlobalLogic           |Kyiv   |Mar 2017-May 2018| SW Developer | |
 |Mobisoft Ltd          |Kyiv   |Apr 2015-Sep 2016| SW Developer | |
 |Metacom Company       |Lviv   |Apr 2013-Mar 2015| SW Developer | |
