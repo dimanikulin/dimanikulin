@@ -14,8 +14,8 @@ My name is **Dmytro Nikulin** and I have **25** of years of experience as Softwa
 |Kvisot           |Donetsk|May 2008-Jul 2008|SW Developer|Commodity directory   |Development                 |MS XP; MS 2003 Server              |Pascal;SQL;Jscript;HTML;XML          |                                                     |MS Access|Delphi Code Gear 2007    ||
 |MaxBill          |Donetsk|Apr 2006-May 2008|SW Developer|Billing systems       |Development and maintenance |WinXP; MS 2003 Server; AIX 6       |C++03; XM; PL-SQL; bash              |STL, ACE, GSOAP                               |Oracle, SQL lite|MSVS 2005|
 |Railway ISC      |Donetsk|Aug 2001-Apr 2006|SW Developer|Railway systems products|Development and maintenance|Win2000;WinXP;NTTSE4.0;2000 Server|C++03; XML; XSL; SQL; Jscript        |MFC, STL, Stingray Objective Studio                    |Oracle |MSVS 6,7| COM |
-|Railway Institute|Donetsk|2001     Apr 2007|SW Developer|Testing knowledge systems|Development and maintenance|MS Windows NT/2000/XP            |Pascal;C++03;XML;HTML; Jscript       |MFC, STL, Xerces                                       |       |Delphi, MSVS 6|ActiveX|
-
+|Railway Institute|Donetsk|1998-Apr 2007    |SW Developer|Testing knowledge systems|Development and maintenance|MS Windows NT/2000/XP            |Pascal;C++03;XML;HTML; Jscript       |MFC, STL, Xerces                                       |       |Delphi, MSVS 6|ActiveX|
+|Trubnikov Enterprise|Donetsk|1999–2005     |IT guy      ||Technical support of OS and SW                    |MS DOS; Windows 9x; NTTSE4.0; 2000 server|Visual Basic                   |                                                     |MS Access|||
 ## Education 
 | Name                                      | Place  | Duration            |  Major Subjects      | Marks Obtained | Degree                 |
 | ------------------------------------------| -------|---------------------| ---------------------|----------------|:----------------------:|
