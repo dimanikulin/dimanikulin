@@ -14,11 +14,11 @@ My name is **Dmytro Nikulin** and I have **25** of years of experience as Softwa
 | ISC of Donetsk railway  | Donetsk | Aug 2001 - Apr 2006(4 yrs 9 mos) | Software Developer |
 
 ## Education 
-| Name                                      | Start          | End        |  Major Subjects      | Place            | Marks Obtained | Degree                 |
-| ------------------------------------------|----------------|------------| ---------------------| -----------------|----------------|:----------------------:|
-| [NaUKMA](https://www.ukma.edu.ua/)        | October 2019   | June 2021  | Software Engineering |  Kiev, Ukraine   | 90 from 100    | MSDP in Software Engineering |
-| EPAM SCHOOL of Digital Engineering        | October 2019   | June 2021  | Software Engineering |  Kiev, Ukraine   | 90 from 100    | MSDP in Software Engineering |
-| Kharkiv State Academy of Railway Transport| September 1996 | June 2001  | Math, electrics      |  Donetsk, Ukraine| 4.75 from 5    | Specialist |
+| Name                                      | Place  | Duration            |  Major Subjects      | Marks Obtained | Degree                 |
+| ------------------------------------------| -------|---------------------| ---------------------|----------------|:----------------------:|
+| [NaUKMA](https://www.ukma.edu.ua/)        | Kyiv   | Oct 2019-June 2021  | Software Engineering | 90 from 100    | MSDP in Software Engineering |
+| EPAM SCHOOL of Digital Engineering        | Kyiv   | Oct 2019-June 2021  | Software Engineering | 90 from 100    | MSDP in Software Engineering |
+| Kharkiv State Academy of Railway Transport| Donetsk| Sept 1996-June 2001 | Math, electrics      | 4.75 from 5    | Specialist |
 
 ## Certificates
 - [Coursera](./content/CertsCoursera.md)
