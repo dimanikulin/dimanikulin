@@ -73,10 +73,13 @@ I can help with **Software Architecture** aspects such as
 - choosing the **caches**.
 
 ## Honors & awards
-- Top Interviewer in Kyiv for C/C++, Issued by GlobalLogic, Jan 2023
-- Top Interviewer in Kyiv for C/C++, Issued by GlobalLogic, Jan 2022
-- Top Student, Issued by EPAM Master's Degree Program in Software Engineering, Jun 2021
-- Top Student, Issued by Kharkiv State Academy of Railway Transport, Jul 2001
+|Name                             |Issued by                                 |Date    | 
+|---------------------------------|------------------------------------------|:------:|
+|Top Interviewer in Kyiv for C/C++|GlobalLogic                               |Jan 2023| 
+|Top Interviewer in Kyiv for C/C++|GlobalLogic                               |Jan 2022| 
+|Top Student                      |EPAM Master's Degree Program              |Jun 2021|
+|Top Student                      |Kharkiv State Academy of Railway Transport|Jul 2001|
+
 
 ## Languages 
 |Language |Level Written|Spoken Level| 
