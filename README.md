@@ -87,11 +87,14 @@ I can help with **Software Architecture** aspects such as
 USA, B-1/B-2, 11-Apr-2028
 
 ## Trips
-- August 2019, Boston, R&D 
-- April 2018, Boston, New project start
-- June 2017, Jerusalem, New project start
-- March 2007, Malta, system implementation and technical support
 
+| Place    | Duration             |  Purpose         | 
+| ---------|----------------------|:----------------:|
+| Boston   | August 2019, 1 month | R&D              | 
+| Boston   | April 2018, 1 week   | New project start| 
+| Jerusalem| June 2017, 1 month   | R&D              |
+| Malta    | March 2007, 1 month  | system implementation and technical support  |
+ 
 ## My posts in social networks
 - [Communication](./content/Communication.md)
 - [Active Listening](./content/ActiveListening.md)
