@@ -92,13 +92,9 @@ USA, B-1/B-2, 11-Apr-2028
 - June 2017, Jerusalem, New project start
 - March 2007, Malta, system implementation and technical support
 
-## Communication 
-- [We need more Messengers!](./content/MoreMessengers.md)
-- [Miranda](./content/Miranda.md)
-- [What does it mean for me to be online?](./content/BeingOnline.md)
+## My posts in social networks
+- [Communication](./content/Communication.md)
 - [Active Listening](./content/ActiveListening.md)
-
-## Other
 - [Number Of Interviews](./content/NumberOfInterviews.md)
 - [Which title describes better a real job?](./content/Titles&Jobs.md)
 - [Presents in GlobalLogic for an employer](./content/PresentsInGL.md)
