@@ -2,16 +2,16 @@
 My name is **Dmytro Nikulin** and I have **25** of years of experience as Software Developer/Lead.
 
 ## Experience
-| Company                 | Place   | Duration                         | Role               |
-| ------------------------| --------|----------------------------------|:----------------------:|
-| GlobalLogic             | Kyiv    | May 2018 - Present(4 yrs 11 mos) | Lead Software Engineer |
-| GlobalLogic             | Kyiv    | Mar 2017 - May 2018(1 yr 3 mos)  | Software Developer |
-| Mobisoft Ltd            | Kyiv    | Apr 2015 - Sep 2016(1 yr 6 mos)  | Software Developer |
-| Metacom Company         | Lviv    | Apr 2013 - Mar 2015(2 yrs)       | Software Developer |
-| LogNet Systems          | Donetsk | Apr 2012 - Apr 2013(1 yr)        | Software Developer |
-| Biruza Software         | Donetsk | Jun 2008 - Apr 2012(3 yrs 11 mos)| Software Developer |
-| MaxBill                 | Donetsk | Apr 2006 - May 2008(2 yrs 2 mos) | Software Developer |
-| ISC of Donetsk railway  | Donetsk | Aug 2001 - Apr 2006(4 yrs 9 mos) | Software Developer |
+| Company                 | Place   | Duration                       | Role               |
+| ------------------------| --------|--------------------------------|:------------------:|
+| GlobalLogic             | Kyiv    | May 2018-Present(4 yrs 11 mos) | Lead Software Engineer |
+| GlobalLogic             | Kyiv    | Mar 2017-May 2018(1 yr 3 mos)  | Software Developer |
+| Mobisoft Ltd            | Kyiv    | Apr 2015-Sep 2016(1 yr 6 mos)  | Software Developer |
+| Metacom Company         | Lviv    | Apr 2013-Mar 2015(2 yrs)       | Software Developer |
+| LogNet Systems          | Donetsk | Apr 2012-Apr 2013(1 yr)        | Software Developer |
+| Biruza Software         | Donetsk | Jun 2008-Apr 2012(3 yrs 11 mos)| Software Developer |
+| MaxBill                 | Donetsk | Apr 2006-May 2008(2 yrs 2 mos) | Software Developer |
+| ISC of Donetsk railway  | Donetsk | Aug 2001-Apr 2006(4 yrs 9 mos) | Software Developer |
 
 ## Education 
 | Name                                      | Place  | Duration            |  Major Subjects      | Marks Obtained | Degree                 |
