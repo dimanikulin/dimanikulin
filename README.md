@@ -9,7 +9,7 @@ My name is **Dmytro Nikulin** and I have **25** of years of experience as Softwa
 |Mobisoft Ltd       |Kyiv   |Apr 2015-Sep 2016|SW Developer|Data gathering system |Development and maintenance |Windows XP, 7-10                   |C++11; C; SQL; Java; Python          |STL; Poco; Boost; MadCodHook; Komodia, Wix             |SQLlite|MSVS 2010, 2013;         |Win32 API hooks, Signing products, Windows login customization|
 |Metacom Company    |Lviv   |Apr 2013-Mar 2015|SW Developer|Cloud data security system|Development of SW       |Windows XP, 7,8                    |C++03; XML                           |STL; QT 4.8                                            |       |MSVS 2010                |building package using MSI and WiX|
 |LogNet Systems     |Donetsk|Apr 2012-Apr 2013|SW Developer|Billing systems       |Development and maintenance |WinXP; CentOs                      |C++03, XML, PL-SQL, makefile         |STL, ACE                                               |Oracle |MSVS 2010,GDB            ||
-|Biruza Software    |Donetsk|Jun 2008-Apr 2012|SW Developer| |
+|Biruza Software    |Donetsk|Jun 2008-Apr 2012|SW Developer|Devices management    |Development                 |WinXP;Mac Lion; iOS 4,5;Symbian 6; UIQ 3; Windows Mobile 4-7|C++03,XML;MS SQL;Objective-C|STL;MFC;ACE;boost;CMake;Cocoa,RestKit|MS SQl,SQLlite|MSVS 2007,XCode 4|JSON,HTTP|
 |MaxBill            |Donetsk|Apr 2006-May 2008|SW Developer|Billing systems       |
 |Donetsk railway ISC|Donetsk|Aug 2001-Apr 2006|SW Developer| |
 
