@@ -2,16 +2,16 @@
 My name is **Dmytro Nikulin** and I have **25** of years of experience as Software Developer/Lead.
 
 ## Experience
-|Company               |Place  |Duration                       | Role         |Project Description|Responsibilities|Operation Systems|Languages|Libraries&FrameWorks|RDBMS |IDE|Technologies|
-|----------------------|-------|-------------------------------|:------------:|-------------------|----------------|-----------------|---------|--------------------|------|---|:----------:|
-|GlobalLogic           |Kyiv   |May 2018-Present(4 yrs 11 mos) | Tech Lead    | |
-|GlobalLogic           |Kyiv   |Mar 2017-May 2018(1 yr 3 mos)  | SW Developer | |
-|Mobisoft Ltd          |Kyiv   |Apr 2015-Sep 2016(1 yr 6 mos)  | SW Developer | |
-|Metacom Company       |Lviv   |Apr 2013-Mar 2015(2 yrs)       | SW Developer | |
-|LogNet Systems        |Donetsk|Apr 2012-Apr 2013(1 yr)        | SW Developer | |
-|Biruza Software       |Donetsk|Jun 2008-Apr 2012(3 yrs 11 mos)| SW Developer | |
-|MaxBill               |Donetsk|Apr 2006-May 2008(2 yrs 2 mos) | SW Developer | |
-|ISC of Donetsk railway|Donetsk|Aug 2001-Apr 2006(4 yrs 9 mos) | SW Developer | |
+|Company               |Place  |Duration         | Role         |Project Description|Responsibilities|Operation Systems|Languages|Libraries&FrameWorks|RDBMS |IDE|Technologies|
+|----------------------|-------|-----------------|:------------:|-------------------|----------------|-----------------|---------|--------------------|------|---|:----------:|
+|GlobalLogic           |Kyiv   |May 2018-Present | Tech Lead    | |
+|GlobalLogic           |Kyiv   |Mar 2017-May 2018| SW Developer | |
+|Mobisoft Ltd          |Kyiv   |Apr 2015-Sep 2016| SW Developer | |
+|Metacom Company       |Lviv   |Apr 2013-Mar 2015| SW Developer | |
+|LogNet Systems        |Donetsk|Apr 2012-Apr 2013| SW Developer | |
+|Biruza Software       |Donetsk|Jun 2008-Apr 2012| SW Developer | |
+|MaxBill               |Donetsk|Apr 2006-May 2008| SW Developer | |
+|ISC of Donetsk railway|Donetsk|Aug 2001-Apr 2006| SW Developer | |
 
 ## Education 
 | Name                                      | Place  | Duration            |  Major Subjects      | Marks Obtained | Degree                 |
