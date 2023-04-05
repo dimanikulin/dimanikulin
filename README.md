@@ -22,9 +22,9 @@ For more details please [see](./content/Experience.md)
 ## Education 
 | Name                                      | Place  | Duration            |  Major Subjects      | Marks Obtained | Degree                 |
 | ------------------------------------------| -------|---------------------| ---------------------|----------------|:----------------------:|
-| [NaUKMA](https://www.ukma.edu.ua/)        | Kyiv   | Oct 2019-June 2021  | Software Engineering | 90 from 100    | MSDP in Software Engineering |
-| EPAM SCHOOL of Digital Engineering        | Kyiv   | Oct 2019-June 2021  | Software Engineering | 90 from 100    | MSDP in Software Engineering |
-| Kharkiv State Academy of Railway Transport| Donetsk| Sept 1996-June 2001 | Math, electrics      | 4.75 from 5    | Specialist |
+| [NaUKMA](https://www.ukma.edu.ua/)        | Kyiv   | Oct 2019-June 2021  | Software Engineering | 90 out 100    | MSDP in Software Engineering |
+| EPAM SCHOOL of Digital Engineering        | Kyiv   | Oct 2019-June 2021  | Software Engineering | 90 out 100    | MSDP in Software Engineering |
+| Kharkiv State Academy of Railway Transport| Donetsk| Sept 1996-June 2001 | Math, electrics      | 4.75 out 5    | Electrical engineer in railway transport |
 
 ## Certificates
 - [Coursera](./content/CertsCoursera.md)
@@ -33,24 +33,24 @@ For more details please [see](./content/Experience.md)
 - [Other](./content/CertsOther.md)
 
 ## Recommendations
-Given by Igor Odnovorov(Founder, Chief Technology Officer at e-Share (aka nCrypted Cloud, LLC))
+Given by Igor Odnovorov(Founder, Chief Technology Officer at e-Share (aka nCrypted Cloud, LLC)):
 </br>
 March 23, 2015, Igor worked with Dmytro but they were at different companies
 </br>
-Dmitry is a skilled and dedicated developer. He will be a good asset to any company he decided to be part of.
+"Dmitry is a skilled and dedicated developer. He will be a good asset to any company he decided to be part of."
 
 ## Publications
 [Publications](./content/Publications.md)
 
 ## Expertise in domains
-- Billing systems;
-- Embedded;
-- Mobile;
-- Media;
-- Healthcare;
-- Communication;
-- Geoinformatics;
-- Railways.
+- Billing systems
+- Embedded
+- Mobile
+- Media
+- Healthcare
+- Communication
+- Geoinformatics
+- Railways
 
 ## Expertise in technologies
 I have deep understanding of **Microsoft OS** programming and big experience with cross-platform programming.
@@ -64,10 +64,10 @@ In addition, I can help with creating the system to **collect the data** from **
 - I am looking to collaborate on helping to develop [my product](https://github.com/dimanikulin/fva)
 
 ## Interesting domains
-- Automotive;
-- Manufacturing;
-- Logistic;
-- Security. 
+- Automotive
+- Manufacturing
+- Logistic
+- Security 
 
 ## Interesting technologies
 Cloud, IoT, Data Platforms, Devops, Architecture
