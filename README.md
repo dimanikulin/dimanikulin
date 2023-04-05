@@ -1,5 +1,18 @@
 ## About Me
 My name is **Dmytro Nikulin** and I have **25** of years of experience as Software Developer/Lead.
+I have deep understanding of **Microsoft OS** programming and big experience with cross-platform programming.
+I can help with **Software Verification Testing** (Unit and Integration testing) of medical devices with **GTest and Squish**; use of **QT** to create **Cross-platform** and **Multi-language UI**, **MS OS customization**, **Win32 API hooking** and **making MS OS more secure**.
+In addition, I can help with creating the system to **collect the data** from **mobile** devices. 
+
+## Expertise in domains
+- Billing systems
+- Embedded
+- Mobile
+- Media
+- Healthcare
+- Communication
+- Geoinformatics
+- Railways
 
 ## Experience
 |Company          |Place  |Duration         |Role        |Project Description   |Responsibilities              |
@@ -41,23 +54,6 @@ Please notice, Igor worked with Dmytro but they were at different companies
 
 ## Publications
 [Publications](./content/Publications.md)
-
-## Expertise in domains
-- Billing systems
-- Embedded
-- Mobile
-- Media
-- Healthcare
-- Communication
-- Geoinformatics
-- Railways
-
-## Expertise in technologies
-I have deep understanding of **Microsoft OS** programming and big experience with cross-platform programming.
-
-I can help with **Software Verification Testing** (Unit and Integration testing) of medical devices with **GTest and Squish**; use of **QT** to create **Cross-platform** and **Multi-language UI**, **MS OS customization**, **Win32 API hooking** and **making MS OS more secure**.
-
-In addition, I can help with creating the system to **collect the data** from **mobile** devices. 
 
 ## What projects are currently occupying most of my time?
 - I am currently learning a Software Architecture
