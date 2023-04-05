@@ -33,11 +33,11 @@ For more details please [see](./content/Experience.md)
 - [Other](./content/CertsOther.md)
 
 ## Recommendations
-Given by Igor Odnovorov(Founder, Chief Technology Officer at e-Share (aka nCrypted Cloud, LLC)):
-</br>
-March 23, 2015, Igor worked with Dmytro but they were at different companies
+Given by Igor Odnovorov March 23, 2015(Founder, Chief Technology Officer at e-Share (aka nCrypted Cloud, LLC)):
 </br>
 "Dmitry is a skilled and dedicated developer. He will be a good asset to any company he decided to be part of."
+</br>
+Please notice, Igor worked with Dmytro but they were at different companies
 
 ## Publications
 [Publications](./content/Publications.md)
