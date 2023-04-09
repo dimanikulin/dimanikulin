@@ -124,3 +124,4 @@ USA, B-1/B-2, 11-Apr-2028
 - [Just Joined LinkedIn](./content/JustJoinedLinkedIn.md)
 - [Windows 95](./content/Windows95.md)
 - [What is multimedia data?](./content/MultimediaData.md)
+- [What are Multimedia IR systems?](./content/MultimediaIRSystems.md)
