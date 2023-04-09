@@ -72,3 +72,4 @@ Statistics shows that numerous resources, including photos, videos and other con
 | 6 | How Many Photos Will Be Taken in 2020?       | Research analysts crunch the statistics and come up with a mind-blowing number. |  January 10, 2020 | David Carrington | [Web](https://blog.mylio.com/how-many-photos-will-be-taken-in-2020/) |
 | 7 | Content Based Multimedia Information Retrieval To Support Digital Libraries |  |  2012.07.18 | Mohammad Nabil Almunawar | Magazine |
 | 8 | Content Analysis with Apache Tika          | | August 14, 2019        | Nguyen Nam Thai         | [Web](https://www.baeldung.com/apache-tika) |
+| 9 | The Massive Growth in Unstructured Data | | Dec. 2012 |IDC The Digital Universe |[Web](https://www.researchgate.net/figure/The-Massive-Growth-in-Unstructured-Data-Source-IDC-The-Digital-Universe-Dec-2012_fig1_322058724) |

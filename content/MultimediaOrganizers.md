@@ -55,3 +55,5 @@ it could also contain a location or any other information the user desires.
 | 4 | 26 Best Photo Organizer Software and Apps of 2022 | | Jun 25, 2021    | Anisha Singh   | [Web](https://www.pixpa.com/blog/photo-organiser) |
 | 5 | Independent Course for Organizing Your Digital Photos | | 2021        | organizepictures |[Web](https://www.organizepictures.com/organize-digital-photos-course) |
 | 6 | Image organizer      |                       |                        | Wikipedia      | [Web](https://en.wikipedia.org/wiki/Image_organizer) |
+| 7 | Best Photo Management Software to Organize Digital Photos in 2022 |  | 2021-12-17 | Mansi Vijay |[Web](https://wethegeek.com/best-photo-management-software-organize-photos/)|
+| 8 | Photo organizer | | | GitHub |[Web](https://github.com/topics/photo-organizer)|
