@@ -58,5 +58,5 @@ Although the most recent **multimedia IR** systems may provide search operations
 | 5 | Tour Mylio           |                       |                        | Mylio          | [Web](https://mylio.com/) |
 | 6 | Google Photos        |                       |                        | Wikipedia      | [Web](https://en.wikipedia.org/wiki/Google_Photos)|
 | 7 | A Beginner’s Guide To Google Photos  |       | July 08, 2020          | Sue Waters     | [Web](https://www.theedublogger.com/google-photos-guide/) |
-| 8 | The digiKam Handbook |                       |                        | The digiKam developers team | [Web](https://docs.kde.org/trunk5/en/digikam-doc/digikam/index.html) |
+| 8 | The digiKam Handbook |                       |                        | The digiKam developers team | [Web](https://www.digikam.org/documentation/) |
 | 9 | Apple Photos         |                       |                        | Wikipedia      | [Web](https://en.wikipedia.org/wiki/Apple_Photos) |
