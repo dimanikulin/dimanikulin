@@ -1,7 +1,7 @@
 # Headline
 TBD
 
-# Article desription 
+# Article description
 TBD 
 
 # Tags
