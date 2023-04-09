@@ -126,3 +126,4 @@ USA, B-1/B-2, 11-Apr-2028
 - [What is multimedia data?](./content/MultimediaData.md)
 - [What are Multimedia IR systems?](./content/MultimediaIRSystems.md)
 - [Multimedia IR systems Analyze](./content/MultimediaIRSystemsAnalyze.md)
+- [What are Multimedia Organizers?](./content/MultimediaOrganizers.md)
