@@ -100,7 +100,7 @@ Please notice that Igor worked with Dmytro but they were at different companies.
 ## Visa
 USA, B-1/B-2, 11-Apr-2028
 
-## Trips
+## Business Trips
 |Place    |Duration            |  Purpose         | 
 |---------|--------------------|:----------------:|
 |Boston   |August 2019, 1 month|R&D               | 
