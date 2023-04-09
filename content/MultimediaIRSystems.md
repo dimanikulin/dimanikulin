@@ -66,3 +66,5 @@ For example, there might be different professions who access the photos or image
 | 4 | Information retrieval|                       |                        | Wikipedia      | [Web](https://en.wikipedia.org/wiki/Information_retrieval)|
 | 5 | Multimedia information retrieval |           |                        | Wikipedia      | [Web](https://en.wikipedia.org/wiki/Multimedia_information_retrieval)|
 | 6 | Image retrieval      |                       |                        | Wikipedia      | [Web](https://en.wikipedia.org/wiki/Image_retrieval)|
+| 7 | Unified concept-based multimedia information retrieval technique |  |  2012 | Kambau, Ridwan, Hasibuan, Zainal, 10.1109/EECSI.2017.8239086 | book |
+| 8 | Multimedia Retrieval |                       |                        | Jimmy Lin , University of Maryland, Dr. Ramesh R. Sarukkai, Yahoo! Search | [Slides](https://www.ccs.neu.edu/home/jaa/CSG339.06F/Lectures/multimedia.pdf) |

@@ -69,3 +69,6 @@ Statistics shows that numerous resources, including photos, videos and other con
 | 3 | What are Multimedia IR systems?|             | 2022                   | Dmytro Nikulin | [repo](./MultimediaIRSystems.md) |
 | 4 | Multimedia IR systems Analyze|               | 2022                   | Dmytro Nikulin | [repo](./MultimediaIRSystemsAnalyze.md) |
 | 5 | What are MultimediaOrganizers?|              | 2022                   | Dmytro Nikulin | [repo](./MultimediaOrganizers.md)|
+| 6 | How Many Photos Will Be Taken in 2020?       | Research analysts crunch the statistics and come up with a mind-blowing number. |  January 10, 2020 | David Carrington | [Web](https://blog.mylio.com/how-many-photos-will-be-taken-in-2020/) |
+| 7 | Content Based Multimedia Information Retrieval To Support Digital Libraries |  |  2012.07.18 | Mohammad Nabil Almunawar | Magazine |
+| 8 | Content Analysis with Apache Tika          | | August 14, 2019        | Nguyen Nam Thai         | [Web](https://www.baeldung.com/apache-tika) |
