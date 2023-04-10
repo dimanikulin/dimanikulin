@@ -54,6 +54,10 @@ Interesting technologies include **Cloud**, **IoT**, **Data Platforms**, **Devop
 
 For more details, please [see](./content/Experience.md)
 
+## What projects are currently occupying most of my time?
+- I am currently learning software architecture and
+- I am looking to collaborate on developing [my product](https://github.com/dimanikulin/fva)
+
 ## Education: 
 | Name                                      | Place  | Duration            |  Major Subjects      | Marks Obtained | Degree                 |
 | ------------------------------------------| -------|---------------------| ---------------------|----------------|:----------------------:|
@@ -73,13 +77,6 @@ Given by Igor Odnovorov March 23, 2015(Founder, Chief Technology Officer at e-Sh
 "Dmitry is a skilled and dedicated developer. He will be a good asset to any company he decided to be part of."
 </br>
 Please notice that Igor worked with Dmytro but they were at different companies.
-
-## Publications:
-[Publications](./content/Publications.md)
-
-## What projects are currently occupying most of my time?
-- I am currently learning software architecture and
-- I am looking to collaborate on developing [my product](https://github.com/dimanikulin/fva)
 
 ## Honors & awards
 |Name                             |Issued by                                 |Date    | 
@@ -107,6 +104,10 @@ USA, B-1/B-2, 11-Apr-2028
 |Boston   |April 2018, 1 week  |New project start | 
 |Jerusalem|June 2017, 1 month  |R&D               |
 |Malta    |March 2007, 1 month |System implementation and technical support  |
+
+## Publications:
+[Publications](./content/Publications.md)
+
  
 ## My posts in social networks
 - [Communication](./content/Communication.md)
