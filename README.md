@@ -118,6 +118,7 @@ Published on Jun 8, 2020, at [International Science Group](https://isg-konf.com/
 
 ### AUTOMATED APPROACH FOR THE IMPORTING THE NEW PHOTO SET TO PRIVATE PHOTO ALBUM TO MAKE IT MORE SEARCHABLE
 Published on May 12, 2020 at [ISSN 2617-3808. Наукові записки НаУКМА. Комп’ютерні науки. 2020. Том 3](http://ekmair.ukma.edu.ua/bitstream/handle/123456789/19157/Nikulin_Automated_Approach_for_the_Importing.pdf?sequence=1&isAllowed=y)
+
 [In the paper magazine](./content/Images/Publication.jpg)
 
 
