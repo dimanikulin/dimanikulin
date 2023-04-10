@@ -1,7 +1,7 @@
-## About Me
+# About Me
 My name is **Dmytro Nikulin** and I have **25** of years of experience as Software Developer/Lead.
 
-I have the Expertise in domains: 
+## Expertise in the Domains
 - Billing systems
 - Embedded systems
 - Mobile applications
@@ -11,12 +11,15 @@ I have the Expertise in domains:
 - Geoinformatics
 - Railways
 
+## Expertise in the Technologies
 
 I have a deep understanding of **Microsoft OS** programming and extensive experience with cross-platform programming.
 
 I can help with **Software Verification Testing** (Unit and Integration testing) of medical devices with **GTest and Squish**; use of **QT** to create **Cross-platform** and **Multi-language UI**, **MS OS customization**, **Win32 API hooking**, and **making MS OS more secure**.
 
 In addition, I can help with creating systems to **collect the data** from **mobile** devices. 
+
+## Interesting technologies
 
 I can help with **BigData** tools such as **Spark**, **Kafka**, **Hive** and **MongoDB** (choosing tools and configuration)
 
@@ -36,7 +39,7 @@ Interesting domains include **Automotive**, **Manufacturing**, **Logistic** and 
 
 Interesting technologies include **Cloud**, **IoT**, **Data Platforms**, **Devops**, and **Architecture**.
 
-## Experience:
+# Experience:
 |Company          |Place  |Duration         |Role        |Project Description   |Responsibilities              |
 |-----------------|-------|-----------------|------------|--------------------  |:--------------------------:  |
 |GlobalLogic      |Kyiv   |May 2018-Present |Tech Lead   |Huge medical product  |Development and verification  |
@@ -54,31 +57,31 @@ Interesting technologies include **Cloud**, **IoT**, **Data Platforms**, **Devop
 
 For more details, please [see](./content/Experience.md)
 
-## What projects are currently occupying most of my time?
+# What projects are currently occupying most of my time?
 - I am currently learning software architecture and
 - I am looking to collaborate on developing [my product](https://github.com/dimanikulin/fva)
 
-## Education: 
+# Education: 
 | Name                                      | Place  | Duration            |  Major Subjects      | Marks Obtained | Degree                 |
 | ------------------------------------------| -------|---------------------| ---------------------|----------------|:----------------------:|
 | [NaUKMA](https://www.ukma.edu.ua/)        | Kyiv   | Oct 2019-June 2021  | Software Engineering | 90 out 100    | MSDP in Software Engineering |
 | EPAM SCHOOL of Digital Engineering        | Kyiv   | Oct 2019-June 2021  | Software Engineering | 90 out 100    | MSDP in Software Engineering |
 | Kharkiv State Academy of Railway Transport| Donetsk| Sept 1996-June 2001 | Math, electrics      | 4.75 out 5    | Electrical engineer in Railway Transport |
 
-## Certificates:
+# Certificates:
 - [Coursera](./content/CertsCoursera.md)
 - [EPAM](./content/CertsEPAM.md)
 - [Cisco](./content/CertsCisco.md)
 - [Other](./content/CertsOther.md)
 
-## Recommendations:
+# Recommendations:
 Given by Igor Odnovorov March 23, 2015(Founder, Chief Technology Officer at e-Share (aka nCrypted Cloud, LLC)):
 </br>
 "Dmitry is a skilled and dedicated developer. He will be a good asset to any company he decided to be part of."
 </br>
 Please notice that Igor worked with Dmytro but they were at different companies.
 
-## Honors & awards
+# Honors & awards
 |Name                             |Issued by                                 |Date    | 
 |---------------------------------|------------------------------------------|:------:|
 |Top Interviewer in Kyiv for C/C++|GlobalLogic                               |Jan 2023| 
@@ -86,18 +89,17 @@ Please notice that Igor worked with Dmytro but they were at different companies.
 |Top Student                      |EPAM Master's Degree Program              |Jun 2021|
 |Top Student                      |Kharkiv State Academy of Railway Transport|Jul 2001|
 
-
-## Languages 
+# Languages 
 |Language |Level Written|Spoken Level| 
 |---------|-------------|:----------:|
 |English  |Expert       |Advanced    | 
 |Russian  |Advanced     |Advanced    | 
 |Ukrainian|Advanced     |Advanced    |
 
-## Visa
+# Visa
 USA, B-1/B-2, 11-Apr-2028
 
-## Business Trips
+# Business Trips
 |Place    |Duration            |  Purpose         | 
 |---------|--------------------|:----------------:|
 |Boston   |August 2019, 1 month|R&D               | 
@@ -105,11 +107,9 @@ USA, B-1/B-2, 11-Apr-2028
 |Jerusalem|June 2017, 1 month  |R&D               |
 |Malta    |March 2007, 1 month |System implementation and technical support  |
 
-## Publications:
+# Publications and posts in social networks:
 [Publications](./content/Publications.md)
 
- 
-## My posts in social networks
 - [Communication](./content/Communication.md)
 - [Active Listening](./content/ActiveListening.md)
 - [Number Of Interviews](./content/NumberOfInterviews.md)
