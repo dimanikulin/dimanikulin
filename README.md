@@ -108,6 +108,16 @@ USA, B-1/B-2, 11-Apr-2028
 |Malta    |March 2007, 1 month |System implementation and technical support  |
 
 # Publications and posts in social networks:
+
+|Name    |Duration            |  Purpose         | 
+|--------|--------------------|:----------------:|
+|Boston  |August 2019, 1 month|R&D               | 
+
+[1](./content/Images/certPublication.jpg)
+
+### Certificate of publication
+<img src="./Images/certPublication.jpg" alt="TBD" />
+
 [Publications](./content/Publications.md)
 
 - [Communication](./content/Communication.md)
