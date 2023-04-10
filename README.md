@@ -122,7 +122,7 @@ Published on May 12, 2020 at [ISSN 2617-3808. Наукові записки На
 [In the paper magazine](./content/Images/Publication.jpg)
 
 ### Exploring the World of Multimedia Information Retrieval Systems
-Published on Feb 20, 2023, [at](https://dou.eu/community/posts/what-are-multimedia-information-retrieval-systems) 
+Published on Feb 20, 2023, at [dou.eu (https://dou.eu/community/posts/what-are-multimedia-information-retrieval-systems) 
 
 
 ## Other publication
