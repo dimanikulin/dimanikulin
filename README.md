@@ -1,5 +1,5 @@
 # About Me
-My name is **Dmytro Nikulin** and I have **25** of years of experience as Software Developer/Lead.
+My name is **Dmytro Nikulin** and I have **25** ofÂ years of experience as Software Developer/Lead.
 
 ## Expertise in the Domains
 - Billing systems
@@ -13,31 +13,31 @@ My name is **Dmytro Nikulin** and I have **25** of years of experience as Softwa
 
 ## Expertise in the Technologies
 
-I have a deep understanding of **Microsoft OS** programming and extensive experience with cross-platform programming.
+I have a deep understanding ofÂ **Microsoft OS** programming and extensive experience with cross-platform programming.
 
-I can help with **Software Verification Testing** (Unit and Integration testing) of medical devices with **GTest and Squish**; use of **QT** to create **Cross-platform** and **Multi-language UI**, **MS OS customization**, **Win32 API hooking**, and **making MS OS more secure**.
+I can help withÂ **Software Verification Testing** (Unit and Integration testing) of medical devices with **GTest and Squish**; use ofÂ **QT**Â to createÂ **Cross-platform**Â andÂ **Multi-language UI**,Â **MS OS customization**,Â **Win32 API hooking**,Â and **makingÂ MS OSÂ moreÂ secure**.
 
-In addition, I can help with creating systems to **collect the data** from **mobile** devices. 
+In addition, I can help with creating systems to **collect the data** fromÂ **mobile**Â devices.Â 
 
-## Interesting technologies
+## InterestingÂ technologies
 
-I can help with **BigData** tools such as **Spark**, **Kafka**, **Hive** and **MongoDB** (choosing tools and configuration)
+I can help withÂ **BigData**Â tools such asÂ **Spark**,Â **Kafka**,Â **Hive**Â andÂ **MongoDB**Â (choosing tools and configuration)
 
-I can also help with **Software Architecture** aspects such as
-- working with **Stakeholders**, **Business Requirements** and **Functional decomposition**;
-- participation in **Presales**, **Estimation**, **Discovery**, **Design and Review stages**;
-- working with **Quality attributes** and **their Tactics**;
-- creation the **Software Architecture Document**;
-- choosing the **NoSQL DB**;
-- designing the **Search system**;
-- securing the system on the **cloud** to keep **private** data;
-- choosing **style**, **design patterns** and **development technologies** for **web application** to support the desktop and mobile requirements;
-- choosing the **cloud services** for **MOM**;
-- and choosing the **caches**.
+I can also help withÂ **Software Architecture**Â aspects such as
+- working withÂ **Stakeholders**,Â **Business Requirements**Â andÂ **Functional decomposition**;
+- participation inÂ **Presales**,Â **Estimation**,Â **Discovery**,Â **DesignÂ andÂ ReviewÂ stages**;
+- working withÂ **Quality attributes**Â and **theirÂ Tactics**;
+- creation theÂ **Software Architecture Document**;
+- choosing theÂ **NoSQL DB**;
+- designing theÂ **SearchÂ system**;
+- securingÂ the system on the **cloud** to keep **private** data;
+- choosing **style**, **design patterns** and **development technologies** forÂ **webÂ application**Â to support the desktop and mobile requirements;
+- choosing the **cloud services** forÂ **MOM**;
+- and choosing theÂ **caches**.
 
-Interesting domains include **Automotive**, **Manufacturing**, **Logistic** and **Security**.
+InterestingÂ domains include **Automotive**, **Manufacturing**, **Logistic** and **Security**.
 
-Interesting technologies include **Cloud**, **IoT**, **Data Platforms**, **Devops**, and **Architecture**.
+InterestingÂ technologies include **Cloud**, **IoT**, **Data Platforms**, **Devops**, and **Architecture**.
 
 # Experience:
 |Company          |Place  |Duration         |Role        |Project Description   |Responsibilities              |
@@ -53,7 +53,7 @@ Interesting technologies include **Cloud**, **IoT**, **Data Platforms**, **Devop
 |MaxBill          |Donetsk|Apr 2006-May 2008|SW Developer|Billing systems       |Development and maintenance   |
 |Railway ISC      |Donetsk|Aug 2001-Apr 2006|SW Developer|Railway systems products|Development and maintenance |
 |Railway Institute|Donetsk|1998-Apr 2007    |SW Developer|Testing knowledge systems|Development and maintenance|
-|Trubnikov Enterprise|Donetsk|1999–2005     |IT guy      ||Technical support of OS and software                |
+|Trubnikov Enterprise|Donetsk|1999â€“2005     |IT guy      ||Technical support of OS and software                |
 
 For more details, please [see](./content/Experience.md)
 
@@ -117,6 +117,36 @@ USA, B-1/B-2, 11-Apr-2028
 
 ### Certificate of publication
 <img src="./Images/certPublication.jpg" alt="TBD" />
+
+
+## Publications
+So far I have following publications:
+
+### Exploring the World of Multimedia Information Retrieval Systems: A Comprehensive Guide
+The article provides an introduction to Multimedia Information Retrieval (MIR) systems, which are designed to search and retrieve information from multimedia sources like images, audio, and video. 
+
+It explains the different components of MIR systems, such as feature extraction, indexing, and retrieval, and discusses some of the challenges associated with MIR, including the subjective nature of multimedia data and the need for efficient algorithms to handle large datasets. 
+
+Overall, the article offers a helpful overview for those interested in learning about MIR systems.
+
+Published on Feb 20, 2023, at [DOU.eu](https://dou.eu/community/posts/what-are-multimedia-information-retrieval-systems)
+
+### Perspective directions for the development of science and practice
+AUTOMATED APPROACH FOR THE IMPORTING THE NEW PHOTO SET TO PRIVATE PHOTO ALBUM TO MAKE IT MORE SEARCHABLE 
+
+Published on Jun 8, 2020, at [International Science Group](https://isg-konf.com/perspective-directions-for-the-development-of-science-and-practice/	)
+
+
+### AUTOMATED APPROACH FOR THE IMPORTING THE NEW PHOTO SET TO PRIVATE PHOTO ALBUM TO MAKE IT MORE SEARCHABLE
+Published on May 12, 2020 at [ISSN 2617-3808. ĞĞ°ÑƒĞºĞ¾Ğ²Ñ– Ğ·Ğ°Ğ¿Ğ¸ÑĞºĞ¸ ĞĞ°Ğ£ĞšĞœĞ. ĞšĞ¾Ğ¼Ğ¿â€™ÑÑ‚ĞµÑ€Ğ½Ñ– Ğ½Ğ°ÑƒĞºĞ¸. 2020. Ğ¢Ğ¾Ğ¼ 3](http://ekmair.ukma.edu.ua/bitstream/handle/123456789/19157/Nikulin_Automated_Approach_for_the_Importing.pdf?sequence=1&isAllowed=y)
+
+
+### My publication in the paper magazine. 
+
+<img src="./Images/Publication.jpg" alt="TBD" />
+
+### Tags
+TODo
 
 [Publications](./content/Publications.md)
 
