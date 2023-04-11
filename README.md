@@ -126,11 +126,12 @@ Published on May 12, 2020 at [ISSN 2617-3808. Наукові записки На
 ### Publications about Multimedia, Multimedia IR systems and Multimedia Organizers 
 |Name       |[What is multimedia data?](./content/MultimediaData.md)|[What are Multimedia IR systems?](./content/MultimediaIRSystems.md)|[Multimedia IR systems Analyze](./content/MultimediaIRSystemsAnalyze.md)|[What are Multimedia Organizers?](./content/MultimediaOrganizers.md)|Exploring the World of Multimedia Information Retrieval Systems|
 |-----------|-------------------------------------------------------|-------------------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------|:----------------------------------------------------------:|
-|dou.eu     |Too small for publication|Too small for publication|Too small for publication|Too small for publication|[Feb 20, 2023](https://dou.eu/community/posts/what-are-multimedia-information-retrieval-systems)|
-|hackernoon |Too small for publication|Too small for publication|Too small for publication|Too small for publication|I tryied to publish on 01/31/2023 but they said it is a duplication of one my previos publication|
-|linkedin   |Too small for publication|Too small for publication|Too small for publication|Too small for publication|[January 27,2023](https://www.linkedin.com/posts/dimanikulin_activity-7024663781666349057-Hw3_/?utm_source=share&utm_medium=member_desktop)|
-|codeproject|Too small for publication|Too small for publication|Too small for publication|Too small for publication|TODO|
-|dev.to     |[Jun 14, 2022](https://dev.to/dimanikulin/what-is-multimedia-data-111f)|[Jun 28, 2022](https://dev.to/dimanikulin/what-are-multimedia-ir-systems-5c7nv)|[Jul 7, 2022](https://dev.to/dimanikulin/multimedia-ir-systems-analyze-4e17)|[Sep 18, 2022](https://dev.to/dimanikulin/what-are-the-photo-organizers-1na9)|
+|dou.eu     |N/A|N/A|N/A|N/A|[Feb 20, 2023](https://dou.eu/community/posts/what-are-multimedia-information-retrieval-systems)|
+|hackernoon |N/A|N/A|N/A|N/A|I tryied to publish on 01/31/2023 but they said it is a duplication of one my previos publication|
+|linkedin   |N/A|N/A|N/A|N/A|[January 27,2023](https://www.linkedin.com/posts/dimanikulin_activity-7024663781666349057-Hw3_/?utm_source=share&utm_medium=member_desktop)|
+|codeproject|N/A|N/A|N/A|N/A|TODO|
+|dev.to     |[Jun 14, 2022](https://dev.to/dimanikulin/what-is-multimedia-data-111f)|[Jun 28, 2022](https://dev.to/dimanikulin/what-are-multimedia-ir-systems-5c7nv)|[Jul 7, 2022](https://dev.to/dimanikulin/multimedia-ir-systems-analyze-4e17)|[Sep 18, 2022](https://dev.to/dimanikulin/what-are-the-photo-organizers-1na9)|N/A|
+
 
 
 - [Communication](./content/Communication.md)
