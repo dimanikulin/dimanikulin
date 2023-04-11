@@ -13,7 +13,7 @@ Thank you GlobalLogic for taking care of me in advance!
 
 P.S. Here I meant GL Ukraine.
 
-<img src="./Images/PresentsInGL.jpg" alt="PresentsInGL" />
+<img src="./Images/GLPresents.jpg" alt="PresentsInGL" />
 
 ### Tags
 ukraine, war, globallogic
