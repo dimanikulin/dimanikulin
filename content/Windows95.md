@@ -1,3 +1,14 @@
+# Headline
+TBD
+
+# Article description
+TBD 
+
+# Tags
+oldschool old
+
+# Content
+
 ## Can you guess what is this without googling?
 
 Can you guess what is this without googling?
@@ -8,5 +19,8 @@ If you can guess, we are the same age
 
 <img src="./Images/windows95.jpg" alt="TBD" />
 
-### Tags
-oldschool old
+
+# References
+| # | Name                 | Description           | Release date           |  Author                 | Source        |
+| - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
+| 1 | Windows 95           |                       | 2023, April            | Dmytro Nikulin          | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_oldschool-old-activity-7048925594268352512-c-4G?utm_source=share&utm_medium=member_desktop) |
