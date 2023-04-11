@@ -5,7 +5,7 @@ TBD
 TBD 
 
 # Tags
-interestingfacts
+interestingfacts numbers
 
 # Content
 
@@ -15,6 +15,10 @@ interestingfacts
 - Six is the smallest perfect number, which means that the sum of its factors (1, 2, and 3) equals 6.;
 - The average human hand has six bones in each finger, except for the thumb, which has two bones;
 - I have reached the 6th Anniversary in GlobalLogic recently.
+
+Are there other facts?
+
+Something else? please share in comments other facts.
 
 <img src="./Images/GL6Years.png" alt="GL6Years" />
 
