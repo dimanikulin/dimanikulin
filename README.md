@@ -119,28 +119,16 @@ Published on Jun 8, 2020, at [International Science Group](https://isg-konf.com/
 ### AUTOMATED APPROACH FOR THE IMPORTING THE NEW PHOTO SET TO PRIVATE PHOTO ALBUM TO MAKE IT MORE SEARCHABLE
 Published on May 12, 2020 at [ISSN 2617-3808. Наукові записки НаУКМА. Комп’ютерні науки. 2020. Том 3](http://ekmair.ukma.edu.ua/bitstream/handle/123456789/19157/Nikulin_Automated_Approach_for_the_Importing.pdf?sequence=1&isAllowed=y)
 
-[In the paper magazine](./content/Images/Publication.jpg)
-
-### Exploring the World of Multimedia Information Retrieval Systems
-Published on Feb 20, 2023, at [dou.eu](https://dou.eu/community/posts/what-are-multimedia-information-retrieval-systems) 
-
-### Exploring the World of Multimedia Information Retrieval Systems
-I tryied to publish on 01/31/2023 at [app.hackernoon.com](https://app.hackernoon.com/mobile/zJypUjfrcy8OhGh7R7n2) but they said it is a duplication of one my previos publication
-
+[And it is in the paper magazine](./content/Images/Publication.jpg)
 
 ## Publications about Multimedia, Multimedia IR systems and Multimedia Organizers 
-|Name    |                                            |             | 
-|--------|----------------------------------------------|:----------------:|
-|[What is multimedia data?](./content/MultimediaData.md)||| 
-|[What are Multimedia IR systems?](./content/MultimediaIRSystems.md) |||
-|[Multimedia IR systems Analyze](./content/MultimediaIRSystemsAnalyze.md) |||
-|[What are Multimedia Organizers?](./content/MultimediaOrganizers.md) |||
+|Name      |[What is multimedia data?](./content/MultimediaData.md)|[What are Multimedia IR systems?](./content/MultimediaIRSystems.md)|[Multimedia IR systems Analyze](./content/MultimediaIRSystemsAnalyze.md)|[What are Multimedia Organizers?](./content/MultimediaOrganizers.md)|Exploring the World of Multimedia Information Retrieval Systems|
+|----------|-------------------------------------------------------|-------------------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------|:----------------------------------------------------------:|
+|dou.eu    |Too small for publication|Too small for publication|Too small for publication|Too small for publication|[Feb 20, 2023](https://dou.eu/community/posts/what-are-multimedia-information-retrieval-systems)|
+|hackernoon|Too small for publication|Too small for publication|Too small for publication|Too small for publication|I tryied to publish on 01/31/2023 but they said it is a duplication of one my previos publication|
+|linkedin  |Too small for publication|Too small for publication|Too small for publication|Too small for publication|[January 27,2023](https://www.linkedin.com/posts/dimanikulin_activity-7024663781666349057-Hw3_/?utm_source=share&utm_medium=member_desktop)|
 
 ## Other publication
-|Name    |    | | 
-|--------|--------------------|:----------------:|
-|||| 
-
 - [Communication](./content/Communication.md)
 - [Active Listening](./content/ActiveListening.md)
 - [Number Of Interviews](./content/NumberOfInterviews.md)
