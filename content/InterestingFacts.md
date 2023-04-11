@@ -1,3 +1,23 @@
+# Headline
+TBD
+
+# Article description
+TBD 
+
+### Tags
+interestingfacts
+
+# Tags
+TBD
+
+# Content
+<img src="./Images/TBD.jpg" alt="TBD" />
+
+# References
+TBD
+
+GL6Years.png
+
 ## Interesting facts about number "11"
 
 - 11 * 11 = 121, 11 * 111 = 1221, 1111 * 11 = 12221...;
@@ -23,5 +43,3 @@ Something else? please share in comments other facts.
 
 <img src="./Images/InterestingFactsAbout12.jpg" alt="InterestingFactsAbout12" />
 
-### Tags
-interestingfacts
