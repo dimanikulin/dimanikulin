@@ -23,7 +23,7 @@ Data that spans multiple mediums is referred to as **multimedia**.
 It often refers to data that represents various media formats used to record details and impressions about specific things and occasions. 
 The most widely used formats of data are numbers, alphanumeric characters, text, images, audio and video.
 
-In common usage, people refer to a data set as **multimedia** only when time-dependent data such as audio and video are involved [[Multimedia Data]](https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-39940-9_1008).
+In common usage, people refer to a data set as **multimedia** only when time-dependent [[data]](https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-39940-9_1008) such as audio and video are involved.
 <img src="Images/Multimediadata.gif" alt="Multimediadata.gif"/>
 Three subclasses of the **multimedia** data are distinguished: multidimensional (also known as spatial), dynamic and static.
 
