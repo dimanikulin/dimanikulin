@@ -4,19 +4,19 @@ TBD
 # Article description
 TBD 
 
-### Tags
+# Tags
 interestingfacts
 
-# Tags
-TBD
-
 # Content
-<img src="./Images/TBD.jpg" alt="TBD" />
 
-# References
-TBD
+## Interesting facts about number "6"
 
-GL6Years.png
+- In many cultures, 6 is considered to be a lucky number;
+- Six is the smallest perfect number, which means that the sum of its factors (1, 2, and 3) equals 6.;
+- The average human hand has six bones in each finger, except for the thumb, which has two bones;
+- I have reached the 6th Anniversary in GlobalLogic recently.
+
+<img src="./Images/GL6Years.png" alt="GL6Years" />
 
 ## Interesting facts about number "11"
 
@@ -43,3 +43,5 @@ Something else? please share in comments other facts.
 
 <img src="./Images/InterestingFactsAbout12.jpg" alt="InterestingFactsAbout12" />
 
+# References
+TBD
