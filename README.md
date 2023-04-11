@@ -124,6 +124,17 @@ Published on May 12, 2020 at [ISSN 2617-3808. Наукові записки На
 ### Exploring the World of Multimedia Information Retrieval Systems
 Published on Feb 20, 2023, at [dou.eu](https://dou.eu/community/posts/what-are-multimedia-information-retrieval-systems) 
 
+### Exploring the World of Multimedia Information Retrieval Systems
+I tryied to publish on 01/31/2023 at [app.hackernoon.com](https://app.hackernoon.com/mobile/zJypUjfrcy8OhGh7R7n2) but they said it is a duplication of one my previos publication
+
+
+## Publications about Multimedia, Multimedia IR systems and Multimedia Organizers 
+|Name    |                                            |             | 
+|--------|----------------------------------------------|:----------------:|
+|[What is multimedia data?](./content/MultimediaData.md)||| 
+|[What are Multimedia IR systems?](./content/MultimediaIRSystems.md) |||
+|[Multimedia IR systems Analyze](./content/MultimediaIRSystemsAnalyze.md) |||
+|[What are Multimedia Organizers?](./content/MultimediaOrganizers.md) |||
 
 ## Other publication
 |Name    |    | | 
@@ -143,8 +154,4 @@ Published on Feb 20, 2023, at [dou.eu](https://dou.eu/community/posts/what-are-m
 - [Interesting facts](./content/InterestingFacts.md)
 - [Fishing](./content/Fishing.md)
 - [Just Joined LinkedIn](./content/JustJoinedLinkedIn.md)
-- [Windows 95](./content/Windows95.md)
-- [What is multimedia data?](./content/MultimediaData.md)
-- [What are Multimedia IR systems?](./content/MultimediaIRSystems.md)
-- [Multimedia IR systems Analyze](./content/MultimediaIRSystemsAnalyze.md)
-- [What are Multimedia Organizers?](./content/MultimediaOrganizers.md)
+- [Windows 95](./content/Windows95.md) 
