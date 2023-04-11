@@ -129,6 +129,8 @@ Published on May 12, 2020 at [ISSN 2617-3808. Наукові записки На
 |dou.eu    |Too small for publication|Too small for publication|Too small for publication|Too small for publication|[Feb 20, 2023](https://dou.eu/community/posts/what-are-multimedia-information-retrieval-systems)|
 |hackernoon|Too small for publication|Too small for publication|Too small for publication|Too small for publication|I tryied to publish on 01/31/2023 but they said it is a duplication of one my previos publication|
 |linkedin  |Too small for publication|Too small for publication|Too small for publication|Too small for publication|[January 27,2023](https://www.linkedin.com/posts/dimanikulin_activity-7024663781666349057-Hw3_/?utm_source=share&utm_medium=member_desktop)|
+|dev.to    |[Jun 14, 2022](https://dev.to/dimanikulin/what-is-multimedia-data-111f)|[Jun 28, 2022](https://dev.to/dimanikulin/what-are-multimedia-ir-systems-5c7nv)|[Jul 7, 2022](https://dev.to/dimanikulin/multimedia-ir-systems-analyze-4e17)|[Sep 18, 2022](https://dev.to/dimanikulin/what-are-the-photo-organizers-1na9)|
+
 
 - [Communication](./content/Communication.md)
 - [Active Listening](./content/ActiveListening.md)
