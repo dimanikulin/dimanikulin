@@ -133,7 +133,7 @@ Published on May 12, 2020 at [ISSN 2617-3808. Наукові записки На
 |dev.to     |[Jun 14, 2022](https://dev.to/dimanikulin/what-is-multimedia-data-111f)|[Jun 28, 2022](https://dev.to/dimanikulin/what-are-multimedia-ir-systems-5c7nv)|[Jul 7, 2022](https://dev.to/dimanikulin/multimedia-ir-systems-analyze-4e17)|[Sep 18, 2022](https://dev.to/dimanikulin/what-are-the-photo-organizers-1na9)|N/A|
 |hashnode   |[Jun 16, 2022](https://dimanikulin.hashnode.dev/what-is-multimedia-data)|[Jun 29, 2022](https://dimanikulin.hashnode.dev/what-are-multimedia-ir-systems)|[Jul 9, 2022](https://dimanikulin.hashnode.dev/multimedia-ir-systems-analyze)|[Sep 19, 2022](https://dimanikulin.hashnode.dev/what-are-the-photo-organizers)|N/A|
 |medium     |[Jun 16, 2022](https://medium.com/@dimanikulin_43511/what-is-multimedia-data-16c2bfdb3829)|[Jul 1, 2022](https://medium.com/@dimanikulin_43511/what-are-multimedia-ir-systems-531366920642)|[Jul 10, 2022](https://medium.com/@dimanikulin_43511/multimedia-ir-systems-analyze-67d40a5537c5)|[Sep 20, 2022](https://medium.com/@dimanikulin_43511/multimedia-organizers-functions-e8def4e7d550)|N/A|
-
+|reddit     |[Jun 16, 2022](https://www.reddit.com/r/fva/comments/ve7188/what_is_multimedia_data/)|was deleted as spam. but why?|was deleted as spam. but why?|[Sep 20, 2022](https://www.reddit.com/r/fva/comments/xkum82/what_are_the_multimedia_organizers/)|N/A|
 
 - [Communication](./content/Communication.md)
 - [Active Listening](./content/ActiveListening.md)
