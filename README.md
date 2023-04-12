@@ -107,23 +107,23 @@ USA, B-1/B-2, 11-Apr-2028
 |Jerusalem|June 2017, 1 month  |R&D               |
 |Malta    |March 2007, 1 month |System implementation and technical support  |
 
-## Science publications:
+# Science publications:
 
-### AUTOMATED APPROACH FOR THE IMPORTING THE NEW PHOTO SET TO PRIVATE PHOTO ALBUM TO MAKE IT MORE SEARCHABLE
+## AUTOMATED APPROACH FOR THE IMPORTING THE NEW PHOTO SET TO PRIVATE PHOTO ALBUM TO MAKE IT MORE SEARCHABLE
 Perspective directions for the development of science and practice
 
 Published on Jun 8, 2020, at [International Science Group](https://isg-konf.com/perspective-directions-for-the-development-of-science-and-practice/	)
 
 [Publication certificate](./content/Images/certPublication.jpg)
 
-### AUTOMATED APPROACH FOR THE IMPORTING THE NEW PHOTO SET TO PRIVATE PHOTO ALBUM TO MAKE IT MORE SEARCHABLE
+## AUTOMATED APPROACH FOR THE IMPORTING THE NEW PHOTO SET TO PRIVATE PHOTO ALBUM TO MAKE IT MORE SEARCHABLE
 Published on May 12, 2020 at [ISSN 2617-3808. Наукові записки НаУКМА. Комп’ютерні науки. 2020. Том 3](http://ekmair.ukma.edu.ua/bitstream/handle/123456789/19157/Nikulin_Automated_Approach_for_the_Importing.pdf?sequence=1&isAllowed=y)
 
 [And it is in the paper magazine](./content/Images/Publication.jpg)
 
-## Other publication:
+# Other publication:
 
-### Publications about Multimedia, Multimedia IR systems and Multimedia Organizers 
+## Publications about Multimedia, Multimedia IR systems and Multimedia Organizers 
 |Name       |[What is multimedia data?](./content/MultimediaData.md)|[What are Multimedia IR systems?](./content/MultimediaIRSystems.md)|[Multimedia IR systems Analyze](./content/MultimediaIRSystemsAnalyze.md)|[What are Multimedia Organizers?](./content/MultimediaOrganizers.md)|Exploring the World of Multimedia Information Retrieval Systems|
 |-----------|-------------------------------------------------------|-------------------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------|:----------------------------------------------------------:|
 |dou.eu     |N/A|N/A|N/A|N/A|[Feb 20, 2023](https://dou.eu/community/posts/what-are-multimedia-information-retrieval-systems)|
