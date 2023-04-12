@@ -131,7 +131,7 @@ Published on May 12, 2020 at [ISSN 2617-3808. Наукові записки На
 |linkedin   |N/A|N/A|N/A|N/A|[January 27,2023](https://www.linkedin.com/posts/dimanikulin_activity-7024663781666349057-Hw3_/?utm_source=share&utm_medium=member_desktop)|
 |codeproject|N/A|N/A|N/A|N/A|TODO|
 |dev.to     |[Jun 14, 2022](https://dev.to/dimanikulin/what-is-multimedia-data-111f)|[Jun 28, 2022](https://dev.to/dimanikulin/what-are-multimedia-ir-systems-5c7nv)|[Jul 7, 2022](https://dev.to/dimanikulin/multimedia-ir-systems-analyze-4e17)|[Sep 18, 2022](https://dev.to/dimanikulin/what-are-the-photo-organizers-1na9)|N/A|
-
+|hashnode   |[Jun 16, 2022](https://dimanikulin.hashnode.dev/what-is-multimedia-data)|[Jun 29, 2022](https://dimanikulin.hashnode.dev/what-are-multimedia-ir-systems)|[Jul 9, 2022](https://dimanikulin.hashnode.dev/multimedia-ir-systems-analyze)|[Sep 19, 2022](https://dimanikulin.hashnode.dev/what-are-the-photo-organizers)|N/A|
 
 
 - [Communication](./content/Communication.md)
