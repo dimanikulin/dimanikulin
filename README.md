@@ -135,6 +135,13 @@ Published on May 12, 2020 at [ISSN 2617-3808. Наукові записки На
 |medium     |[Jun 16, 2022](https://medium.com/@dimanikulin_43511/what-is-multimedia-data-16c2bfdb3829)|[Jul 1, 2022](https://medium.com/@dimanikulin_43511/what-are-multimedia-ir-systems-531366920642)|[Jul 10, 2022](https://medium.com/@dimanikulin_43511/multimedia-ir-systems-analyze-67d40a5537c5)|[Sep 20, 2022](https://medium.com/@dimanikulin_43511/multimedia-organizers-functions-e8def4e7d550)|N/A|
 |reddit     |[Jun 16, 2022](https://www.reddit.com/r/fva/comments/ve7188/what_is_multimedia_data/)|was deleted as spam. but why?|was deleted as spam. but why?|[Sep 20, 2022](https://www.reddit.com/r/fva/comments/xkum82/what_are_the_multimedia_organizers/)|N/A|
 |quora      |[Jun 19, 2022](https://www.quora.com/profile/Dima-Nikulin-2/What-is-Multimedia-Data-We-live-in-the-digital-data-era-and-growing-of-the-Internet-gives-us-a-possibility-to-find-th)|[Jul 3, 2022](https://www.quora.com/profile/Dima-Nikulin-2/What-are-Multimedia-IR-Systems-Lets-briefly-overview-the-Multimedia-IR-systems-According-to-the-Wikipedia-https)|[Jul 13, 2022](https://www.quora.com/profile/Dima-Nikulin-2/Multimedia-IR-Systems-analyze-Let-us-compare-several-multimedia-IR-systems-by-covering-requirements-and-needs-we-identi)|[Sep 22, 2022](https://www.quora.com/profile/Dima-Nikulin-2/What-are-the-Multimedia-Organizers-Multimedia-Organizers-functions-They-currently-perform-the-search-in-photo-set)|N/A|
+
+## Publications about own product, its history and what I learned 
+|Name       |[](./content/MultimediaData.md)|[](./content/MultimediaIRSystems.md)|[](./content/MultimediaIRSystemsAnalyze.md)|[](./content/MultimediaOrganizers.md)||
+|-----------|-------------------------------------------------------|-------------------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------|:----------------------------------------------------------:|
+|dou.eu     |N/A|N/A|N/A|N/A|[Feb 20, 2023](https://dou.eu/community/posts/what-are-multimedia-information-retrieval-systems)|
+
+
 - [Communication](./content/Communication.md)
 - [Active Listening](./content/ActiveListening.md)
 - [Number Of Interviews](./content/NumberOfInterviews.md)
