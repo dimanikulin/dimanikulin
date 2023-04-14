@@ -137,9 +137,9 @@ Published on May 12, 2020 at [ISSN 2617-3808. Наукові записки На
 |quora      |[Jun 19, 2022](https://www.quora.com/profile/Dima-Nikulin-2/What-is-Multimedia-Data-We-live-in-the-digital-data-era-and-growing-of-the-Internet-gives-us-a-possibility-to-find-th)|[Jul 3, 2022](https://www.quora.com/profile/Dima-Nikulin-2/What-are-Multimedia-IR-Systems-Lets-briefly-overview-the-Multimedia-IR-systems-According-to-the-Wikipedia-https)|[Jul 13, 2022](https://www.quora.com/profile/Dima-Nikulin-2/Multimedia-IR-Systems-analyze-Let-us-compare-several-multimedia-IR-systems-by-covering-requirements-and-needs-we-identi)|[Sep 22, 2022](https://www.quora.com/profile/Dima-Nikulin-2/What-are-the-Multimedia-Organizers-Multimedia-Organizers-functions-They-currently-perform-the-search-in-photo-set)|N/A|
 
 ## Publications about own product, its history and what I learned 
-|Name       |[](./content/MultimediaData.md)|[](./content/MultimediaIRSystems.md)|[](./content/MultimediaIRSystemsAnalyze.md)|[](./content/MultimediaOrganizers.md)||
-|-----------|-------------------------------------------------------|-------------------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------|:----------------------------------------------------------:|
-|dou.eu     |N/A|N/A|N/A|N/A|[Feb 20, 2023](https://dou.eu/community/posts/what-are-multimedia-information-retrieval-systems)|
+|Name       |[Why I created photo organizer?](./content/WhyCreatedPhotoOrganizer.md)|[](./content/MultimediaIRSystems.md)|[](./content/MultimediaIRSystemsAnalyze.md)|[](./content/MultimediaOrganizers.md)||
+|-----------|-----------------------------------------------------------------------|-------------------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------|:----------------------------------------------------------:|
+|dou.eu     |N/A|N/A|N/A|N/A||
 
 
 - [Communication](./content/Communication.md)
