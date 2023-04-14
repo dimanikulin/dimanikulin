@@ -1,5 +1,6 @@
 # Headline
 "Why I decided to create my photo organizer?"
+
 "How I Created My Own Multimedia Organizer to Tackle the Challenges of Managing a Growing Photo Album"
 
 # Article description
