@@ -139,7 +139,15 @@ Published on May 12, 2020 at [ISSN 2617-3808. Наукові записки На
 ## Publications about own product, its history and what I learned 
 |Name       |[Why I created photo organizer?](./content/WhyCreatedPhotoOrganizer.md)|[](./content/MultimediaIRSystems.md)|[](./content/MultimediaIRSystemsAnalyze.md)|[](./content/MultimediaOrganizers.md)||
 |-----------|-----------------------------------------------------------------------|-------------------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------|:----------------------------------------------------------:|
-|dou.eu     |N/A|N/A|N/A|N/A||
+|dou.eu     |TBD|TBD|TBD|TBD|TBD|
+|hackernoon |TBD|TBD|TBD|TBD|TBD|
+|linkedin   |[Feb 20, 2023](https://www.linkedin.com/posts/dimanikulin_productengineering-photos-activity-7034072973523193856-MvF4?utm_source=share&utm_medium=member_desktop)|TBD|TBD|TBD|TBD|
+|codeproject|TBD|TBD|TBD|TBD|TBD|
+|dev.to     |TBD|TBD|TBD|TBD|TBD|
+|hashnode   |TBD|TBD|TBD|TBD|TBD|
+|medium     |TBD|TBD|TBD|TBD|TBD|
+|reddit     |TBD|TBD|TBD|TBD|TBD|
+|quora      |TBD|TBD|TBD|TBD|TBD| 
 
 
 - [Communication](./content/Communication.md)
