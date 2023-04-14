@@ -23,20 +23,20 @@ Once my friend and me decided to recall an event we both attended. We took my ph
 That time my album kept more than 30 thousand items inside. That search process looked like
 <img src="./Images/Asearchinphotoalbumwith30thousandphotos.gif" alt="Asearchinphotoalbumwith30thousandphotos.gif" />
 
-Of course, we didn't find anything. Therefore, I started looking for a solution to be able to search in [Multimedia Data](./MULTIMEDIADATA.md) in an automatic way. 
-The solution I found were [Multimedia IR systems](./MULTIMEDIAIRSYSTEMS.md). 
+Of course, we didn't find anything. Therefore, I started looking for a solution to be able to search in [Multimedia Data](./MultimediaData.md) in an automatic way. 
+The solution I found were [Multimedia IR systems](./MultimediaIRSystems.md). 
 
-I decided to use [digiKam](https://www.digikam.org/) <img src="./Images/digiKam.png" alt="digiKam.png" width="20" height="20"/> as Offline [Multimedia IR systems](./MULTIMEDIAIRSYSTEMS.md) 
-and [Synology Moments](https://www.synology.com/en-global/dsm/feature/moments) <img src="./Images/SynologyMoments.png" alt="SynologyMoments.png" height="20" /> as Online [Multimedia IR systems](./MULTIMEDIAIRSYSTEMS.md).
+I decided to use [digiKam](https://www.digikam.org/) <img src="./Images/digiKam.png" alt="digiKam.png" width="20" height="20"/> as Offline [Multimedia IR systems](./MultimediaIRSystems.md) 
+and [Synology Moments](https://www.synology.com/en-global/dsm/feature/moments) <img src="./Images/SynologyMoments.png" alt="SynologyMoments.png" height="20" /> as Online [Multimedia IR systems](./MultimediaIRSystems.md).
 Please note, that they were selected solely based on author's criteria, and there is no aim to advertise anyone.
 
 Then I started using it... 
 
-What I discovered in a flash is that current [Multimedia IR systems](./MULTIMEDIAIRSYSTEMS.md) do not provide a flexible and automated functionality to import [Multimedia Data](./FVADocMD/MULTIMEDIADATA.md) into [Multimedia IR systems](./FVADocMD/MULTIMEDIAIRSYSTEMS.md).
+What I discovered in a flash is that current [Multimedia IR systems](./MultimediaIRSystems.md) do not provide a flexible and automated functionality to import [Multimedia Data](./FVADocMD/MultimediaData.md) into [Multimedia IR systems](./FVADocMD/MultimediaIRSystems.md).
 But that wasn't the only problem.
 
-I realized that I need [Multimedia Organizer](./MULTIMEDIAORGANIZERS.md) as well.
-Unfortunately, I didn't find a [Multimedia Organizer](./MULTIMEDIAORGANIZERS.md) that could fully satisfy my needs (fixing problem metadata, working with **digiKam** and **Synology** etc.)
+I realized that I need [Multimedia Organizer](./MultimediaOrganizers.md) as well.
+Unfortunately, I didn't find a [Multimedia Organizer](./MultimediaOrganizers.md) that could fully satisfy my needs (fixing problem metadata, working with **digiKam** and **Synology** etc.)
 That's why I started creating my [own product](https://github.com/dimanikulin/fva) to cover my needs. 
 
 Honestly, I didn't expect that it would be so hard and in the meantime so interesting.
