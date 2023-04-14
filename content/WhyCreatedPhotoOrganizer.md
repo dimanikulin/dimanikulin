@@ -33,6 +33,7 @@ Please note, that they were selected solely based on author's criteria, and ther
 Then I started using it... 
 
 What I discovered in a flash is that current [Multimedia IR systems](./MultimediaIRSystems.md) do not provide a flexible and automated functionality to import [Multimedia Data](./MultimediaData.md) into [Multimedia IR systems](./MultimediaIRSystems.md).
+
 But that wasn't the only problem.
 
 I realized that I need [Multimedia Organizer](./MultimediaOrganizers.md) as well.

@@ -143,7 +143,7 @@ Published on May 12, 2020 at [ISSN 2617-3808. Наукові записки На
 |hackernoon |TBD|TBD|TBD|TBD|TBD|
 |linkedin   |[Feb 20, 2023](https://www.linkedin.com/posts/dimanikulin_productengineering-photos-activity-7034072973523193856-MvF4?utm_source=share&utm_medium=member_desktop)|TBD|TBD|TBD|TBD|
 |codeproject|TBD|TBD|TBD|TBD|TBD|
-|dev.to     |TBD|TBD|TBD|TBD|TBD|
+|dev.to     |[Feb 12, 2023](https://dev.to/dimanikulin/why-i-decided-to-create-my-photo-organizer-1g7n)|TBD|TBD|TBD|TBD|
 |hashnode   |TBD|TBD|TBD|TBD|TBD|
 |medium     |TBD|TBD|TBD|TBD|TBD|
 |reddit     |TBD|TBD|TBD|TBD|TBD|
