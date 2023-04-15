@@ -57,3 +57,14 @@ it could also contain a location or any other information the user desires.
 | 6 | Image organizer      |                       |                        | Wikipedia      | [Web](https://en.wikipedia.org/wiki/Image_organizer) |
 | 7 | Best Photo Management Software to Organize Digital Photos in 2022 |  | 2021-12-17 | Mansi Vijay |[Web](https://wethegeek.com/best-photo-management-software-organize-photos/)|
 | 8 | Photo organizer | | | GitHub |[Web](https://github.com/topics/photo-organizer)|
+
+# Definitions, Acronyms, Abbreviations
+| # | Abbreviation or Acronym | Definition     |
+| - | ------------------------|:--------------:|
+| 1 | [digiKam](https://www.digikam.org/about/)|digiKam is an advanced open-source digital photo management application that runs on Linux, Windows, and MacOS. The application provides a comprehensive set of tools for importing, managing, editing, and sharing photos and raw files. |
+| 2 | IR Multimedia Systems |multimedia information retrieval means the process of searching for and finding multimedia documents; the corresponding research field is concerned with building multimedia search engines. |
+| 3 | [Multimedia data](https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-39940-9_1008)| Multimedia in principle means data of more than one medium. It usually refers to data representing multiple types of medium to capture information and experiences related to objects and events. Commonly used forms of data are numbers, alphanumeric, text, images, audio, and video. In common usage, people refer a data set as multimedia only when time-dependent data such as audio and video are involved.|
+| 4 | Multimedia IR| Multimedia Information Retrieval (MIR) is an organic system made up of Text Retrieval (TR); Visual Retrieval (VR); Video Retrieval (VDR); and Audio Retrieval (AR) systems. So that each type of digital document may be analyzed and searched by the elements of language appropriate to its nature, search criteria must be extended.|
+| 5 | [metadata](https://en.wikipedia.org/wiki/Metadata)|Metadata is "data that provides [information](https://en.wikipedia.org/wiki/Information) about other data". In other words, it is "data about data." Many distinct types of metadata exist, including descriptive metadata, structural metadata, administrative metadata, reference metadata and statistical metadata. |
+| 6 | [Mylio](https://mylio.com/tour/)| Mylio has a suite of tools to help you locate and consolidate your images across a variety of locations, including external hard drives, online services.|
+| 7 | [Synology Moments](https://www.synology.com/en-global/dsm/feature/moments)|It gathers all your photos and videos in one private place and organize them in an entirely new way. Synology Moments is the brand-new photo solution for personal and home use, offering a modern browsing experience with the image recognition technique. |
