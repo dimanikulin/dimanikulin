@@ -69,6 +69,7 @@ For example, there might be different professions who access the photos or image
 | 7 | Unified concept-based multimedia information retrieval technique |  |  2012 | Kambau, Ridwan, Hasibuan, Zainal, 10.1109/EECSI.2017.8239086 | book |
 | 8 | Multimedia Retrieval |                       |                        | Jimmy Lin , University of Maryland, Dr. Ramesh R. Sarukkai, Yahoo! Search | [Slides](https://www.ccs.neu.edu/home/jaa/CSG339.06F/Lectures/multimedia.pdf) |
 
+# Definitions, Acronyms, Abbreviations
 | # | Abbreviation or Acronym | Definition     |
 | - | ------------------------|:--------------:|
 | 1 | [Multimedia data](https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-39940-9_1008)| Multimedia in principle means data of more than one medium. It usually refers to data representing multiple types of medium to capture information and experiences related to objects and events. Commonly used forms of data are numbers, alphanumeric, text, images, audio, and video. In common usage, people refer a data set as multimedia only when time-dependent data such as audio and video are involved.|
