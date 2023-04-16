@@ -8,10 +8,11 @@ TBD
 TBD
 
 # Content
+TBD
 <img src="./Images/TBD.jpg" alt="TBD" />
 
 # References
 TBD
 
 # Definitions, Acronyms, Abbreviations
-Optional chapter
+TBD
