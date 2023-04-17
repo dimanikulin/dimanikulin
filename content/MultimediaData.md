@@ -62,17 +62,17 @@ As a result of the fact that finding information of any kind online is the most 
 Statistics shows that numerous resources, including photos, videos and other content, are constantly appearing and disappearing from search requests in the **Internet**.
 
 # References
-| # | Name                 | Description           | Release date           |  Author                 | Source        |
+| # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
-| 1 | Multimedia Data      |                       | 2009                   | Ramesh Jain | [Web](https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-39940-9_1008) |
-| 2 | How Many Photos Will Be Taken in 2021? |After a pandemic-related decline, photo-taking is expected to surge back up in 2021| March 11, 2021 |Nina Pantic|[Web](https://blog.mylio.com/how-many-photos-will-be-taken-in-2021-stats/)|
-| 3 | What are Multimedia IR systems?|             | 2022                   | Dmytro Nikulin | [repo](./MultimediaIRSystems.md) |
-| 4 | Multimedia IR systems Analyze|               | 2022                   | Dmytro Nikulin | [repo](./MultimediaIRSystemsAnalyze.md) |
-| 5 | What are MultimediaOrganizers?|              | 2022                   | Dmytro Nikulin | [repo](./MultimediaOrganizers.md)|
-| 6 | How Many Photos Will Be Taken in 2020?       | Research analysts crunch the statistics and come up with a mind-blowing number. |  January 10, 2020 | David Carrington | [Web](https://blog.mylio.com/how-many-photos-will-be-taken-in-2020/) |
-| 7 | Content Based Multimedia Information Retrieval To Support Digital Libraries |  |  2012.07.18 | Mohammad Nabil Almunawar | Magazine |
-| 8 | Content Analysis with Apache Tika          | | August 14, 2019        | Nguyen Nam Thai         | [Web](https://www.baeldung.com/apache-tika) |
-| 9 | The Massive Growth in Unstructured Data | | Dec. 2012 |IDC The Digital Universe |[Web](https://www.researchgate.net/figure/The-Massive-Growth-in-Unstructured-Data-Source-IDC-The-Digital-Universe-Dec-2012_fig1_322058724) |
+| 1 | Multimedia Data      |[Web](https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-39940-9_1008)| 2009                   | Ramesh Jain |  |
+| 2 | How Many Photos Will Be Taken in 2021? |[Web](https://blog.mylio.com/how-many-photos-will-be-taken-in-2021-stats/)| March 11, 2021 |Nina Pantic|After a pandemic-related decline, photo-taking is expected to surge back up in 2021|
+| 3 | What are Multimedia IR systems?| [repo](./MultimediaIRSystems.md) | 2022 | Dmytro Nikulin | |
+| 4 | Multimedia IR systems Analyze| [repo](./MultimediaIRSystemsAnalyze.md)| 2022 | Dmytro Nikulin | |
+| 5 | What are MultimediaOrganizers?| [repo](./MultimediaOrganizers.md) | 2022                   | Dmytro Nikulin | |
+| 6 | How Many Photos Will Be Taken in 2020?|[Web](https://blog.mylio.com/how-many-photos-will-be-taken-in-2020/) |  January 10, 2020 | David Carrington | Research analysts crunch the statistics and come up with a mind-blowing number. |
+| 7 | Content Based Multimedia Information Retrieval To Support Digital Libraries | Magazine |  2012.07.18 | Mohammad Nabil Almunawar |  |
+| 8 | Content Analysis with Apache Tika |[Web](https://www.baeldung.com/apache-tika) | August 14, 2019 | Nguyen Nam Thai       |  |
+| 9 | The Massive Growth in Unstructured Data |[Web](https://www.researchgate.net/figure/The-Massive-Growth-in-Unstructured-Data-Source-IDC-The-Digital-Universe-Dec-2012_fig1_322058724)| Dec. 2012 |IDC The Digital Universe | |
 
 # Definitions, Acronyms, Abbreviations
 | # | Abbreviation or Acronym | Definition     |
