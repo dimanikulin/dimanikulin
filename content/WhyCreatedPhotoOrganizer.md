@@ -43,17 +43,17 @@ That's why I started creating my [own product](https://github.com/dimanikulin/fv
 Honestly, I didn't expect that it would be so hard and in the meantime so interesting.
 
 # References
-| # | Name                 | Description           | Release date           |  Author                 | Source        |
+| # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
-| 1 | What is multimedia data?|                    | 2022                   | Dmytro Nikulin | [repo](./MultimediaData.md) |
-| 2 | What are Multimedia IR systems?|             | 2022                   | Dmytro Nikulin | [repo](./MultimediaIRSystems.md) |
-| 3 | Multimedia IR systems Analyze|               | 2022                   | Dmytro Nikulin | [repo](./MultimediaIRSystemsAnalyze.md) |
-| 4 | What are MultimediaOrganizers?|              | 2022                   | Dmytro Nikulin | [repo](./MultimediaOrganizers.md)|
-| 5 | 26 Best Photo Organizer Software and Apps of 2022 | | Jun 25, 2021    | Anisha Singh   | [Web](https://www.pixpa.com/blog/photo-organiser) |
-| 6 | Independent Course for Organizing Your Digital Photos | | 2021        | organizepictures |[Web](https://www.organizepictures.com/organize-digital-photos-course) |
-| 7 | Image organizer      |                       |                        | Wikipedia      | [Web](https://en.wikipedia.org/wiki/Image_organizer) |
-| 8 | Best Photo Management Software to Organize Digital Photos in 2022 |  | 2021-12-17 | Mansi Vijay |[Web](https://wethegeek.com/best-photo-management-software-organize-photos/)|
-| 9 | Photo organizer | | | GitHub |[Web](https://github.com/topics/photo-organizer)|
+| 1 | What is multimedia data?|[repo](./MultimediaData.md)| 2022            | Dmytro Nikulin |  |
+| 2 | What are Multimedia IR systems?|[repo](./MultimediaIRSystems.md)|2022 | Dmytro Nikulin |  |
+| 3 | Multimedia IR systems Analyze|[repo](./MultimediaIRSystemsAnalyze.md)|2022| Dmytro Nikulin |  |
+| 4 | What are MultimediaOrganizers?|[repo](./MultimediaOrganizers.md)|2022 | Dmytro Nikulin | |
+| 5 | 26 Best Photo Organizer Software and Apps of 2022 |[Web](https://www.pixpa.com/blog/photo-organiser)| Jun 25, 2021    | Anisha Singh   | |
+| 6 | Independent Course for Organizing Your Digital Photos |[Web](https://www.organizepictures.com/organize-digital-photos-course)| 2021        | organizepictures | |
+| 7 | Image organizer      |[Web](https://en.wikipedia.org/wiki/Image_organizer)|                        | Wikipedia      | |
+| 8 | Best Photo Management Software to Organize Digital Photos in 2022 |[Web](https://wethegeek.com/best-photo-management-software-organize-photos/)| 2021-12-17 | Mansi Vijay ||
+| 9 | Photo organizer |[Web](https://github.com/topics/photo-organizer)| | GitHub ||
 
 # Definitions, Acronyms, Abbreviations
 | # | Abbreviation or Acronym | Definition     |
