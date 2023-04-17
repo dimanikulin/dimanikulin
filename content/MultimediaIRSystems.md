@@ -58,16 +58,16 @@ For example, there might be different professions who access the photos or image
 * video content engineers searching for specific video segments and movies by their titles.
 
 # References
-| # | Name                 | Description           | Release date           |  Author                 | Source        |
+| # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
-| 1 | What is Multimedia Data?|                    | 2022                   | Dmytro Nikulin | [repo](./MultimediaData.md) |
-| 2 | Multimedia IR systems Analyze|               | 2022                   | Dmytro Nikulin | [repo](./MultimediaIRSystemsAnalyze.md) |
-| 3 | What are MultimediaOrganizers?|              | 2022                   | Dmytro Nikulin | [repo](./MultimediaOrganizers.md)|
-| 4 | Information retrieval|                       |                        | Wikipedia      | [Web](https://en.wikipedia.org/wiki/Information_retrieval)|
-| 5 | Multimedia information retrieval |           |                        | Wikipedia      | [Web](https://en.wikipedia.org/wiki/Multimedia_information_retrieval)|
-| 6 | Image retrieval      |                       |                        | Wikipedia      | [Web](https://en.wikipedia.org/wiki/Image_retrieval)|
-| 7 | Unified concept-based multimedia information retrieval technique |  |  2012 | Kambau, Ridwan, Hasibuan, Zainal, 10.1109/EECSI.2017.8239086 | book |
-| 8 | Multimedia Retrieval |                       |                        | Jimmy Lin , University of Maryland, Dr. Ramesh R. Sarukkai, Yahoo! Search | [Slides](https://www.ccs.neu.edu/home/jaa/CSG339.06F/Lectures/multimedia.pdf) |
+| 1 | What is Multimedia Data?|[repo](./MultimediaData.md)| 2022            | Dmytro Nikulin | |
+| 2 | Multimedia IR systems Analyze|[repo](./MultimediaIRSystemsAnalyze.md)|2022| Dmytro Nikulin | |
+| 3 | What are MultimediaOrganizers?|[repo](./MultimediaOrganizers.md)|2022 | Dmytro Nikulin | |
+| 4 | Information retrieval|[Web](https://en.wikipedia.org/wiki/Information_retrieval)| | Wikipedia      | |
+| 5 | Multimedia information retrieval |[Web](https://en.wikipedia.org/wiki/Multimedia_information_retrieval)|| Wikipedia | |
+| 6 | Image retrieval|[Web](https://en.wikipedia.org/wiki/Image_retrieval)|  | Wikipedia      | |
+| 7 | Unified concept-based multimedia information retrieval technique | book |  2012 | Kambau, Ridwan, Hasibuan, Zainal, 10.1109/EECSI.2017.8239086 |  |
+| 8 | Multimedia Retrieval |[Slides](https://www.ccs.neu.edu/home/jaa/CSG339.06F/Lectures/multimedia.pdf) | | Jimmy Lin , University of Maryland, Dr. Ramesh R. Sarukkai, Yahoo! Search | |
 
 # Definitions, Acronyms, Abbreviations
 | # | Abbreviation or Acronym | Definition     |
