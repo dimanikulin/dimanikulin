@@ -49,17 +49,17 @@ In order to meet user demands, the following set of searching features must be d
 Although the most recent **multimedia IR** systems may provide search operations, providing tagging must be implemented at a much earlier level than import.
 
 # References
-| # | Name                 | Description           | Release date           |  Author                 | Source        |
+| # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
-| 1 | What is Multimedia Data?|                    | 2022                   | Dmytro Nikulin | [repo](./MultimediaData.md) |
-| 2 | What are Multimedia IR systems?|             | 2022                   | Dmytro Nikulin | [repo](./MultimediaIRSystems.md) |
-| 3 | What are MultimediaOrganizers?|              | 2022                   | Dmytro Nikulin | [repo](./MultimediaOrganizers.md)|
-| 4 | Synology Moments     |                       | 2021                   | Synology       | [Web](https://www.synology.com/en-global/dsm/feature/moments)|
-| 5 | Tour Mylio           |                       |                        | Mylio          | [Web](https://mylio.com/) |
-| 6 | Google Photos        |                       |                        | Wikipedia      | [Web](https://en.wikipedia.org/wiki/Google_Photos)|
-| 7 | A Beginner’s Guide To Google Photos  |       | July 08, 2020          | Sue Waters     | [Web](https://www.theedublogger.com/google-photos-guide/) |
-| 8 | The digiKam Handbook |                       |                        | The digiKam developers team | [Web](https://www.digikam.org/documentation/) |
-| 9 | Apple Photos         |                       |                        | Wikipedia      | [Web](https://en.wikipedia.org/wiki/Apple_Photos) |
+| 1 | What is Multimedia Data?|[repo](./MultimediaData.md)| 2022            | Dmytro Nikulin | |
+| 2 | What are Multimedia IR systems?|[repo](./MultimediaIRSystems.md)| 2022| Dmytro Nikulin | |
+| 3 | What are MultimediaOrganizers?|[repo](./MultimediaOrganizers.md)| 2022| Dmytro Nikulin | |
+| 4 | Synology Moments     |[Web](https://www.synology.com/en-global/dsm/feature/moments)| 2021 | Synology       | |
+| 5 | Tour Mylio           |[Web](https://mylio.com/)|                      | Mylio          | |
+| 6 | Google Photos        |[Web](https://en.wikipedia.org/wiki/Google_Photos)| | Wikipedia   | |
+| 7 | A Beginner’s Guide To Google Photos |[Web](https://www.theedublogger.com/google-photos-guide/)| July 08, 2020| Sue Waters     | |
+| 8 | The digiKam Handbook |[Web](https://www.digikam.org/documentation/)| | The digiKam developers team | |
+| 9 | Apple Photos         |[Web](https://en.wikipedia.org/wiki/Apple_Photos)|  | Wikipedia      | |
 
 # Definitions, Acronyms, Abbreviations
 | # | Abbreviation or Acronym | Definition     |
