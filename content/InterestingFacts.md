@@ -48,6 +48,6 @@ Something else? please share in comments other facts.
 <img src="./Images/InterestingFactsAbout12.jpg" alt="InterestingFactsAbout12" />
 
 # References
-| # | Name                 | Description           | Release date           |  Author                 | Source        |
+| # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
-| 1 | Interesting facts about number "6"      |                       | 2023, April                   | Dmytro Nikulin | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_interestingfacts-numbers-globallogic-activity-7051457743555104769-pDkY?utm_source=share&utm_medium=member_desktop) |
+| 1 | Interesting facts about number "6"    | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_interestingfacts-numbers-globallogic-activity-7051457743555104769-pDkY?utm_source=share&utm_medium=member_desktop) | 2023, April | Dmytro Nikulin | |
