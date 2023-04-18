@@ -124,8 +124,8 @@ Published on May 12, 2020 at [ISSN 2617-3808. Наукові записки На
 # Other publication:
 
 ## Publications about Multimedia, Multimedia IR systems and Multimedia Organizers 
-|Name       |[What is multimedia data?](./MultimediaData.md)|[What are Multimedia IR systems?](./content/MultimediaIRSystems.md)|[Multimedia IR systems Analyze](./content/MultimediaIRSystemsAnalyze.md)|[What are Multimedia Organizers?](./content/MultimediaOrganizers.md)|Exploring the World of Multimedia Information Retrieval Systems|
-|-----------|-----------------------------------------------|-------------------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------|:----------------------------------------------------------:|
+|Name       |[What is multimedia data?](./MultimediaData.md)|[What are Multimedia IR systems?](./MultimediaIRSystems.md)|[Multimedia IR systems Analyze](./content/MultimediaIRSystemsAnalyze.md)|[What are Multimedia Organizers?](./content/MultimediaOrganizers.md)|Exploring the World of Multimedia Information Retrieval Systems|
+|-----------|-----------------------------------------------|-----------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------|:----------------------------------------------------------:|
 |dou.eu     |N/A|N/A|N/A|N/A|[Feb 20, 2023](https://dou.eu/community/posts/what-are-multimedia-information-retrieval-systems)|
 |hackernoon |N/A|N/A|N/A|N/A|I tryied to publish on 01/31/2023 but they said it is a duplication of one my previos publication|
 |linkedin   |N/A|N/A|N/A|N/A|[January 27,2023](https://www.linkedin.com/posts/dimanikulin_activity-7024663781666349057-Hw3_/?utm_source=share&utm_medium=member_desktop)|
