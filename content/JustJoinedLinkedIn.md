@@ -1,7 +1,23 @@
-## Just Joined LinkedIn
+# Headline
+TBD
+
+# Article description
+TBD 
+
+# Tags
+TBD
+
+# Content
+
+## Just Joined LinkedIn (На русском)
 Наболело...
 
 <img src="./Images/JustJoinedLinkedIn.jpg" alt="TBD" />
 
-### Tags
-TODO
+## Just Joined LinkedIn (In English)
+About one year ago I posted 
+
+<img src="./Images/JustJoinedLinkedIn.jpg" alt="TBD" />
+
+## Tags
+LinkedIn Content
