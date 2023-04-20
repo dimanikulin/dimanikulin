@@ -44,5 +44,11 @@ Not this time, sorry guys ;-)
 
 <img src="./Images/fishing04.jpg" alt="fishing 04" />
 
-# Attempt 3
+# Attempt 4
+The most boring proposal so far.
 
+This time they did not propose big money neither high-paying job with WFH. 
+
+They just wanted to warn me about disk space.
+
+<img src="./Images/fishing05.jpg" alt="fishing 05" />
