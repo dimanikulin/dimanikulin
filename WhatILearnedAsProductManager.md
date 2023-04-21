@@ -111,7 +111,7 @@ It is a form to gather information on what capabilities, functions and scenarios
 <img src="Images/Questioner.png" alt="Questioner"/>
  
 ### Capabilities
-Having gained an understanding of user needs, I started describing [Capabilities](https://github.com/dimanikulin/fva/blob/README.md#capabilities)
+Having gained an understanding of user needs, I started describing [Capabilities](https://github.com/dimanikulin/fva#capabilities)
 Literally, Capabilities describe key requirements.
 
 ### Features
