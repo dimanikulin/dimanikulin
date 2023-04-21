@@ -148,7 +148,7 @@ Feedback from **Yevgeniy Leybzon**, Chief Architect at Jan 25, 2023, 7:11:00 PM
 |-----------|-----------------------------------------------------------------------|-------------------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------|:----------------------------------------------------------:|
 |dou.eu     |TBD|TBD|TBD|TBD|TBD|
 |hackernoon |TBD|TBD|TBD|TBD|TBD|
-|linkedin   |[Feb 20, 2023](https://www.linkedin.com/posts/dimanikulin_productengineering-photos-activity-7034072973523193856-MvF4?utm_source=share&utm_medium=member_desktop)|TBD|TBD|TBD|TBD|
+|linkedin   |[Feb 20, 2023](https://www.linkedin.com/posts/dimanikulin_productengineering-photos-activity-7034072973523193856-MvF4?utm_source=share&utm_medium=member_desktop)|[March 20, 2023](https://www.linkedin.com/posts/dimanikulin_activity-7043490960445480960-KIPT?utm_source=share&utm_medium=member_desktop)|TBD|TBD|TBD|
 |codeproject|TBD|TBD|TBD|TBD|TBD|
 |dev.to     |[Feb 12, 2023](https://dev.to/dimanikulin/why-i-decided-to-create-my-photo-organizer-1g7n)|[Mar 3, 2023](https://dev.to/dimanikulin/what-i-learned-as-a-product-manager-while-creating-my-product-3fom)|TBD|TBD|TBD|
 |hashnode   |[Mar 5, 2023](https://dimanikulin.hashnode.dev/why-i-decided-to-create-my-photo-organizer)|TBD|TBD|TBD|TBD|
