@@ -144,7 +144,7 @@ Feedback from **Yevgeniy Leybzon**, Chief Architect at Jan 25, 2023, 7:11:00 PM
 |quora      |[Jun 19, 2022](https://www.quora.com/profile/Dima-Nikulin-2/What-is-Multimedia-Data-We-live-in-the-digital-data-era-and-growing-of-the-Internet-gives-us-a-possibility-to-find-th)|[Jul 3, 2022](https://www.quora.com/profile/Dima-Nikulin-2/What-are-Multimedia-IR-Systems-Lets-briefly-overview-the-Multimedia-IR-systems-According-to-the-Wikipedia-https)|[Jul 13, 2022](https://www.quora.com/profile/Dima-Nikulin-2/Multimedia-IR-Systems-analyze-Let-us-compare-several-multimedia-IR-systems-by-covering-requirements-and-needs-we-identi)|[Sep 22, 2022](https://www.quora.com/profile/Dima-Nikulin-2/What-are-the-Multimedia-Organizers-Multimedia-Organizers-functions-They-currently-perform-the-search-in-photo-set)|N/A|
 
 ## Publications about own product, its history and what I learned 
-|Name       |[Why I created photo organizer?](./WhyCreatedPhotoOrganizer.md)|[](./content/MultimediaIRSystems.md)|[](./content/MultimediaIRSystemsAnalyze.md)|[](./content/MultimediaOrganizers.md)||
+|Name       |[Why I created photo organizer?](./WhyCreatedPhotoOrganizer.md)|[What I Learned As Product Manager](./WhatILearnedAsProductManager.md)|[](./content/MultimediaIRSystemsAnalyze.md)|[](./content/MultimediaOrganizers.md)||
 |-----------|-----------------------------------------------------------------------|-------------------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------|:----------------------------------------------------------:|
 |dou.eu     |TBD|TBD|TBD|TBD|TBD|
 |hackernoon |TBD|TBD|TBD|TBD|TBD|
