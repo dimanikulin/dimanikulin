@@ -21,7 +21,7 @@ The first product I was thinking about was "FVA Tool Set".
 Subsequently, another product came to my mind. As a result, a Product Line came about.
 
 - "Hold on, you started from thinking of products, right?", - you will ask me.
-- "Nope, I started from... It was ages ago and a whole [history](../README.md#history) is quite big. Being a developer, I started from coding".
+- "Nope, I started from... It was ages ago and a whole [history](./WhyCreatedPhotoOrganizer.md) is quite big. Being a developer, I started from coding".
 - "Was it a good idea to start from coding?", - you will ask me. 
 - "Again no. I would have started from Design Thinking, if I was familiar with it." 
 
@@ -111,7 +111,7 @@ It is a form to gather information on what capabilities, functions and scenarios
 <img src="Images/Questioner.png" alt="Questioner"/>
  
 ### Capabilities
-Having gained an understanding of user needs, I started describing [Capabilities](./REQUIREMENTS.md#capabilities)
+Having gained an understanding of user needs, I started describing [Capabilities](https://github.com/dimanikulin/fva/blob/README.md#capabilities)
 Literally, Capabilities describe key requirements.
 
 ### Features
