@@ -18,7 +18,7 @@ User persona, Value proposition, Business model canvas, Product vision, Requirem
 
 ## Design Thinking
 The first product I was thinking about was "FVA Tool Set".
-Subsequently, another product came to my mind. As a result, a Product Line came about.
+Subsequently, another product came to my mind. As a result, a **Product Line** came about.
 
 - "Hold on, you started from thinking of products, right?", - you will ask me.
 - "Nope, I started from... It was ages ago and a whole [history](./WhyCreatedPhotoOrganizer.md) is quite big. Being a developer, I started from coding".
@@ -32,13 +32,13 @@ Design Thinking is a process of preparation, which consists of seven stages of c
 - **Empathize-think and feel** Here you need to create an artifact called "Empathy Map" with a formula - think and feel;
 - **Define: Problem Statement** Here you need to describe a problem basing on the "Empathy Map";
 - **Ideate** Here you need to nave a list of raw ideas to explore.
-- There are also other stages not mentioned here.
+There are also other stages not mentioned here.
 
 ## High-level product documentation
 Once I came up with product ideas to implement, I realized that a set of documentation artifacts to keep high-level product knowledge had to be established.
 
 ### Value Propositions
-The first artifact to consider was Value Proposition.
+The first artifact to consider was **Value Proposition**.
 which has the following components:
 - **Mapper** for Products and Services to Customer Jobs;
 - **Mapper** for Gain creators to Gains;
@@ -48,7 +48,7 @@ which has the following components:
 <img src="Images/ValueProposition.png" alt="One Pager"/>
 
 ### Business Model Canvas
-The next artifact was Business Model Canvas. 
+The next artifact was **Business Model Canvas**. 
 I downloaded a template [here](strategyzer.com) and filled in the following fields:
 - **Key Partners** to answer the questions: **Who are the key partners? Who are the key suppliers?**
 - **Key Activities** to answer the questions: **What are the main tasks that the company must do well to deliver its value?**
@@ -61,7 +61,7 @@ I downloaded a template [here](strategyzer.com) and filled in the following fiel
 - **Cost Structure** to answer the questions: **Where do the costs come from?**
 
 ### Product Vision Board
-The third artifact was Product Vision Board.
+The third artifact was **Product Vision Board.**
 I downloaded a template [here](https://www.romanpichler.com/) and filled in the following fields:
 - **VISION** to answer the questions: **What is your purpose for creating the product? Which positive change should it bring about?**
 - **TARGET GROUP** to answer the questions: **Which market or market segment does the product address? Who are target customers and users?**
@@ -70,7 +70,7 @@ I downloaded a template [here](https://www.romanpichler.com/) and filled in the 
 - **BUSINESS GOALS** to answer the questions: **How is the product going to benefit the company? What are business goals?**
 
 ### Competitive Analysis Matrix
-The last artifact in High-level product documentation was Competitive Analysis Matrix
+The last artifact in High-level product documentation was **Competitive Analysis Matrix**
 I filled in the following rows for several products:
 - **Vision** with **Goal and Target segment**;
 - **Marketing** with **Pricing and  Unique value proposition**;
@@ -81,7 +81,7 @@ I filled in the following rows for several products:
 As soon as high-level product documentation was ready, I decided to go deeper with more detail from the user's point of view.
 
 ### Persona 
-The first artifact I created was Persona
+The first artifact I created was **Persona**
 I downloaded a template [here](https://www.romanpichler.com/) and filled in the following fields:
 - **PICTURE & NAME** to answer the questions: **What does the persona look like? What is his/her name?** I chose a realistic and plausible picture and name.
 - **DETAILS** to answer the questions: **What are persona’s relevant characteristics and behaviors?** I wrote in demographics, such as age, gender, occupation, and income; psychographics, including lifestyle, social class, and personality; and behavioral attributes like usage patterns, attitudes and brand loyalty.
@@ -91,33 +91,33 @@ I downloaded a template [here](https://www.romanpichler.com/) and filled in the 
 
 ### User Journey and User Scenarios
 Then I tried to restore user way to achieve the goals. 
-And I came up with User Journey.
+And I came up with **User Journey**.
 
 To show the value of the product, I created three user scenarios and posted them on YouTube. Please see the reference to watch them.
 
 ### Stakeholders
 Honestly, a bit later I realized that end users are not the only target audience for this product.
 And next artifact - Stakeholders - came into sight.
-It looks like a table with the following columns: Group, Stakeholder Role, Concerns, View.
-Table rows contain as follows: End users, Suppliers and Team members.
+It looks like a table with the following columns: **Group**, **Stakeholder Role**, **Concerns**, **View**.
+Table rows contain as follows: **End users**, **Suppliers** and **Team members**.
 
 ## Product requirements 
 Having defined everything from the user's point of view, I started thinking what exactly the product will implement.
 
 ### Questionnaire
 Having no clue what is important for the user and what is not, I created a [questionnaire to clarify user needs](https://docs.google.com/forms/d/1EI3oOumRnHxDjEYgV6PFB-AMfV5plLtuV2r5S8BYn_g/).
-It is a form to gather information on what capabilities, functions and scenarios are important. 
+It is a form to gather information on what **capabilities**, **functions** and **scenarios** are important. 
 
 <img src="Images/Questioner.png" alt="Questioner"/>
  
 ### Capabilities
 Having gained an understanding of user needs, I started describing [Capabilities](https://github.com/dimanikulin/fva#capabilities)
-Literally, Capabilities describe key requirements.
+Literally, **Capabilities** describe key requirements.
 
 ### Features
 Having capability list defined, I started preparing features.
 They represent significant, central functionality of the final system. 
-I put them into the table with the following columns: Name, Clarification, Business Value.
+I put them into the table with the following columns: **Name**, **Clarification**, **Business Value**.
 The feature set helped me to create a project plan and a road map. 
 
 ### Functional Requirements
