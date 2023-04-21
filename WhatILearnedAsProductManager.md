@@ -23,15 +23,15 @@ Subsequently, another product came to my mind. As a result, a **Product Line** c
 - "Hold on, you started from thinking of products, right?", - you will ask me.
 - "Nope, I started from... It was ages ago and a whole [history](./WhyCreatedPhotoOrganizer.md) is quite big. Being a developer, I started from coding".
 - "Was it a good idea to start from coding?", - you will ask me. 
-- "Again no. I would have started from Design Thinking, if I was familiar with it." 
+- "Again no. I would have started from Design Thinking if I was familiar with it." 
 
 Design Thinking is a process of preparation, which consists of seven stages of creating a product:
 
 - **Empathize-who, goal, do** Here you need to create an artifact called "Empathy Map" with a formula - who, goal, do;
 - **Empathize-see, say, do, hear** Here you need to create an artifact called "Empathy Map" with a formula - see, say, do, hear;
 - **Empathize-think and feel** Here you need to create an artifact called "Empathy Map" with a formula - think and feel;
-- **Define: Problem Statement** Here you need to describe a problem basing on the "Empathy Map";
-- **Ideate** Here you need to nave a list of raw ideas to explore.
+- **Define: Problem Statement** Here you need to describe a problem based on the "Empathy Map";
+- **Ideate** Here you need to have a list of raw ideas to explore.
 There are also other stages not mentioned here.
 
 ## High-level product documentation
@@ -64,33 +64,33 @@ I downloaded a template [here](strategyzer.com) and filled in the following fiel
 The third artifact was **Product Vision Board.**
 I downloaded a template [here](https://www.romanpichler.com/) and filled in the following fields:
 - **VISION** to answer the questions: **What is your purpose for creating the product? Which positive change should it bring about?**
-- **TARGET GROUP** to answer the questions: **Which market or market segment does the product address? Who are target customers and users?**
+- **TARGET GROUP** to answer the questions: **Which market or market segment does the product address? Who are the target customers and users?**
 - **NEEDS** to answer the questions: **What problem does the product solve? Which benefit does it provide?**
 - **PRODUCT** to answer the questions: **What kind of product is it? What makes it stand out? Is it feasible to develop the product?**
 - **BUSINESS GOALS** to answer the questions: **How is the product going to benefit the company? What are business goals?**
 
 ### Competitive Analysis Matrix
-The last artifact in High-level product documentation was **Competitive Analysis Matrix**
+The last artifact in High-level product documentation was the **Competitive Analysis Matrix**
 I filled in the following rows for several products:
 - **Vision** with **Goal and Target segment**;
 - **Marketing** with **Pricing and  Unique value proposition**;
-- **End user support** with **Trainings, User guide and Help desk**;
+- **End-user support** with **Trainings, User guide and Help desk**;
 - **Features**.
 
-## Product from user prospective
+## Product from a user perspective
 As soon as high-level product documentation was ready, I decided to go deeper with more detail from the user's point of view.
 
 ### Persona 
 The first artifact I created was **Persona**
 I downloaded a template [here](https://www.romanpichler.com/) and filled in the following fields:
 - **PICTURE & NAME** to answer the questions: **What does the persona look like? What is his/her name?** I chose a realistic and plausible picture and name.
-- **DETAILS** to answer the questions: **What are persona’s relevant characteristics and behaviors?** I wrote in demographics, such as age, gender, occupation, and income; psychographics, including lifestyle, social class, and personality; and behavioral attributes like usage patterns, attitudes and brand loyalty.
-- **GOAL** to answer the questions: **What problem does persona want to solve or which benefit does the character seek? Why would persona want to use or buy the product?**
+- **DETAILS** to answer the questions: **What are the persona’s relevant characteristics and behaviors?** I wrote in demographics, such as age, gender, occupation, and income; psychographics, including lifestyle, social class, and personality; and behavioral attributes like usage patterns, attitudes and brand loyalty.
+- **GOAL** to answer the questions: **What problem does the persona want to solve or which benefit does the character seek? Why would a persona want to use or buy the product?**
 
 <img src="Images/Persona.png" alt="Persona"/>
 
 ### User Journey and User Scenarios
-Then I tried to restore user way to achieve the goals. 
+Then I tried to restore the user's way to achieving the goals. 
 And I came up with **User Journey**.
 
 To show the value of the product, I created three user scenarios and posted them on YouTube. Please see the reference to watch them.
@@ -98,11 +98,11 @@ To show the value of the product, I created three user scenarios and posted them
 ### Stakeholders
 Honestly, a bit later I realized that end users are not the only target audience for this product.
 And next artifact - Stakeholders - came into sight.
-It looks like a table with the following columns: **Group**, **Stakeholder Role**, **Concerns**, **View**.
+It looks like a table with the following columns: **Group**, **Stakeholder Role**, **Concerns**, and **View**.
 Table rows contain as follows: **End users**, **Suppliers** and **Team members**.
 
 ## Product requirements 
-Having defined everything from the user's point of view, I started thinking what exactly the product will implement.
+Having defined everything from the user's point of view, I started thinking about what exactly the product will implement.
 
 ### Questionnaire
 Having no clue what is important for the user and what is not, I created a [questionnaire to clarify user needs](https://docs.google.com/forms/d/1EI3oOumRnHxDjEYgV6PFB-AMfV5plLtuV2r5S8BYn_g/).
@@ -115,26 +115,26 @@ Having gained an understanding of user needs, I started describing [Capabilities
 Literally, **Capabilities** describe key requirements.
 
 ### Features
-Having capability list defined, I started preparing features.
+Having the capability list defined, I started preparing features.
 They represent significant, central functionality of the final system. 
-I put them into the table with the following columns: **Name**, **Clarification**, **Business Value**.
+I put them into the table with the following columns: **Name**, **Clarification**, and **Business Value**.
 The feature set helped me to create a project plan and a road map. 
 
 ### Functional Requirements
 Last but not least step in defining product behavior was a list of **Functional Requirements**, that define system detail behavior.
-I settled them into the table with the following columns: **Name**, **Architecture complexity**, **Business Value**, **Component**, **Phase**, **Feature ID**.
+I settled them into the table with the following columns: **Name**, **Architecture complexity**, **Business Value**, **Component**, **Phase**, and **Feature ID**.
 
 ## Product development documents
 
 ### Product Road Map
-I believe, **Product Road Map** is the most important document for a product at the development stage. 
+I believe **Product Road Map** is the most important document for a product at the development stage. 
 I downloaded a template [here](https://www.romanpichler.com/) and filled in the following fields and rows:
 - **DATE** with **Release date or timeframe**;
-- **NAME** with **Name of new release**;
+- **NAME** with **the Name of the new release**;
 - **GOAL** with **The benefit a product should provide**;
 - **FEATURES** with **High-level features necessary to meet the goal**;
 - **METRICS** with **Metrics to determine if the goal has been met**.
-Columns there are the product different version.
+Columns there are the product's different versions.
 
 On the top of that, it is quite convenient to keep an [online roadmap](https://github.com/dimanikulin/fva/projects/4).
 
