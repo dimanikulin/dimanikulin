@@ -145,7 +145,7 @@ Feedback from **Yevgeniy Leybzon**, Chief Architect at Jan 25, 2023, 7:11:00 PM
 
 ## Publications about own product, its history and what I learned 
 |Name       |[Why I created photo organizer?](./WhyCreatedPhotoOrganizer.md)|[What I Learned As Product Manager](./WhatILearnedAsProductManager.md)|[](./content/MultimediaIRSystemsAnalyze.md)|[](./content/MultimediaOrganizers.md)||
-|-----------|-----------------------------------------------------------------------|-------------------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------|:----------------------------------------------------------:|
+|-----------|---------------------------------------------------------------|----------------------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------|:----------------------------------------------------------:|
 |dou.eu     |TBD|TBD|TBD|TBD|TBD|
 |hackernoon |TBD|TBD|TBD|TBD|TBD|
 |linkedin   |[Feb 20, 2023](https://www.linkedin.com/posts/dimanikulin_productengineering-photos-activity-7034072973523193856-MvF4?utm_source=share&utm_medium=member_desktop)|[March 20, 2023](https://www.linkedin.com/posts/dimanikulin_activity-7043490960445480960-KIPT?utm_source=share&utm_medium=member_desktop)|TBD|TBD|TBD|
