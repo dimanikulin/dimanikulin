@@ -121,6 +121,13 @@ Published on May 12, 2020 at [ISSN 2617-3808. Наукові записки На
 
 [And it is in the paper magazine](./content/Images/Publication.jpg)
 
+## Detecting architectural gaps in an automated way
+Published on December 25, 2022 at [globallogic practices](https://practices.globallogic.com/tech-papers/956)
+
+Feedback from **Yevgeniy Leybzon**, Chief Architect at Jan 25, 2023, 7:11:00 PM
+
+"Excellent whitepaper! I strongly recommend to use one of the approaches that you decribe in all delivery projects to avoid archiecture drifts and gaps"
+
 # Other publication:
 
 ## Publications about Multimedia, Multimedia IR systems and Multimedia Organizers 
