@@ -13,10 +13,10 @@ During education in NAUKMA, we were given free access to https://www.coursera.or
 | 7 | Linux Tools for Developers                               | Aug 2020 | TJNUX7X9N5U2  |
 | 8 | Structuring Machine Learning Projects                    | Jul 2020 | PD4MQFF47WLJ  |
 | 9 | Version Control with Git                                 | Jun 2020 | X3MLKP3PMQGB  |
-| 10| Business Implications of AI: A Nano-course.              | Jul 2020 | LE48SG9295TU  |
+| 10| [Business Implications of AI: A Nano-course](./Images/CourseraCertificate1.jpg)         | Jul 2020 | LE48SG9295TU  |
     
 ### Business Implications of AI: A Nano-course
-<img src="./Images/CourseraCertificate1.jpg" alt="TBD" />
+<img src="" alt="TBD" />
 
 ### Version Control with Git
 <img src="./Images/CourseraCertificate2.jpg" alt="TBD" />
