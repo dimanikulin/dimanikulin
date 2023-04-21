@@ -142,7 +142,7 @@ On the top of that, it is quite convenient to keep an [online roadmap](https://g
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 | 1 | Roman Pichler Product Manager templates| [web](https://www.romanpichler.com/) | | Roman Pichler | |
-| 2 | Business Model Canvas template | [web](strategyzer.com) | | |
+| 2 | Business Model Canvas template | [web](https://www.strategyzer.com) | | |
 | 3 | Business Model Canvas for FVAHelpers | [local resource](./FVADocX/FVAHelpers.pptx) | December 2022 | Dmytro Nikulin | | 
 | 4 | Information with Business Goals/Drivers/Objectives for FVAHelpers | [local resource](./FVADocX/FVAHelpers-BusinessModelCanvas.docx) | December 2022 |  Dmytro Nikulin | |
 | 5 | Product Road Map | [local resource](./FVADocX/FVAToolSet-ProductRoadMap.pdf) | December 2022 | Dmytro Nikulin | |
