@@ -49,7 +49,7 @@ which has the following components:
 
 ### Business Model Canvas
 The next artifact was **Business Model Canvas**. 
-I downloaded a template [here](strategyzer.com) and filled in the following fields:
+I downloaded a template [here](https://www.strategyzer.com) and filled in the following fields:
 - **Key Partners** to answer the questions: **Who are the key partners? Who are the key suppliers?**
 - **Key Activities** to answer the questions: **What are the main tasks that the company must do well to deliver its value?**
 - **Key Resources** to answer the questions: **What are the most important physical, financial, intellectual or human recourses the company has?**
