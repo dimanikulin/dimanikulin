@@ -156,6 +156,8 @@ Feedback from **Yevgeniy Leybzon**, Chief Architect at Jan 25, 2023, 7:11:00 PM
 |reddit     |[Feb 12, 2023](https://www.reddit.com/r/fva/comments/112s9q1/why_i_decided_to_create_my_photo_organizer/)|[Mar 10, 2023](https://www.reddit.com/r/fva/comments/11nnrds/what_i_learned_as_a_product_manager_while/)|TBD|TBD|TBD|
 |quora      |[Feb 17](https://www.quora.com/profile/Dima-Nikulin-2/Why-I-decided-to-create-my-photo-organizer-As-a-child-I-used-to-flip-through-family-photo-album-to-see-my-relatives-w)|[Mar 14, 2023](https://www.quora.com/profile/Dima-Nikulin-2/What-I-learned-as-a-Product-Manager-while-creating-my-product-Design-Thinking-The-first-product-I-was-thinking-about-w-2)|TBD|TBD|TBD| 
 
+- [Just Joined LinkedIn](./JustJoinedLinkedIn.md)
+
 
 - [Communication](./content/Communication.md)
 - [Active Listening](./content/ActiveListening.md)
@@ -169,5 +171,4 @@ Feedback from **Yevgeniy Leybzon**, Chief Architect at Jan 25, 2023, 7:11:00 PM
 - [War in Ukraine](./content/WarInUkraine.md)
 - [Interesting facts](./content/InterestingFacts.md)
 - [Fishing](./content/Fishing.md)
-- [Just Joined LinkedIn](./content/JustJoinedLinkedIn.md)
 - [Windows 95](./content/Windows95.md) 
