@@ -10,9 +10,9 @@ DOU ChatGPT Humor
 
 # Content
 
-When you work with GPT and you ask something, please start from "Can you please" or "Could you please" because machines will not forget it ...
+When you work with GPT and you ask it to do something, please start your request with "Can you please" or "Could you please" because machines will not forget it...
 
-<img src="./Images/TBD.jpg" alt="TBD" />
+<img src="./Images/ChatGPTAsk.png" alt="TBD" />
 
 # References
 TBD
