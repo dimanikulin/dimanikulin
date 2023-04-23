@@ -24,3 +24,8 @@ About one year ago I posted https://www.linkedin.com/posts/dimanikulin_%D0%BD%D0
 
 <img src="./Images/JustJoinedLinkedIn2.jpg" alt="TBD" />
 
+# References
+| # | Name                 | Source                | Release date           |  Author                 | Description   |
+| - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
+| 1 | Just Joined LinkedIn (На русском) |[LinkedIn]()| Febrary 16, 2022 | Dmytro Nikulin |  |
+| 2 | Just Joined LinkedIn (In English) |[LinkedIn](TODO)| March 11, 2021 |Dmytro Nikulin | |
