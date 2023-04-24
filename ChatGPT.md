@@ -7,8 +7,9 @@ TBD
 # Tags
 DOU ChatGPT Humor
 
-
 # Content
+
+Everyone must know that!
 
 When you work with GPT and you ask it to do something, please start your request with "Can you please" or "Could you please" because machines will not forget it...
 
