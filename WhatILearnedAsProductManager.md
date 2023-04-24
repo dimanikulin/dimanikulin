@@ -2,7 +2,7 @@
 
 What I learned as a Product Manager while creating my product
 
-Creating a High-Level Product Documentation and Requirements: A Journey from Design Thinking to User Scenarios.
+Creating a High-Level Product Documentation and Requirements: A Journey from Design Thinking to Product Road Map.
 
 # Article description
 It have described author's journey of creating a product line, which started with the idea of developing a single product, the FVA Tool Set, and ended up with the creation of a set of high-level product documentation, a detailed understanding of the product from the user's perspective, and product requirements. 
@@ -12,7 +12,7 @@ Additionally, author focused on the product from the user's perspective and crea
 Finally, author identified stakeholders and created a table with their roles, concerns, and views, and created a questionnaire to clarify user needs. 
 
 # Tags
-User persona, Value proposition, Business model canvas, Product vision, Requirements, Stakeholders, Competitor analysis
+Design-Thinking, User persona, Value proposition, Business model canvas, Product vision, Requirements, Stakeholders, Competitor analysis
 
 # Content
 
