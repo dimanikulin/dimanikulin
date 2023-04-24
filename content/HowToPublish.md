@@ -66,6 +66,8 @@ GPT helpes here
 
 ## "Article Desription" chapter
 
+we call it TL;DR
+
 GPT helpes here
 
 ## "Tags" chapter
@@ -98,7 +100,10 @@ Facebook not for programming
 ### Pictures 
 No pictures - less views. pictires shall be related to content
 
-picture orientation must be album and not a book orienttaopn
+picture orientation suggested to be album and not a book orienttaopn
+
+you would have at least featured image as a title image. it shhould be active like a gif
+
 
 ### Tables 
 if you provide tables please make sure that less filled columns are the end of table and wiseversa
@@ -171,3 +176,4 @@ add links in place and into sepatated chapter
 | - | ------------------------|:--------------:|
 | 1 | [Google](https://en.wikipedia.org/wiki/Google)| Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include [online advertising technologies](https://en.wikipedia.org/wiki/Online_advertising), a [search engine](https://en.wikipedia.org/wiki/Search_engine), [cloud computing](https://en.wikipedia.org/wiki/Cloud_computing), software, and hardware.|
 | 2 | PII | TODO |
+| 2 | TL;DR | TODO |
