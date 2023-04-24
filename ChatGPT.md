@@ -4,10 +4,6 @@ TBD
 # Article description
 TBD 
 
-
-how GPT helped me 
-
-
 # Content
 
 ## Everyone must know that!
@@ -22,6 +18,14 @@ Took idea from [DOU](https://dou.ua/forums/topic/43131/?from=tg&utm_source=teleg
 ### Tags
 DOU ChatGPT Humor
 
+## How ChatGPT helped me 
+TBD
+
+And yesm you must review its replies - it is Language Model only.
+
+## Cases when ChatGPT did not help me 
+- It did not find my social style, it is not easy task honestly;
+- TBD
 
 # References
 TBD
