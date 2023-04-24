@@ -110,6 +110,22 @@ These websites offer a platform for writers to publish their articles and connec
 
 freeCodeCamp is not for me as it for web development
 
+#######
+hackernoon 
+Editor - like a WordPad.
+feature picture - title picture
+Tags
+Make Your Story Stand Out up to 160 symbols description
+Emoji Credibility Indicator Guide 
+Give Shout Out to People on Twitter
+Townhall Mode: Anyone Can Comment : On or Off
+TL;DR it might generate wrong TL;DR basing on part of text but not whole publication
+First Seen At - Only for republished stories
+it provides full review - up to one week. I tried 3 times without success, reason for rejection: too small, not actual, not worked links and spelling errors,
+it is imposible to discuss problem right on the platform, I recieved emails and could you reply back.
+
+####
+to check on "yeasy to publish" platforms first 
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
@@ -119,3 +135,4 @@ TBD
 
 # Definitions, Acronyms, Abbreviations
 TBD
+TL;DR
