@@ -32,4 +32,4 @@ TBD
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 | 1 | 100+ ChatGPT Prompts for Software Developers | [DOU](https://dou.ua/forums/topic/43131/?from=tg&utm_source=telegram&utm_medium=social) | 20 April, 2023 | DOU | |
-| 2 | Everyone must know that! | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_humor-chatgpt-chatgpttutorial-activity-7056156667721191424-rcxW?utm_source=share&utm_medium=member_desktop) 20 April, 2023 | Dmytro Nikulin | |
+| 2 | Everyone must know that! | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_humor-chatgpt-chatgpttutorial-activity-7056156667721191424-rcxW?utm_source=share&utm_medium=member_desktop) | 24 April, 2023 | Dmytro Nikulin | |
