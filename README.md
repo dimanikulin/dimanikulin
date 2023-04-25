@@ -55,7 +55,7 @@ Interesting technologies include **Cloud**, **IoT**, **Data Platforms**, **Devo
 |Railway Institute|Donetsk|1998-Apr 2007    |SW Developer|Testing knowledge systems|Development and maintenance|
 |Trubnikov Enterprise|Donetsk|1999–2005     |IT guy      ||Technical support of OS and software                |
 
-For more details, please [see](./DetailedExperience.md)
+For more details, please [see](./MyDetailedExperience.md)
 
 # What projects are currently occupying most of my time?
 - I am currently learning software architecture and
