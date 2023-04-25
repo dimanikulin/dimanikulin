@@ -68,7 +68,10 @@ For more details, please [see](./MyDetailedExperience.md)
 | EPAM SCHOOL of Digital Engineering        | Kyiv   | Oct 2019-June 2021  | Software Engineering | 90 out 100    | MSDP in Software Engineering |
 | Kharkiv State Academy of Railway Transport| Donetsk| Sept 1996-June 2001 | Math, electrics      | 4.75 out 5    | Electrical engineer in Railway Transport |
 
-During education in NAUKMA, we were given free access to https://www.coursera.org/ and so we could choose any from 5K cources. Please find them in the section [Certificates](https://github.com/dimanikulin#certificates) and Cources.
+During education in NAUKMA, we were given free access to https://www.coursera.org/ and so we could choose any from 5K cources.
+Also during education in NAUKMA, we were given free access to Cisco Learning Platform.
+
+Please find them in the section [Certificates](https://github.com/dimanikulin#certificates) and [Cources](https://github.com/dimanikulin#courses).
 
 # Certificates:
 
@@ -96,7 +99,7 @@ During education in NAUKMA, we were given free access to https://www.coursera.or
 
 ## Cisco Certificates
 
-During education in NAUKMA, we were given free access to Cisco Learning Platform and so we could learn following cources:
+
 
 | # | Name                                                  | Issued   | Credential ID |
 | - | ----------------------------------------------------- |--------- |:-------------:|
