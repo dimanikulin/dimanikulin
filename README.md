@@ -89,21 +89,6 @@ Please find them in the section [Certificates](https://github.com/dimanikulin#ce
 | 10| Coursera | Data Structures and Algorithms-Algorithmic Toolbox                                            |          |               | 
 
 
-## Cisco Certificates
-
-
-
-    
-### Tags
-Cisco Certificate
-
-
-- [Coursera](./content/CertsCoursera.md)
-- [EPAM](./content/CertsEPAM.md)
-- [Cisco](./content/CertsCisco.md)
-- [Other](./content/CertsOther.md)
-
-
 ## Certificates EPAM
 Master's Program / EPAM SCHOOL of Digital Engineering
 ### I have got EPAM MSDP Certificate.
