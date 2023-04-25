@@ -130,45 +130,4 @@ Feedback from **Yevgeniy Leybzon**, Chief Architect at Jan 25, 2023, 7:11:00 PM
 
 # Other publication:
 
-## Publications about Multimedia, Multimedia IR systems and Multimedia Organizers 
-|Name       |[What is multimedia data?](./MultimediaData.md)|[What are Multimedia IR systems?](./MultimediaIRSystems.md)|[Multimedia IR systems Analyze](./MultimediaIRSystemsAnalyze.md)|[What are Multimedia Organizers?](./MultimediaOrganizers.md)|Exploring the World of Multimedia Information Retrieval Systems|
-|-----------|-----------------------------------------------|-----------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------|:----------------------------------------------------------:|
-|dou.eu     |N/A|N/A|N/A|N/A|[Feb 20, 2023](https://dou.eu/community/posts/what-are-multimedia-information-retrieval-systems)|
-|hackernoon |N/A|N/A|N/A|N/A|I tryied to publish on 01/31/2023 but they said it is a duplication of one my previos publication|
-|linkedin   |N/A|N/A|N/A|N/A|[January 27,2023](https://www.linkedin.com/posts/dimanikulin_activity-7024663781666349057-Hw3_/?utm_source=share&utm_medium=member_desktop)|
-|codeproject|N/A|N/A|N/A|N/A|TODO|
-|dev.to     |[Jun 14, 2022](https://dev.to/dimanikulin/what-is-multimedia-data-111f)|[Jun 28, 2022](https://dev.to/dimanikulin/what-are-multimedia-ir-systems-5c7nv)|[Jul 7, 2022](https://dev.to/dimanikulin/multimedia-ir-systems-analyze-4e17)|[Sep 18, 2022](https://dev.to/dimanikulin/what-are-the-photo-organizers-1na9)|N/A|
-|hashnode   |[Jun 16, 2022](https://dimanikulin.hashnode.dev/what-is-multimedia-data)|[Jun 29, 2022](https://dimanikulin.hashnode.dev/what-are-multimedia-ir-systems)|[Jul 9, 2022](https://dimanikulin.hashnode.dev/multimedia-ir-systems-analyze)|[Sep 19, 2022](https://dimanikulin.hashnode.dev/what-are-the-photo-organizers)|N/A|
-|medium     |[Jun 16, 2022](https://medium.com/@dimanikulin_43511/what-is-multimedia-data-16c2bfdb3829)|[Jul 1, 2022](https://medium.com/@dimanikulin_43511/what-are-multimedia-ir-systems-531366920642)|[Jul 10, 2022](https://medium.com/@dimanikulin_43511/multimedia-ir-systems-analyze-67d40a5537c5)|[Sep 20, 2022](https://medium.com/@dimanikulin_43511/multimedia-organizers-functions-e8def4e7d550)|N/A|
-|reddit     |[Jun 16, 2022](https://www.reddit.com/r/fva/comments/ve7188/what_is_multimedia_data/)|was deleted as spam. but why?|was deleted as spam. but why?|[Sep 20, 2022](https://www.reddit.com/r/fva/comments/xkum82/what_are_the_multimedia_organizers/)|N/A|
-|quora      |[Jun 19, 2022](https://www.quora.com/profile/Dima-Nikulin-2/What-is-Multimedia-Data-We-live-in-the-digital-data-era-and-growing-of-the-Internet-gives-us-a-possibility-to-find-th)|[Jul 3, 2022](https://www.quora.com/profile/Dima-Nikulin-2/What-are-Multimedia-IR-Systems-Lets-briefly-overview-the-Multimedia-IR-systems-According-to-the-Wikipedia-https)|[Jul 13, 2022](https://www.quora.com/profile/Dima-Nikulin-2/Multimedia-IR-Systems-analyze-Let-us-compare-several-multimedia-IR-systems-by-covering-requirements-and-needs-we-identi)|[Sep 22, 2022](https://www.quora.com/profile/Dima-Nikulin-2/What-are-the-Multimedia-Organizers-Multimedia-Organizers-functions-They-currently-perform-the-search-in-photo-set)|N/A|
-
-## Publications about own product, its history and what I learned 
-|Name       |[Why I created photo organizer?](./WhyCreatedPhotoOrganizer.md)|[What I Learned As Product Manager](./WhatILearnedAsProductManager.md)|[](./content/MultimediaIRSystemsAnalyze.md)|[](./content/MultimediaOrganizers.md)||
-|-----------|---------------------------------------------------------------|----------------------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------|:----------------------------------------------------------:|
-|dou.eu     |TBD|TBD|TBD|TBD|TBD|
-|hackernoon |TBD|TBD|TBD|TBD|TBD|
-|linkedin   |[Feb 20, 2023](https://www.linkedin.com/posts/dimanikulin_productengineering-photos-activity-7034072973523193856-MvF4?utm_source=share&utm_medium=member_desktop)|[March 20, 2023](https://www.linkedin.com/posts/dimanikulin_activity-7043490960445480960-KIPT?utm_source=share&utm_medium=member_desktop)|TBD|TBD|TBD|
-|codeproject|TBD|TBD|TBD|TBD|TBD|
-|dev.to     |[Feb 12, 2023](https://dev.to/dimanikulin/why-i-decided-to-create-my-photo-organizer-1g7n)|[Mar 3, 2023](https://dev.to/dimanikulin/what-i-learned-as-a-product-manager-while-creating-my-product-3fom)|TBD|TBD|TBD|
-|hashnode   |[Mar 5, 2023](https://dimanikulin.hashnode.dev/why-i-decided-to-create-my-photo-organizer)|[Mar 5, 2023](https://dimanikulin.hashnode.dev/what-i-learned-as-a-product-manager-while-creating-my-product)|TBD|TBD|TBD|
-|medium     |[Feb 14, 2023](https://medium.com/@dimanikulin_43511/why-i-decided-to-create-my-photo-organizer-84ab40565927)|[Mar 6, 2023](https://medium.com/@dimanikulin_43511/what-i-learned-as-a-product-manager-while-creating-my-product-d2cc97b23421)|TBD|TBD|TBD|
-|reddit     |[Feb 12, 2023](https://www.reddit.com/r/fva/comments/112s9q1/why_i_decided_to_create_my_photo_organizer/)|[Mar 10, 2023](https://www.reddit.com/r/fva/comments/11nnrds/what_i_learned_as_a_product_manager_while/)|TBD|TBD|TBD|
-|quora      |[Feb 17](https://www.quora.com/profile/Dima-Nikulin-2/Why-I-decided-to-create-my-photo-organizer-As-a-child-I-used-to-flip-through-family-photo-album-to-see-my-relatives-w)|[Mar 14, 2023](https://www.quora.com/profile/Dima-Nikulin-2/What-I-learned-as-a-Product-Manager-while-creating-my-product-Design-Thinking-The-first-product-I-was-thinking-about-w-2)|TBD|TBD|TBD| 
-
-- [Just Joined LinkedIn](./JustJoinedLinkedIn.md)
-
-
-- [Communication](./content/Communication.md)
-- [Active Listening](./content/ActiveListening.md)
-- [Number Of Interviews](./content/NumberOfInterviews.md)
-- [Which title describes better a real job?](./content/Titles&Jobs.md)
-- [Presents in GlobalLogic for an employer](./content/PresentsInGL.md)
-- [Just Joined a Project With Scrum](./content/JoinedProjectWithScrum.md)
-- [Second Name History](./content/SecondNameHistory.md)
-- [Software Complexity](./content/SoftwareComplexity.md)
-- [Find a Job In Summer](./content/FindJobInSummer.md)
-- [War in Ukraine](./content/WarInUkraine.md)
-- [Interesting facts](./content/InterestingFacts.md)
-- [Fishing](./content/Fishing.md)
-- [Windows 95](./content/Windows95.md) 
+[Please see here](./MyPublications.md)
