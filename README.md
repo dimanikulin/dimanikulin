@@ -68,11 +68,38 @@ For more details, please [see](./MyDetailedExperience.md)
 | EPAM SCHOOL of Digital Engineering        | Kyiv   | Oct 2019-June 2021  | Software Engineering | 90 out 100    | MSDP in Software Engineering |
 | Kharkiv State Academy of Railway Transport| Donetsk| Sept 1996-June 2001 | Math, electrics      | 4.75 out 5    | Electrical engineer in Railway Transport |
 
+During education in NAUKMA, we were given free access to https://www.coursera.org/ and so we could choose any from 5K cources. Please find them in the section [Certificates](https://github.com/dimanikulin#certificates) and Cources.
+
 # Certificates:
+
+| # | Issuer | Name                                                  | Issued   | Credential ID |
+| - |- | ----------------------------------------------------- |--------- |:-------------:|
+| 1 | | Connecting Networks (CCNA)                            | Apr 2020 |ID NOT OBTAINED|
+| 2 | | Routing and Switching Essentials (CCNA)               | Apr 2020 |ID NOT OBTAINED|
+| 3 | | Routing and Switching-Introduction to Networks (CCNA) | Apr 2020 |ID NOT OBTAINED|
+| 4 | | Scaling Networks (CCNA)                               | Apr 2020 |ID NOT OBTAINED|
+
+
+| # | Name                                                     | Issued   | Credential ID |
+| - | -------------------------------------------------------- |--------- |:-------------:|
+| 1 | Data Structures and Algorithms-Algorithmic Toolbox       |          |               |
+| 2 | [Embedded Software and Hardware Architecture](./Images/CourseraCertificate9.jpg)              | Jun 2020 | VTMJWCL8KW7N  |
+| 3 | [Enterprise Architecture](./Images/CourseraCertificate8.jpg)                                  | Jul 2020 | NJSWYS74R3XZ  |
+| 4 | [Identifying Security Vulnerabilities in C-C++Programming](./Images/CourseraCertificate7.jpg) | Jul 2020 | MY46ASSABL9T  |
+| 5 | [I/O-efficient algorithms](./Images/CourseraCertificate6.jpg)                                 | Jul 2020 | 6ZV294TY7Q29  |
+| 6 | [Linux for Developers](./Images/CourseraCertificate5.jpg)                                     | Jul 2020 | E8898ZRGEGTE  |
+| 7 | [Linux Tools for Developers](./Images/CourseraCertificate4.jpg)                               | Aug 2020 | TJNUX7X9N5U2  |
+| 8 | [Structuring Machine Learning Projects](./Images/CourseraCertificate3.jpg)                    | Jul 2020 | PD4MQFF47WLJ  |
+| 9 | [Version Control with Git](./Images/CourseraCertificate2.jpg)                                 | Jun 2020 | X3MLKP3PMQGB  |
+| 10| [Business Implications of AI: A Nano-course](./Images/CourseraCertificate1.jpg)               | Jul 2020 | LE48SG9295TU  |
+
+
 - [Coursera](./content/CertsCoursera.md)
 - [EPAM](./content/CertsEPAM.md)
 - [Cisco](./content/CertsCisco.md)
 - [Other](./content/CertsOther.md)
+
+# Cources:
 
 # Recommendations:
 Given by Igor Odnovorov March 23, 2015(Founder, Chief Technology Officer at e-Share (aka nCrypted Cloud, LLC)):
@@ -129,5 +156,4 @@ Feedback from **Yevgeniy Leybzon**, Chief Architect at Jan 25, 2023, 7:11:00 PM
 "Excellent whitepaper! I strongly recommend to use one of the approaches that you decribe in all delivery projects to avoid archiecture drifts and gaps"
 
 # Other publication:
-
 [Please see here](./MyPublications.md)
