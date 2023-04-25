@@ -94,12 +94,27 @@ During education in NAUKMA, we were given free access to https://www.coursera.or
 | 10| [Business Implications of AI: A Nano-course](./Images/CourseraCertificate1.jpg)               | Jul 2020 | LE48SG9295TU  |
 
 
+## Cisco Certificates
+
+During education in NAUKMA, we were given free access to Cisco Learning Platform and so we could learn following cources:
+
+| # | Name                                                  | Issued   | Credential ID |
+| - | ----------------------------------------------------- |--------- |:-------------:|
+| 1 | Connecting Networks (CCNA)                            | Apr 2020 |ID NOT OBTAINED|
+| 2 | Routing and Switching Essentials (CCNA)               | Apr 2020 |ID NOT OBTAINED|
+| 3 | Routing and Switching-Introduction to Networks (CCNA) | Apr 2020 |ID NOT OBTAINED|
+| 4 | Scaling Networks (CCNA)                               | Apr 2020 |ID NOT OBTAINED|
+    
+### Tags
+Cisco Certificate
+
+
 - [Coursera](./content/CertsCoursera.md)
 - [EPAM](./content/CertsEPAM.md)
 - [Cisco](./content/CertsCisco.md)
 - [Other](./content/CertsOther.md)
 
-# Cources:
+# Courses:
 
 # Recommendations:
 Given by Igor Odnovorov March 23, 2015(Founder, Chief Technology Officer at e-Share (aka nCrypted Cloud, LLC)):
