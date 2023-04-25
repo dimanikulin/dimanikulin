@@ -114,6 +114,53 @@ Cisco Certificate
 - [Cisco](./content/CertsCisco.md)
 - [Other](./content/CertsOther.md)
 
+
+## Certificates EPAM
+Master's Program / EPAM SCHOOL of Digital Engineering
+### I have got EPAM MSDP Certificate.
+<img src="./Images/CertsEPAM2.jpg" alt="TBD" />
+
+### There were 7 modules following
+<img src="./Images/CertsEPAM1.jpg" alt="TBD" />
+
+### All MSDP certificates for all modules
+
+- Engineering Excellence 360, Issued Nov 2019
+- Product Management, Issued Jan 2020
+- Solution Architecture 1.0, Issued Apr 2020
+- Delivery Management 1.0, Issued Jun 2020
+- Big Data Basic, Issued Oct 2020
+- Big Data Advanced, Issued Nov 2020
+- Delivery Management 2.0, Issued Feb 2021
+- Solution Architecture 2.0, Issued Jun 2021
+
+<img src="./Images/CertsEPAM.jpg" alt="TBD" />
+
+
+### Tags
+TODo
+
+## Other Certificates
+
+### Prometheus - English for STEM
+Issued Apr 2020, Credential ID 4d46d985b02647d0b457f0c8d183ab99
+
+<img src="./Images/certStem.jpg" alt="TBD" />
+
+### Master's Diploma from National University of Kyiv-Mogila Academy
+<img src="./Images/NaukmaDiploma.jpg" alt="TBD" />
+
+### Verified achievement from Scaled Agile Inc.
+Certified SAFe® 5 Agilist
+Scaled Agile, Inc.
+Issued Jul 2021 - Expired Jul 2022
+Credential ID https://www.credly.com/go/IEORZNDr
+
+<img src="./Images/certSAFe.jpg" alt="TBD" />
+
+### Tags
+TODo
+
 # Courses:
 
 # Recommendations:
