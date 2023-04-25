@@ -75,26 +75,18 @@ Please find them in the section [Certificates](https://github.com/dimanikulin#ce
 
 # Certificates:
 
-| # | Issuer | Name                                                  | Issued   | Credential ID |
-| - |- | ----------------------------------------------------- |--------- |:-------------:|
-| 1 | | Connecting Networks (CCNA)                            | Apr 2020 |ID NOT OBTAINED|
-| 2 | | Routing and Switching Essentials (CCNA)               | Apr 2020 |ID NOT OBTAINED|
-| 3 | | Routing and Switching-Introduction to Networks (CCNA) | Apr 2020 |ID NOT OBTAINED|
-| 4 | | Scaling Networks (CCNA)                               | Apr 2020 |ID NOT OBTAINED|
-
-
-| # | Name                                                     | Issued   | Credential ID |
-| - | -------------------------------------------------------- |--------- |:-------------:|
-| 1 | Data Structures and Algorithms-Algorithmic Toolbox       |          |               |
-| 2 | [Embedded Software and Hardware Architecture](./Images/CourseraCertificate9.jpg)              | Jun 2020 | VTMJWCL8KW7N  |
-| 3 | [Enterprise Architecture](./Images/CourseraCertificate8.jpg)                                  | Jul 2020 | NJSWYS74R3XZ  |
-| 4 | [Identifying Security Vulnerabilities in C-C++Programming](./Images/CourseraCertificate7.jpg) | Jul 2020 | MY46ASSABL9T  |
-| 5 | [I/O-efficient algorithms](./Images/CourseraCertificate6.jpg)                                 | Jul 2020 | 6ZV294TY7Q29  |
-| 6 | [Linux for Developers](./Images/CourseraCertificate5.jpg)                                     | Jul 2020 | E8898ZRGEGTE  |
-| 7 | [Linux Tools for Developers](./Images/CourseraCertificate4.jpg)                               | Aug 2020 | TJNUX7X9N5U2  |
-| 8 | [Structuring Machine Learning Projects](./Images/CourseraCertificate3.jpg)                    | Jul 2020 | PD4MQFF47WLJ  |
-| 9 | [Version Control with Git](./Images/CourseraCertificate2.jpg)                                 | Jun 2020 | X3MLKP3PMQGB  |
-| 10| [Business Implications of AI: A Nano-course](./Images/CourseraCertificate1.jpg)               | Jul 2020 | LE48SG9295TU  |
+| # | Issuer   | Name                                                                                          | Issued   | Credential ID |
+| - |--------- | ----------------------------------------------------------------------------------------------|--------- |:-------------:|
+| 1 | Coursera | [Embedded Software and Hardware Architecture](./Images/CourseraCertificate9.jpg)              | Jun 2020 | VTMJWCL8KW7N  | 
+| 2 | Coursera | [Enterprise Architecture](./Images/CourseraCertificate8.jpg)                                  | Jul 2020 | NJSWYS74R3XZ  | 
+| 3 | Coursera | [Identifying Security Vulnerabilities in C-C++Programming](./Images/CourseraCertificate7.jpg) | Jul 2020 | MY46ASSABL9T  | 
+| 4 | Coursera | [I/O-efficient algorithms](./Images/CourseraCertificate6.jpg)                                 | Jul 2020 | 6ZV294TY7Q29  | 
+| 5 | Coursera | [Linux for Developers](./Images/CourseraCertificate5.jpg)                                     | Jul 2020 | E8898ZRGEGTE  |
+| 6 | Coursera | [Linux Tools for Developers](./Images/CourseraCertificate4.jpg)                               | Aug 2020 | TJNUX7X9N5U2  |
+| 7 | Coursera | [Structuring Machine Learning Projects](./Images/CourseraCertificate3.jpg)                    | Jul 2020 | PD4MQFF47WLJ  |
+| 8 | Coursera | [Version Control with Git](./Images/CourseraCertificate2.jpg)                                 | Jun 2020 | X3MLKP3PMQGB  |
+| 9 | Coursera | [Business Implications of AI: A Nano-course](./Images/CourseraCertificate1.jpg)               | Jul 2020 | LE48SG9295TU  |
+| 10| Coursera | Data Structures and Algorithms-Algorithmic Toolbox                                            |          |               | 
 
 
 ## Cisco Certificates
