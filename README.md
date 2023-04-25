@@ -64,14 +64,13 @@ For more details, please [see](./MyDetailedExperience.md)
 # Education: 
 | Name                                      | Place  | Duration            |  Major Subjects      | Marks Obtained | Degree                 |
 | ------------------------------------------| -------|---------------------| ---------------------|----------------|:----------------------:|
-| [NaUKMA](https://www.ukma.edu.ua/)        | Kyiv   | Oct 2019-June 2021  | Software Engineering | 90 out 100    | MSDP in Software Engineering |
+| [NaUKMA](https://www.ukma.edu.ua/)        | Kyiv   | Oct 2019-June 2021  | Software Engineering | 90 out 100    | [MSDP in Software Engineering](./Images/NaukmaDiploma.jpg)|
 | EPAM SCHOOL of Digital Engineering        | Kyiv   | Oct 2019-June 2021  | [Software Engineering](./Images/CertsEPAM1.jpg) | 90 out 100    | [MSDP in Software Engineering](./Images/CertsEPAM2.jpg) |
 | Kharkiv State Academy of Railway Transport| Donetsk| Sept 1996-June 2001 | Math, electrics      | 4.75 out 5    | Electrical engineer in Railway Transport |
 
 During education in NAUKMA, we were given free access to https://www.coursera.org/ and so we could choose any from 5K cources.
 Also during education in NAUKMA, we were given free access to Cisco Learning Platform.
-
-Please find them in the section [Certificates](https://github.com/dimanikulin#certificates) and [Cources](https://github.com/dimanikulin#courses).
+Please findall them in the section [Certificates](https://github.com/dimanikulin#certificates) and [Cources](https://github.com/dimanikulin#courses).
 
 # Certificates:
 |# |Issuer  |Name                                                                                         |Issued  |Credential ID|
@@ -101,8 +100,6 @@ Issued Apr 2020, Credential ID 4d46d985b02647d0b457f0c8d183ab99
 
 <img src="./Images/certStem.jpg" alt="TBD" />
 
-### Master's Diploma from National University of Kyiv-Mogila Academy
-<img src="./Images/NaukmaDiploma.jpg" alt="TBD" />
 
 ### Verified achievement from Scaled Agile Inc.
 Certified SAFe® 5 Agilist
