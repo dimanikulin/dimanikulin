@@ -93,12 +93,6 @@ Please find them in the section [Certificates](https://github.com/dimanikulin#ce
 
 
 
-| # | Name                                                  | Issued   | Credential ID |
-| - | ----------------------------------------------------- |--------- |:-------------:|
-| 1 | Connecting Networks (CCNA)                            | Apr 2020 |ID NOT OBTAINED|
-| 2 | Routing and Switching Essentials (CCNA)               | Apr 2020 |ID NOT OBTAINED|
-| 3 | Routing and Switching-Introduction to Networks (CCNA) | Apr 2020 |ID NOT OBTAINED|
-| 4 | Scaling Networks (CCNA)                               | Apr 2020 |ID NOT OBTAINED|
     
 ### Tags
 Cisco Certificate
@@ -157,11 +151,17 @@ Credential ID https://www.credly.com/go/IEORZNDr
 TODo
 
 # Courses:
+## From Cisco
+- Connecting Networks (CCNA) 
+- Routing and Switching Essentials (CCNA) 
+- Routing and Switching-Introduction to Networks (CCNA) 
+- Scaling Networks (CCNA) 
 
-Elastic Cloud Infrastructure-Scaling and Automation
-Essential Google Cloud Infrastructure-Core Services
-Essential Google Cloud Infrastructure-Foundation
-GCP Fundamentals-Core Infrastructure
+## From Google
+- Elastic Cloud Infrastructure-Scaling and Automation
+- Essential Google Cloud Infrastructure-Core Services
+- Essential Google Cloud Infrastructure-Foundation
+- GCP Fundamentals-Core Infrastructure
 
 # Recommendations:
 Given by Igor Odnovorov March 23, 2015(Founder, Chief Technology Officer at e-Share (aka nCrypted Cloud, LLC)):
