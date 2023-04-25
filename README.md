@@ -158,6 +158,11 @@ TODo
 
 # Courses:
 
+Elastic Cloud Infrastructure-Scaling and Automation
+Essential Google Cloud Infrastructure-Core Services
+Essential Google Cloud Infrastructure-Foundation
+GCP Fundamentals-Core Infrastructure
+
 # Recommendations:
 Given by Igor Odnovorov March 23, 2015(Founder, Chief Technology Officer at e-Share (aka nCrypted Cloud, LLC)):
 
