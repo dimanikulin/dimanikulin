@@ -84,30 +84,16 @@ Please findall them in the section [Certificates](https://github.com/dimanikulin
 |7 |Coursera|[Structuring Machine Learning Projects](./Images/CourseraCertificate3.jpg)                   |Jul 2020|[PD4MQFF47WLJ](https://www.coursera.org/account/accomplishments/certificate/PD4MQFF47WLJ)|
 |8 |Coursera|[Version Control with Git](./Images/CourseraCertificate2.jpg)                                |Jun 2020|[X3MLKP3PMQGB](https://www.coursera.org/account/accomplishments/certificate/X3MLKP3PMQGB)|
 |9 |Coursera|[Business Implications of AI: A Nano-course](./Images/CourseraCertificate1.jpg)              |Jul 2020|[LE48SG9295TU](https://www.coursera.org/account/accomplishments/certificate/LE48SG9295TU)|
-|10|Coursera|Data Structures and Algorithms-Algorithmic Toolbox                                           |        |             | 
-|11|EPAM    |[Engineering Excellence 360](./Images/CertsEPAM.jpg)                                         |Nov 2019| |
-|12|EPAM    |[Product Management](./Images/CertsEPAM.jpg)                                                 |Jan 2020| |
-|13|EPAM    |[Solution Architecture 1.0](./Images/CertsEPAM.jpg)                                          |Apr 2020| |
-|14|EPAM    |[Delivery Management 1.0](./Images/CertsEPAM.jpg)                                            |Jun 2020| |
-|16|EPAM    |[Big Data Basic](./Images/CertsEPAM.jpg)                                                     |Oct 2020| |
-|16|EPAM    |[Big Data Advanced](./Images/CertsEPAM.jpg)                                                  |Nov 2020| |
-|17|EPAM    |[Delivery Management 2.0](./Images/CertsEPAM.jpg)                                            |Feb 2021| |
-|18|EPAM    |[Solution Architecture 2.0](./Images/CertsEPAM.jpg)                                          |Jun 2021| |
-
-
-### Prometheus - English for STEM
-Issued Apr 2020, Credential ID 4d46d985b02647d0b457f0c8d183ab99
-
-<img src="./Images/certStem.jpg" alt="TBD" />
-
-
-### Verified achievement from Scaled Agile Inc.
-Certified SAFe® 5 Agilist
-Scaled Agile, Inc.
-Issued Jul 2021 - Expired Jul 2022
-Credential ID https://www.credly.com/go/IEORZNDr
-
-<img src="./Images/certSAFe.jpg" alt="TBD" />
+|10|EPAM    |[Engineering Excellence 360](./Images/CertsEPAM.jpg)                                         |Nov 2019| |
+|11|EPAM    |[Product Management](./Images/CertsEPAM.jpg)                                                 |Jan 2020| |
+|12|EPAM    |[Solution Architecture 1.0](./Images/CertsEPAM.jpg)                                          |Apr 2020| |
+|13|EPAM    |[Delivery Management 1.0](./Images/CertsEPAM.jpg)                                            |Jun 2020| |
+|14|EPAM    |[Big Data Basic](./Images/CertsEPAM.jpg)                                                     |Oct 2020| |
+|15|EPAM    |[Big Data Advanced](./Images/CertsEPAM.jpg)                                                  |Nov 2020| |
+|16|EPAM    |[Delivery Management 2.0](./Images/CertsEPAM.jpg)                                            |Feb 2021| |
+|17|EPAM    |[Solution Architecture 2.0](./Images/CertsEPAM.jpg)                                          |Jun 2021| |
+|18|Prometheus|[English for STEM](./Images/certStem.jpg)                                                  |Apr 2020|[4d46d985b02647d0b457f0c8d183ab99](https://courses.prometheus.org.ua:18090/cert/4d46d985b02647d0b457f0c8d183ab99)|
+|19|Scaled Agile, Inc.|[Certified SAFe® 5 Agilist](./Images/certSAFe.jpg)                                 |Jul 2021/Expired Jul 2022|[IEORZNDr](https://www.credly.com/go/IEORZNDr) |
 
 # Courses:
 ## From Cisco
@@ -115,12 +101,13 @@ Credential ID https://www.credly.com/go/IEORZNDr
 - Routing and Switching Essentials (CCNA) 
 - Routing and Switching-Introduction to Networks (CCNA) 
 - Scaling Networks (CCNA) 
-
 ## From Google
 - Elastic Cloud Infrastructure-Scaling and Automation
 - Essential Google Cloud Infrastructure-Core Services
 - Essential Google Cloud Infrastructure-Foundation
 - GCP Fundamentals-Core Infrastructure
+## Coursera
+- Data Structures and Algorithms-Algorithmic Toolbox 
 
 # Recommendations:
 Given by Igor Odnovorov March 23, 2015(Founder, Chief Technology Officer at e-Share (aka nCrypted Cloud, LLC)):
