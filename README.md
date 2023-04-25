@@ -201,12 +201,12 @@ Perspective directions for the development of science and practice
 
 Published on Jun 8, 2020, at [International Science Group](https://isg-konf.com/perspective-directions-for-the-development-of-science-and-practice/	)
 
-[Publication certificate](./content/Images/certPublication.jpg)
+[Publication certificate](./Images/certPublication.jpg)
 
 ## AUTOMATED APPROACH FOR THE IMPORTING THE NEW PHOTO SET TO PRIVATE PHOTO ALBUM TO MAKE IT MORE SEARCHABLE
 Published on May 12, 2020 at [ISSN 2617-3808. Наукові записки НаУКМА. Комп’ютерні науки. 2020. Том 3](http://ekmair.ukma.edu.ua/bitstream/handle/123456789/19157/Nikulin_Automated_Approach_for_the_Importing.pdf?sequence=1&isAllowed=y)
 
-[And it is in the paper magazine](./content/Images/Publication.jpg)
+[And it is in the paper magazine](./Images/PublicationInMagazine.jpg)
 
 ## Detecting architectural gaps in an automated way
 Published on December 25, 2022 at [globallogic practices](https://practices.globallogic.com/tech-papers/956)
