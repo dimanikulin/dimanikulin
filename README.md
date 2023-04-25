@@ -118,10 +118,8 @@ Cisco Certificate
 
 # Recommendations:
 Given by Igor Odnovorov March 23, 2015(Founder, Chief Technology Officer at e-Share (aka nCrypted Cloud, LLC)):
-</br>
+
 "Dmitry is a skilled and dedicated developer. He will be a good asset to any company he decided to be part of."
-</br>
-Please notice that Igor worked with Dmytro but they were at different companies.
 
 # Honors & awards
 |Name                             |Issued by                                 |Date    | 
