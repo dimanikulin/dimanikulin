@@ -87,8 +87,6 @@ Please find them in the section [Certificates](https://github.com/dimanikulin#ce
 |9 |Coursera|[Business Implications of AI: A Nano-course](./Images/CourseraCertificate1.jpg)              |Jul 2020|[LE48SG9295TU](https://www.coursera.org/account/accomplishments/certificate/LE48SG9295TU)|
 |10|Coursera|Data Structures and Algorithms-Algorithmic Toolbox                                           |        |             | 
 
-## Certificates EPAM
-Master's Program / EPAM SCHOOL of Digital Engineering
 ### I have got EPAM MSDP Certificate.
 <img src="./Images/CertsEPAM2.jpg" alt="TBD" />
 
