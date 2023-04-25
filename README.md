@@ -65,7 +65,7 @@ For more details, please [see](./MyDetailedExperience.md)
 | Name                                      | Place  | Duration            |  Major Subjects      | Marks Obtained | Degree                 |
 | ------------------------------------------| -------|---------------------| ---------------------|----------------|:----------------------:|
 | [NaUKMA](https://www.ukma.edu.ua/)        | Kyiv   | Oct 2019-June 2021  | Software Engineering | 90 out 100    | MSDP in Software Engineering |
-| EPAM SCHOOL of Digital Engineering        | Kyiv   | Oct 2019-June 2021  | Software Engineering | 90 out 100    | MSDP in Software Engineering |
+| EPAM SCHOOL of Digital Engineering        | Kyiv   | Oct 2019-June 2021  | [Software Engineering](./Images/CertsEPAM1.jpg) | 90 out 100    | [MSDP in Software Engineering](./Images/CertsEPAM2.jpg) |
 | Kharkiv State Academy of Railway Transport| Donetsk| Sept 1996-June 2001 | Math, electrics      | 4.75 out 5    | Electrical engineer in Railway Transport |
 
 During education in NAUKMA, we were given free access to https://www.coursera.org/ and so we could choose any from 5K cources.
@@ -86,31 +86,15 @@ Please find them in the section [Certificates](https://github.com/dimanikulin#ce
 |8 |Coursera|[Version Control with Git](./Images/CourseraCertificate2.jpg)                                |Jun 2020|[X3MLKP3PMQGB](https://www.coursera.org/account/accomplishments/certificate/X3MLKP3PMQGB)|
 |9 |Coursera|[Business Implications of AI: A Nano-course](./Images/CourseraCertificate1.jpg)              |Jul 2020|[LE48SG9295TU](https://www.coursera.org/account/accomplishments/certificate/LE48SG9295TU)|
 |10|Coursera|Data Structures and Algorithms-Algorithmic Toolbox                                           |        |             | 
+|11|EPAM    |[Engineering Excellence 360](./Images/CertsEPAM.jpg)                                         |Nov 2019| |
+|12|EPAM    |[Product Management](./Images/CertsEPAM.jpg)                                                 |Jan 2020| |
+|13|EPAM    |[Solution Architecture 1.0](./Images/CertsEPAM.jpg)                                          |Apr 2020| |
+|14|EPAM    |[Delivery Management 1.0](./Images/CertsEPAM.jpg)                                            |Jun 2020| |
+|16|EPAM    |[Big Data Basic](./Images/CertsEPAM.jpg)                                                     |Oct 2020| |
+|16|EPAM    |[Big Data Advanced](./Images/CertsEPAM.jpg)                                                  |Nov 2020| |
+|17|EPAM    |[Delivery Management 2.0](./Images/CertsEPAM.jpg)                                            |Feb 2021| |
+|18|EPAM    |[Solution Architecture 2.0](./Images/CertsEPAM.jpg)                                          |Jun 2021| |
 
-### I have got EPAM MSDP Certificate.
-<img src="./Images/CertsEPAM2.jpg" alt="TBD" />
-
-### There were 7 modules following
-<img src="./Images/CertsEPAM1.jpg" alt="TBD" />
-
-### All MSDP certificates for all modules
-
-- Engineering Excellence 360, Issued Nov 2019
-- Product Management, Issued Jan 2020
-- Solution Architecture 1.0, Issued Apr 2020
-- Delivery Management 1.0, Issued Jun 2020
-- Big Data Basic, Issued Oct 2020
-- Big Data Advanced, Issued Nov 2020
-- Delivery Management 2.0, Issued Feb 2021
-- Solution Architecture 2.0, Issued Jun 2021
-
-<img src="./Images/CertsEPAM.jpg" alt="TBD" />
-
-
-### Tags
-TODo
-
-## Other Certificates
 
 ### Prometheus - English for STEM
 Issued Apr 2020, Credential ID 4d46d985b02647d0b457f0c8d183ab99
@@ -127,9 +111,6 @@ Issued Jul 2021 - Expired Jul 2022
 Credential ID https://www.credly.com/go/IEORZNDr
 
 <img src="./Images/certSAFe.jpg" alt="TBD" />
-
-### Tags
-TODo
 
 # Courses:
 ## From Cisco
