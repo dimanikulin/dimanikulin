@@ -106,7 +106,7 @@ Please findall them in the section [Certificates](https://github.com/dimanikulin
 - Essential Google Cloud Infrastructure-Core Services
 - Essential Google Cloud Infrastructure-Foundation
 - GCP Fundamentals-Core Infrastructure
-## Coursera
+## From Coursera
 - Data Structures and Algorithms-Algorithmic Toolbox 
 
 # Recommendations:
@@ -141,8 +141,6 @@ USA, B-1/B-2, 11-Apr-2028
 |Malta    |March 2007, 1 month |System implementation and technical support  |
 
 # Science publications:
-
-
 |Name                                                                                                    |Published on|Resource  |Comment          | 
 |--------------------------------------------------------------------------------------------------------|------------|----------|:----------------:|
 |Automated approach for the importing the new photo set to private photo album to make it more searchable|[Jun 8, 2020](./Images/certPublication.jpg)|[International Science Group](https://isg-konf.com/perspective-directions-for-the-development-of-science-and-practice/)|Perspective directions for the development of science and practice |
