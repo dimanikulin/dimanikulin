@@ -142,24 +142,13 @@ USA, B-1/B-2, 11-Apr-2028
 
 # Science publications:
 
-## AUTOMATED APPROACH FOR THE IMPORTING THE NEW PHOTO SET TO PRIVATE PHOTO ALBUM TO MAKE IT MORE SEARCHABLE
-Perspective directions for the development of science and practice
 
-Published on Jun 8, 2020, at [International Science Group](https://isg-konf.com/perspective-directions-for-the-development-of-science-and-practice/	)
-
-[Publication certificate](./Images/certPublication.jpg)
-
-## AUTOMATED APPROACH FOR THE IMPORTING THE NEW PHOTO SET TO PRIVATE PHOTO ALBUM TO MAKE IT MORE SEARCHABLE
-Published on May 12, 2020 at [ISSN 2617-3808. Наукові записки НаУКМА. Комп’ютерні науки. 2020. Том 3](http://ekmair.ukma.edu.ua/bitstream/handle/123456789/19157/Nikulin_Automated_Approach_for_the_Importing.pdf?sequence=1&isAllowed=y)
-
-[And it is in the paper magazine](./Images/PublicationInMagazine.jpg)
-
-## Detecting architectural gaps in an automated way
-Published on December 25, 2022 at [globallogic practices](https://practices.globallogic.com/tech-papers/956)
-
-Feedback from **Yevgeniy Leybzon**, Chief Architect at Jan 25, 2023, 7:11:00 PM
-
-"Excellent whitepaper! I strongly recommend to use one of the approaches that you decribe in all delivery projects to avoid archiecture drifts and gaps"
+|Name                                                                                                    |Published on|Resource  |Comment          | 
+|--------------------------------------------------------------------------------------------------------|------------|----------|:----------------:|
+|Automated approach for the importing the new photo set to private photo album to make it more searchable|[Jun 8, 2020](./Images/certPublication.jpg)|[International Science Group](https://isg-konf.com/perspective-directions-for-the-development-of-science-and-practice/)|Perspective directions for the development of science and practice |
+|Automated approach for the importing the new photo set to private photo album to make it more searchable|[May 12, 2020](./Images/PublicationInMagazine.jpg)|[ISSN 2617-3808. Наукові записки НаУКМА. Комп’ютерні науки. 2020. Том 3](http://ekmair.ukma.edu.ua/bitstream/handle/123456789/19157/Nikulin_Automated_Approach_for_the_Importing.pdf?sequence=1&isAllowed=y)||
+|Detecting architectural gaps in an automated way|December 25, 2022|[globallogic practices](https://practices.globallogic.com/tech-papers/956)|Feedback from **Yevgeniy Leybzon**, Chief Architect at Jan 25, 2023, 7:11:00 PM - "Excellent whitepaper! I strongly recommend to use one of the approaches that you decribe in all delivery projects to avoid archiecture drifts and gaps"
+|
 
 # Other publication:
 [Please see here](./MyPublications.md)
