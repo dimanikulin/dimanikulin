@@ -1,3 +1,38 @@
+From Globallogic
+#######################################
+Apologies, I was mistaken about where this was in production and had been waiting for resources to free up for editing. 
+
+This is a huge paper at 8000 words/40+ pages and will require a substantial investment of marketing resources to produce, so I want to make sure we understand the audience.
+
+As I did my first review, it seems written to an internal audience of GL engineers, to help them understand how to detect architectural drifts and erosion, then find solutions.
+
+Is that accurate, or is the intention for this that it is a prospect-facing whitepaper that a potential client might seek out to understand their options for solving architectural gaps? 
+
+Thanks,
+
+Miranda
+
+https://www.copyscape.com/?s=693257995269518
+https://www.copyscape.com/?s=242514399469519
+https://www.copyscape.com/?s=729396351969520
+https://www.copyscape.com/?s=677889233469521
+https://www.copyscape.com/?s=715574476169522
+https://www.copyscape.com/?s=500180235269525
+https://www.copyscape.com/?s=823374864069526
+Please note we require 0% plagiarism/duplicate content and all sources must be cited properly. When using a quote or definition from another source, it must be cited using an in-line link so we are giving attribution and the reader can verify the information. 
+
+However, we would prefer that these papers share a uniquely GL perspective and that the content is 100% original. 
+
+#######################################
+I've added the Copyscape results above; this paper needs substantial revision before we can accept for editing. 
+
+For a customer-facing piece, I think this needs to be pared down as much as possible – ideally under 2500 words. It's a very dense read, and it's a big ask to expect an executive looking at their solution options to read a 40-page paper.
+There are introductory sections in each chapter  you can remove.
+There's no need for a glossary. If there are terms the reader may not know, please explain them where and when they are mentioned.
+Citations should be formatted as in-line links, with any recommended reading listed separately. 
+Can any of this come out and stand on its own as a blog post that we can mention and link to from the paper? Blogs are easier to produce and get far more traffic over time, and they can help people find the paper. For example, Proposed Solution Requirements, Existing Solutions, Technologies - can any or all of these be positioned as blog posts so we slim down this paper and make those pieces optional extras?
+
+
 *риси гарного поста в LinkedIn
 
 Про погане поговорили. Давайте тепер про хороше. Розповім яким має бути на мою думку гарний пост.
@@ -165,6 +200,7 @@ My is
 
 ## "References" chapter
 add links in place and into sepatated chapter 
+publish first the post you will refer to and then more global post. So first will published more detailed posts
 
 # References 
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
