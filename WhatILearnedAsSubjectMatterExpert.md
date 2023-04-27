@@ -57,7 +57,7 @@ In addition, they might identify and address some issues that shall be fixed bef
 Then I started studying [Multimedia IR systems](./MultimediaSystems.md) the **FVA Tool Set** shall integrate with. 
 Integration with offline [Multimedia IR systems](./MultimediaSystems.md) is implemented through integration with [digiKam](https://www.digikam.org/about/), and integration with online [Multimedia IR systems](./MultimediaSystems.md) is implemented through integration with [Google Photos](https://en.wikipedia.org/wiki/Google_Photos).
 As [Multimedia IR systems](./MultimediaSystems.md) performs a search by certain criteria, based on multimedia [metadata](https://en.wikipedia.org/wiki/Metadata), the FVA Software shall be able to work with the same multimedia [metadata](https://en.wikipedia.org/wiki/Metadata) to be integrated with [Multimedia IR systems](./MultimediaSystems.md).
-<img src="Images/Integration.png" alt="Integration.png" />
+<img src="Images/IntegrationFVA.png" alt="IntegrationFVA.png" />
 
 ### Integration with digiKam
 For [digiKam](https://www.digikam.org/about/), I found that **Collections** setting shall be used to define how it is configured to search through [multimedia data](https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-39940-9_1008). 
