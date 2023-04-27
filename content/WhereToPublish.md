@@ -119,7 +119,7 @@ Make Your Story Stand Out up to 160 symbols description
 Emoji Credibility Indicator Guide 
 Give Shout Out to People on Twitter
 Townhall Mode: Anyone Can Comment : On or Off
-TL;DR it might generate wrong TL;DR basing on part of text but not whole publication
+TL;DR it might generate wrong TL;DR It generated basing on part of text but not whole publication
 First Seen At - Only for republished stories
 it provides full review - up to one week. I tried 3 times without success, reason for rejection: too small, not actual, not worked links and spelling errors,
 it is imposible to discuss problem right on the platform, I recieved emails and could you reply back.
@@ -127,9 +127,66 @@ it is imposible to discuss problem right on the platform, I recieved emails and 
 ####
 
 hashnode
+Editor - like a WordPad.
+
 it has nice feature, checking for syntax in Grammarly
 you can add cover - main picture
-you can subtitle - dscription 
+you can add subtitle - dscription 
+
+it shows 
+ARTICLE STATS
+Word count:
+
+869 words
+
+Paragraphs:
+
+27 paragraphs
+
+Read time:
+
+4 minutes
+
+
+you can select SELECT A BLOG and ARTICLE SLUG
+
+you add up yo 5 tags
+
+GENERATE TABLE OF CONTENTS? yes
+
+CUSTOM OG IMAGE  - Upload an image to display when your article is embedded online or on social network feeds
+
+SEO TITLE (OPTIONAL) - The "SEO Title" will be shown in place of your Title on search engine results pages, such as a Google search. SEO titles between 40 and 50 characters with commonly searched words have the best click-through-rates.
+
+SEO DESCRIPTION (OPTIONAL)
+The SEO Description will be used in place of your Subtitle on search engine results pages. Good SEO descriptions utilize keywords, summarize the article and are between 140-156 characters long.
+
+ARE YOU REPUBLISHING?
+Change the canonical URL of this article to the original article
+
+SCHEDULE YOUR ARTICLE
+Select a publishing date/time (Based on your local time zone)
+Select a date
+
+
+PUBLISH ON A BACKDATE
+
+Select a date
+
+
+DISABLE COMMENTS?
+This will hide the comments section below your article.
+
+Yes
+
+HIDE ARTICLE FROM HASHNODE FEED
+If you'd rather not have your article show up in Hashnode's feed that's displayed to our entire community
+
+
+Yes, hide this article from Hashnode and display it only on my blog.
+
+
+
 ####
 
 to publish on to check on "yeasy to publish" platforms first 
