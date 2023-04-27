@@ -125,7 +125,14 @@ it provides full review - up to one week. I tried 3 times without success, reaso
 it is imposible to discuss problem right on the platform, I recieved emails and could you reply back.
 
 ####
-to check on "yeasy to publish" platforms first 
+
+hashnode
+it has nice feature, checking for syntax in Grammarly
+you can add cover - main picture
+you can subtitle - dscription 
+####
+
+to publish on to check on "yeasy to publish" platforms first 
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
