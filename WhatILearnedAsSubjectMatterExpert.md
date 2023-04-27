@@ -23,7 +23,7 @@ Then I realised that I need to use a solution to search for [Multimedia Data](./
 However, there are many [Multimedia IR systems](./MultimediaIRSystems.md), and it was a long way to select one of them to start searching more efficiently.
 Thus, several [Multimedia IR systems](./MultimediaIRSystems.md), that are present on the market and available for end users, were analyzed. 
 
-I described the process of analysis and comparison for [Multimedia IR systems](./MultimediaIRSystems.md) [here](./MultimediaSystemsAnalyze.md).
+I described the process of analysis and comparison for [Multimedia IR systems](./MultimediaIRSystems.md) [here](./MultimediaIRSystemsAnalyze.md).
 Consequently, I was able to choose the most suitable system for me.
 
 ## Metadata
