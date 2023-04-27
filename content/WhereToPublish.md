@@ -108,7 +108,7 @@ VentureBeat - VentureBeat is a website that covers technology and business news.
 These websites offer a platform for writers to publish their articles and connect with a community of readers interested in technology and software development. Make sure to research each platform to determine which one is the best fit for your content and audience.
 
 
-freeCodeCamp is not for me as it for web development
+I need to review freeCodeCamp I though it is not for me as it for web development but it might not correct
 
 #######
 hackernoon 
