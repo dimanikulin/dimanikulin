@@ -19,16 +19,16 @@ Multimedia IR Systems, Metadata, Multimedia Organizers, digiKam, Google Photos, 
 ## Multimedia IR systems
 My first step in the role of an SME was getting to know what [Multimedia Data](./MultimediaData.md) is.
 I started learning it as I understood that my whole photo album is [Multimedia Data](./MultimediaData.md) itself.
-Then I realised that I need to use a solution to search for [Multimedia Data](./MultimediaData.md) - [Multimedia IR systems](./MultimediaSystems.md). 
-However, there are many [Multimedia IR systems](./MultimediaSystems.md), and it was a long way to select one of them to start searching more efficiently.
-Thus, several [Multimedia IR systems](./MultimediaSystems.md), that are present on the market and available for end users, were analyzed. 
+Then I realised that I need to use a solution to search for [Multimedia Data](./MultimediaData.md) - [Multimedia IR systems](./MultimediaIRSystems.md). 
+However, there are many [Multimedia IR systems](./MultimediaIRSystems.md), and it was a long way to select one of them to start searching more efficiently.
+Thus, several [Multimedia IR systems](./MultimediaIRSystems.md), that are present on the market and available for end users, were analyzed. 
 
-I described the process of analysis and comparison for [Multimedia IR systems](./MultimediaSystems.md) [here](./MultimediaSystemsAnalyze.md).
+I described the process of analysis and comparison for [Multimedia IR systems](./MultimediaIRSystems.md) [here](./MultimediaSystemsAnalyze.md).
 Consequently, I was able to choose the most suitable system for me.
 
 ## Metadata
-A short usage of these systems gave me an understanding that [Multimedia IR systems](./MultimediaSystems.md) significantly rely on the [metadata](https://en.wikipedia.org/wiki/Metadata) as a main information source that is used for a search following different criteria, like device, time, location, etc.
-Therefore, the presence and consistency of [metadata](https://en.wikipedia.org/wiki/Metadata) are very important for [Multimedia IR systems](./MultimediaSystems.md) to operate, as well as for other purposes, [Three Cheers for Embedded Metadata](https://siarchives.si.edu/blog/three-cheers-embedded-metadata).
+A short usage of these systems gave me an understanding that [Multimedia IR systems](./MultimediaIRSystems.md) significantly rely on the [metadata](https://en.wikipedia.org/wiki/Metadata) as a main information source that is used for a search following different criteria, like device, time, location, etc.
+Therefore, the presence and consistency of [metadata](https://en.wikipedia.org/wiki/Metadata) are very important for [Multimedia IR systems](./MultimediaIRSystems.md) to operate, as well as for other purposes, please see [Three Cheers for Embedded Metadata](https://siarchives.si.edu/blog/three-cheers-embedded-metadata) for more details.
 Working experience with one of those systems shows that search results might be incomplete or even incorrect due to inconsistent or not-existing [metadata](https://en.wikipedia.org/wiki/Metadata).
 [Metadata](https://en.wikipedia.org/wiki/Metadata) is usually kept inside each file as a header with a predefined format.
 There are plenty of [metadata](https://en.wikipedia.org/wiki/Metadata) formats like [Exif](https://en.wikipedia.org/wiki/Exif), [IPTC](https://en.wikipedia.org/wiki/International_Press_Telecommunications_Council) or [XMP](https://en.wikipedia.org/wiki/Extensible_Metadata_Platform).
@@ -49,14 +49,14 @@ We got one video that was recognized as **March 2020**, underlined in red.
 The system has provided such results due to incorrect [metadata](https://en.wikipedia.org/wiki/Metadata). 
 
 ## Multimedia Organizers
-That being the case, I understood that [Multimedia IR systems](./MultimediaSystems.md) are not so effective without other tools, often called [Multimedia Organizers](./MultimediaOrganizers.md).
-Usually, [Multimedia Organizers](./MultimediaOrganizers.md) provide automation for importing a new photo set into existing photo albums and it is not an implemented feature in [Multimedia IR systems](./MultimediaSystems.md).
-In addition, they might identify and address some issues that shall be fixed before a user starts searching data using the [Multimedia IR systems](./MultimediaSystems.md). 
+That being the case, I understood that [Multimedia IR systems](./MultimediaIRSystems.md) are not so effective without other tools, often called [Multimedia Organizers](./MultimediaOrganizers.md).
+Usually, [Multimedia Organizers](./MultimediaOrganizers.md) provide automation for importing a new photo set into existing photo albums and it is not an implemented feature in [Multimedia IR systems](./MultimediaIRSystems.md).
+In addition, they might identify and address some issues that shall be fixed before a user starts searching data using the [Multimedia IR systems](./MultimediaIRSystems.md). 
 
 ## Integration 
-Then I started studying [Multimedia IR systems](./MultimediaSystems.md) the **FVA Tool Set** shall integrate with. 
-Integration with offline [Multimedia IR systems](./MultimediaSystems.md) is implemented through integration with [digiKam](https://www.digikam.org/about/), and integration with online [Multimedia IR systems](./MultimediaSystems.md) is implemented through integration with [Google Photos](https://en.wikipedia.org/wiki/Google_Photos).
-As [Multimedia IR systems](./MultimediaSystems.md) perform a search by certain criteria, based on multimedia [metadata](https://en.wikipedia.org/wiki/Metadata), the FVA Software shall be able to work with the same multimedia [metadata](https://en.wikipedia.org/wiki/Metadata) to be integrated with [Multimedia IR systems](./MultimediaSystems.md).
+Then I started studying [Multimedia IR systems](./MultimediaIRSystems.md) the **FVA Tool Set** shall integrate with. 
+Integration with offline [Multimedia IR systems](./MultimediaIRSystems.md) is implemented through integration with [digiKam](https://www.digikam.org/about/), and integration with online [Multimedia IR systems](./MultimediaIRSystems.md) is implemented through integration with [Google Photos](https://en.wikipedia.org/wiki/Google_Photos).
+As [Multimedia IR systems](./MultimediaIRSystems.md) perform a search by certain criteria, based on multimedia [metadata](https://en.wikipedia.org/wiki/Metadata), the FVA Software shall be able to work with the same multimedia [metadata](https://en.wikipedia.org/wiki/Metadata) to be integrated with [Multimedia IR systems](./MultimediaIRSystems.md).
 <img src="Images/IntegrationFVA.png" alt="IntegrationFVA.png" />
 
 ### Integration with digiKam
