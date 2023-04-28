@@ -125,7 +125,7 @@ it provides full review - up to one week. I tried 3 times without success, reaso
 it is imposible to discuss problem right on the platform, I recieved emails and could you reply back.
 
 ####
-
+TODO to find a link how to publish for hashnode
 hashnode
 Editor - like a WordPad.
 
@@ -185,7 +185,7 @@ If you'd rather not have your article show up in Hashnode's feed that's displaye
 
 Yes, hide this article from Hashnode and display it only on my blog.
 
-
+https://support.hashnode.com/en/articles/6420682-writing-a-blog-post
 
 ####
 
