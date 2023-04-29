@@ -1,3 +1,14 @@
+# Headline
+TBD
+
+# Article description
+TBD 
+
+# Tags
+TBD
+
+# Content
+
 Let describe how it was before current implementation. 
 Firstly it was kept at file system level inside of the Photo Album. 
 Each folder in the Photo Album could keep two files: “folderDescription.json” and “description.csv”. 
@@ -45,6 +56,12 @@ So merging one folder in photo album to another caused significant change of SQL
 That internal metadata file does not keep information in which folder a file is kept. 
 So merging one folder in photo album to another does not cause an issue.
 Still the duplication of information takes place because for all files in one folder common information is just copied.
+
+# References
+TBD
+| # | Name                 | Source                | Release date           |  Author                 | Description   |
+| - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
+
 
 # Definitions, Acronyms, Abbreviations
 | # | Abbreviation or Acronym | Definition     |
