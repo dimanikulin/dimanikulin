@@ -5,7 +5,7 @@ TBD
 TBD 
 
 # Tags
-TBD
+armukrainenow staywithukraine stoprussia stopwar russiaterroriststate warinukraine ukrainewar ukraine
 
 # Content
 ## Первый пост с 24 февраля
@@ -60,6 +60,18 @@ Any other options I forgot to mention?
 
 <img src="./Images/shaheds.jpg" alt="shaheds.jpg" />
 
+## Якби у Вас була можливість, то що б Ви запитали у Тараса Чмута?
+
+П.С.
+Наступні питання не пропонувати:
+
+- Що там по русі?;
+
+- Що було в чорному ящику Кирила Буданова?
+
+- Коли ми отримаємо Ф-16?
+
+<img src="./Images/QuestionsToTarasChmut.png" />
 
 # References
 | # | Name                   | Source                | Release date           |  Author                 | Description   |
@@ -71,3 +83,4 @@ Any other options I forgot to mention?
 | 5 |А на куди зибеться пУТЕНг?|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_warinukraine-staywithukraine-activity-6987497817262972928-os1e?utm_source=share&utm_medium=member_desktop)|November, 2022| Dmytro Nikulin||
 | 6 |What is the best gift for Ukrainian people for Christmas and New Year?|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_armukrainenow-warinukraine-activity-7012374950275637249-Wpcn?utm_source=share&utm_medium=member_desktop)|December, 2022| Dmytro Nikulin||
 | 7 |Яскрава місячна ніч|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_warinukraine-stoprussia-activity-7018150699758727169-qItq?utm_source=share&utm_medium=member_desktop)|January, 2023| Dmytro Nikulin||
+| 8 |Якби у Вас була можливість, то що б Ви запитали у Тараса Чмута?|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_globallogic-savelife-staywithukraine-activity-7046022484441149441-Ium7?utm_source=share&utm_medium=member_desktop)|March, 2023| Dmytro Nikulin||
