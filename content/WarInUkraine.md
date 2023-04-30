@@ -1,15 +1,4 @@
 
-## Usual talks in unsual time
-Обычный разговор, в "необычное" время.
-
-<img src="./Images/UsualTalks.jpg" alt="UsualTalks" />
-
-## Summer time
-Summer is definitely a time for vacation, relaxing ...
-But there are some "nuances"
-
-<img src="./Images/SummerTime.jpg" alt="SummerTime" />
-
 ## How russians play chess?
 Yes, it is not really easy to resign.
 Even when you just play chess and when you have already lost.
