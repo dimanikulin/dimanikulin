@@ -26,6 +26,7 @@
 
 - [ChatGPT](./ChatGPT.md)
 - [Just Joined LinkedIn](./JustJoinedLinkedIn.md)
+- [War in Ukraine](./WarInUkraine.md)
 
 ##################################
 
@@ -39,7 +40,6 @@
 - [Second Name History](./content/SecondNameHistory.md)
 - [Software Complexity](./content/SoftwareComplexity.md)
 - [Find a Job In Summer](./content/FindJobInSummer.md)
-- [War in Ukraine](./content/WarInUkraine.md)
 - [Interesting facts](./content/InterestingFacts.md)
 - [Fishing](./content/Fishing.md)
 - [Windows 95](./content/Windows95.md)
