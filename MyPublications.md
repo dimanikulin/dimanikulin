@@ -28,6 +28,7 @@
 - [Just Joined LinkedIn](./JustJoinedLinkedIn.md)
 - [War in Ukraine](./WarInUkraine.md)
 - [Fishing](./Fishing.md)
+- [Interesting facts](./InterestingFacts.md)
 
 ##################################
 
@@ -40,5 +41,4 @@
 - [Second Name History](./content/SecondNameHistory.md)
 - [Software Complexity](./content/SoftwareComplexity.md)
 - [Find a Job In Summer](./content/FindJobInSummer.md)
-- [Interesting facts](./content/InterestingFacts.md)
 - [Windows 95](./content/Windows95.md)
