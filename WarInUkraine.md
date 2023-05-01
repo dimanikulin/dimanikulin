@@ -73,6 +73,15 @@ Any other options I forgot to mention?
 
 <img src="./Images/QuestionsToTarasChmut.png" />
 
+## Які питання ставили хлопці з GlobalLogic Тарасу Чмуту
+Місяць тому мене запитали, які питання ставили хлопці з GlobalLogic Тарасу Чмуту на зустрічі з ним.
+
+Ось вони.
+
+Якщо вам цікаво напишіть у коментах які питання цікаві та на які питання ви хотіли б дізнатися відповіді?
+
+<img src="./Images/QuestionsToTarasChmut2.png" />
+
 # References
 | # | Name                   | Source                | Release date           |  Author                 | Description   |
 | - | -----------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
@@ -84,3 +93,4 @@ Any other options I forgot to mention?
 | 6 |What is the best gift for Ukrainian people for Christmas and New Year?|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_armukrainenow-warinukraine-activity-7012374950275637249-Wpcn?utm_source=share&utm_medium=member_desktop)|December, 2022| Dmytro Nikulin||
 | 7 |Яскрава місячна ніч|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_warinukraine-stoprussia-activity-7018150699758727169-qItq?utm_source=share&utm_medium=member_desktop)|January, 2023| Dmytro Nikulin||
 | 8 |Якби у Вас була можливість, то що б Ви запитали у Тараса Чмута?|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_globallogic-savelife-staywithukraine-activity-7046022484441149441-Ium7?utm_source=share&utm_medium=member_desktop)|March, 2023| Dmytro Nikulin||
+| 9 |Які питання ставили хлопці з GlobalLogic Тарасу Чмуту|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_globallogic-armukrainenow-staywithukraine-activity-7058710292825874433-_gHi?utm_source=share&utm_medium=member_desktop)|May 1, 2023 | Dmytro Nikulin||
