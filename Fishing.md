@@ -8,16 +8,6 @@ TBD
 fishing
 
 # Content
-TBD
-<img src="./Images/TBD.jpg" alt="TBD" />
-
-# References
-TBD
-| # | Name                 | Source                | Release date           |  Author                 | Description   |
-| - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
-
-
-
 ## Attempt 0
 Dear fishers, thank you!
 
@@ -67,3 +57,13 @@ This time they did not propose big money neither high-paying job with WFH.
 They just wanted to warn me about disk space.
 
 <img src="./Images/fishing05.jpg" alt="fishing 05" />
+
+# References
+TBD
+| # | Name                 | Source                | Release date           |  Author                 | Description   |
+| - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
+| 1 | Attempt 0 | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_fishing-activity-6993092454992211969-Ucgz?utm_source=share&utm_medium=member_desktop)|December, 2022|Dmytro Nikulin||
+| 2 | Attempt 1 | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_fishing-activity-6939455519191404544-mWpp?utm_source=share&utm_medium=member_desktop)|June, 2022|Dmytro Nikulin||
+| 3 | Attempt 2 | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_it-is-so-easy-to-get-really-big-money-now-activity-6935298599983443968-1GRA?utm_source=share&utm_medium=member_desktop)|May, 2022|Dmytro Nikulin||
+| 4 | Attempt 3 | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_that-is-probably-first-time-when-i-reject-activity-6885883352952438784-CEq-?utm_source=share&utm_medium=member_desktop)|January, 2022|Dmytro Nikulin||
+| 5 | Attempt 4 | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_fishing-activity-7054716495364300801-_-1z?utm_source=share&utm_medium=member_desktop)|April 24, 2023|Dmytro Nikulin||
