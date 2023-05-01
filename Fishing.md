@@ -5,7 +5,7 @@ TBD
 TBD 
 
 # Tags
-TBD
+fishing
 
 # Content
 TBD
@@ -17,12 +17,8 @@ TBD
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 
 
-# Tags
-fishing
 
-## Fishing
-
-# Attempt 0
+## Attempt 0
 Dear fishers, thank you!
 
 But I will reject your gift ($3.5M) again
@@ -32,7 +28,7 @@ And will do it again and again.
 <img src="./Images/fishing00.jpg" alt="fishing 00" />
 <img src="./Images/fishing01.jpg" alt="fishing 01" />
 
-# Attempt 1
+## Attempt 1
 This time they did not propose to send a big amount of money to me just for sharing my account info.
 
 This time they did not propose a big prize for me just for providing my credit card information.
@@ -41,7 +37,7 @@ Instead, they used actor name (Peter Pine) to contact them – for me it‘s the bes
 
 <img src="./Images/fishing02.jpg" alt="fishing 02" />
 
-# Attempt 2
+## Attempt 2
 It is so easy to get really big money now.
 
 I can receive a payment with amount 10 Million US Dollars.
@@ -52,7 +48,7 @@ However, I need to reject this nice offer because I do not know what to do with 
 
 <img src="./Images/fishing03.jpg" alt="fishing 03" />
 
-# Attempt 3
+## Attempt 3
 That is probably first time when I reject the high-paying job and WFH mode.
 
 They sent me an email with a job description.
@@ -63,7 +59,7 @@ Not this time, sorry guys ;-)
 
 <img src="./Images/fishing04.jpg" alt="fishing 04" />
 
-# Attempt 4
+## Attempt 4
 The most boring proposal so far.
 
 This time they did not propose big money neither high-paying job with WFH. 
