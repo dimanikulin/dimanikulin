@@ -59,7 +59,6 @@ They just wanted to warn me about disk space.
 <img src="./Images/fishing05.jpg" alt="fishing 05" />
 
 # References
-TBD
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 | 1 | Attempt 0 | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_fishing-activity-6993092454992211969-Ucgz?utm_source=share&utm_medium=member_desktop)|December, 2022|Dmytro Nikulin||

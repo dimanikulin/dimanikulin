@@ -188,6 +188,27 @@ Yes, hide this article from Hashnode and display it only on my blog.
 https://support.hashnode.com/en/articles/6420682-writing-a-blog-post
 
 ####
+dev.to md foramt editor
+tags
+cover image
+
+Canonical URL
+Change meta tag canonical_url if this post was first published elsewhere (like your own blog).
+
+https://yoursite.com/post-title
+
+Schedule Publication
+
+mm/dd/yyyy
+
+--:-- --
+Series
+Will this post be part of a series? Give the series a unique name. (Series visible once it has multiple posts)
+
+...
+Existing series:
+
+#####################
 
 to publish on to check on "yeasy to publish" platforms first 
 
