@@ -33,4 +33,5 @@ Based on https://www.linkedin.com/feed/update/urn:li:activity:694759953773355827
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
-| 1 | Windows 95           | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_oldschool-old-activity-7048925594268352512-c-4G?utm_source=share&utm_medium=member_desktop)                      | 2023, April            | Dmytro Nikulin          |  |
+| 1 | Windows 95           |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_oldschool-old-activity-7048925594268352512-c-4G?utm_source=share&utm_medium=member_desktop) | 2023, April| Dmytro Nikulin||
+| 2 | Miranda NG           |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_old-activity-7016323085142224896-OyzK?utm_source=share&utm_medium=member_desktop) | 2023, January| Dmytro Nikulin||
