@@ -42,4 +42,3 @@
 - [Second Name History](./content/SecondNameHistory.md)
 - [Software Complexity](./content/SoftwareComplexity.md)
 - [Find a Job In Summer](./content/FindJobInSummer.md)
-- [Windows 95](./content/Windows95.md)
