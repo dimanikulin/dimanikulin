@@ -36,7 +36,7 @@ There are plenty of [metadata](https://en.wikipedia.org/wiki/Metadata) formats l
 The reasons for incorrect and absent [metadata](https://en.wikipedia.org/wiki/Metadata) are quite different - from not setting proper data on the device that takes photos to privacy issues. 
 This [resource](https://digitalarch.org/blog/2017/4/7/ykag6k2fvln7g1j02923n0c7zdrryg) describes [metadata](https://en.wikipedia.org/wiki/Metadata) importance in more detail and there is information about other reasons for incorrect and absent [metadata](https://en.wikipedia.org/wiki/Metadata). 
 
-## Examples of incorrect search results                                                                                                                                                                     9
+## Examples of incorrect search results 
 Let's consider two examples of incorrect search results. 
 In the first case, we tried to search for photos with existing **Geo** positions and to see them on a map. 
 A search returned four photos taken near **Ghana**, marked by a red circle.
