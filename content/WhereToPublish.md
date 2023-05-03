@@ -255,6 +255,8 @@ This story was originally published elsewhere
 
 Publish now or scheduke later
 
+it removed bolding for any text I copy from github
+
 #####################
 
 
