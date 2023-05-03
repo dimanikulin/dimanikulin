@@ -209,6 +209,54 @@ Will this post be part of a series? Give the series a unique name. (Series visib
 Existing series:
 
 #####################
+medium 
+editor like word pad
+
+Make this story unlisted?
+
+No
+Yes
+Your public story will be available publicly to anyone and will not be eligible for payment. Your followers will be notified when you publish for the first time.
+
+change featured image - title image
+
+change titlr and Subtitle  - The title and subtitle are used on your publication homepage, in previews of your story on Medium, and on social media.
+
+change topics (aka tags)
+
+Pin story
+Pinning a story keeps it at the top of the page until you specify otherwise.
+
+
+Pin this story to the top of your profile
+
+SEO Title
+The SEO Title is used in place of your Title on search engine results pages, such as a Google search. SEO titles over 60 characters will be truncated. SEO titles between 40 and 50 characters with commonly searched words have the best click-through-rates.
+auto generated
+
+SEO Description
+The SEO Description is used in place of your Subtitle on search engine results pages. Good SEO descriptions utilize keywords, summarize the story and are between 140-156 characters long.
+
+Friend Link
+This link guarantees anyone free access to your story, even if they’ve read all of their complimentary stories for this month. Learn more.
+
+
+Content Licensing
+
+
+Customize Story Link
+
+Automatic
+
+Custom
+Customize Canonical Link
+
+This story was originally published elsewhere
+
+Publish now or scheduke later
+
+#####################
+
 
 to publish on to check on "yeasy to publish" platforms first 
 
