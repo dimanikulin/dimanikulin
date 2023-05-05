@@ -1,11 +1,12 @@
 # Headline
-TBD
+The Art of Phishing: How Scammers Are Trying to Reel You In
 
 # Article description
-TBD 
+The art of phishing is constantly evolving, and scammers are finding new ways to trick unsuspecting victims. 
+This article explores some of the latest tactics used in phishing attacks. 
 
 # Tags
-fishing
+fishing emailsecurity internetsecurity
 
 # Content
 ## Attempt 0
