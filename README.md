@@ -6,12 +6,12 @@ If you would ask me **what projects are currently occupying most of my time?** m
 - I am looking to collaborate on developing [my product](https://github.com/dimanikulin/fva) because the development is in a hot stage.
 
 And everyone can try themselves in different roles to learn something new and to help me: 
-- [As a product manager](./WhatILearnedAsProductManager.md);
-- [As a delivery manager](./WhatILearnedAsDeliveryManager.md);
-- [As an application architect](./WhatILearnedAsAppArchitect.md); 
-- [As a software developer](./WhatILearnedAsSoftwareDeveloper.md);
+- [As a Product Manager](./WhatILearnedAsProductManager.md);
+- [As a Delivery Manager](./WhatILearnedAsDeliveryManager.md);
+- [As an Application Architect](./WhatILearnedAsAppArchitect.md); 
+- [As a Software Developer](./WhatILearnedAsSoftwareDeveloper.md);
 - [As a DevOps](./WhatILearnedAsDevOps.md);
-- [As a subject matter expert](./WhatILearnedAsSubjectMatterExpert.md). 
+- [As a Subject Matter Expert](./WhatILearnedAsSubjectMatterExpert.md). 
 
 ## Expertise in the Domains
 - Billing systems
