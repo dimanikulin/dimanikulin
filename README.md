@@ -12,7 +12,6 @@ And everyone can try themselves in different roles to learn something new and to
 - [As a software developer](./WhatILearnedAsSoftwareDeveloper.md).
 - [As a DevOps](./WhatILearnedAsDevOps.md).
 - [As a subject matter expert](./WhatILearnedAsSubjectMatterExpert.md). 
-- [As a software tester you can download installation packages](https://github.com/dimanikulin/fva/releases) that are published for Linux (x86-64), Mac and Windows (latest versions) to try it.
 
 ## Expertise in the Domains
 - Billing systems
