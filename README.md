@@ -31,14 +31,7 @@ If you would ask me **what projects are currently occupying most of my time?** m
 - I am currently learning software architecture and
 - I am looking to collaborate on developing [my product](https://github.com/dimanikulin/fva) because the development is in a hot stage.
 
-And everyone can try themselves in different roles to learn something new and to help me: 
-- [As a Product Manager](./WhatILearnedAsProductManager.md);
-- [As a Delivery Manager](./WhatILearnedAsDeliveryManager.md);
-- [As an Application Architect](./WhatILearnedAsAppArchitect.md); 
-- [As a Software Developer](./WhatILearnedAsSoftwareDeveloper.md);
-- [As a DevOps](./WhatILearnedAsDevOps.md);
-- [As a Subject Matter Expert](./WhatILearnedAsSubjectMatterExpert.md). 
-
+And everyone can try themselves in different roles to learn something new and to help me: [As a Product Manager](./WhatILearnedAsProductManager.md), [As a Delivery Manager](./WhatILearnedAsDeliveryManager.md), [As an Application Architect](./WhatILearnedAsAppArchitect.md), [As a Software Developer](./WhatILearnedAsSoftwareDeveloper.md), [As a DevOps](./WhatILearnedAsDevOps.md), [As a Subject Matter Expert](./WhatILearnedAsSubjectMatterExpert.md). 
 
 # Education: 
 | Name                                      | Place  | Duration            |  Major Subjects      | Marks Obtained | Degree                 |
