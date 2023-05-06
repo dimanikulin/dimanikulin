@@ -9,18 +9,6 @@ I can help with **Software Verification Testing** (Unit and Integration testing
 
 In addition, I can help with creating systems to **collect the data** from **mobile** devices. 
 
-If you would ask me **what projects are currently occupying most of my time?** my answers will be
-- I am currently learning software architecture and
-- I am looking to collaborate on developing [my product](https://github.com/dimanikulin/fva) because the development is in a hot stage.
-
-And everyone can try themselves in different roles to learn something new and to help me: 
-- [As a Product Manager](./WhatILearnedAsProductManager.md);
-- [As a Delivery Manager](./WhatILearnedAsDeliveryManager.md);
-- [As an Application Architect](./WhatILearnedAsAppArchitect.md); 
-- [As a Software Developer](./WhatILearnedAsSoftwareDeveloper.md);
-- [As a DevOps](./WhatILearnedAsDevOps.md);
-- [As a Subject Matter Expert](./WhatILearnedAsSubjectMatterExpert.md). 
-
 I can help with **BigData** tools such as **Spark**, **Kafka**, **Hive** and **MongoDB** (choosing tools and configuration)
 
 I can also help with **Software Architecture** aspects such as
@@ -38,6 +26,19 @@ I can also help with **Software Architecture** aspects such as
 Interesting domains include **Automotive**, **Manufacturing**, **Logistic** and **Security**.
 
 Interesting technologies include **Cloud**, **IoT**, **Data Platforms**, **Devops**, and **Architecture**.
+
+If you would ask me **what projects are currently occupying most of my time?** my answers will be
+- I am currently learning software architecture and
+- I am looking to collaborate on developing [my product](https://github.com/dimanikulin/fva) because the development is in a hot stage.
+
+And everyone can try themselves in different roles to learn something new and to help me: 
+- [As a Product Manager](./WhatILearnedAsProductManager.md);
+- [As a Delivery Manager](./WhatILearnedAsDeliveryManager.md);
+- [As an Application Architect](./WhatILearnedAsAppArchitect.md); 
+- [As a Software Developer](./WhatILearnedAsSoftwareDeveloper.md);
+- [As a DevOps](./WhatILearnedAsDevOps.md);
+- [As a Subject Matter Expert](./WhatILearnedAsSubjectMatterExpert.md). 
+
 
 # Education: 
 | Name                                      | Place  | Duration            |  Major Subjects      | Marks Obtained | Degree                 |
