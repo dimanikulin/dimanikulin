@@ -1,5 +1,5 @@
 # About Me
-My name is **Dmytro [Nikulin](./SecondNameHistory.md)** and I have **25** of years of experience as Software Developer/Lead.
+My name is **Dmytro [Nikulin](./SecondNameHistory.md)** and I have **25** of years of [experience](./MyExperience.md) as Software Developer/Lead.
 
 If you would ask me **what projects are currently occupying most of my time?** my answers will be
 - I am currently learning software architecture and
@@ -9,8 +9,8 @@ And everyone can try themselves in different roles to learn something new and to
 - [As a product manager](./WhatILearnedAsProductManager.md);
 - [As a delivery manager](./WhatILearnedAsDeliveryManager.md);
 - [As an application architect](./WhatILearnedAsAppArchitect.md); 
-- [As a software developer](./WhatILearnedAsSoftwareDeveloper.md).
-- [As a DevOps](./WhatILearnedAsDevOps.md).
+- [As a software developer](./WhatILearnedAsSoftwareDeveloper.md);
+- [As a DevOps](./WhatILearnedAsDevOps.md);
 - [As a subject matter expert](./WhatILearnedAsSubjectMatterExpert.md). 
 
 ## Expertise in the Domains
@@ -50,24 +50,6 @@ I can also help with **Software Architecture** aspects such as
 Interesting domains include **Automotive**, **Manufacturing**, **Logistic** and **Security**.
 
 Interesting technologies include **Cloud**, **IoT**, **Data Platforms**, **Devops**, and **Architecture**.
-
-# Experience:
-|Company          |Place  |Duration         |Role        |Project Description   |Responsibilities              |
-|-----------------|-------|-----------------|------------|--------------------  |:--------------------------:  |
-|GlobalLogic      |Kyiv   |May 2018-Present |Tech Lead   |Huge medical product  |Development and verification  |
-|GlobalLogic      |Kyiv   |Mar 2017-May 2018|SW Developer|TV network company project|Development and maintenance|
-|Mobisoft Ltd     |Kyiv   |Apr 2015-Sep 2016|SW Developer|Data gathering system |Development and maintenance   |
-|Metacom Company  |Lviv   |Apr 2013-Mar 2015|SW Developer|Cloud data security system|Development of SW         |
-|LogNet Systems   |Donetsk|Apr 2012-Apr 2013|SW Developer|Billing systems       |Development and maintenance   |
-|Biruza Software  |Donetsk|Jan 2012-Apr 2012|SW Developer|Tpips adviser         |Development                   |
-|Biruza Software  |Donetsk|Jun 2008-Jan 2012|SW Developer|Devices management    |Development                   |
-|Kvisot           |Donetsk|May 2008-Jul 2008|SW Developer|Commodity directory   |Development                   |
-|MaxBill          |Donetsk|Apr 2006-May 2008|SW Developer|Billing systems       |Development and maintenance   |
-|Railway ISC      |Donetsk|Aug 2001-Apr 2006|SW Developer|Railway systems products|Development and maintenance |
-|Railway Institute|Donetsk|1998-Apr 2007    |SW Developer|Testing knowledge systems|Development and maintenance|
-|Trubnikov Enterprise|Donetsk|1999–2005     |IT guy      ||Technical support of OS and software                |
-
-For more details, please [see](./MyDetailedExperience.md)
 
 # Education: 
 | Name                                      | Place  | Duration            |  Major Subjects      | Marks Obtained | Degree                 |
