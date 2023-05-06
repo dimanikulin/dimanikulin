@@ -1,6 +1,19 @@
 # About Me
 My name is **Dmytro [Nikulin](./SecondNameHistory.md)** and I have **25** of years of experience as Software Developer/Lead.
 
+If you would ask me **what projects are currently occupying most of my time?** my answers will be
+- I am currently learning software architecture and
+- I am looking to collaborate on developing [my product](https://github.com/dimanikulin/fva) because the development is in a hot stage.
+
+And everyone can try themselves in different roles to learn something new and to help me: 
+- [As a product manager](./FVADocMD/LEARNT_AS_PM.md);
+- [As a delivery manager](./FVADocMD/LEARNT_AS_DM.md);
+- [As an application architect](./FVADocMD/LEARNT_AS_SA.md); 
+- [As a software developer](./FVADocMD/LEARNED_AS_DEV.md).
+- [As a DevOps](./FVADocMD/WhatILearnedAsDevOps.md).
+- [As a subject matter expert](./FVADocMD/LEARNT_AS_SME.md). 
+- [As a software tester you can download installation packages](https://github.com/dimanikulin/fva/releases) that are published for Linux (x86-64), Mac and Windows (latest versions) to try it.
+
 ## Expertise in the Domains
 - Billing systems
 - Embedded systems
@@ -56,10 +69,6 @@ Interesting technologies include **Cloud**, **IoT**, **Data Platforms**, **Devo
 |Trubnikov Enterprise|Donetsk|1999–2005     |IT guy      ||Technical support of OS and software                |
 
 For more details, please [see](./MyDetailedExperience.md)
-
-# What projects are currently occupying most of my time?
-- I am currently learning software architecture and
-- I am looking to collaborate on developing [my product](https://github.com/dimanikulin/fva)
 
 # Education: 
 | Name                                      | Place  | Duration            |  Major Subjects      | Marks Obtained | Degree                 |
