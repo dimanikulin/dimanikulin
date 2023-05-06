@@ -1,6 +1,14 @@
 # About Me
 My name is **Dmytro [Nikulin](./SecondNameHistory.md)** and I have **25** of years of [experience](./MyExperience.md) as Software Developer/Lead.
 
+I have expertise in following domains: **Billing systems**, **Embedded systems**, **Mobile applications**, **Media**, **Healthcare**, **Communication**, **Geoinformatics**, **Railways**.
+
+I have a deep understanding of **Microsoft OS** programming and extensive experience with cross-platform programming.
+
+I can help with **Software Verification Testing** (Unit and Integration testing) of medical devices with **GTest and Squish**; use of **QT** to create **Cross-platform** and **Multi-language UI**, **MS OS customization**, **Win32 API hooking**, and **making MS OS more secure**.
+
+In addition, I can help with creating systems to **collect the data** from **mobile** devices. 
+
 If you would ask me **what projects are currently occupying most of my time?** my answers will be
 - I am currently learning software architecture and
 - I am looking to collaborate on developing [my product](https://github.com/dimanikulin/fva) because the development is in a hot stage.
@@ -12,26 +20,6 @@ And everyone can try themselves in different roles to learn something new and to
 - [As a Software Developer](./WhatILearnedAsSoftwareDeveloper.md);
 - [As a DevOps](./WhatILearnedAsDevOps.md);
 - [As a Subject Matter Expert](./WhatILearnedAsSubjectMatterExpert.md). 
-
-## Expertise in the Domains
-- Billing systems
-- Embedded systems
-- Mobile applications
-- Media
-- Healthcare
-- Communication
-- Geoinformatics
-- Railways
-
-## Expertise in the Technologies
-
-I have a deep understanding of **Microsoft OS** programming and extensive experience with cross-platform programming.
-
-I can help with **Software Verification Testing** (Unit and Integration testing) of medical devices with **GTest and Squish**; use of **QT** to create **Cross-platform** and **Multi-language UI**, **MS OS customization**, **Win32 API hooking**, and **making MS OS more secure**.
-
-In addition, I can help with creating systems to **collect the data** from **mobile** devices. 
-
-## Interesting technologies
 
 I can help with **BigData** tools such as **Spark**, **Kafka**, **Hive** and **MongoDB** (choosing tools and configuration)
 
