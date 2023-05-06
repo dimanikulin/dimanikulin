@@ -6,12 +6,12 @@ If you would ask me **what projects are currently occupying most of my time?** m
 - I am looking to collaborate on developing [my product](https://github.com/dimanikulin/fva) because the development is in a hot stage.
 
 And everyone can try themselves in different roles to learn something new and to help me: 
-- [As a product manager](./FVADocMD/LEARNT_AS_PM.md);
-- [As a delivery manager](./FVADocMD/LEARNT_AS_DM.md);
-- [As an application architect](./FVADocMD/LEARNT_AS_SA.md); 
-- [As a software developer](./FVADocMD/LEARNED_AS_DEV.md).
-- [As a DevOps](./FVADocMD/WhatILearnedAsDevOps.md).
-- [As a subject matter expert](./FVADocMD/LEARNT_AS_SME.md). 
+- [As a product manager](./WhatILearnedAsProductManager.md);
+- [As a delivery manager](./WhatILearnedAsDeliveryManager.md);
+- [As an application architect](./WhatILearnedAsAppArchitect.md); 
+- [As a software developer](./WhatILearnedAsSoftwareDeveloper.md).
+- [As a DevOps](./WhatILearnedAsDevOps.md).
+- [As a subject matter expert](./WhatILearnedAsSubjectMatterExpert.md). 
 - [As a software tester you can download installation packages](https://github.com/dimanikulin/fva/releases) that are published for Linux (x86-64), Mac and Windows (latest versions) to try it.
 
 ## Expertise in the Domains
