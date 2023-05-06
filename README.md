@@ -1,5 +1,5 @@
 # About Me
-My name is **Dmytro Nikulin** and I have **25** of years of experience as Software Developer/Lead.
+My name is **Dmytro [Nikulin](./SecondNameHistory.md)** and I have **25** of years of experience as Software Developer/Lead.
 
 ## Expertise in the Domains
 - Billing systems
