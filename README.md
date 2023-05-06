@@ -1,5 +1,6 @@
 # About Me
-My name is **Dmytro [Nikulin](./SecondNameHistory.md)** and I have **25** of years of [experience](./MyExperience.md) as Software Developer/Lead.
+My name is **Dmytro [Nikulin](./SecondNameHistory.md)** and I have **25** of years of expereince as Software Developer/Lead.
+Please see [this](./MyExperience.md) for more details.
 
 I have expertise in following domains: **Billing systems**, **Embedded systems**, **Mobile applications**, **Media**, **Healthcare**, **Communication**, **Geoinformatics**, **Railways**.
 
