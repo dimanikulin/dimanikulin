@@ -2,6 +2,13 @@
 My name is **Dmytro [Nikulin](./SecondNameHistory.md)** and I have **25** of years of expereince as Software Developer/Lead.
 Please see [this](./MyExperience.md) for more details.
 
+As for now I have 3 diplomas from **NaUKMA**, **EPAM SCHOOL of Digital Engineering** and **Kharkiv State Academy of Railway Transport**.
+Please see [this](https://github.com/dimanikulin#education) for more details.
+
+During education in NAUKMA, we were given free access to https://www.coursera.org/ and so we could choose any from 5K cources.
+Also during education in NAUKMA, we were given free access to Cisco Learning Platform.
+Please find all them in the section [Certificates](https://github.com/dimanikulin#certificates) and [Cources](https://github.com/dimanikulin#courses).
+
 I have expertise in following domains: **Billing systems**, **Embedded systems**, **Mobile applications**, **Media**, **Healthcare**, **Communication**, **Geoinformatics**, **Railways**.
 
 I have a deep understanding of **Microsoft OS** programming and extensive experience with cross-platform programming.
@@ -40,10 +47,6 @@ And everyone can try themselves in different roles to learn something new and to
 | [NaUKMA](https://www.ukma.edu.ua/)        | Kyiv   | Oct 2019-June 2021  | Software Engineering | 90 out 100    | [MSDP in Software Engineering](./Images/NaukmaDiploma.jpg)|
 | EPAM SCHOOL of Digital Engineering        | Kyiv   | Oct 2019-June 2021  | [Software Engineering](./Images/CertsEPAM1.jpg) | 90 out 100    | [MSDP in Software Engineering](./Images/CertsEPAM2.jpg) |
 | Kharkiv State Academy of Railway Transport| Donetsk| Sept 1996-June 2001 | Math, electrics      | 4.75 out 5    | Electrical engineer in Railway Transport |
-
-During education in NAUKMA, we were given free access to https://www.coursera.org/ and so we could choose any from 5K cources.
-Also during education in NAUKMA, we were given free access to Cisco Learning Platform.
-Please findall them in the section [Certificates](https://github.com/dimanikulin#certificates) and [Cources](https://github.com/dimanikulin#courses).
 
 # Certificates:
 |# |Issuer  |Name                                                                                         |Issued  |Credential ID|
