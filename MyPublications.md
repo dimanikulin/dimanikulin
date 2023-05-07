@@ -30,11 +30,10 @@
 - [Fishing](./Fishing.md)
 - [Interesting facts](./InterestingFacts.md)
 - [This is when we say "Old, but Gold](./OldButGold.md)
-
+- [Soft Skills](./SoftSkills.md)
 ##################################
 
 - [Communication](./content/Communication.md)
-- [Active Listening](./content/ActiveListening.md)
 - [Number Of Interviews](./content/NumberOfInterviews.md)
 - [Which title describes better a real job?](./content/Titles&Jobs.md)
 - [Presents in GlobalLogic for an employer](./content/PresentsInGL.md)
