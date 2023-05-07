@@ -40,6 +40,8 @@ toxicpeople
 TBD
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
+| 1 | Who are toxic people | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_toxicpeople-activity-7026092332055707648-oYuV?utm_source=share&utm_medium=member_desktop) | Febrary, 2023 | Dmytro Nikulin | | 
+| 2 | Active Listening     | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_communication-softskills-activelistening-activity-6972809312763043840-Dv6D?utm_source=share&utm_medium=member_desktop) | October, 2023 | Dmytro Nikulin | |
 
 # Definitions, Acronyms, Abbreviations
 TBD
