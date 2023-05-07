@@ -5,7 +5,7 @@ TBD
 TBD 
 
 # Tags
-TBD
+softskills
 
 # Content
 
@@ -22,7 +22,19 @@ When you speak a lot you do not listen and so you don't receive information.
 <img src="./Images/ActiveListening.jpg" alt="ActiveListening.jpg" />
 
 ### Tags
-communication softskills activelistening
+communication activelistening
+
+## Who are toxic people
+Who are **toxic** people?
+People who..
+
+- criticize a lot **11%**
+- can not listen to other people **19%**
+- say rude words **5%**
+- are rusnia **66%**
+
+### Tags
+toxicpeople
 
 # References
 TBD
