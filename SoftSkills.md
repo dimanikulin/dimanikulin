@@ -1,3 +1,14 @@
+# Headline
+TBD
+
+# Article description
+TBD 
+
+# Tags
+TBD
+
+# Content
+
 ## Active Listening
 
 Is "talking a lot" a soft skill? Nope.
@@ -12,3 +23,12 @@ When you speak a lot you do not listen and so you don't receive information.
 
 ### Tags
 communication softskills activelistening
+
+# References
+TBD
+| # | Name                 | Source                | Release date           |  Author                 | Description   |
+| - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
+
+
+# Definitions, Acronyms, Abbreviations
+TBD
