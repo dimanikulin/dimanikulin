@@ -2,7 +2,7 @@
 My name is **Dmytro [Nikulin](./SecondNameHistory.md)** and I have **25** of years of expereince as Software Developer/Lead.
 Please see [this](./MyExperience.md) for more details.
 
-As for now I have 3 diplomas from **NaUKMA**, **EPAM SCHOOL of Digital Engineering** and **Kharkiv State Academy of Railway Transport**.
+As for now I have 3 diplomas from **NaUKMA**, **EPAM SCHOOL of Digital Engineering** and **Kharkiv State Academy of Railway Transport**.   
 Please see [this](https://github.com/dimanikulin#education) for more details.
 During education in NAUKMA, we were given free access to https://www.coursera.org/ and so we could choose any from 5K cources.
 Also during education in NAUKMA, we were given free access to Cisco Learning Platform.
