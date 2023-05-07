@@ -1,25 +1,25 @@
 # About Me
-My name is **Dmytro [Nikulin](./SecondNameHistory.md)** and I have **25** of years of expereince as Software Developer/Lead.
-Please see [this](./MyExperience.md) for more details.
+My name is **Dmytro [Nikulin](./SecondNameHistory.md)** and I have **25** of years of expereince as a Software Developer/Lead.
+Please see [this link](./MyExperience.md) for more details.
 
-As for now I have 3 diplomas from **NaUKMA**, **EPAM SCHOOL of Digital Engineering** and **Kharkiv State Academy of Railway Transport**.   
-Please see [this](https://github.com/dimanikulin#education) for more details.   
-During education in NAUKMA, we were given free access to https://www.coursera.org/ and so we could choose any from 5K cources.   
-Also during education in NAUKMA, we were given free access to Cisco Learning Platform.
-Please find certificates [here](./MyCertificates.md) and cources [here](https://github.com/dimanikulin#courses).   
-As the best student I was [nominated](https://github.com/dimanikulin#honors--awards) in **EPAM SCHOOL of Digital Engineering** and **Kharkiv State Academy of Railway Transport**.
+Currently, I hold 3 diplomas from **NaUKMA**, **EPAM SCHOOL of Digital Engineering** and **Kharkiv State Academy of Railway Transport**.   
+Please find more details about them on [this link](https://github.com/dimanikulin#education).   
+During my studies at NAUKMA, we were given free access to www.coursera.org and allowing us to choose from over 5,000 courses.   
+Additionally, we were granted free access to the Cisco Learning Platform.
+Please find my certificates [here](./MyCertificates.md) and the cources [here](https://github.com/dimanikulin#courses).   
 
-As for now I can speek 3 [languages](https://github.com/dimanikulin#languages)
+I was [nominated](https://github.com/dimanikulin#honors--awards) as the best student at **EPAM SCHOOL of Digital Engineering** and **Kharkiv State Academy of Railway Transport**.
 
-Also I have several science [publications](https://github.com/dimanikulin#science-publications) and plenty of other [publications](https://github.com/dimanikulin#other-publication)
+I am fluent in three [languages](https://github.com/dimanikulin#languages).
 
-I have expertise in following domains: **Billing systems**, **Embedded systems**, **Mobile applications**, **Media**, **Healthcare**, **Communication**, **Geoinformatics**, **Railways**.
+I have several scientific [publications](https://github.com/dimanikulin#science-publications) and numerous other [publications](https://github.com/dimanikulin#other-publication).
+
+I have expertise in the following domains: **Billing systems**, **Embedded systems**, **Mobile applications**, **Media**, **Healthcare**, **Communication**, **Geoinformatics**, **Railways**.
 I have a deep understanding of **Microsoft OS** programming and extensive experience with cross-platform programming.
 
-Interesting domains include **Automotive**, **Manufacturing**, **Logistic** and **Security**.
+My interests include **Automotive**, **Manufacturing**, **Logistic** and **Security**.
 
-Interesting technologies include **Cloud**, **IoT**, **Data Platforms**, **Devops**, and **Architecture**.
-
+My areas of interest in technology include **Cloud**, **IoT**, **Data Platforms**, **Devops**, and **Architecture**.
 
 # I can help you with
 I can help with **Software Verification Testing** (Unit and Integration testing) of medical devices with **GTest and Squish**; use of **QT** to create **Cross-platform** and **Multi-language UI**, **MS OS customization**, **Win32 API hooking**, and **making MS OS more secure**.
