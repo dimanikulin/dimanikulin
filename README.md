@@ -15,12 +15,19 @@ Also I have several science [publications](https://github.com/dimanikulin#scienc
 
 I have expertise in following domains: **Billing systems**, **Embedded systems**, **Mobile applications**, **Media**, **Healthcare**, **Communication**, **Geoinformatics**, **Railways**.
 I have a deep understanding of **Microsoft OS** programming and extensive experience with cross-platform programming.
-I can help with **Software Verification Testing** (Unit and Integration testing) of medical devices with **GTest and Squish**; use of **QT** to create **Cross-platform** and **Multi-language UI**, **MS OS customization**, **Win32 API hooking**, and **making MS OS more secure**.
-In addition, I can help with creating systems to **collect the data** from **mobile** devices. 
+
+Interesting domains include **Automotive**, **Manufacturing**, **Logistic** and **Security**.
+
+Interesting technologies include **Cloud**, **IoT**, **Data Platforms**, **Devops**, and **Architecture**.
+
 
 # I can help you with
+I can help with **Software Verification Testing** (Unit and Integration testing) of medical devices with **GTest and Squish**; use of **QT** to create **Cross-platform** and **Multi-language UI**, **MS OS customization**, **Win32 API hooking**, and **making MS OS more secure**.
+
+In addition, I can help with creating systems to **collect the data** from **mobile** devices. 
 
 I can help with **BigData** tools such as **Spark**, **Kafka**, **Hive** and **MongoDB** (choosing tools and configuration)
+
 I can also help with **Software Architecture** aspects such as
 - working with **Stakeholders**, **Business Requirements** and **Functional decomposition**;
 - participation in **Presales**, **Estimation**, **Discovery**, **Design and Review stages**;
@@ -33,14 +40,11 @@ I can also help with **Software Architecture** aspects such as
 - choosing the **cloud services** for **MOM**;
 - and choosing the **caches**.
 
-Interesting domains include **Automotive**, **Manufacturing**, **Logistic** and **Security**.
-
-Interesting technologies include **Cloud**, **IoT**, **Data Platforms**, **Devops**, and **Architecture**.
-
 # Projects are currently occupying most of my time
 If you would ask me **what projects are currently occupying most of my time?** my answers will be
 - I am currently learning software architecture and
 - I am looking to collaborate on developing [my product](https://github.com/dimanikulin/fva) because the development is in a hot stage.
+
 And everyone can try themselves in different roles to learn something new and to help me: [as a Product Manager](./WhatILearnedAsProductManager.md), [as a Delivery Manager](./WhatILearnedAsDeliveryManager.md), [as an Application Architect](./WhatILearnedAsAppArchitect.md), [as a Software Developer](./WhatILearnedAsSoftwareDeveloper.md), [as a DevOps](./WhatILearnedAsDevOps.md) and  [as a Subject Matter Expert](./WhatILearnedAsSubjectMatterExpert.md). 
 
 # Education: 
