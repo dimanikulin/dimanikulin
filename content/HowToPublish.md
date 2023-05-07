@@ -195,7 +195,8 @@ My is
 - Has it been proof read?
 - Are there any pictures?
 - Is it asking for an opinion?
-- Is there bold text? 
+- Is there bold text used for key word?
+- is there italic used for conversation?
 - if there is no PII ?
 - if there is no TBD and TODO?
 
