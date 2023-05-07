@@ -22,23 +22,24 @@ My interests include **Automotive**, **Manufacturing**, **Logistic** and **Secur
 My areas of interest in technology include **Cloud**, **IoT**, **Data Platforms**, **Devops**, and **Architecture**.
 
 # I can help you with
-I can help with **Software Verification Testing** (Unit and Integration testing) of medical devices with **GTest and Squish**; use of **QT** to create **Cross-platform** and **Multi-language UI**, **MS OS customization**, **Win32 API hooking**, and **making MS OS more secure**.
+I can help with **Software Verification Testing** (Unit and Integration testing) of medical devices with **GTest** and **Squish**.    
+I can also use **QT** to create **Cross-platform** and **Multi-language UIs**,customize **MS OS**, perform **Win32 API hooking**, and make **MS OS** more secure.
 
-In addition, I can help with creating systems to **collect the data** from **mobile** devices. 
+In addition, I can help create systems to **collect data** from **mobile** devices. 
 
-I can help with **BigData** tools such as **Spark**, **Kafka**, **Hive** and **MongoDB** (choosing tools and configuration)
+I can also help with **BigData** tools such as **Spark**, **Kafka**, **Hive** and **MongoDB** including choosing tools and configuration them.
 
-I can also help with **Software Architecture** aspects such as
+Furthermore, I can assist with **Software Architecture** aspects, such as:
 - working with **Stakeholders**, **Business Requirements** and **Functional decomposition**;
 - participation in **Presales**, **Estimation**, **Discovery**, **Design and Review stages**;
-- working with **[Quality attributes](./QualityAttributes.md)** and **their Tactics**;
-- creation the **Software Architecture Document**;
+- working with **[Quality attributes](./QualityAttributes.md)** and their **Tactics**;
+- creating the **Software Architecture Document**;
 - choosing the **NoSQL DB**;
 - designing the **Search system**;
 - securing the system on the **cloud** to keep **private** data;
 - choosing **style**, **design patterns** and **development technologies** for **web application** to support the desktop and mobile requirements;
-- choosing the **cloud services** for **MOM**;
-- and choosing the **caches**.
+- choosing the **cloud services** for **MOM**; and
+- choosing the **caches**.
 
 # Projects are currently occupying most of my time
 If you would ask me **what projects are currently occupying most of my time?** my answers will be
