@@ -18,6 +18,8 @@ I have a deep understanding of **Microsoft OS** programming and extensive exper
 I can help with **Software Verification Testing** (Unit and Integration testing) of medical devices with **GTest and Squish**; use of **QT** to create **Cross-platform** and **Multi-language UI**, **MS OS customization**, **Win32 API hooking**, and **making MS OS more secure**.
 In addition, I can help with creating systems to **collect the data** from **mobile** devices. 
 
+# I can help you with
+
 I can help with **BigData** tools such as **Spark**, **Kafka**, **Hive** and **MongoDB** (choosing tools and configuration)
 I can also help with **Software Architecture** aspects such as
 - working with **Stakeholders**, **Business Requirements** and **Functional decomposition**;
@@ -35,6 +37,7 @@ Interesting domains include **Automotive**, **Manufacturing**, **Logistic** and
 
 Interesting technologies include **Cloud**, **IoT**, **Data Platforms**, **Devops**, and **Architecture**.
 
+# Projects are currently occupying most of my time
 If you would ask me **what projects are currently occupying most of my time?** my answers will be
 - I am currently learning software architecture and
 - I am looking to collaborate on developing [my product](https://github.com/dimanikulin/fva) because the development is in a hot stage.
