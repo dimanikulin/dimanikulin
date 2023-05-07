@@ -1,16 +1,15 @@
-###
-update with feedback
-линкед из нот a dating app!
-agree that agreeing is not agreable для постов где какую хрень скажут и спрашивают агри не игри
-https://www.linkedin.com/posts/amish-aggarwala-45978246_leadership-management-startups-activity-7000692987433242624-o8LU/?utm_source=share&utm_medium=member_desktop
-adequite people only - many rusnia
+# Just Joined LinkedIn (In English)
 
+What do you think about LinkedIn content?
+About a year ago, I posted a picture about content and received a lot of responses.
 
+What irritates you the most?
 
-## Just Joined LinkedIn (In English)
-What do think about content ?
+- Dating
+- Asking for agreement or disagreement
+- Memes from the 20th century
+- Pet photos
 
-Please share you opinion in the comments.
+Please share your opinion in the comments.
 
-About one year ago I posted 
- 
+TODO to add adequite people only - many rusnia
