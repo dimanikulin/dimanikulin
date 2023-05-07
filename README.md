@@ -9,6 +9,10 @@ Also during education in NAUKMA, we were given free access to Cisco Learning Pla
 Please find certificates [here](./MyCertificates.md) and cources [here](https://github.com/dimanikulin#courses).
 As the best student I was [nominated](https://github.com/dimanikulin#honors--awards) in **EPAM SCHOOL of Digital Engineering** and **Kharkiv State Academy of Railway Transport**.
 
+As for now I can speek 3 [languages](https://github.com/dimanikulin#languages)
+
+Also I have several science [publications](https://github.com/dimanikulin#science-publications) and plenty of other [publications](https://github.com/dimanikulin#other-publication)
+
 I have expertise in following domains: **Billing systems**, **Embedded systems**, **Mobile applications**, **Media**, **Healthcare**, **Communication**, **Geoinformatics**, **Railways**.
 
 I have a deep understanding of **Microsoft OS** programming and extensive experience with cross-platform programming.
