@@ -7,6 +7,10 @@ converted my text from upper case to lower case
 
 Стишок для Симонян. 
 
+top 10 sites to publish IT 
+
+interesting facts about 6
+
 ## Cases when ChatGPT did not help me 
 - It did not find my social style, it is not easy task honestly;
 - TBD
