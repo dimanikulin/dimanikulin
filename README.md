@@ -1,9 +1,9 @@
 # About Me
 My name is **Dmytro [Nikulin](./SecondNameHistory.md)** and I have **25** of years of expereince as Software Developer/Lead.
 Please see [this](./MyExperience.md) for more details.
+
 As for now I have 3 diplomas from **NaUKMA**, **EPAM SCHOOL of Digital Engineering** and **Kharkiv State Academy of Railway Transport**.
 Please see [this](https://github.com/dimanikulin#education) for more details.
-
 During education in NAUKMA, we were given free access to https://www.coursera.org/ and so we could choose any from 5K cources.
 Also during education in NAUKMA, we were given free access to Cisco Learning Platform.
 Please find certificates [here](./MyCertificates.md) and cources [here](https://github.com/dimanikulin#courses).
@@ -14,15 +14,11 @@ As for now I can speek 3 [languages](https://github.com/dimanikulin#languages)
 Also I have several science [publications](https://github.com/dimanikulin#science-publications) and plenty of other [publications](https://github.com/dimanikulin#other-publication)
 
 I have expertise in following domains: **Billing systems**, **Embedded systems**, **Mobile applications**, **Media**, **Healthcare**, **Communication**, **Geoinformatics**, **Railways**.
-
 I have a deep understanding of **Microsoft OS** programming and extensive experience with cross-platform programming.
-
 I can help with **Software Verification Testing** (Unit and Integration testing) of medical devices with **GTest and Squish**; use of **QT** to create **Cross-platform** and **Multi-language UI**, **MS OS customization**, **Win32 API hooking**, and **making MS OS more secure**.
-
 In addition, I can help with creating systems to **collect the data** from **mobile** devices. 
 
 I can help with **BigData** tools such as **Spark**, **Kafka**, **Hive** and **MongoDB** (choosing tools and configuration)
-
 I can also help with **Software Architecture** aspects such as
 - working with **Stakeholders**, **Business Requirements** and **Functional decomposition**;
 - participation in **Presales**, **Estimation**, **Discovery**, **Design and Review stages**;
@@ -42,7 +38,6 @@ Interesting technologies include **Cloud**, **IoT**, **Data Platforms**, **Devo
 If you would ask me **what projects are currently occupying most of my time?** my answers will be
 - I am currently learning software architecture and
 - I am looking to collaborate on developing [my product](https://github.com/dimanikulin/fva) because the development is in a hot stage.
-
 And everyone can try themselves in different roles to learn something new and to help me: [as a Product Manager](./WhatILearnedAsProductManager.md), [as a Delivery Manager](./WhatILearnedAsDeliveryManager.md), [as an Application Architect](./WhatILearnedAsAppArchitect.md), [as a Software Developer](./WhatILearnedAsSoftwareDeveloper.md), [as a DevOps](./WhatILearnedAsDevOps.md) and  [as a Subject Matter Expert](./WhatILearnedAsSubjectMatterExpert.md). 
 
 # Education: 
