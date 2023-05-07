@@ -20,10 +20,10 @@ Design-Thinking, User persona, Value proposition, Business model canvas, Product
 The first product I was thinking about was "FVA Tool Set".
 Subsequently, another product came to my mind. As a result, a **Product Line** came about.
 
-- "Hold on, you started from thinking of products, right?", - you will ask me.
-- "Nope, I started from... It was ages ago and a whole [history](./WhyCreatedPhotoOrganizer.md) is quite big. Being a developer, I started from coding".
-- "Was it a good idea to start from coding?", - you will ask me. 
-- "Again no. I would have started from Design Thinking if I was familiar with it." 
+- "*Hold on, you started from thinking of products, right?*", - you will ask me.
+- "*Nope, I started from... It was ages ago and a whole [history](./WhyCreatedPhotoOrganizer.md) is quite big. Being a developer, I started from coding*".
+- "*Was it a good idea to start from coding?*", - you will ask me. 
+- "*Again no. I would have started from Design Thinking if I was familiar with it.*" 
 
 Design Thinking is a process of preparation, which consists of seven stages of creating a product:
 
