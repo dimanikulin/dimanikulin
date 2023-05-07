@@ -42,17 +42,18 @@ Furthermore, I can assist with **Software Architecture** aspects, such as:
 - choosing the **caches**.
 
 # Projects are currently occupying most of my time
-If you would ask me **what projects are currently occupying most of my time?** my answers will be
-- I am currently learning software architecture and
+
+If you were to ask me what projects are currently occupying most of my time, my answer would be:
+- I am currently learning software architecture.
 - I am looking to collaborate on developing [my product](https://github.com/dimanikulin/fva) because the development is in a hot stage.
 
-And everyone can try themselves in different roles to learn something new and to help me: 
-- [As a Product Manager](./WhatILearnedAsProductManager.md)
-- [As a Delivery Manager](./WhatILearnedAsDeliveryManager.md) 
-- [As an Application Architect](./WhatILearnedAsAppArchitect.md) 
-- [As a Software Developer](./WhatILearnedAsSoftwareDeveloper.md)
-- [As a DevOps](./WhatILearnedAsDevOps.md) and
-- [As a Subject Matter Expert](./WhatILearnedAsSubjectMatterExpert.md). 
+Everyone can try themselves in different roles to learn something new and to help me, such as:
+- [Product Manager](./WhatILearnedAsProductManager.md)
+- [Delivery Manager](./WhatILearnedAsDeliveryManager.md) 
+- [Application Architect](./WhatILearnedAsAppArchitect.md) 
+- [Software Developer](./WhatILearnedAsSoftwareDeveloper.md)
+- [DevOps](./WhatILearnedAsDevOps.md) and
+- [Subject Matter Expert](./WhatILearnedAsSubjectMatterExpert.md). 
 
 # Education: 
 | Name                                      | Place  | Duration            |  Major Subjects      | Marks Obtained | Degree                 |
