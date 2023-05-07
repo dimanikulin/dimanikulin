@@ -17,4 +17,4 @@ LinkedIn Content
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
-| 1 | Just Joined LinkedIn (На русском) |[LinkedIn]()| Febrary 16, 2022 | Dmytro Nikulin |  |
+| 1 | Just Joined LinkedIn (На русском) |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_%D0%BD%D0%B0%D0%B1%D0%BE%D0%BB%D0%B5%D0%BB%D0%BE-activity-6896460037422686208-xicr?utm_source=share&utm_medium=member_desktop)| Febrary 16, 2022 | Dmytro Nikulin |  |
