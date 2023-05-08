@@ -14,6 +14,29 @@ LinkedIn Content
 
 <img src="./Images/JustJoinedLinkedIn.jpg" alt="TBD" />
 
+
+# Just Joined LinkedIn (In English)
+
+About a year ago, I posted a picture about LI content and received a lot of responses.
+
+So..
+
+What do you think about content posted in LinkedIn?
+
+Please share your opinion in the comments.
+
+
+- Dating
+- Asking for agreement or disagreement
+- Memes from the 20th century
+- Pet photos
+
+Please share your opinion in the comments.
+
+TODO to add adequite people only - many rusnia
+
+
+
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
