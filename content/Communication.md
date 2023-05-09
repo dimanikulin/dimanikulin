@@ -1,4 +1,13 @@
-# Communication
+# Headline
+TBD
+
+# Article description
+TBD 
+
+# Tags
+Communication
+
+# Content
 
 ## We need more Messengers!
 
@@ -15,10 +24,11 @@ How many messengers there are on your devices?
 Which ones I missed?
 
 <img src="./Images/MoreMessengers.jpg" alt="More Messengers" />
+### Tags
+messenger ithumor
 
 ## What does it mean for me to be online?
-
 <img src="./Images/BeingOnline.jpg" alt="TBD" />
 
 ### Tags
-online messenger ithumor
+online ithumor
