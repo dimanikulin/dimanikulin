@@ -32,3 +32,9 @@ messenger ithumor
 
 ### Tags
 online ithumor
+
+# References
+| # | Name                 | Source                | Release date           |  Author                 | Description   |
+| - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
+| 1 |We need more Messengers! | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_messenger-ithumor-activity-7040961774296154112-Tg-G?utm_source=share&utm_medium=member_desktop) | March 2023 | Dmytro Nikulin | |
+| 2 |What does it mean for me to be online? | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_online-messenger-nokia-activity-7008705718677573632-aA2C?utm_source=share&utm_medium=member_desktop)| March 2023 | Dmytro Nikulin | | 
