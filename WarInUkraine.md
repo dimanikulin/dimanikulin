@@ -82,6 +82,12 @@ Any other options I forgot to mention?
 
 <img src="./Images/QuestionsToTarasChmut2.png" />
 
+## junior is trying to find a job in summer in Ukraine in war
+When junior is trying to find a job in summer... in Ukraine.... in war.
+Invest(hire) in them now and you will have nice ROI soon!
+
+<img src="./Images/FindJobInSummer.png" alt="FindJobInSummer.png" />
+
 # References
 | # | Name                   | Source                | Release date           |  Author                 | Description   |
 | - | -----------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
@@ -94,3 +100,4 @@ Any other options I forgot to mention?
 | 7 |Яскрава місячна ніч|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_warinukraine-stoprussia-activity-7018150699758727169-qItq?utm_source=share&utm_medium=member_desktop)|January, 2023| Dmytro Nikulin||
 | 8 |Якби у Вас була можливість, то що б Ви запитали у Тараса Чмута?|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_globallogic-savelife-staywithukraine-activity-7046022484441149441-Ium7?utm_source=share&utm_medium=member_desktop)|March, 2023| Dmytro Nikulin||
 | 9 |Які питання ставили хлопці з GlobalLogic Тарасу Чмуту|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_globallogic-armukrainenow-staywithukraine-activity-7058710292825874433-_gHi?utm_source=share&utm_medium=member_desktop)|May 1, 2023 | Dmytro Nikulin||
+| 10|junior is trying to find a job in summer in Ukraine in war|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_ukrainewar-ukraine-summer-activity-6957738620485005312-kqEc?utm_source=share&utm_medium=member_desktop)|July, 2022 | Dmytro Nikulin||
