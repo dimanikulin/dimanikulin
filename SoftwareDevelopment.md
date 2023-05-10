@@ -5,11 +5,16 @@ TBD
 TBD 
 
 # Tags
-TBD
+IT 
 
 # Content
-TBD
-<img src="./Images/TBD.jpg" alt="TBD" />
+
+## Just joined a project with Scrum
+
+<img src="./Images/JoinedProjectWithScrum.jpg" alt="JoinedProjectWithScrum" />
+
+### Tags
+Scrum
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
