@@ -1,6 +1,22 @@
-## Just joined a project with Scrum
+# Headline
+TBD
 
-<img src="./Images/JoinedProjectWithScrum.jpg" alt="JoinedProjectWithScrum" />
+# Article description
+TBD 
 
-### Tags
-IT Scrum
+# Tags
+TBD
+
+# Content
+TBD
+<img src="./Images/TBD.jpg" alt="TBD" />
+
+# References
+| # | Name                 | Source                | Release date           |  Author                 | Description   |
+| - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
+
+
+# Definitions, Acronyms, Abbreviations
+| # | Abbreviation or Acronym | Definition     |
+| - | ------------------------|:--------------:|
+| 1 | Scrum | TBD |
