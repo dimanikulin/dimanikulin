@@ -27,6 +27,7 @@ Software Complexity
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 | 1 |Just joined a project with Scrum|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_activity-6937092837654081540-brUA?utm_source=share&utm_medium=member_desktop)| May, 2022 | Dmytro Nikulin||
+| 2 |Software Complexity|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_activity-6934186023509741568-9mZu?utm_source=share&utm_medium=member_desktop)| April, 2022 | Dmytro Nikulin||
 
 # Definitions, Acronyms, Abbreviations
 | # | Abbreviation or Acronym | Definition     |
