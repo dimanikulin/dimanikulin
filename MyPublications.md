@@ -39,6 +39,3 @@
 - [Which title describes better a real job?](./content/Titles&Jobs.md)
 - [Presents in GlobalLogic for an employer](./content/PresentsInGL.md)
 - [Just Joined a Project With Scrum](./content/JoinedProjectWithScrum.md)
-- [Second Name History](./content/SecondNameHistory.md)
-- [Software Complexity](./content/SoftwareComplexity.md)
-- [Find a Job In Summer](./content/FindJobInSummer.md)
