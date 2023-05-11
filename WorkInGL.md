@@ -31,7 +31,7 @@ ukraine, war
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
-
+| 1 | Presents in GlobalLogic for an employer | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_ukraine-war-globallogic-activity-6942043429455458304-eXr4?utm_source=share&utm_medium=member_desktop) | June, 2022 | Dmytro Nikulin | |
 
 # Definitions, Acronyms, Abbreviations
 TBD
