@@ -38,6 +38,3 @@
 ##################################
 
 - [Number Of Interviews](./content/NumberOfInterviews.md)
-- [Which title describes better a real job?](./content/Titles&Jobs.md)
-- [Presents in GlobalLogic for an employer](./content/PresentsInGL.md)
-- [Just Joined a Project With Scrum](./content/JoinedProjectWithScrum.md)
