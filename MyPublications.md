@@ -33,6 +33,7 @@
 - [Soft Skills](./SoftSkills.md)
 - [Communication](./Communication.md)
 - [Software Development](./SoftwareDevelopment.md)
+- [Work in GlobalLogic](./WorkInGL.md)
 
 ##################################
 
