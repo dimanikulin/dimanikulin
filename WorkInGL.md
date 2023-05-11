@@ -1,3 +1,13 @@
+# Headline
+TBD
+
+# Article description
+TBD 
+
+# Tags
+globallogic
+
+# Content
 ## Presents in GlobalLogic for an employer 
 Each year in GlobalLogic an employer gets the present for birthday.
 I have got following 5:
@@ -16,4 +26,12 @@ P.S. Here I meant GL Ukraine.
 <img src="./Images/GLPresents.jpg" alt="PresentsInGL" />
 
 ### Tags
-ukraine, war, globallogic
+ukraine, war
+
+# References
+| # | Name                 | Source                | Release date           |  Author                 | Description   |
+| - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
+
+
+# Definitions, Acronyms, Abbreviations
+TBD
