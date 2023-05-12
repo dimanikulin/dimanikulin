@@ -32,12 +32,17 @@ ukraine, war
 
 https://www.youtube.com/watch?v=KFLl5cD9zp0
 
+## Taras Chmut and GlobalLogic )))
+
+### Tags
+
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 | 1 | Presents in GlobalLogic for an employer | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_ukraine-war-globallogic-activity-6942043429455458304-eXr4?utm_source=share&utm_medium=member_desktop) | June, 2022 | Dmytro Nikulin | |
 | 2 | Cool people create cool music! | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_%D1%89%D0%B5%D0%B4%D1%80%D0%B8%D0%BA-carol-of-the-bells-globallogic-edition-activity-7011336761649836032-IGHe?utm_source=share&utm_medium=member_desktop)| June, 2022 | Dmytro Nikulin | |
 | 3 | Carol of the Bells GlobalLogic Edition | [YouTube](https://www.youtube.com/watch?v=KFLl5cD9zp0) | December 2022 | Dmytro Nikulin | |
+| 4 | Taras Chmut and GlobalLogic | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_globallogic-warinukraine-activity-6975103190170042368-br-O?utm_source=share&utm_medium=member_desktop)| October 2022 | Dmytro Nikulin | |
 
 # Definitions, Acronyms, Abbreviations
 TBD
