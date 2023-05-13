@@ -1,3 +1,13 @@
+# Headline
+TBD
+
+# Article description
+TBD 
+
+# Tags
+interviewer cplusplus cpp technicalinterview
+
+# Content
 ## Interview number
 
 Do you think 81 interviews per year is a lot?
@@ -12,4 +22,12 @@ https://www.linkedin.com/posts/dimanikulin_globallogic-activity-6894337668830822
 <img src="./Images/NumberOfInterviews.jpg" alt="Number Of Interviews" />
 
 ### Tags
-globallogic interviewer cplusplus cpp technicalinterview
+globallogic 
+
+# References
+| # | Name                 | Source                | Release date           |  Author                 | Description   |
+| - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
+
+
+# Definitions, Acronyms, Abbreviations
+TBD
