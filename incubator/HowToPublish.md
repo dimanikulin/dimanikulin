@@ -183,7 +183,7 @@ if you copy you content from spme format there should be any
 provide own check list
 My is 
 - if there is "headline"?
-- is "headline" less than 120 charactres?
+- is "headline" less than 150 charactres?
 - if there is "Article descption"?
 - if there is "Tags" ?
 - if there is "Content"? 
