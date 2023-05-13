@@ -34,7 +34,4 @@
 - [Communication](./Communication.md)
 - [Software Development](./SoftwareDevelopment.md)
 - [Work in GlobalLogic](./WorkInGL.md)
-
-##################################
-
-- [Number Of Interviews](./content/NumberOfInterviews.md)
+- [Interviews](./Interviews.md)
