@@ -1,4 +1,4 @@
-## Publications about Multimedia, Multimedia IR systems and Multimedia Organizers 
+# Publications about Multimedia, Multimedia IR systems and Multimedia Organizers 
 |Name       |[What is multimedia data?](./MultimediaData.md)|[What are Multimedia IR systems?](./MultimediaIRSystems.md)|[Multimedia IR systems Analyze](./MultimediaIRSystemsAnalyze.md)|[What are Multimedia Organizers?](./MultimediaOrganizers.md)|Exploring the World of Multimedia Information Retrieval Systems|
 |-----------|-----------------------------------------------|-----------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------|:----------------------------------------------------------:|
 |dou.eu     |N/A|N/A|N/A|N/A|[Feb 20, 2023](https://dou.eu/community/posts/what-are-multimedia-information-retrieval-systems)|
@@ -11,7 +11,7 @@
 |reddit     |[Jun 16, 2022](https://www.reddit.com/r/fva/comments/ve7188/what_is_multimedia_data/)|was deleted as spam. but why?|was deleted as spam. but why?|[Sep 20, 2022](https://www.reddit.com/r/fva/comments/xkum82/what_are_the_multimedia_organizers/)|N/A|
 |quora      |[Jun 19, 2022](https://www.quora.com/profile/Dima-Nikulin-2/What-is-Multimedia-Data-We-live-in-the-digital-data-era-and-growing-of-the-Internet-gives-us-a-possibility-to-find-th)|[Jul 3, 2022](https://www.quora.com/profile/Dima-Nikulin-2/What-are-Multimedia-IR-Systems-Lets-briefly-overview-the-Multimedia-IR-systems-According-to-the-Wikipedia-https)|[Jul 13, 2022](https://www.quora.com/profile/Dima-Nikulin-2/Multimedia-IR-Systems-analyze-Let-us-compare-several-multimedia-IR-systems-by-covering-requirements-and-needs-we-identi)|[Sep 22, 2022](https://www.quora.com/profile/Dima-Nikulin-2/What-are-the-Multimedia-Organizers-Multimedia-Organizers-functions-They-currently-perform-the-search-in-photo-set)|N/A|
 
-## Publications about own product, its history and what I learned 
+# Publications about own product, its history and what I learned 
 |Name       |[Why I created photo organizer?](./WhyCreatedPhotoOrganizer.md)|[What I Learned As Product Manager](./WhatILearnedAsProductManager.md)|[What I Learned As Subject Matter Expert](./WhatILearnedAsSubjectMatterExpert.md)|[](./content/MultimediaOrganizers.md)||
 |-----------|---------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------|--------------------------------------------------------------------|:----------------------------------------------------------:|
 |dou.eu     |TBD|TBD|TBD|TBD|TBD|
@@ -24,6 +24,7 @@
 |reddit     |[Feb 12, 2023](https://www.reddit.com/r/fva/comments/112s9q1/why_i_decided_to_create_my_photo_organizer/)|[Mar 10, 2023](https://www.reddit.com/r/fva/comments/11nnrds/what_i_learned_as_a_product_manager_while/)|TBD|TBD|TBD|
 |quora      |[Feb 17](https://www.quora.com/profile/Dima-Nikulin-2/Why-I-decided-to-create-my-photo-organizer-As-a-child-I-used-to-flip-through-family-photo-album-to-see-my-relatives-w)|[Mar 14, 2023](https://www.quora.com/profile/Dima-Nikulin-2/What-I-learned-as-a-Product-Manager-while-creating-my-product-Design-Thinking-The-first-product-I-was-thinking-about-w-2)|TBD|TBD|TBD| 
 
+# Other publications
 - [ChatGPT](./ChatGPT.md)
 - [Just Joined LinkedIn](./JustJoinedLinkedIn.md)
 - [War in Ukraine](./WarInUkraine.md)
