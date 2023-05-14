@@ -17,14 +17,6 @@ When you start fighting, please be prepared before how to loose just in case.
 
 https://dou.eu/en/community/posts/what-are-multimedia-information-retrieval-systems 
 
-gpt interview red flags 
-началосьс приветсвия на укр, типа он учил и все такое, но почему то потом не захотел продолжать.
-расположил много экранав на одном были ответы и он оттуда читал. ждал пока будет ответ и тянул
-если знает то пытается отвечать, если не знает то пиещет в чат и видно что нервичает когда я 
-не давать долго отвеать.
-poker face on TI when they answer, you must be subjective
-performing passing interview
-
 portbable app
 archive
 essentiali epim 
