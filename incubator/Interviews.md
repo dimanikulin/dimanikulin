@@ -22,6 +22,8 @@ So, some red flags to watch out for during an interview include:
 - Appearing to read notes
 - Being overly friendly in an attempt to disarm you and lower your vigilance.
 
+PS. Based on real interview.
+
 <img src="./Images/InterviewRedFlags.png" alt="InterviewRedFlags" />
 
 # performing passing interview
