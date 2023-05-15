@@ -258,7 +258,11 @@ Publish now or scheduke later
 it removed bolding for any text I copy from github
 
 #####################
+reddit
+Title 
+2 modes: as MarkDown and usual editor 
 
+##############################
 
 to publish on to check on "yeasy to publish" platforms first 
 
