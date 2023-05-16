@@ -44,15 +44,6 @@ Another example what rUSSIANS do when they loose the "GAME" on real battle field
 - На Марс з Маском **11%**
 - До жиріка **84%**
 
-## What is the best gift for Ukrainian people for Christmas and New Year?
-What is the best gift for Ukrainian people for Christmas and New Year?
-
-- Patriot defense system **8%**
-- Atacms **16%**
-- pUTINs visit of Kobzon concert **76%**
-
-Any other options I forgot to mention?
-
 ## Яскрава місячна ніч
 Яскрава місячна ніч.
 Звичайна людина: Красива ніч. Романтика.
@@ -96,8 +87,7 @@ Invest(hire) in them now and you will have nice ROI soon!
 | 3 |Summer time|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_ukrainewar-ukraine-summer-activity-6957738620485005312-kqEc?utm_source=share&utm_medium=member_desktop)|August, 2022| Dmytro Nikulin||
 | 4 |How russians play chess?|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_russiaterroriststate-warinukraine-stoprussia-activity-7000377148582563840-kZNd?utm_source=share&utm_medium=member_desktop)|November, 2022| Dmytro Nikulin||
 | 5 |А на куди зибеться пУТЕНг?|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_warinukraine-staywithukraine-activity-6987497817262972928-os1e?utm_source=share&utm_medium=member_desktop)|November, 2022| Dmytro Nikulin||
-| 6 |What is the best gift for Ukrainian people for Christmas and New Year?|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_armukrainenow-warinukraine-activity-7012374950275637249-Wpcn?utm_source=share&utm_medium=member_desktop)|December, 2022| Dmytro Nikulin||
-| 7 |Яскрава місячна ніч|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_warinukraine-stoprussia-activity-7018150699758727169-qItq?utm_source=share&utm_medium=member_desktop)|January, 2023| Dmytro Nikulin||
-| 8 |Якби у Вас була можливість, то що б Ви запитали у Тараса Чмута?|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_globallogic-savelife-staywithukraine-activity-7046022484441149441-Ium7?utm_source=share&utm_medium=member_desktop)|March, 2023| Dmytro Nikulin||
-| 9 |Які питання ставили хлопці з GlobalLogic Тарасу Чмуту|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_globallogic-armukrainenow-staywithukraine-activity-7058710292825874433-_gHi?utm_source=share&utm_medium=member_desktop)|May 1, 2023 | Dmytro Nikulin||
-| 10|junior is trying to find a job in summer in Ukraine in war|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_ukrainewar-ukraine-summer-activity-6957738620485005312-kqEc?utm_source=share&utm_medium=member_desktop)|July, 2022 | Dmytro Nikulin||
+| 6 |Яскрава місячна ніч|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_warinukraine-stoprussia-activity-7018150699758727169-qItq?utm_source=share&utm_medium=member_desktop)|January, 2023| Dmytro Nikulin||
+| 7 |Якби у Вас була можливість, то що б Ви запитали у Тараса Чмута?|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_globallogic-savelife-staywithukraine-activity-7046022484441149441-Ium7?utm_source=share&utm_medium=member_desktop)|March, 2023| Dmytro Nikulin||
+| 8 |Які питання ставили хлопці з GlobalLogic Тарасу Чмуту|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_globallogic-armukrainenow-staywithukraine-activity-7058710292825874433-_gHi?utm_source=share&utm_medium=member_desktop)|May 1, 2023 | Dmytro Nikulin||
+| 9 |junior is trying to find a job in summer in Ukraine in war|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_ukrainewar-ukraine-summer-activity-6957738620485005312-kqEc?utm_source=share&utm_medium=member_desktop)|July, 2022 | Dmytro Nikulin||
