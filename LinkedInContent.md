@@ -25,10 +25,12 @@ What do you think about content posted in LinkedIn?
 
 Please share your opinion in the comments.
 
-- Dating
-- Asking for agreement or disagreement
-- Memes from the 20th century
-- Pet photos
+- Dating  **31%**
+- Asking for agreement or disagreement **19%**
+- Memes from the 20th century **44%**
+- Pet photos **6%**
+
+16 Votes
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
