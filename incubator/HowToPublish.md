@@ -1,37 +1,3 @@
-
-*риси гарного поста в LinkedIn
-
-Про погане поговорили. Давайте тепер про хороше. Розповім яким має бути на мою думку гарний пост.
-
-1) Не нейтральний
-
-Автор має бути з позицією і не боятись про неї говорити. Навіть якщо знає, що отримає купу хейту.
-
-2) Гарно структурований
-
-Особливо важливо для великих текстів. Має бути внутрішня логіка, для цього можна ділити тексти на блоки з окремими назвами.
-
-3) Викликає суспільну дискусію
-
-Ви висвітлюєте тему та просите читача поділитися його думкою в коментарях. На всі відповідаєте, відбувається діалог.
-
-4) На актуальну тему
-
-Щось що "болить" у всіх, яке чекало моменту. Законопроєкт? Проблема у вашому житті? Шукайте інфопривід.
-
-5) Гострий та емоційний
-
-Не просто заявляти про позицію, а робити це "гостро", тобто використовувати емоційно забарвлені вирази. Не "погана людина", а "мерзотник" тощо.
-
-6) Особистий та щирий
-
-Пост про досвід автора. Не те, що він знає з книжок або соцмереж, а де описані події з його життя. Відверто та без прикрас.
-
-7) Оригінальний
-
-Створений автором на основі власних роздумів, не репост!
-
-
 # Headline
 How to publisk your content?
 TODO GPT from content
@@ -83,6 +49,10 @@ TBD
 
 ## "Content" chapter
 
+
+Не те, що він знає з книжок або соцмереж, а де описані події з його життя. not just repost
+
+
 ### Plagiarism
 TBD
 
@@ -96,17 +66,27 @@ However, we would prefer that these papers share a uniquely GL perspective and t
 
 
 ### Content shall be structured
+really impornat for big text
+
 
 There should be paragraphs and proper indentation, subheadings, and bulleted or numbered lists
+
+
 
 ### Tell the story not just poor facts
 TBD
 
 ### Engage people for a dialog
 Content shall ask for an opinion. Also please answer possible all questions in the comments 
+conttent has be our opinion not their and it might be provocative even to create a discussion and to have hate 
+
+
+### languge 
+
+TBD
 
 ### Actual for this platform connet
-Facebook not for programming
+Facebook not for programming, like pain point for your and for society, find info інфопривід
 
 ### Pictures 
 No pictures - less views. pictires shall be related to content
