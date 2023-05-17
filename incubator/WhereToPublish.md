@@ -267,8 +267,10 @@ Title
 
 https://www.quora.com/
 usual editor
-only H1 used as header size 
-statistics shown only after severial hours
+only H1 used as header size
+
+bug ??? your post might be shown in draft even you already did post it - no need to press post buttong again as it will duplicate the post
+
 
 ##########################################
 
