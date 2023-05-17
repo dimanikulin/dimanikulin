@@ -264,6 +264,14 @@ Title
 
 ##############################
 
+
+https://www.quora.com/
+usual editor
+only H1 used as header size 
+statistics shown only after severial hours
+
+##########################################
+
 to publish on to check on "yeasy to publish" platforms first 
 
 # References
