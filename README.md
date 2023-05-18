@@ -116,6 +116,13 @@ USA, B-1/B-2, 11-Apr-2028
 |Automated approach for the importing the new photo set to private photo album to make it more searchable|[Jun 8, 2020](./Images/certPublication.jpg)|[International Science Group](https://isg-konf.com/perspective-directions-for-the-development-of-science-and-practice/)|Perspective directions for the development of science and practice |
 |Automated approach for the importing the new photo set to private photo album to make it more searchable|[May 12, 2020](./Images/PublicationInMagazine.jpg)|[ISSN 2617-3808. Наукові записки НаУКМА. Комп’ютерні науки. 2020. Том 3](http://ekmair.ukma.edu.ua/bitstream/handle/123456789/19157/Nikulin_Automated_Approach_for_the_Importing.pdf?sequence=1&isAllowed=y)||
 |Detecting architectural gaps in an automated way|December 25, 2022|[globallogic practices](https://practices.globallogic.com/tech-papers/956)|Feedback from **Yevgeniy Leybzon**, Chief Architect at Jan 25, 2023, 7:11:00 PM - "Excellent whitepaper! I strongly recommend to use one of the approaches that you decribe in all delivery projects to avoid archiecture drifts and gaps"
+|Exploring the World of Multimedia Information Retrieval Systems|
+
+|dou.eu     |N/A|N/A|N/A|N/A|[Feb 20, 2023](https://dou.eu/community/posts/what-are-multimedia-information-retrieval-systems)|
+|hackernoon |N/A|N/A|N/A|N/A|I tryied to publish on 01/31/2023 but they said it is a duplication of one my previos publication|
+|linkedin   |N/A|N/A|N/A|N/A|[January 27,2023](https://www.linkedin.com/posts/dimanikulin_activity-7024663781666349057-Hw3_/?utm_source=share&utm_medium=member_desktop)|
+|codeproject|N/A|N/A|N/A|N/A|TODO|
+
 
 # Other publication:
 [Please see here](./MyPublications.md)
