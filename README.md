@@ -122,6 +122,6 @@ USA, B-1/B-2, 11-Apr-2028
 
 
 # Other publication:
-[Publications about Multimedia, Multimedia IR systems and Multimedia Organizers](https://github.com/dimanikulin/dimanikulin/blob/main/MyPublications.md#publications-about-multimedia-multimedia-ir-systems-and-multimedia-organizers)
-[Publications about own product, its history and what I learned **Part 1**](https://github.com/dimanikulin/dimanikulin/blob/main/MyPublications.md#publications-about-own-product-its-history-and-what-i-learned)
-[Other publication](https://github.com/dimanikulin/dimanikulin/blob/main/MyPublications.md#other-publications)
+- [Publications about Multimedia, Multimedia IR systems and Multimedia Organizers](https://github.com/dimanikulin/dimanikulin/blob/main/MyPublications.md#publications-about-multimedia-multimedia-ir-systems-and-multimedia-organizers)
+- [Publications about own product, its history and what I learned **Part 1**](https://github.com/dimanikulin/dimanikulin/blob/main/MyPublications.md#publications-about-own-product-its-history-and-what-i-learned)
+- [Other publication](https://github.com/dimanikulin/dimanikulin/blob/main/MyPublications.md#other-publications)
