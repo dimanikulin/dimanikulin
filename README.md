@@ -122,4 +122,6 @@ USA, B-1/B-2, 11-Apr-2028
 
 
 # Other publication:
+[Publications about Multimedia, Multimedia IR systems and Multimedia Organizers](https://github.com/dimanikulin/dimanikulin/blob/main/MyPublications.md#publications-about-multimedia-multimedia-ir-systems-and-multimedia-organizers)
+
 [Please see here](./MyPublications.md)
