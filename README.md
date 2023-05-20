@@ -118,10 +118,8 @@ USA, B-1/B-2, 11-Apr-2028
 |Detecting architectural gaps in an automated way|December 25, 2022|[globallogic practices](https://practices.globallogic.com/tech-papers/956)|Feedback from **Yevgeniy Leybzon**, Chief Architect at Jan 25, 2023, 7:11:00 PM - "Excellent whitepaper! I strongly recommend to use one of the approaches that you decribe in all delivery projects to avoid archiecture drifts and gaps"
 |Exploring the World of Multimedia Information Retrieval Systems|Feb 20, 2023|[dou.eu](https://dou.eu/community/posts/what-are-multimedia-information-retrieval-systems)| |
 |Exploring the World of Multimedia Information Retrieval Systems|January 27,2023|[linkedin](https://www.linkedin.com/posts/dimanikulin_activity-7024663781666349057-Hw3_/?utm_source=share&utm_medium=member_desktop)| |
-|Exploring the World of Multimedia Information Retrieval Systems|TODO|TODO||
-
 
 # Other publication:
-- [Publications about Multimedia, Multimedia IR systems and Multimedia Organizers](https://github.com/dimanikulin/dimanikulin/blob/main/MyPublications.md#publications-about-multimedia-multimedia-ir-systems-and-multimedia-organizers)
+- [About Multimedia, Multimedia IR systems and Multimedia Organizers](https://github.com/dimanikulin/dimanikulin/blob/main/MyPublications.md#publications-about-multimedia-multimedia-ir-systems-and-multimedia-organizers)
 - [About own product, its history and what I learned **Part 1**](https://github.com/dimanikulin/dimanikulin/blob/main/MyPublications.md#about-own-product-its-history-and-what-i-learned---part-1)
 - [Other publication](https://github.com/dimanikulin/dimanikulin/blob/main/MyPublications.md#other-publications)
