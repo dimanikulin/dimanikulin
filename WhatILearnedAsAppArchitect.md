@@ -12,7 +12,7 @@ The article also covers topics such as defining requirements, managing developme
 Solution Architecture, Development Tools, Quality Attributes, Requirements, Branch Strategy, Licenses, Text-Based Documentation, Mermaid.js
 
 # Content
-- "*Are you kidding?*"  you might ask. "*Do such small applications really require an architect to be involved?*"
+- "*Are you kidding?*"  you might ask. "*Do such small applications require an architect to be involved?*"
 - "*Yes, yes, and yes!*" I would answer.
 
 Generally, architects create a huge document known as a **Solution Architecture Document** that includes everything. 
@@ -23,7 +23,7 @@ I also learned how to create attractive **README.md** files with the use of **ba
 ## Requirements
 I began my journey as an architect with **requirements** selection. 
 By selecting the right **requirements**, an architect can ensure that the software is designed to meet specific **business** goals and objectives, as well as technical and operational requirements. 
-This helps ensure that the software is scalable, maintainable, and meets the needs of both the **end-users** and the **stakeholders**.
+This helps ensure that the software is scalable, maintainable and meets the needs of both the **end-users** and the **stakeholders**.
 It's worth noting that my approach to selecting **requirements** differed from that of a [product manager](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsProductManager.md) because I needed more technical requirements. 
 I divided architect requirements into four parts:
 - **Constraints**;
@@ -66,7 +66,7 @@ The **quality attributes** are provided in the form of a [table](https://github.
 - **Architecture Priorities**: to indicate the architecture priorities for the quality attribute
 
 ### Hardware requirements
-Last but no least were [hardware requirements](https://github.com/dimanikulin/fva#hardware-requirements).
+Last but not least were [hardware requirements](https://github.com/dimanikulin/fva#hardware-requirements).
 
 **Hardware requirements** refer to the physical components, such as servers, storage devices, and networking equipment, that are necessary to support the software solution. 
 These requirements are based on the needs of the software and the expected workload or usage patterns.
@@ -92,7 +92,7 @@ A **Context view** is a type of software architecture view that provides a high-
 
 It shows the relationships between the software system and its users, other systems, and external entities.
 
-The [Context](https://github.com/dimanikulin/fva#context-view) view is useful for stakeholders who need a high-level understanding of the software system and its context, such as business analysts, project managers, or system owners.
+The [Context](https://github.com/dimanikulin/fva#context-view) view is useful for stakeholders who need a high-level understanding of the software system and its contexts, such as business analysts, project managers, or system owners.
 
 ### Functional view
 A **Functional view** is a type of software architecture view that focuses on the functional or behavioral aspects of the software system.
@@ -127,7 +127,7 @@ Initially, the list was much longer, but as some of the tools/libraries became o
 You can find the old dependencies list [here](https://github.com/dimanikulin/fva/blob/master/DependenciesOld.md).
 
 ### Languages
-I just used plain text to describe [programming languages](https://github.com/dimanikulin/fva#programming-languages) the FVA Software uses.
+I just used plain text to describe the [programming languages](https://github.com/dimanikulin/fva#programming-languages) the FVA Software uses.
 
 ## Licenses 
 Undeniably, we should remember about licenses. 
