@@ -1,4 +1,4 @@
-# Publications about Multimedia, Multimedia IR systems and Multimedia Organizers 
+# Publications about Multimedia, Multimedia IR systems and Multimedia Organizers - Part 1
 |Name       |[What is multimedia data?](./MultimediaData.md)|[What are Multimedia IR systems?](./MultimediaIRSystems.md)|[Multimedia IR systems Analyze](./MultimediaIRSystemsAnalyze.md)|[What are Multimedia Organizers?](./MultimediaOrganizers.md)|TBD|
 |-----------|-----------------------------------------------|-----------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------|:------:|
 |dev.to     |[Jun 14, 2022](https://dev.to/dimanikulin/what-is-multimedia-data-111f)|[Jun 28, 2022](https://dev.to/dimanikulin/what-are-multimedia-ir-systems-5c7nv)|[Jul 7, 2022](https://dev.to/dimanikulin/multimedia-ir-systems-analyze-4e17)|[Sep 18, 2022](https://dev.to/dimanikulin/what-are-the-photo-organizers-1na9)|TBD|
@@ -6,6 +6,9 @@
 |medium     |[Jun 16, 2022](https://medium.com/@dimanikulin_43511/what-is-multimedia-data-16c2bfdb3829)|[Jul 1, 2022](https://medium.com/@dimanikulin_43511/what-are-multimedia-ir-systems-531366920642)|[Jul 10, 2022](https://medium.com/@dimanikulin_43511/multimedia-ir-systems-analyze-67d40a5537c5)|[Sep 20, 2022](https://medium.com/@dimanikulin_43511/multimedia-organizers-functions-e8def4e7d550)|TBD|
 |reddit     |[Jun 16, 2022](https://www.reddit.com/r/fva/comments/ve7188/what_is_multimedia_data/)|was deleted as spam. but why?|was deleted as spam. but why?|[Sep 20, 2022](https://www.reddit.com/r/fva/comments/xkum82/what_are_the_multimedia_organizers/)|TBD|
 |quora      |[Jun 19, 2022](https://www.quora.com/profile/Dima-Nikulin-2/What-is-Multimedia-Data-We-live-in-the-digital-data-era-and-growing-of-the-Internet-gives-us-a-possibility-to-find-th)|[Jul 3, 2022](https://www.quora.com/profile/Dima-Nikulin-2/What-are-Multimedia-IR-Systems-Lets-briefly-overview-the-Multimedia-IR-systems-According-to-the-Wikipedia-https)|[Jul 13, 2022](https://www.quora.com/profile/Dima-Nikulin-2/Multimedia-IR-Systems-analyze-Let-us-compare-several-multimedia-IR-systems-by-covering-requirements-and-needs-we-identi)|[Sep 22, 2022](https://www.quora.com/profile/Dima-Nikulin-2/What-are-the-Multimedia-Organizers-Multimedia-Organizers-functions-They-currently-perform-the-search-in-photo-set)|TBD|
+
+
+# Publications about Multimedia, Multimedia IR systems and Multimedia Organizers - Part 2
 
 # About own product, its history and what I learned - Part 1
 |Name       |[Why I created photo organizer?](./WhyCreatedPhotoOrganizer.md)|[What I Learned As Product Manager](./WhatILearnedAsProductManager.md)|[What I Learned As Subject Matter Expert](./WhatILearnedAsSubjectMatterExpert.md)|[What I Learned As App Architect](./WhatILearnedAsAppArchitect.md)|
