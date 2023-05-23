@@ -120,6 +120,6 @@ USA, B-1/B-2, 11-Apr-2028
 |Exploring the World of Multimedia Information Retrieval Systems|January 27,2023|[linkedin](https://www.linkedin.com/posts/dimanikulin_activity-7024663781666349057-Hw3_/?utm_source=share&utm_medium=member_desktop)| |
 
 # Other publication:
-- [About Multimedia, Multimedia IR systems and Multimedia Organizers](https://github.com/dimanikulin/dimanikulin/blob/main/MyPublications.md#publications-about-multimedia-multimedia-ir-systems-and-multimedia-organizers)
+- [About Multimedia, Multimedia IR systems and Multimedia Organizers **Part 1**](https://github.com/dimanikulin/dimanikulin/blob/main/MyPublications.md#publications-about-multimedia-multimedia-ir-systems-and-multimedia-organizers---part-1)
 - [About own product, its history and what I learned **Part 1**](https://github.com/dimanikulin/dimanikulin/blob/main/MyPublications.md#about-own-product-its-history-and-what-i-learned---part-1)
 - [Other publication](https://github.com/dimanikulin/dimanikulin/blob/main/MyPublications.md#other-publications)
