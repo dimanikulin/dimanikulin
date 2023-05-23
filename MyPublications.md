@@ -10,10 +10,8 @@
 # About own product, its history and what I learned - Part 1
 |Name       |[Why I created photo organizer?](./WhyCreatedPhotoOrganizer.md)|[What I Learned As Product Manager](./WhatILearnedAsProductManager.md)|[What I Learned As Subject Matter Expert](./WhatILearnedAsSubjectMatterExpert.md)|[What I Learned As App Architect](./WhatILearnedAsAppArchitect.md)|
 |-----------|---------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------|:----------------------------------------------------------------:|
-|dou.eu     |TBD|TBD|TBD|TBD|
 |hackernoon |N/A|[May 1st, 2023](https://hackernoon.com/why-i-decided-to-create-a-photo-organizer-and-what-i-learned-as-a-result)|TBD|TBD|
 |linkedin   |[Feb 20, 2023](https://www.linkedin.com/posts/dimanikulin_productengineering-photos-activity-7034072973523193856-MvF4?utm_source=share&utm_medium=member_desktop)|[March 20, 2023](https://www.linkedin.com/posts/dimanikulin_activity-7043490960445480960-KIPT?utm_source=share&utm_medium=member_desktop)|TBD|TBD|TBD|
-|codeproject|TBD|TBD|TBD|TBD|
 |dev.to     |[Feb 12, 2023](https://dev.to/dimanikulin/why-i-decided-to-create-my-photo-organizer-1g7n)|[Mar 3, 2023](https://dev.to/dimanikulin/what-i-learned-as-a-product-manager-while-creating-my-product-3fom)|[May 1, 2023](https://dev.to/dimanikulin/what-i-learned-as-a-subject-matter-expert-while-creating-my-product-a42)|TBD|
 |hashnode   |[Mar 5, 2023](https://dimanikulin.hashnode.dev/why-i-decided-to-create-my-photo-organizer)|[Mar 5, 2023](https://dimanikulin.hashnode.dev/what-i-learned-as-a-product-manager-while-creating-my-product)|[Apr 27, 2023](https://dimanikulin.hashnode.dev/what-i-learned-as-a-subject-matter-expert-while-creating-my-product)|TBD|
 |medium     |[Feb 14, 2023](https://medium.com/@dimanikulin_43511/why-i-decided-to-create-my-photo-organizer-84ab40565927)|[Mar 6, 2023](https://medium.com/@dimanikulin_43511/what-i-learned-as-a-product-manager-while-creating-my-product-d2cc97b23421)|[May 3, 2023](https://medium.com/@dimanikulin_43511/what-i-learned-as-a-subject-matter-expert-while-creating-my-product-bae1e32db1b4)|TBD|
@@ -30,7 +28,6 @@
 |medium     |TBD|TBD|TBD|TBD|
 |reddit     |TBD|TBD|TBD|TBD|
 |quora      |TBD|TBD|TBD|TBD| 
-
 
 # Other publications
 - [ChatGPT](./ChatGPT.md)

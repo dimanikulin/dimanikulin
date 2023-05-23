@@ -276,6 +276,12 @@ bug ??? your post might be shown in draft even you already did post it - no need
 
 to publish on to check on "yeasy to publish" platforms first 
 
+
+################################
+codeproject
+dou.eu
+dou.ua
+
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
