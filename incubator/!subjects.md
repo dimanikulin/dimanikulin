@@ -24,7 +24,7 @@ clearn up current app and environment
 
 work life balance
 
-NT 4.0 :-) and BSOD
+NT 4.0 :-)
 old but gold 20 yaers my first mobile phonr
 peceace of code for old OS
 
