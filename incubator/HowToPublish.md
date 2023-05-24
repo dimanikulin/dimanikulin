@@ -118,6 +118,9 @@ Read sites requrements
 ### Choose day and time
 Please select proper day and time for a publication. I publish usually on Monday and Thussday.
 It is usually 10AM - 3PM my local time, Ukrainian. Defintly not at morning and an night 
+please notice on holidays you will have less viewes
+for summer you mush less viewes/reactions 
+
 
 ### Choose frequency of publication
 I use 1-2 per week. 
