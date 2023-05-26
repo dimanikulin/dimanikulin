@@ -45,6 +45,20 @@ I won't get frozen this winter because I have got this present from GlobalLogic 
 ### Tags
 GlobalLogicUkraine 
 
+
+## Люксембург, Люксембург
+Вгадайте, що за фільм.
+
+Якби у вас була можливість, то що б ви запитали режисера та акторів цього фільму?
+
+П.С. У коментарях відповідь.
+
+18 травня до GlobalLogic Ukraine в гості завітали режисер Антоніо Лукіч та учасники реп-гурту "Курган і Agregat" – брати Раміл та Аміл Насирови.
+Цей творчий союз цього року подарував нам фільм "Люксембург, Люксембург"
+
+<img src="./Images/Luxemburg,Luxemburg.jpeg" alt="Luxemburg, Luxemburg" />
+
+
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
