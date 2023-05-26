@@ -68,6 +68,7 @@ GlobalLogicUkraine
 | 4 | Taras Chmut and GlobalLogic | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_globallogic-warinukraine-activity-6975103190170042368-br-O?utm_source=share&utm_medium=member_desktop)| October 2022 | Dmytro Nikulin | |
 | 5 | Top Interviewer in Kyiv in C/C++ | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_globallogic-activity-6894337668830822401-iBcr?utm_source=share&utm_medium=member_desktop) | January 2022 | Dmytro Nikulin | |
 | 6 | GlobalLogicUkraine7000 | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_7000-reasons-to-care-activity-6862097076923232257-iOMQ?utm_source=share&utm_medium=member_desktop)  | December 2021 | Dmytro Nikulin | |
+| 7 | Люксембург, Люксембург | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_globallogic-activity-7067761572093247488-7J4Y?utm_source=share&utm_medium=member_desktop) | May 26, 2023 | Dmytro Nikulin | |
 
 # Definitions, Acronyms, Abbreviations
 TBD
