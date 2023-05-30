@@ -11,7 +11,33 @@ TBD
 # Content
 ## 
 I started thinking how to get more engagement with my open source project
-1. to cre
+1.Write a Good Readme
+The README is the first thing that a visitor to your repository sees. It should be able to convey what your project does, how to install the project, how to deploy the project (if applicable), how to contribute, and how it works.
+
+You can also use badges that are helpful for developers. We used https://shields.io/ for adding badges to our Readme.
+
+Here is what our Readme looks like:
+
+2. Focus on Documentation
+How to install/deploy the project
+Contributing guide
+Tutorials and code examples
+Architecture reference
+
+3 Be active in developer communities
+Trending repositories on GitHub
+ 4.Ask for feedback from relevant communities
+Respond to feedback
+Open-source communities are usually very helpful and give a lot of feedback. Respond to all this feedback, as the person has taken their valuable time to help you improve your project.
+
+Grow a community around your project
+Start a community on Discord or Slack where your users and contributors can hang out.
+
+
+Add a public roadmap
+
+Add relevant labels for contributors
+Adding labels such as "good first issue" and "up for grabs" can attract more contributors to your repository.
 
 
 ## Releasing the code and the docs
@@ -23,6 +49,7 @@ Thus the release branch is being created or updated to keep added/updated produc
 The following artifacts shall be created:
 - The documentation for code (based on doxy comments);
 - The installation packages for Windows, Mac and Linux latest version. 
+
 
 
 to speak main readm file sttucute, git hubm bages
