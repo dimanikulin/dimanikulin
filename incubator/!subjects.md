@@ -1,7 +1,6 @@
 нужно ли учить скрам заранее
 I don't jump from job to job just for salary
 С++ and guessing is on opposite sides
-нет девелопера который верно делает эстимации - если ты думаешь что верно отэстистимировал то умножить свой эстимайт на 2 или 3, что б не ошибиться
 C++ death
 
 chees and glukoza, have glukoza and you win
