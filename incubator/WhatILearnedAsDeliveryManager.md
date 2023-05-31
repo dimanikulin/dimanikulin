@@ -9,16 +9,28 @@ TBD
 TBD
 
 # Content
-## 
 I started thinking how to get more engagement with my open source project
+
+## Create a Good Readme
+It is the first thing that a visitor to your repository sees.
+
+It should be able to convey what your project is able to do, how to instakk and work with the project, how to contribute, etc.
+It also keeps structured information for product and its implementation details. 
+
+My readme start with product logo. 
+
+Than it moves to bage chapters that are helpful for developers. There are following sections:
+- Common(Repo stars, contributors)
+
+You can also use badges . We used https://shields.io/ for adding badges to our Readme.
+
+
+
+
 
 IN the root folder there are also all md file kept 
 
-There is aloso main README.md that keeps structured information for product and its implementation details. 
 
-TBD to speak main readm file sttucute, git hubm bages
-
-  <a href="FVAIcons/main.png" target="blank"><img src="FVAIcons/main.png" width="120" alt="FVA Logo" /></a>
 
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/dimanikulin/fva?style=social">
   <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/dimanikulin/fva">
@@ -55,14 +67,6 @@ TBD to speak main readm file sttucute, git hubm bages
   <img alt="GitHub Discussions" src="https://img.shields.io/github/discussions/dimanikulin/fva">
   <img alt="GitHub" src="https://img.shields.io/github/license/dimanikulin/fva">
   <a href="https://github.com/dimanikulin/fva/edit/master/README.md"><img src="https://img.shields.io/badge/documentation-read-d90368"> </a>
-
-
-1.Write a Good Readme
-The README is the first thing that a visitor to your repository sees. It should be able to convey what your project does, how to install the project, how to deploy the project (if applicable), how to contribute, and how it works.
-
-You can also use badges that are helpful for developers. We used https://shields.io/ for adding badges to our Readme.
-
-Here is what our Readme looks like:
 
 2. Focus on Documentation
 How to install/deploy the project
