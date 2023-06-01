@@ -22,6 +22,8 @@ My readme start with product logo.
 Than it moves to bage chapters that are helpful for developers. There are following sections:
 - Common (Repo stars, contributors, followers, sponsors and twitter URL)
 - Release (last release version, last release date and numbers of downloads)
+- Code statistic (status of build flow,GitHub commit activity,GitHub last commit and www.codefactor.io status)
+
 
 TODO how to use bages
 
@@ -34,11 +36,6 @@ You can also use badges . We used https://shields.io/ for adding badges to our R
 
 TODO IN the root folder there are also all md file kept 
 
-  <a href="https://github.com/dimanikulin/fva/actions/workflows/main.yml"><img src="https://github.com/dimanikulin/fva/actions/workflows/main.yml/badge.svg?branch=master" alt="Tests"/></a>
-  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/dimanikulin/fva">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dimanikulin/fva">  
-  <a href="https://www.codefactor.io/repository/github/dimanikulin/fva"><img src="https://www.codefactor.io/repository/github/dimanikulin/fva/badge" alt="CodeFactor" /></a>
-  </br>
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/dimanikulin/fva">
   <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/dimanikulin/fva">
   <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/dimanikulin/fva">
