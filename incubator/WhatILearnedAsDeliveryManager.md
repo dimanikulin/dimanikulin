@@ -25,6 +25,11 @@ Than it moves to bage chapters that are helpful for developers. There are follow
 
 TODO how to use bages
 
+one type  <a href="https://github.com/dimanikulin/fva/actions/workflows/main.yml"><img src="https://github.com/dimanikulin/fva/actions/workflows/main.yml/badge.svg?branch=master" alt="Tests"/></a>
+other tyoe https://img.shields.io/github/last-commit/dimanikulin/fva
+the next type https://www.codefactor.io/repository/github/dimanikulin/fva
+ 
+
 You can also use badges . We used https://shields.io/ for adding badges to our Readme.
 
 TODO IN the root folder there are also all md file kept 
