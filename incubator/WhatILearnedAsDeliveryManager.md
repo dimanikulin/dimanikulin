@@ -24,6 +24,7 @@ Than it moves to bage chapters that are helpful for developers. There are follow
 - Release (last release version, last release date and numbers of downloads)
 - Code statistic (status of build flow,GitHub commit activity,GitHub last commit and www.codefactor.io status)
 - Issues and Pull requests (GitHub issues, GitHub closed issues, GitHub pull requests and GitHub closed pull requests)
+- Repository statictis (GitHub top language, GitHub language count and GitHub repo size) 
 
 TODO how to use bages
 
@@ -34,13 +35,12 @@ the next type https://www.codefactor.io/repository/github/dimanikulin/fva
 
 You can also use badges . We used https://shields.io/ for adding badges to our Readme.
 
+not to overlod main reamd there were some child files created to keep details:
+- 
+-
+-
 TODO IN the root folder there are also all md file kept 
 
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/dimanikulin/fva">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/dimanikulin/fva">
-  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/dimanikulin/fva">
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/dimanikulin/fva">
-  </br>
   <a href="https://github.com/dimanikulin/fva/projects/4"><img src="https://img.shields.io/badge/roadmap-view-d90368"> </a>
   <img alt="GitHub Discussions" src="https://img.shields.io/github/discussions/dimanikulin/fva">
   <img alt="GitHub" src="https://img.shields.io/github/license/dimanikulin/fva">
