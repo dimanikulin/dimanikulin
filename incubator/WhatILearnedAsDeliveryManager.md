@@ -23,7 +23,7 @@ Than it moves to bage chapters that are helpful for developers. There are follow
 - Common (Repo stars, contributors, followers, sponsors and twitter URL)
 - Release (last release version, last release date and numbers of downloads)
 - Code statistic (status of build flow,GitHub commit activity,GitHub last commit and www.codefactor.io status)
-
+- Issues and Pull requests (GitHub issues, GitHub closed issues, GitHub pull requests and GitHub closed pull requests)
 
 TODO how to use bages
 
@@ -36,11 +36,6 @@ You can also use badges . We used https://shields.io/ for adding badges to our R
 
 TODO IN the root folder there are also all md file kept 
 
-  <img alt="GitHub issues" src="https://img.shields.io/github/issues/dimanikulin/fva">
-  <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/dimanikulin/fva">
-  <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/dimanikulin/fva">
-  <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/dimanikulin/fva">
-  </br>
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/dimanikulin/fva">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/dimanikulin/fva">
   <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/dimanikulin/fva">
