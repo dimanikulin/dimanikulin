@@ -25,6 +25,7 @@ Than it moves to bage chapters that are helpful for developers. There are follow
 - Code statistic (status of build flow,GitHub commit activity,GitHub last commit and www.codefactor.io status)
 - Issues and Pull requests (GitHub issues, GitHub closed issues, GitHub pull requests and GitHub closed pull requests)
 - Repository statictis (GitHub top language, GitHub language count and GitHub repo size) 
+- Documentation(Roadmap, Discussions, License and Main Readme)
 
 TODO how to use bages
 
@@ -40,11 +41,6 @@ not to overlod main reamd there were some child files created to keep details:
 -
 -
 TODO IN the root folder there are also all md file kept 
-
-  <a href="https://github.com/dimanikulin/fva/projects/4"><img src="https://img.shields.io/badge/roadmap-view-d90368"> </a>
-  <img alt="GitHub Discussions" src="https://img.shields.io/github/discussions/dimanikulin/fva">
-  <img alt="GitHub" src="https://img.shields.io/github/license/dimanikulin/fva">
-  <a href="https://github.com/dimanikulin/fva/edit/master/README.md"><img src="https://img.shields.io/badge/documentation-read-d90368"> </a>
 
 2. Focus on Documentation
 How to install/deploy the project
