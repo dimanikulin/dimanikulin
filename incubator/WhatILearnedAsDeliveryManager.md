@@ -27,14 +27,10 @@ Than it moves to bage chapters that are helpful for developers. There are follow
 - Repository statictis (GitHub top language, GitHub language count and GitHub repo size) 
 - Documentation(Roadmap, Discussions, License and Main Readme)
 
-TODO how to use bages
-
-one type  <a href="https://github.com/dimanikulin/fva/actions/workflows/main.yml"><img src="https://github.com/dimanikulin/fva/actions/workflows/main.yml/badge.svg?branch=master" alt="Tests"/></a>
-other tyoe https://img.shields.io/github/last-commit/dimanikulin/fva
-the next type https://www.codefactor.io/repository/github/dimanikulin/fva
- 
-
-You can also use badges . We used https://shields.io/ for adding badges to our Readme.
+There are 3 different types of badges in terms of their way of implementation
+- Implememented by GitHub like [this](https://github.com/dimanikulin/fva/actions/workflows/main.yml/badge.svg?branch=master) 
+- Implememented by img.shields.io like [this](https://img.shields.io/github/last-commit/dimanikulin/fva)
+- Implememented by www.codefactor.io like [this](https://www.codefactor.io/repository/github/dimanikulin/fva)
 
 not to overlod main reamd there were some child files created to keep details:
 - 
