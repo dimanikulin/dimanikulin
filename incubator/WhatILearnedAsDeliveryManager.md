@@ -9,7 +9,13 @@ TBD
 TBD
 
 # Content
-I started thinking how to get more engagement with my open source project
+Developers play a crucial role in adopting and integrating your product into their projects.
+And I started thinking how to get more engagement with my open source project. Why? Beacause: 
+- Engaged developers who have a positive experience with your product can become powerful advocates.
+- When developers are engaged, they are more likely to explore the extensibility options and customization capabilities of your product. 
+- They are more likely to choose it as a solution and integrate it seamlessly into their development workflows. 
+- Also Engaged developers can provide valuable feedback, suggestions, and bug reports.
+- Finally they may actively participate in your product's open-source community, contribute code, report issues, and collaborate on its development. Their contributions can accelerate the pace of innovation, foster a sense of ownership and community, and create a network effect that attracts more developers to get involved.
 
 ## Create a Good Readme
 It is the first thing that a visitor to your repository sees.
@@ -31,6 +37,8 @@ There are 3 different types of badges in terms of their way of implementation
 - Implememented by GitHub like [this](https://github.com/dimanikulin/fva/actions/workflows/main.yml/badge.svg?branch=master) 
 - Implememented by img.shields.io like [this](https://img.shields.io/github/last-commit/dimanikulin/fva)
 - Implememented by www.codefactor.io like [this](https://www.codefactor.io/repository/github/dimanikulin/fva)
+
+After it switches to Quick Links chapter. 
 
 not to overlod main reamd there were some child files created to keep details:
 - 
