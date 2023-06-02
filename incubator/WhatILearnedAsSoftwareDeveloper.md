@@ -7,7 +7,7 @@ What I learned as a Software Developer while creating my product
 Here you will
 - Discover the essential aspects of software development, including code quality, documentation practices, and implementation strategies 
 - Explore the importance of checking code quality using automated tools while also recognizing the value of manual code review for adherence to coding standards
-- Learn about effective code documentation techniques in both C++ and Python languages, and uncover the significance of tracking implementation status for better requirement coverage
+- Learn about effective code documentation techniques in both C++ and Python languages
 - Dive into the implementation phase using the versatile QT library for user interface development, exploring the transition from QWidgets to QML
 - Gain insights into leveraging various UI languages, working with databases like SQLite and CSV, and bridging the gap between C++ and Python code
 - Lastly, explore the creation of a riff parser, adding an additional skill set to your software development toolkit 
@@ -39,24 +39,6 @@ Consequently, I have familiarized myself with documenting **C++** code using **D
 It's quite remarkable how confident I am now in configuring **Doxygen**.
 
 <img src="CodeDocumentation.png" alt="CodeDocumentation"/>
-
-## Implementation status
-Before diving into the coding phase, I considered how I could effectively track the coverage of requirements. 
-I needed a way to implement tracing and determine which requirements were covered and which ones were not. 
-To address this, I devised a table with the following columns:
-
-**Implemented**: Indicates whether the requirement has been implemented, marked as either "yes" or "no."
-**Feature ID**: An identifier sourced from the features.
-**Component**: Specifies the name of the component.
-**File names**: Lists the file names where the implementation for the requirement can be found.
-**Description**: Provides a description of the functional requirement.
-
-As of now, I have the **implementation status** for the following components:
-- [Data processor](https://github.com/dimanikulin/fva/blob/master/FVADataProcessor/IMPLEMENTATIONSTATUS.MD)
-- [Configurator](https://github.com/dimanikulin/fva/blob/master/FVAConfigurator/IMPLEMENTATIONSTATUS.MD)
-- [Dictionary editor](https://github.com/dimanikulin/fva/blob/master/FVADictionaryEditor/IMPLEMENTATIONSTATUS.MD)
-
-These references will give you an overview of the implementation status for each respective component.
 
 ## Implementation
 Finally, we can proceed to the coding phase!

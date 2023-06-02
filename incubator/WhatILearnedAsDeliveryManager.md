@@ -4,6 +4,7 @@ What I learned as a Delivery Manager while creating my product
 
 # Article description
 TBD 
+, and uncover the significance of tracking implementation status for better requirement coverage
 
 # Tags
 TBD
@@ -21,6 +22,7 @@ Their contributions can accelerate the pace of innovation, foster a sense of own
 
 ## Create a Good Readme
 It is the first thing that a visitor to your repository sees.
+And good README serves as a comprehensive and accessible starting point for users and developers to engage with your project.
 
 It should be able to convey what your project is able to do, how to instakk and work with the project, how to contribute, etc.
 It also keeps structured information for product and its implementation details. 
@@ -47,6 +49,25 @@ not to overlod main reamd there were some child files created to keep details:
 -
 -
 TODO IN the root folder there are also all md file kept 
+
+## Implementation status
+Before diving into the coding phase, I considered how I could effectively track the coverage of requirements. 
+I needed a way to implement tracing and determine which requirements were covered and which ones were not. 
+To address this, I devised a table with the following columns:
+
+**Implemented**: Indicates whether the requirement has been implemented, marked as either "yes" or "no."
+**Feature ID**: An identifier sourced from the features.
+**Component**: Specifies the name of the component.
+**File names**: Lists the file names where the implementation for the requirement can be found.
+**Description**: Provides a description of the functional requirement.
+
+As of now, I have the **implementation status** for the following components:
+- [Data processor](https://github.com/dimanikulin/fva/blob/master/FVADataProcessor/IMPLEMENTATIONSTATUS.MD)
+- [Configurator](https://github.com/dimanikulin/fva/blob/master/FVAConfigurator/IMPLEMENTATIONSTATUS.MD)
+- [Dictionary editor](https://github.com/dimanikulin/fva/blob/master/FVADictionaryEditor/IMPLEMENTATIONSTATUS.MD)
+
+These references will give you an overview of the implementation status for each respective component.
+
 
 2. Focus on Documentation
 How to install/deploy the project
