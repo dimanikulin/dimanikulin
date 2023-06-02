@@ -21,6 +21,7 @@ First I started thinking how to get more engagement with my open source project.
 Their contributions can accelerate the pace of innovation, foster a sense of ownership and community, and create a network effect that attracts more developers to get involved.
 
 ## Create a Good Readme
+TODO LINK to README 
 It is the first thing that a visitor to your repository sees.
 And good README serves as a comprehensive and accessible starting point for users and developers to engage with your project.
 
@@ -61,13 +62,7 @@ To address this, I devised a table with the following columns:
 **File names**: Lists the file names where the implementation for the requirement can be found.
 **Description**: Provides a description of the functional requirement.
 
-As of now, I have the **implementation status** for the following components:
-- [Data processor](https://github.com/dimanikulin/fva/blob/master/FVADataProcessor/IMPLEMENTATIONSTATUS.MD)
-- [Configurator](https://github.com/dimanikulin/fva/blob/master/FVAConfigurator/IMPLEMENTATIONSTATUS.MD)
-- [Dictionary editor](https://github.com/dimanikulin/fva/blob/master/FVADictionaryEditor/IMPLEMENTATIONSTATUS.MD)
-
-These references will give you an overview of the implementation status for each respective component.
-
+TODO link to Implementation status 
 
 2. Focus on Documentation
 How to install/deploy the project
