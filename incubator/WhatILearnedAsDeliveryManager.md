@@ -56,6 +56,22 @@ The description of capabilities and product description in a README file is crit
 It helps users understand what your product offers, why it is valuable, and whether it meets their requirements.
 By providing clear and compelling information, you can attract the right audience and increase the chances of user adoption and satisfaction.
 
+### Architecture documentation
+Then it switches to description of Architecture documentation with following chapters:
+- Software Architecture Requirements
+- Software Architecture Views
+- Tools, libraries and languages
+- Licenses 
+
+### Code Style and Documentation
+
+
+
+### Contributing and Stay in touch
+Here I describe the channels 
+
+For more details see [here](./WhatILearnedAsAppArchitect.md)
+
 not to overlod main reamd there were some child files created to keep details:
 - 
 -
