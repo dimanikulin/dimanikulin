@@ -21,8 +21,7 @@ First I started thinking how to get more engagement with my open source project.
 Their contributions can accelerate the pace of innovation, foster a sense of ownership and community, and create a network effect that attracts more developers to get involved.
 
 ## Create a Good Readme
-TODO LINK to README 
-It is the first thing that a visitor to your repository sees.
+[It](https://github.com/dimanikulin/fva#readme) is the first thing that a visitor to your repository sees.
 And good README serves as a comprehensive and accessible starting point for users and developers to engage with your project.
 
 It should be able to convey what your project is able to do, how to instakk and work with the project, how to contribute, etc.
@@ -44,6 +43,7 @@ There are 3 different types of badges in terms of their way of implementation
 - Implememented by www.codefactor.io like [this](https://www.codefactor.io/repository/github/dimanikulin/fva)
 
 After it switches to Quick Links chapter. 
+I add the Quick Links for each main chpter in readme
 
 not to overlod main reamd there were some child files created to keep details:
 - 
