@@ -45,8 +45,13 @@ There are 3 different types of badges in terms of their way of implementation
 - Implememented by img.shields.io like [this](https://img.shields.io/github/last-commit/dimanikulin/fva)
 - Implememented by www.codefactor.io like [this](https://www.codefactor.io/repository/github/dimanikulin/fva)
 
+# Quick Links
 After it switches to Quick Links chapter. 
-I add the Quick Links for each main chpter in [readme](https://github.com/dimanikulin/fva#readme)
+Quick links in a README file are important because they provide easy and convenient access to key sections, resources, or external references related to a project. 
+They serve as navigational aids, allowing readers to quickly jump to specific parts of the README without having to scroll or search extensively.
+
+So I add the Quick Links for each main chpter in [readme](https://github.com/dimanikulin/fva#readme)
+
 
 not to overlod main reamd there were some child files created to keep details:
 - 
