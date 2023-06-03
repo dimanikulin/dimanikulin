@@ -68,7 +68,7 @@ Then it switches to description of Architecture documentation with following cha
 
 
 ### Contributing and Stay in touch
-Here I describe the channels 
+Here I describe the channels which anyone can use 
 
 For more details see [here](./WhatILearnedAsAppArchitect.md)
 
