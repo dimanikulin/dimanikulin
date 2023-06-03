@@ -71,6 +71,7 @@ really impornat for big text
 
 There should be paragraphs and proper indentation, subheadings, and bulleted or numbered lists
 
+not recomened more then 3 levels
 
 
 ### Tell the story not just poor facts
