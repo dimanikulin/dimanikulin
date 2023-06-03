@@ -51,8 +51,10 @@ Quick links in a README file are important because they provide easy and conveni
 They serve as navigational aids, allowing readers to quickly jump to specific parts of the README without having to scroll or search extensively.
 So I add the Quick Links for each main chpter in [readme](https://github.com/dimanikulin/fva#readme)
 
-### Capabilities Description 
-
+### Capabilities and Description 
+The description of capabilities and product description in a README file is critical for effectively communicating the value, purpose, and unique selling points of your product. 
+It helps users understand what your product offers, why it is valuable, and whether it meets their requirements.
+By providing clear and compelling information, you can attract the right audience and increase the chances of user adoption and satisfaction.
 
 not to overlod main reamd there were some child files created to keep details:
 - 
