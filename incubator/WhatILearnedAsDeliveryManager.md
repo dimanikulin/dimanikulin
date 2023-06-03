@@ -29,6 +29,7 @@ It also keeps structured information for product and its implementation details.
 
 My readme start with product logo. 
 
+### Bages
 Than it moves to bage chapters that are helpful for developers. There are following sections:
 - Common (Repo stars, contributors, followers, sponsors and twitter URL)
 - Release (last release version, last release date and numbers of downloads)
@@ -45,7 +46,7 @@ There are 3 different types of badges in terms of their way of implementation
 - Implememented by www.codefactor.io like [this](https://www.codefactor.io/repository/github/dimanikulin/fva)
 
 After it switches to Quick Links chapter. 
-I add the Quick Links for each main chpter in readme
+I add the Quick Links for each main chpter in [readme](https://github.com/dimanikulin/fva#readme)
 
 not to overlod main reamd there were some child files created to keep details:
 - 
