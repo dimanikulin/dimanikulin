@@ -37,6 +37,8 @@ Than it moves to bage chapters that are helpful for developers. There are follow
 - Repository statictis (GitHub top language, GitHub language count and GitHub repo size) 
 - Documentation(Roadmap, Discussions, License and Main Readme)
 
+<img src="FvaReadme.png" alt="FvaReadme"/>
+
 There are 3 different types of badges in terms of their way of implementation
 - Implememented by GitHub like [this](https://github.com/dimanikulin/fva/actions/workflows/main.yml/badge.svg?branch=master) 
 - Implememented by img.shields.io like [this](https://img.shields.io/github/last-commit/dimanikulin/fva)
