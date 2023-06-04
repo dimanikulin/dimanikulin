@@ -85,9 +85,11 @@ To address this, I devised a table with the following columns:
 Here I describe the channels which anyone can use to help me in developing and how to contribute. 
 
 ### Definitions, Acronyms, Abbreviations
-
-| # | Abbreviation or Acronym | Definition     |
-| - | ------------------------|:--------------:|
+Last but not least I describe Definitions, Acronyms and Abbreviations.
+it is in form of table with columns:
+- Number
+- Abbreviation or Acronym
+- and Definition
 
 
 not to overlod main reamd there were some child files created to keep details:
