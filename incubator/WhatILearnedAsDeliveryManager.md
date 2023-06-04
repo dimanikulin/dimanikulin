@@ -82,10 +82,10 @@ To address this, I devised a table with the following columns:
 **Description**: Provides a description of the functional requirement.
 
 ### Contributing and Stay in touch
-Here I describe the channels which anyone can use 
+Here I describe the channels which anyone can use to help me in developing and how to contribute. 
 
+### Definitions, Acronyms, Abbreviations
 
-# Definitions, Acronyms, Abbreviations
 | # | Abbreviation or Acronym | Definition     |
 | - | ------------------------|:--------------:|
 
