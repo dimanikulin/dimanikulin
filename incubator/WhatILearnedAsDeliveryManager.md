@@ -52,26 +52,26 @@ They serve as navigational aids, allowing readers to quickly jump to specific pa
 So I add the Quick Links for each main chpter in [readme](https://github.com/dimanikulin/fva#readme)
 
 ### Capabilities and Description 
-The description of capabilities and product description in a README file is critical for effectively communicating the value, purpose, and unique selling points of your product. 
+The description of [capabilities](https://github.com/dimanikulin/fva#capabilities) and product [description](https://github.com/dimanikulin/fva#description) in a README file is critical for effectively communicating the value, purpose, and unique selling points of your product. 
 It helps users understand what your product offers, why it is valuable, and whether it meets their requirements.
 By providing clear and compelling information, you can attract the right audience and increase the chances of user adoption and satisfaction.
 
 ### Architecture documentation
 Then it switches to description of Architecture documentation with following chapters:
-- Software Architecture Requirements
-- Software Architecture Views
-- Tools, libraries and languages
-- Licenses 
+- [Software Architecture Requirements](https://github.com/dimanikulin/fva#software-architecture-requirements)
+- [Software Architecture Views](https://github.com/dimanikulin/fva#software-architecture-views)
+- [Tools](https://github.com/dimanikulin/fva#dependencies), libraries and [programming languages](https://github.com/dimanikulin/fva#programming-languages)
+- [Licenses](https://github.com/dimanikulin/fva#license)
 
 For more details see [here](./WhatILearnedAsAppArchitect.md)
 
 ### Code Style and Documentation
-After it describes Code Style and Documentation.
+After it describes [Code Style](https://github.com/dimanikulin/fva#code-style) and [Documentation](https://github.com/dimanikulin/fva#code-documentation).
 Documenting code style and practices promotes consistency, code quality, collaboration, and long-term maintainability of the project.
 It serves as a valuable resource for the development team and ensures that the project's codebase remains organized, understandable, and scalable. 
 
 ### Implementation status
-Then I considered how I could effectively track the coverage of requirements. 
+Then I considered how I could effectively track the [coverage](https://github.com/dimanikulin/fva#implementation-status) of requirements. 
 I needed a way to implement tracing and determine which requirements were covered and which ones were not. 
 To address this, I devised a table with the following columns:
 
@@ -80,7 +80,6 @@ To address this, I devised a table with the following columns:
 **Component**: Specifies the name of the component.
 **File names**: Lists the file names where the implementation for the requirement can be found.
 **Description**: Provides a description of the functional requirement.
-
 
 ### Contributing and Stay in touch
 Here I describe the channels which anyone can use 
