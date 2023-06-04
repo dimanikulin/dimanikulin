@@ -67,6 +67,16 @@ For more details see [here](./WhatILearnedAsAppArchitect.md)
 
 ### Code Style and Documentation
 
+### Implementation status
+Before diving into the coding phase, I considered how I could effectively track the coverage of requirements. 
+I needed a way to implement tracing and determine which requirements were covered and which ones were not. 
+To address this, I devised a table with the following columns:
+
+**Implemented**: Indicates whether the requirement has been implemented, marked as either "yes" or "no."
+**Feature ID**: An identifier sourced from the features.
+**Component**: Specifies the name of the component.
+**File names**: Lists the file names where the implementation for the requirement can be found.
+**Description**: Provides a description of the functional requirement.
 
 
 ### Contributing and Stay in touch
@@ -84,16 +94,6 @@ not to overlod main reamd there were some child files created to keep details:
 -
 TODO IN the root folder there are also all md file kept 
 
-### Implementation status
-Before diving into the coding phase, I considered how I could effectively track the coverage of requirements. 
-I needed a way to implement tracing and determine which requirements were covered and which ones were not. 
-To address this, I devised a table with the following columns:
-
-**Implemented**: Indicates whether the requirement has been implemented, marked as either "yes" or "no."
-**Feature ID**: An identifier sourced from the features.
-**Component**: Specifies the name of the component.
-**File names**: Lists the file names where the implementation for the requirement can be found.
-**Description**: Provides a description of the functional requirement.
 
 TODO link to Implementation status 
 
