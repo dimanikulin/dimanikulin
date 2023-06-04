@@ -63,6 +63,8 @@ Then it switches to description of Architecture documentation with following cha
 - Tools, libraries and languages
 - Licenses 
 
+For more details see [here](./WhatILearnedAsAppArchitect.md)
+
 ### Code Style and Documentation
 
 
@@ -70,7 +72,11 @@ Then it switches to description of Architecture documentation with following cha
 ### Contributing and Stay in touch
 Here I describe the channels which anyone can use 
 
-For more details see [here](./WhatILearnedAsAppArchitect.md)
+
+# Definitions, Acronyms, Abbreviations
+| # | Abbreviation or Acronym | Definition     |
+| - | ------------------------|:--------------:|
+
 
 not to overlod main reamd there were some child files created to keep details:
 - 
@@ -78,7 +84,7 @@ not to overlod main reamd there were some child files created to keep details:
 -
 TODO IN the root folder there are also all md file kept 
 
-## Implementation status
+### Implementation status
 Before diving into the coding phase, I considered how I could effectively track the coverage of requirements. 
 I needed a way to implement tracing and determine which requirements were covered and which ones were not. 
 To address this, I devised a table with the following columns:
