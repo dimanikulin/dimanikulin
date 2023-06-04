@@ -46,7 +46,7 @@ There are 3 different types of badges in terms of their way of implementation
 - Implememented by www.codefactor.io like [this](https://www.codefactor.io/repository/github/dimanikulin/fva)
 
 ### Quick Links
-After it switches to Quick Links chapter. 
+After it switches to [Quick Links](https://github.com/dimanikulin/fva#quick-links) chapter. 
 Quick links in a README file are important because they provide easy and convenient access to key sections, resources, or external references related to a project. 
 They serve as navigational aids, allowing readers to quickly jump to specific parts of the README without having to scroll or search extensively.
 So I add the Quick Links for each main chpter in [readme](https://github.com/dimanikulin/fva#readme)
@@ -66,9 +66,12 @@ Then it switches to description of Architecture documentation with following cha
 For more details see [here](./WhatILearnedAsAppArchitect.md)
 
 ### Code Style and Documentation
+After it describes Code Style and Documentation.
+Documenting code style and practices promotes consistency, code quality, collaboration, and long-term maintainability of the project.
+It serves as a valuable resource for the development team and ensures that the project's codebase remains organized, understandable, and scalable. 
 
 ### Implementation status
-Before diving into the coding phase, I considered how I could effectively track the coverage of requirements. 
+Then I considered how I could effectively track the coverage of requirements. 
 I needed a way to implement tracing and determine which requirements were covered and which ones were not. 
 To address this, I devised a table with the following columns:
 
