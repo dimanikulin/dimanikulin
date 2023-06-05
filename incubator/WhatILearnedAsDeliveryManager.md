@@ -27,6 +27,16 @@ And good README serves as a comprehensive and accessible starting point for user
 It should be able to convey what your project is able to do, how to instakk and work with the project, how to contribute, etc.
 It also keeps structured information for product and its implementation details. 
 
+Not to overlod main reamd there are some child files created to keep details:
+- [CodeDocumentation.md](https://github.com/dimanikulin/fva/blob/master/CodeDocumentation.md) - to describe how to document the code 
+- [CodeStyle.md] - to describe the code style
+- [Constraints.md] - to describe solution constraints
+- [Dependencies.md] - to descrive tools and libs are used for product development
+- [DependenciesOld.md] - to descrive old tools and libs were used for product development
+- [FunctionalView.md] - to show and describe functioanl view 
+- [QualityAttributes.md] to decsribe product Quality Attributes
+
+
 My readme start with product logo. 
 
 ### Bages
@@ -90,16 +100,6 @@ it is in form of table with columns:
 - Number
 - Abbreviation or Acronym
 - and Definition
-
-
-Not to overlod main reamd there were some child files created to keep details:
-- CodeDocumentation.md - to describe how to document the code 
-- CodeStyle.md - to describe the code style
-- Constraints.md - to describe solution constraints
-- Dependencies.md - to descrive tools and libs are used for product development
-- DependenciesOld.md - to descrive old tools and libs were used for product development
-- FunctionalView.md - to show and describe functioanl view 
-- QualityAttributes.md to decsribe product Quality Attributes
 
 
 Add a public roadmap
