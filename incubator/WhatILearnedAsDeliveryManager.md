@@ -98,30 +98,10 @@ not to overlod main reamd there were some child files created to keep details:
 -
 TODO IN the root folder there are also all md file kept 
 
-
-TODO link to Implementation status 
-
-2. Focus on Documentation
-How to install/deploy the project
-Contributing guide
-Tutorials and code examples
-Architecture reference
-
-3 Be active in developer communities
-Trending repositories on GitHub
- 4.Ask for feedback from relevant communities
-Respond to feedback
-Open-source communities are usually very helpful and give a lot of feedback. Respond to all this feedback, as the person has taken their valuable time to help you improve your project.
-
-Grow a community around your project
-Start a community on Discord or Slack where your users and contributors can hang out.
-
-
 Add a public roadmap
 
 Add relevant labels for contributors
 Adding labels such as "good first issue" and "up for grabs" can attract more contributors to your repository.
-
 
 ## Releasing the code and the docs
 &nbsp;&nbsp;&nbsp; The release of product shall be on demand as soon as peace of product functionality is ready for release.
@@ -132,11 +112,6 @@ Thus the release branch is being created or updated to keep added/updated produc
 The following artifacts shall be created:
 - The documentation for code (based on doxy comments);
 - The installation packages for Windows, Mac and Linux latest version. 
-
-
-
-to speak main readm file sttucute, git hubm bages
-and How to get more engagement with your open source project
 
 &nbsp;&nbsp;&nbsp; Honestly, I didn't learn much as a Delivery Manager. Still, here are some points to consider...
 
