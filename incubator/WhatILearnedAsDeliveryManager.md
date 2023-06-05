@@ -103,27 +103,27 @@ it is in form of table with columns:
 - and Definition
 
 ## Releasing the code and the docs
-&nbsp;&nbsp;&nbsp; The release of product shall be on demand as soon as peace of product functionality is ready for release.
+The release of product shall be on demand as soon as peace of product functionality is ready for release.
 Thus the release branch is being created or updated to keep added/updated product functionality.
 
-&nbsp;&nbsp;&nbsp; Regardless of incremental approach to add or update product functions, the artifacts shall accumulate whole product installation packages and not increments even really small piece of functions is released.
+Regardless of incremental approach to add or update product functions, the artifacts shall accumulate whole product installation packages and not increments even really small piece of functions is released.
 
 The following artifacts shall be created:
 - The documentation for code (based on doxy comments);
 - The installation packages for Windows, Mac and Linux latest version. 
 
-&nbsp;&nbsp;&nbsp; Honestly, I didn't learn much as a Delivery Manager. Still, here are some points to consider...
+Honestly, I didn't learn much as a Delivery Manager. Still, here are some points to consider...
 
 ## Project Status tracking
-&nbsp;&nbsp;&nbsp; Tracking project status is quite an important activity of Delivery Manager.
+Tracking project status is quite an important activity of Delivery Manager.
 
 ### GitHub projects
-&nbsp;&nbsp;&nbsp; **GitHub Projects** is tool for tracking project status online integrated into your GitHub profile.
+**GitHub Projects** is tool for tracking project status online integrated into your GitHub profile.
 It is quite easy to use, and it doesn't have a lot of functions. 
 Here it [is](https://github.com/dimanikulin/fva/projects/3)
 
 ### ProjectLibre
-&nbsp;&nbsp;&nbsp; In spite of all the above-mentioned, a more compex solution was required. 
+In spite of all the above-mentioned, a more compex solution was required. 
 My choice was [ProjectLibre](https://www.projectlibre.com/product/1-alternative-microsoft-project-open-source).
 ProjectLibre desktop is a free and open-source project management software system, intended ultimately as a standalone replacement for Microsoft Project.
 Despite being a free and small app, it gave me everything I needed.
