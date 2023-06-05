@@ -128,8 +128,6 @@ The following artifacts shall be created:
 - The documentation for code (based on doxy comments);
 - The installation packages for Windows, Mac and Linux latest version. 
 
-Honestly, I didn't learn much as a Delivery Manager. Still, here are some points to consider...
-
 # References
 | # | Name                 | Source           | Release date           |  Author                 | Description |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
