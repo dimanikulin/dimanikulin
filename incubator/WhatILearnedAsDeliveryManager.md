@@ -20,6 +20,22 @@ First I started thinking how to get more engagement with my open source project.
 
 Their contributions can accelerate the pace of innovation, foster a sense of ownership and community, and create a network effect that attracts more developers to get involved.
 
+## Project Status tracking
+Tracking project status is quite an important activity of Delivery Manager.
+
+### GitHub projects
+**GitHub Projects** is tool for tracking project status online integrated into your GitHub profile.
+It is quite easy to use, and it doesn't have a lot of functions. 
+Here it [is](https://github.com/dimanikulin/fva/projects/3)
+
+### ProjectLibre
+In spite of all the above-mentioned, a more compex solution was required. 
+My choice was [ProjectLibre](https://www.projectlibre.com/product/1-alternative-microsoft-project-open-source).
+ProjectLibre desktop is a free and open-source project management software system, intended ultimately as a standalone replacement for Microsoft Project.
+Despite being a free and small app, it gave me everything I needed.
+
+TBD openproject
+
 ## Create a Good Readme
 [It](https://github.com/dimanikulin/fva#readme) is the first thing that a visitor to your repository sees.
 And good README serves as a comprehensive and accessible starting point for users and developers to engage with your project.
@@ -113,22 +129,6 @@ The following artifacts shall be created:
 - The installation packages for Windows, Mac and Linux latest version. 
 
 Honestly, I didn't learn much as a Delivery Manager. Still, here are some points to consider...
-
-## Project Status tracking
-Tracking project status is quite an important activity of Delivery Manager.
-
-### GitHub projects
-**GitHub Projects** is tool for tracking project status online integrated into your GitHub profile.
-It is quite easy to use, and it doesn't have a lot of functions. 
-Here it [is](https://github.com/dimanikulin/fva/projects/3)
-
-### ProjectLibre
-In spite of all the above-mentioned, a more compex solution was required. 
-My choice was [ProjectLibre](https://www.projectlibre.com/product/1-alternative-microsoft-project-open-source).
-ProjectLibre desktop is a free and open-source project management software system, intended ultimately as a standalone replacement for Microsoft Project.
-Despite being a free and small app, it gave me everything I needed.
-
-TBD openproject
 
 # References
 | # | Name                 | Source           | Release date           |  Author                 | Description |
