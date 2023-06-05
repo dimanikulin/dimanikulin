@@ -21,7 +21,7 @@ First I started thinking how to get more engagement with my open source project.
 Their contributions can accelerate the pace of innovation, foster a sense of ownership and community, and create a network effect that attracts more developers to get involved.
 
 ## Project Status tracking
-Tracking project status is quite an important activity of Delivery Manager.
+Overall, tracking project status is crucial for a Delivery Manager to ensure project success, manage risks and resources, facilitate communication, and make informed decisions throughout the project lifecycle.
 
 ### GitHub projects
 **GitHub Projects** is tool for tracking project status online integrated into your GitHub profile.
