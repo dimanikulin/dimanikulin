@@ -52,12 +52,9 @@ Not to overlod main reamd there are some child files created to keep details:
 - [FunctionalView.md](https://github.com/dimanikulin/fva/blob/master/FunctionalView.md)   - to show and describe functioanl view 
 - [QualityAttributes.md](https://github.com/dimanikulin/fva/blob/master/QualityAttributes.md) - to decsribe product Quality Attributes
 
-
 And my readme start with product logo. 
 
 ### Bages
-<img src="FvaReadme.png" alt="FvaReadme"/>
-
 Than it moves to bage chapters that are helpful for developers. There are following sections:
 - Common (Repo stars, contributors, followers, sponsors and twitter URL)
 - Release (last release version, last release date and numbers of downloads)
@@ -66,11 +63,12 @@ Than it moves to bage chapters that are helpful for developers. There are follow
 - Repository statictis (GitHub top language, GitHub language count and GitHub repo size) 
 - Documentation(Roadmap, Discussions, License and Main Readme)
 
-
 There are 3 different types of badges in terms of their way of implementation
 - Implememented by GitHub like [this](https://github.com/dimanikulin/fva/actions/workflows/main.yml/badge.svg?branch=master) 
 - Implememented by img.shields.io like [this](https://img.shields.io/github/last-commit/dimanikulin/fva)
 - Implememented by www.codefactor.io like [this](https://www.codefactor.io/repository/github/dimanikulin/fva)
+
+<img src="FvaReadme.png" alt="FvaReadme"/>
 
 ### Quick Links
 After it switches to [Quick Links](https://github.com/dimanikulin/fva#quick-links) chapter. 
