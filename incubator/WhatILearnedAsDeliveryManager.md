@@ -102,11 +102,11 @@ Then I considered how I could effectively track the [coverage](https://github.co
 I needed a way to implement tracing and determine which requirements were covered and which ones were not. 
 To address this, I devised a table with the following columns:
 
-**Implemented**: Indicates whether the requirement has been implemented, marked as either "yes" or "no."
-**Feature ID**: An identifier sourced from the features.
-**Component**: Specifies the name of the component.
-**File names**: Lists the file names where the implementation for the requirement can be found.
-**Description**: Provides a description of the functional requirement.
+- **Implemented**: Indicates whether the requirement has been implemented, marked as either "yes" or "no."
+- **Feature ID**: An identifier sourced from the features.
+- **Component**: Specifies the name of the component.
+- **File names**: Lists the file names where the implementation for the requirement can be found.
+- **Description**: Provides a description of the functional requirement.
 
 ### Contributing and Stay in touch
 Here I describe the channels which anyone can use to help me in developing and how to contribute. 
