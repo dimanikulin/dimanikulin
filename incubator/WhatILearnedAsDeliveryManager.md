@@ -29,12 +29,12 @@ It also keeps structured information for product and its implementation details.
 
 Not to overlod main reamd there are some child files created to keep details:
 - [CodeDocumentation.md](https://github.com/dimanikulin/fva/blob/master/CodeDocumentation.md) - to describe how to document the code 
-- [CodeStyle.md] - to describe the code style
-- [Constraints.md] - to describe solution constraints
-- [Dependencies.md] - to descrive tools and libs are used for product development
-- [DependenciesOld.md] - to descrive old tools and libs were used for product development
-- [FunctionalView.md] - to show and describe functioanl view 
-- [QualityAttributes.md] to decsribe product Quality Attributes
+- [CodeStyle.md](https://github.com/dimanikulin/fva/blob/master/CodeStyle.md)        - to describe the code style
+- [Constraints.md](https://github.com/dimanikulin/fva/blob/master/Constraints.md)      - to describe solution constraints
+- [Dependencies.md](https://github.com/dimanikulin/fva/blob/master/Dependencies.md)     - to descrive tools and libs are used for product development
+- [DependenciesOld.md](https://github.com/dimanikulin/fva/blob/master/DependenciesOld.md)  - to descrive old tools and libs were used for product development
+- [FunctionalView.md](https://github.com/dimanikulin/fva/blob/master/FunctionalView.md)   - to show and describe functioanl view 
+- [QualityAttributes.md](https://github.com/dimanikulin/fva/blob/master/QualityAttributes.md) - to decsribe product Quality Attributes
 
 
 My readme start with product logo. 
