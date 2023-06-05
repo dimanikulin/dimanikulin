@@ -37,9 +37,11 @@ Not to overlod main reamd there are some child files created to keep details:
 - [QualityAttributes.md](https://github.com/dimanikulin/fva/blob/master/QualityAttributes.md) - to decsribe product Quality Attributes
 
 
-My readme start with product logo. 
+And my readme start with product logo. 
 
 ### Bages
+<img src="FvaReadme.png" alt="FvaReadme"/>
+
 Than it moves to bage chapters that are helpful for developers. There are following sections:
 - Common (Repo stars, contributors, followers, sponsors and twitter URL)
 - Release (last release version, last release date and numbers of downloads)
@@ -48,7 +50,6 @@ Than it moves to bage chapters that are helpful for developers. There are follow
 - Repository statictis (GitHub top language, GitHub language count and GitHub repo size) 
 - Documentation(Roadmap, Discussions, License and Main Readme)
 
-<img src="FvaReadme.png" alt="FvaReadme"/>
 
 There are 3 different types of badges in terms of their way of implementation
 - Implememented by GitHub like [this](https://github.com/dimanikulin/fva/actions/workflows/main.yml/badge.svg?branch=master) 
@@ -100,12 +101,6 @@ it is in form of table with columns:
 - Number
 - Abbreviation or Acronym
 - and Definition
-
-
-Add a public roadmap
-
-Add relevant labels for contributors
-Adding labels such as "good first issue" and "up for grabs" can attract more contributors to your repository.
 
 ## Releasing the code and the docs
 &nbsp;&nbsp;&nbsp; The release of product shall be on demand as soon as peace of product functionality is ready for release.
