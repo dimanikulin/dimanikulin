@@ -92,11 +92,15 @@ it is in form of table with columns:
 - and Definition
 
 
-not to overlod main reamd there were some child files created to keep details:
-- 
--
--
-TODO IN the root folder there are also all md file kept 
+Not to overlod main reamd there were some child files created to keep details:
+- CodeDocumentation.md - to describe how to document the code 
+- CodeStyle.md - to describe the code style
+- Constraints.md - to describe solution constraints
+- Dependencies.md - to descrive tools and libs are used for product development
+- DependenciesOld.md - to descrive old tools and libs were used for product development
+- FunctionalView.md - to show and describe functioanl view 
+- QualityAttributes.md to decsribe product Quality Attributes
+
 
 Add a public roadmap
 
