@@ -121,7 +121,7 @@ Please select proper day and time for a publication. I publish usually on Monday
 It is usually 10AM - 3PM my local time, Ukrainian. Defintly not at morning and an night 
 please notice on holidays you will have less viewes
 for summer you mush less viewes/reactions 
-
+when there is also other importnat event in platform published you will loose the views but the will accuire them 
 
 ### Choose frequency of publication
 I use 1-2 per week. 
