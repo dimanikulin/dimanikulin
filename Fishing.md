@@ -6,7 +6,7 @@ The art of phishing is constantly evolving, and scammers are finding new ways to
 This article explores some of the latest tactics used in phishing attacks. 
 
 # Tags
-fishing emailsecurity internetsecurity
+fishing staysafe emailsecurity internetsecurity
 
 # Content
 ## Attempt 0
@@ -59,6 +59,18 @@ They just wanted to warn me about disk space.
 
 <img src="./Images/fishing05.jpg" alt="fishing 05" />
 
+## Sensitive or confidential language
+It is unfortunately true that some people may use sensitive or confidential language (Confidential! Sensitive Information!) in their messages as a tactic to deceive or manipulate others, and they may not be concerned about the consequences of doing so.
+
+If you receive a message that you suspect may be fraudulent or deceptive, it is important to exercise caution and to verify the authenticity of the message before taking any action.
+
+This may involve double-checking the source of the message, looking for signs of phishing or other scams, or seeking guidance from a trusted authority or expert.
+
+By taking these precautions, you can help protect yourself from potential harm and avoid falling victim to scams or other types of fraud.
+
+Stay safe!
+<img src="./Images/fishing06.jpg" alt="fishing 06" />
+
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
@@ -67,3 +79,4 @@ They just wanted to warn me about disk space.
 | 3 | Attempt 2 | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_it-is-so-easy-to-get-really-big-money-now-activity-6935298599983443968-1GRA?utm_source=share&utm_medium=member_desktop)|May, 2022|Dmytro Nikulin||
 | 4 | Attempt 3 | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_that-is-probably-first-time-when-i-reject-activity-6885883352952438784-CEq-?utm_source=share&utm_medium=member_desktop)|January, 2022|Dmytro Nikulin||
 | 5 | Attempt 4 | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_fishing-activity-7054716495364300801-_-1z?utm_source=share&utm_medium=member_desktop)|April 24, 2023|Dmytro Nikulin||
+| 6 | Sensitive or confidential language | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_staysafe-fishing-activity-7071738520201027584-TmuQ?utm_source=share&utm_medium=member_desktop)|June 6, 2023|Dmytro Nikulin||
