@@ -91,8 +91,8 @@ For example it could be device id that was the same for all multimedia files. **
 }
 ```
 
-&nbsp;&nbsp;&nbsp; Description.csv has been used to keep information about files under a folder for cases if some multimedia files had different internal metadata. 
-**description.csv* structure was:
+&nbsp;&nbsp;&nbsp; **Description.csv** has been used to keep information about files under a folder for cases if some multimedia files had different internal metadata. 
+**description.csv** structure was:
 </br>
 &nbsp;&nbsp;&nbsp; Name,Place,People,Device,WhoTook,Description,Scaner
 </br>
