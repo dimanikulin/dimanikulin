@@ -67,10 +67,10 @@ Last but not least, I acquired knowledge on how to create a [riff parser](https:
 ## History of data layer
 Let describe how it was before current implementation. 
 Firstly it was kept at file system level inside of the Photo Album. 
-Each folder in the Photo Album could keep two files: “folderDescription.json” and “description.csv”. 
-“FolderDescription.json” kept information about all the files under a folder that was common. 
-For example it could be device id that was the same for all multimedia files.   “FolderDescription.json” structure was:
-</br>
+Each folder in the Photo Album could keep two files:**folderDescription.json** and **description.csv**. 
+**FolderDescription.json** kept information about all the files under a folder that was common. 
+For example it could be device id that was the same for all multimedia files. **FolderDescription.json** structure was:
+
 ```json
 {
 "deviceId":"",
@@ -80,8 +80,7 @@ For example it could be device id that was the same for all multimedia files.   
 "event":"" 
 }
 ```
-
-“folderDescription.json” example:
+**folderDescription.json** example:
 ```json
 {
 "deviceId":"3",
@@ -93,15 +92,15 @@ For example it could be device id that was the same for all multimedia files.   
 ```
 
 &nbsp;&nbsp;&nbsp; Description.csv has been used to keep information about files under a folder for cases if some multimedia files had different internal metadata. 
-“description.csv” structure was:
+**description.csv* structure was:
 </br>
 &nbsp;&nbsp;&nbsp; Name,Place,People,Device,WhoTook,Description,Scaner
 </br>
 &nbsp;&nbsp;&nbsp; So the FVA software created or updated these files during import new files to photo album. </br> 
 &nbsp;&nbsp;&nbsp; Keeping the internal metadata in this approach did not give good flexibility and maintainability. 
-So adding one column in “folderDescription.json” or “description.csv” could cause whole photo album file system structure to update.
+So adding one column in **folderDescription.json** or **description.csv** could cause whole photo album file system structure to update.
 </br> 
-&nbsp;&nbsp;&nbsp; So it was decided to move all “folderDescription.json” and “description.csv” to SQLlite database. 
+&nbsp;&nbsp;&nbsp; So it was decided to move all **folderDescription.json** and “description.csv** to SQLlite database. 
 The scheme has been created to keep the same information as “folderDescription.json” and “description.csv” did keep.
 The FVA software created SQL updates to DB during import new files to photo album and all those SQL updates were kept to create SQL at any time.
 </br>
