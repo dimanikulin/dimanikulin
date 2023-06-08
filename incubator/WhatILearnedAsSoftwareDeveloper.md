@@ -119,6 +119,8 @@ That internal metadata file does not keep information in which folder a file is 
 So merging one folder in photo album to another does not cause an issue.
 Still the duplication of information takes place because for all files in one folder common information is just copied.
 
+"*What did you learn?*" you might ask, 
+"*Before implementation you need to think how you will maintain the product changes!*"
  
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
