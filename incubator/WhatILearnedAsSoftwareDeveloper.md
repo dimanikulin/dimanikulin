@@ -65,12 +65,13 @@ As my project involves working with two programming [languages](https://github.c
 Last but not least, I acquired knowledge on how to create a [riff parser](https://github.com/dimanikulin/fva/blob/master/FVACommonLib/fvariffparser.h), adding another valuable capability to the project.
 
 ## History of data layer
-Let describe how it was before current implementation. 
+Let describe how **FVA Software internal metadata** was before current implementation. 
 Firstly it was kept at file system level inside of the Photo Album. 
 Each folder in the Photo Album could keep two files:**folderDescription.json** and **description.csv**. 
 **FolderDescription.json** kept information about all the files under a folder that was common. 
-For example it could be device id that was the same for all multimedia files. **FolderDescription.json** structure was:
+For example it could be device id that was the same for all multimedia files. 
 
+**FolderDescription.json** structure was:
 ```json
 {
 "deviceId":"",
@@ -91,7 +92,7 @@ For example it could be device id that was the same for all multimedia files. **
 }
 ```
 
-**Description.csv** has been used to keep information about files under a folder for cases if some multimedia files had different internal metadata. 
+**description.csv** has been used to keep information about files under a folder for cases if some multimedia files had different internal metadata. 
 **description.csv** structure was:
 
 - Name
@@ -106,21 +107,20 @@ So the **FVA software** created or updated these files during import new files t
 Keeping the internal metadata in this approach did not give good flexibility and maintainability. 
 So adding one column in **folderDescription.json** or **description.csv** could cause whole photo album file system structure to update.
 
-
-So it was decided to move all **folderDescription.json** and **description.csv** to SQLlite database. 
+And it was decided to move all **folderDescription.json** and **description.csv** to **SQLlite** database. 
 The scheme has been created to keep the same information as **folderDescription.json** and **description.csv** did keep.
 The **FVA software** created **SQL** updates to **DB** during import new files to photo album and all those **SQL** updates were kept to create **SQL** at any time.
 
-Again keeping the internal metadata in this approach did not give good flexibility and maintainability. 
+But again keeping the internal metadata in this approach did not give good flexibility and maintainability. 
 So merging one folder in photo album to another caused significant change of **SQL** updates.
 
-So it was decided to move all information in one **CSV** file.
-That internal metadata file does not keep information in which folder a file is kept. 
+Finally it was decided to move all information in one **CSV** file.
+That **internal metadata** file does not keep information in which folder a file is kept. 
 So merging one folder in photo album to another does not cause an issue.
 Still the duplication of information takes place because for all files in one folder common information is just copied.
 
-"*What did you learn?*" you might ask, 
-"*Before implementation you need to think how you will maintain the product changes!*"
+"*And what did you learn?*" you might ask, 
+"*Before implementation you need to think how easly you will maintain the product changes!*"
  
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
