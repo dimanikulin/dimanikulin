@@ -91,10 +91,17 @@ For example it could be device id that was the same for all multimedia files. **
 }
 ```
 
-&nbsp;&nbsp;&nbsp; **Description.csv** has been used to keep information about files under a folder for cases if some multimedia files had different internal metadata. 
+**Description.csv** has been used to keep information about files under a folder for cases if some multimedia files had different internal metadata. 
 **description.csv** structure was:
-</br>
-&nbsp;&nbsp;&nbsp; Name,Place,People,Device,WhoTook,Description,Scaner
+
+- Name
+- Place
+- People
+- Device
+- WhoTook
+- Description
+- Scaner
+
 </br>
 &nbsp;&nbsp;&nbsp; So the **FVA software** created or updated these files during import new files to photo album. </br> 
 &nbsp;&nbsp;&nbsp; Keeping the internal metadata in this approach did not give good flexibility and maintainability. 
