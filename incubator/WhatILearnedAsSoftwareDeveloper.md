@@ -1,7 +1,9 @@
 # Headline
-Code Quality, Documentation, and Implementation: Building a Solid Foundation for Software Development
+- Code Quality, Documentation, and Implementation: Building a Solid Foundation for Software Development
 
-What I learned as a Software Developer while creating my product
+- Prioritizing Code Quality and Documentation: Building a Robust and Maintainable FVA Software
+
+- What I learned as a Software Developer while creating my product
 
 # Article description
 Here you will
