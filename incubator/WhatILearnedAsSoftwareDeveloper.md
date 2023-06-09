@@ -64,7 +64,7 @@ As my project involves working with two programming [languages](https://github.c
 
 Last but not least, I acquired knowledge on how to create a [riff parser](https://github.com/dimanikulin/fva/blob/master/FVACommonLib/fvariffparser.h), adding another valuable capability to the project.
 
-## History of data layer
+## History of internal metadata formats
 Let describe how **FVA Software internal metadata** was before current implementation. 
 Firstly it was kept at file system level inside of the Photo Album. 
 Each folder in the Photo Album could keep two files:**folderDescription.json** and **description.csv**. 
