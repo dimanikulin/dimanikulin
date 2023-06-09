@@ -40,6 +40,17 @@
 |reddit     |TBD|TBD|TBD|TBD|
 |quora      |TBD|TBD|TBD|TBD| 
 
+# Detecting Architectural Gaps with Automation
+|Name       |[Business Context](./TBD.md)|[Existing Solutions](./TBD.md)|[Proposed Solution](./TBD.md)|
+|-----------|---------------------------------------------------------------|----------------------------------------------------------------------|:---------------------------------------------------------------------------------:|
+|hackernoon |TBD|TBD|TBD|TBD|
+|linkedin   |TBD|TBD|TBD|TBD|
+|dev.to     |TBD|TBD|TBD|TBD|
+|hashnode   |TBD|TBD|TBD|TBD|
+|medium     |TBD|TBD|TBD|TBD|
+|reddit     |TBD|TBD|TBD|TBD|
+|quora      |TBD|TBD|TBD|TBD| 
+
 # Other publications
 - [ChatGPT](./ChatGPT.md)
 - [Just Joined LinkedIn](./JustJoinedLinkedIn.md)
