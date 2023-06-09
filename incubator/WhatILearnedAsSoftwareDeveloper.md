@@ -15,7 +15,7 @@ The evolution of internal metadata formats in the software is explored, highligh
 Overall, the article provides insights into building a robust and maintainable software product.
 
 # Tags
-Software development, code quality, code review, coding standards, documentation practices, C++, Python, implementation status, user interface development, QT library, QWidgets, QML, UI languages, SQLite, CSV, C++ and Python integration, riff parser
+Software development, code quality, code review, coding standards, documentation practices, C++, Python, implementation status, UI development, QT library, QWidgets, QML, UI languages, SQLite, CSV, C++ and Python integration, riff parser, metadata formats, maintainability
 
 # Content
 
