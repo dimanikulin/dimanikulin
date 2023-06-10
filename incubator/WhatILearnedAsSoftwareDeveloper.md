@@ -30,14 +30,14 @@ Additionally, I have employed **Python** to create additional code checks.
 It is worth mentioning that not all rules can be checked automatically, requiring manual effort in certain cases.
 
 ## Code documentation
-"*Now, hold on*!" you might ask, 
-"*Are we jumping straight into coding?*". 
+"*Now, hold on!*" you might ask,
+"*Are we jumping straight into coding?*" 
 My answer is a resounding "*Nope*".
 
-Before embarking on the coding phase, it is vital to consider code documentation. 
+Before embarking on the coding phase, it is vital to consider **code documentation**. 
 Since the **FVA Software** employs two programming languages, it is imperative to establish clear documentation rules for both [C++](https://github.com/dimanikulin/fva/blob/master/CodeDocumentation.md) and **Python**.
- 
-Consequently, I have familiarized myself with documenting **C++** code using **Doxygen** markdown and have gained proficiency in generating documentation based on Doxygen markdown.
+
+Consequently, I have familiarized myself with documenting **C++** code using **Doxygen** markdown and have gained proficiency in generating documentation based on Doxygen markdown. 
 It's quite remarkable how confident I am now in configuring **Doxygen**.
 
 <img src="CodeDocumentation.png" alt="CodeDocumentation"/>
