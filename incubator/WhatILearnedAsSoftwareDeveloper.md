@@ -69,11 +69,12 @@ As my project involves working with two programming [languages](https://github.c
 Last but not least, I acquired knowledge on how to create a [riff parser](https://github.com/dimanikulin/fva/blob/master/FVACommonLib/fvariffparser.h), adding another valuable capability to the project.
 
 ## History of internal metadata formats
-Let describe how **FVA Software internal metadata** was before current implementation. 
-Firstly it was kept at file system level inside of the Photo Album. 
-Each folder in the Photo Album could keep two files:**folderDescription.json** and **description.csv**. 
-**FolderDescription.json** kept information about all the files under a folder that was common. 
-For example it could be device id that was the same for all multimedia files. 
+The history of **internal metadata** formats in FVA Software reveals the evolution of how the software stored and managed metadata.
+Initially, the metadata was kept at the file system level inside the Photo Album.
+Each folder in the Photo Album had two files: **folderDescription.json** and **description.csv**.
+
+The **folderDescription.json** file stored information that was common to all files within a folder, such as 
+**device ID**, **tags**, **people**, **place**, and **event**.
 
 **FolderDescription.json** structure was:
 ```json
@@ -96,8 +97,8 @@ For example it could be device id that was the same for all multimedia files.
 }
 ```
 
-**description.csv** has been used to keep information about files under a folder for cases if some multimedia files had different internal metadata. 
-**description.csv** structure was:
+On the other hand, **description.csv** was used to store information about files under a folder that had different **internal metadata**.
+It had columns for 
 
 - Name
 - Place
@@ -107,24 +108,24 @@ For example it could be device id that was the same for all multimedia files.
 - Description
 - Scaner
 
-So the **FVA software** created or updated these files during import new files to photo album.
-Keeping the internal metadata in this approach did not give good flexibility and maintainability. 
-So adding one column in **folderDescription.json** or **description.csv** could cause whole photo album file system structure to update.
+However, this approach of storing metadata at the file system level had limitations in terms of flexibility and maintainability. 
+Adding or modifying a column in **folderDescription.json** or **description.csv** would require updating the entire photo album file system structure.
 
-And it was decided to move all **folderDescription.json** and **description.csv** to **SQLlite** database. 
-The scheme has been created to keep the same information as **folderDescription.json** and **description.csv** did keep.
-The **FVA software** created **SQL** updates to **DB** during import new files to photo album and all those **SQL** updates were kept to create **SQL** at any time.
+To address these limitations, the decision was made to move the **folderDescription.json** and **description.csv** files to an **SQLite** database. 
+The database schema was designed to store the same information as before. 
+During the import of new files to the photo album, the **FVA software** created **SQL** updates to the database. 
+These **SQL** updates were saved to be able to recreate the **SQL** at any time.
+Although this approach improved flexibility and maintainability compared to the file system approach, merging folders in the photo album still caused significant changes in the **SQL** updates.
 
-But again keeping the internal metadata in this approach did not give good flexibility and maintainability. 
-So merging one folder in photo album to another caused significant change of **SQL** updates.
+Finally, it was decided to consolidate all the information into a single **CSV** file for **internal metadata**. 
+This **CSV** file does not keep track of which folder a file is stored in, allowing for easier merging of folders without issues.
+However, it results in some duplication of information since common information for all files in a folder is simply copied.
 
-Finally it was decided to move all information in one **CSV** file.
-That **internal metadata** file does not keep information in which folder a file is kept. 
-So merging one folder in photo album to another does not cause an issue.
-Still the duplication of information takes place because for all files in one folder common information is just copied.
+"*And what did you learn?*" you might ask.
+The lesson learned is that before implementation, it is crucial to consider how easily you will maintain product changes. 
 
-"*And what did you learn?*" you might ask, 
-"*Before implementation you need to think how easly you will maintain the product changes!*"
+The history of internal metadata formats in FVA Software demonstrates the importance of designing a system architecture that is flexible and maintainable from the start.
+
  
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
