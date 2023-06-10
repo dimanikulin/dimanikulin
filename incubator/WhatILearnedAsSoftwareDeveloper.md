@@ -44,13 +44,14 @@ It's quite remarkable how confident I am now in configuring **Doxygen**.
 
 ## Implementation
 Finally, we can proceed to the coding phase!
-For the development of **FVA Software**, I have chosen the versatile [QT](https://en.wikipedia.org/wiki/Qt_(software)) library, which supports multiple operating systems such as Windows, MacOS, and Linux Ubuntu. 
+For the development of **FVA Software**, I have chosen the versatile [QT](https://en.wikipedia.org/wiki/Qt_(software)) library, which supports multiple operating systems such as **Windows**, **macOS**, and **Linux Ubuntu**. 
 Since the software requires a user interface ([UI](https://en.wikipedia.org/wiki/User_interface)), I initially utilized **QWidgets**, including components like **QWizard** and **QWizardPage**.
+
 However, I soon realized that employing **QML** would offer a more streamlined approach for [UI](https://en.wikipedia.org/wiki/User_interface) implementation.
 Therefore, my plan is to transition from **QWidgets** to **QML**.
 
 I was pleasantly surprised by the ease of utilizing **QT** for creating a multimedia content [player](https://github.com/dimanikulin/fva/blob/master/FVAPlayer). 
-The flexibility of [QT](https://en.wikipedia.org/wiki/Qt_(software)) allows me to work with multiple [UI](https://en.wikipedia.org/wiki/User_interface) languages.
+The flexibility of [QT](https://en.wikipedia.org/wiki/Qt_(software)) allows me to work with multiple [UI](https://en.wikipedia.org/wiki/User_interface) languages. 
 To facilitate this, [QT](https://en.wikipedia.org/wiki/Qt_(software)) suggests using the following components:
 
 - [QTranslator](https://doc.qt.io/qt-5/qtranslator.html);
@@ -60,6 +61,7 @@ To facilitate this, [QT](https://en.wikipedia.org/wiki/Qt_(software)) suggests u
 - [QtextEncoder](https://doc.qt.io/qt-5/qtextencoder.html).
 
 Additionally, I discovered that working with **SQLite** using [QT](https://en.wikipedia.org/wiki/Qt_(software)) is remarkably straightforward. 
+
 However, I later made the decision to switch from **SQLite** to [CSV](https://github.com/dimanikulin/fva/blob/master/FVACommonLib/fvacsvfile.h) for data storage.
 
 As my project involves working with two programming [languages](https://github.com/dimanikulin/fva/blob/master/README.md#programming-languages), I needed to establish a means of integrating **Python** code into the **C++** application.
