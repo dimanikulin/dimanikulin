@@ -20,13 +20,13 @@ Software development, code quality, code review, coding standards, documentation
 # Content
 
 ## Code quality
-Before creating the code, it is crucial to prioritize its quality.
+Before creating the code, it is crucial to prioritize its **quality**.
 It should be the foremost consideration in the development process.
-To ensure code quality, we can utilize automated tools that help with code analysis.
- owever, it's important to note that automated tools may not cover all the necessary rules. 
+To ensure **code quality**, we can utilize automated tools that help with code analysis.
+However, it's important to note that automated tools may not cover all the necessary rules.
 As a result, manual code review becomes essential to enforce coding standards.
-Personally, I have dedicated significant time to code reviewing and checking for adherence to [code style](https://github.com/dimanikulin/fva/blob/master/CodeStyle.md). Additionally, 
-I have employed **Python** to create additional code checks.
+Personally, I have dedicated significant time to code reviewing and checking for adherence to [code style](https://github.com/dimanikulin/fva/blob/master/CodeStyle.md).
+Additionally, I have employed **Python** to create additional code checks. 
 It is worth mentioning that not all rules can be checked automatically, requiring manual effort in certain cases.
 
 ## Code documentation
