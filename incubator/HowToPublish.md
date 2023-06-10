@@ -158,7 +158,6 @@ My is
 - if there is no formatting symbols?
 - if there is no empty chapters?
 - Are "Definitions, Acronyms, Abbreviations" sorted?
-- Are all references actual?
 - Has it been proof read?
 - Are there any pictures?
 - Is it asking for an opinion?
@@ -166,6 +165,7 @@ My is
 - is there italic used for conversation?
 - if there is no PII ?
 - if there is no TBD and TODO?
+- Are all references actual?
 
 ## "References" chapter
 add links in place and into sepatated chapter 
