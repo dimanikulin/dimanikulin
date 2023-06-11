@@ -7,6 +7,9 @@ TBD
 # Tags
 TBD
 
+# Definitions, Acronyms, Abbreviations
+TBD
+
 # Content
 TBD
 <img src="./Images/TBD.jpg" alt="TBD" />
@@ -16,5 +19,3 @@ TBD
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 
 
-# Definitions, Acronyms, Abbreviations
-TBD
