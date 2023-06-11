@@ -40,7 +40,7 @@ Since the **FVA Software** employs two programming languages, it is imperative t
 Consequently, I have familiarized myself with documenting **C++** code using **Doxygen** markdown and have gained proficiency in generating documentation based on Doxygen markdown. 
 It's quite remarkable how confident I am now in configuring **Doxygen**.
 
-<img src="CodeDocumentation.png" alt="CodeDocumentation"/>
+<img src="./Images/CodeDocumentation.png" alt="CodeDocumentation"/>
 
 ## Implementation
 Finally, we can proceed to the coding phase!
@@ -76,7 +76,7 @@ Each folder in the Photo Album had two files: **folderDescription.json** and **d
 The **folderDescription.json** file stored information that was common to all files within a folder, such as 
 **device ID**, **tags**, **people**, **place**, and **event**.
 
-<img src="FvaInternalMetadata.png" alt="FvaInternalMetadata"/>
+<img src="./Images/FvaInternalMetadata.png" alt="FvaInternalMetadata"/>
 
 On the other hand, **description.csv** was used to store information about files under a folder that had different **internal metadata**.
 It had columns for 
