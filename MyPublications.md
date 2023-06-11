@@ -41,7 +41,7 @@
 |quora      |TBD|TBD|TBD|TBD| 
 
 # Detecting Architectural Gaps with Automation
-|Name       |[Business Context](./TBD.md)|[Existing Solutions](./TBD.md)|[Proposed Solution](./TBD.md)|
+|Name       |[Business Context](./DAGBusinessContext.md)|[Existing Solutions](./DAGExistingSolutions.md)|[Proposed Solution](./DAGProposedSolution.md)|
 |-----------|---------------------------------------------------------------|----------------------------------------------------------------------|:---------------------------------------------------------------------------------:|
 |hackernoon |TBD|TBD|TBD|TBD|
 |linkedin   |TBD|TBD|TBD|TBD|
