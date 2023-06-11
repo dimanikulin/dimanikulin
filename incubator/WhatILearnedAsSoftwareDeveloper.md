@@ -76,26 +76,7 @@ Each folder in the Photo Album had two files: **folderDescription.json** and **d
 The **folderDescription.json** file stored information that was common to all files within a folder, such as 
 **device ID**, **tags**, **people**, **place**, and **event**.
 
-**FolderDescription.json** structure was:
-```json
-{
-"deviceId":"",
-"tags":"",
-"people": "",
-"place":"",
-"event":"" 
-}
-```
-**folderDescription.json** example:
-```json
-{
-"deviceId":"3",
-"tags":"At home, with a family",
-"people": "3,6,8",
-"place":"3,4",
-"event":"45"
-}
-```
+<img src="FvaInternalMetadata.png" alt="FvaInternalMetadata"/>
 
 On the other hand, **description.csv** was used to store information about files under a folder that had different **internal metadata**.
 It had columns for 
