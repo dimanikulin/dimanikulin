@@ -58,6 +58,25 @@ GlobalLogicUkraine
 
 <img src="./Images/Luxemburg,Luxemburg.jpeg" alt="Luxemburg, Luxemburg" />
 
+## A white paper on GlobalLogic Insights
+I have just published a white paper on [Globallogic Insights](https://www.globallogic.com/insights/white-papers/detecting-architectural-gaps-with-automation/)
+
+In this paper, I delve into various manual architecture review methods and propose automated alternatives that not only reduce the time and resources required but also yield better outcomes.
+
+You will gain insights into:
+
+- Understanding architecture drift and erosion and their impact on business.
+- Exploring the workings of dependency analysis, peer reviews, and other manual inspections.
+- Recognizing the limitations of manual reviews as they may not address issues that arise despite adhering to best practices in architecture governance.
+- Considering specific factors related to compliance, data security, DevOps, and more when evaluating architecture review solutions.
+- Examining example use case scenarios to visualize the automation of architecture checks.
+
+I would like to extend my special thanks to Orkhan Gasimov for his valuable assistance!
+
+Enjoy your reading experience!
+
+### Tags
+whitepaper softwarearchitecture softwaredesign
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
@@ -69,6 +88,7 @@ GlobalLogicUkraine
 | 5 | Top Interviewer in Kyiv in C/C++ | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_globallogic-activity-6894337668830822401-iBcr?utm_source=share&utm_medium=member_desktop) | January 2022 | Dmytro Nikulin | |
 | 6 | GlobalLogicUkraine7000 | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_7000-reasons-to-care-activity-6862097076923232257-iOMQ?utm_source=share&utm_medium=member_desktop)  | December 2021 | Dmytro Nikulin | |
 | 7 | Люксембург, Люксембург | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_globallogic-activity-7067761572093247488-7J4Y?utm_source=share&utm_medium=member_desktop) | May 26, 2023 | Dmytro Nikulin | |
+| 8 | A white paper on GlobalLogic Insights| [LinkedIn](https://www.linkedin.com/posts/dimanikulin_detecting-architectural-gaps-with-automation-activity-7073919594154868738-CpcR?utm_source=share&utm_medium=member_desktop)  | June 9, 2023 | Dmytro Nikulin | |
 
 # Definitions, Acronyms, Abbreviations
 TBD
