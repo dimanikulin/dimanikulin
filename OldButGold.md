@@ -36,7 +36,6 @@ I have seen that a lot.
 
 <img src="./Images/BSOD.jpg" alt="BSOD.jpg" />
 
-
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|

@@ -89,6 +89,3 @@ whitepaper softwarearchitecture softwaredesign
 | 6 | GlobalLogicUkraine7000 | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_7000-reasons-to-care-activity-6862097076923232257-iOMQ?utm_source=share&utm_medium=member_desktop)  | December 2021 | Dmytro Nikulin | |
 | 7 | Люксембург, Люксембург | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_globallogic-activity-7067761572093247488-7J4Y?utm_source=share&utm_medium=member_desktop) | May 26, 2023 | Dmytro Nikulin | |
 | 8 | A white paper on GlobalLogic Insights| [LinkedIn](https://www.linkedin.com/posts/dimanikulin_detecting-architectural-gaps-with-automation-activity-7073919594154868738-CpcR?utm_source=share&utm_medium=member_desktop)  | June 9, 2023 | Dmytro Nikulin | |
-
-# Definitions, Acronyms, Abbreviations
-TBD

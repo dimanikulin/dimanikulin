@@ -39,6 +39,3 @@ globallogic ukraine nationalholiday
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 | 1 |What is the best gift for Ukrainian people for Christmas and New Year?|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_armukrainenow-warinukraine-activity-7012374950275637249-Wpcn?utm_source=share&utm_medium=member_desktop)|December, 2022| Dmytro Nikulin||
 | 2 |З Днем Вишиванки!| [LinkedIn](https://www.linkedin.com/posts/dimanikulin_globallogic-ukraine-nationalholiday-activity-7064859572955398144-xxKg?utm_source=share&utm_medium=member_desktop)| 18 May, 2023 | Dmytro Nikulin|| 
-
-# Definitions, Acronyms, Abbreviations
-TBD
