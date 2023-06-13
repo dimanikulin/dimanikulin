@@ -7,14 +7,6 @@ TBD
 # Tags
 TBD
 
-# Content
-TBD
-<img src="./Images/TBD.jpg" alt="TBD" />
-
-# References
-| # | Name                 | Source                | Release date           |  Author                 | Description   |
-| - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
-
 # Definitions, Acronyms, Abbreviations
 | # | Abbreviation or Acronym | Definition     |
 | - | ------------------------|:--------------:|
@@ -34,3 +26,11 @@ TBD
 | 14| [mrisa.mage](https://mrisa.mage.me.uk/)| MRISA (Meta Reverse Image Search API) is a RESTful API which takes an image URL, does a reverse Google image search, and returns a JSON array with the search results.|
 | 15| [OpenStreet maps](https://en.wikipedia.org/wiki/OpenStreetMap)| OpenStreetMap (OSM) is a [collaborative project](https://en.wikipedia.org/wiki/Virtual_community) to create a [free](https://en.wikipedia.org/wiki/Free_content) editable [map](https://en.wikipedia.org/wiki/Map) of the world. The [geodata](https://en.wikipedia.org/wiki/Geodata) underlying the map is considered the primary output of the project. |
 | 16| [serpapi.com](https://serpapi.com/)|API to get search engine results with ease. |
+
+# Content
+TBD
+<img src="./Images/TBD.jpg" alt="TBD" />
+
+# References
+| # | Name                 | Source                | Release date           |  Author                 | Description   |
+| - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
