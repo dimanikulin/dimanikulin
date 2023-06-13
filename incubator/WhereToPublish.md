@@ -7,6 +7,10 @@ TBD
 # Tags
 TBD
 
+# Definitions, Acronyms, Abbreviations
+TBD
+TL;DR
+
 # Content
 how to manage - is not big deal - to descrive 
 table with columns resources adn lines like publication 
@@ -287,7 +291,4 @@ dou.ua
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 
 TBD
-
-# Definitions, Acronyms, Abbreviations
-TBD
-TL;DR
+2

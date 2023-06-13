@@ -8,6 +8,13 @@ TODO GPT from content
 # Tags
 TODO GPT from connet
 
+# Definitions, Acronyms, Abbreviations
+| # | Abbreviation or Acronym | Definition     |
+| - | ------------------------|:--------------:|
+| 1 | [Google](https://en.wikipedia.org/wiki/Google)| Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include [online advertising technologies](https://en.wikipedia.org/wiki/Online_advertising), a [search engine](https://en.wikipedia.org/wiki/Search_engine), [cloud computing](https://en.wikipedia.org/wiki/Cloud_computing), software, and hardware.|
+| 2 | PII | TODO |
+| 2 | TL;DR | TODO |
+
 # Content
 ## Critiear
 I published 6 puvlicateion on different sites before right this one
@@ -175,10 +182,3 @@ publish first the post you will refer to and then more global post. So first wil
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 | 1 | Your ccomplete guide to writing for hacker noon | [web](https://help.hackernoon.com/your-complete-guide-to-writing-for-hacker-noon) | | | | 
-
-# Definitions, Acronyms, Abbreviations
-| # | Abbreviation or Acronym | Definition     |
-| - | ------------------------|:--------------:|
-| 1 | [Google](https://en.wikipedia.org/wiki/Google)| Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include [online advertising technologies](https://en.wikipedia.org/wiki/Online_advertising), a [search engine](https://en.wikipedia.org/wiki/Search_engine), [cloud computing](https://en.wikipedia.org/wiki/Cloud_computing), software, and hardware.|
-| 2 | PII | TODO |
-| 2 | TL;DR | TODO |
