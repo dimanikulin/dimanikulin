@@ -13,6 +13,14 @@ Overall, the article offers a helpful overview for those interested in learning 
 # Tags
 Multimedia, Multimedia Information Retrieval, Media Formats, Search Engines
 
+# Definitions, Acronyms, Abbreviations
+| # | Abbreviation or Acronym | Definition     |
+| - | ------------------------|:--------------:|
+| 1 | [CBIR](https://en.wikipedia.org/wiki/Content-based_image_retrieval)|Content-based image retrieval, also known as query by image content ([QBIC](https://en.wikipedia.org/wiki/Content-based_image_retrieval#QBIC)) and content-based visual information retrieval (CBVIR), is the application of [computer vision](https://en.wikipedia.org/wiki/Computer_vision) techniques to the [image retrieval](https://en.wikipedia.org/wiki/Image_retrieval) problem, that is, the problem of searching for [digital images](https://en.wikipedia.org/wiki/Digital_image) in large [databases](https://en.wikipedia.org/wiki/Database) (see this survey for a recent scientific overview of the CBIR field). |
+| 2 | [Google](https://en.wikipedia.org/wiki/Google)| Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include [online advertising technologies](https://en.wikipedia.org/wiki/Online_advertising), a [search engine](https://en.wikipedia.org/wiki/Search_engine), [cloud computing](https://en.wikipedia.org/wiki/Cloud_computing), software, and hardware.|
+| 3 | [Multimedia data](https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-39940-9_1008)| Multimedia in principle means data of more than one medium. It usually refers to data representing multiple types of medium to capture information and experiences related to objects and events. Commonly used forms of data are numbers, alphanumeric, text, images, audio, and video. In common usage, people refer a data set as multimedia only when time-dependent data such as audio and video are involved.|
+| 4 | Multimedia IR| Multimedia Information Retrieval (MIR) is an organic system made up of Text Retrieval (TR); Visual Retrieval (VR); Video Retrieval (VDR); and Audio Retrieval (AR) systems. So that each type of digital document may be analyzed and searched by the elements of language appropriate to its nature, search criteria must be extended.|
+
 # Content
 We currently live in a digital age when finding information is incredibly simple with just one click due to the development of the Internet. 
 We are now able to conduct information searches from any place.
@@ -73,11 +81,3 @@ Statistics shows that numerous resources, including photos, videos and other con
 | 7 | Content Based Multimedia Information Retrieval To Support Digital Libraries | Magazine |  2012.07.18 | Mohammad Nabil Almunawar |  |
 | 8 | Content Analysis with Apache Tika |[Web](https://www.baeldung.com/apache-tika) | August 14, 2019 | Nguyen Nam Thai       |  |
 | 9 | The Massive Growth in Unstructured Data |[Web](https://www.researchgate.net/figure/The-Massive-Growth-in-Unstructured-Data-Source-IDC-The-Digital-Universe-Dec-2012_fig1_322058724)| Dec. 2012 |IDC The Digital Universe | |
-
-# Definitions, Acronyms, Abbreviations
-| # | Abbreviation or Acronym | Definition     |
-| - | ------------------------|:--------------:|
-| 1 | [CBIR](https://en.wikipedia.org/wiki/Content-based_image_retrieval)|Content-based image retrieval, also known as query by image content ([QBIC](https://en.wikipedia.org/wiki/Content-based_image_retrieval#QBIC)) and content-based visual information retrieval (CBVIR), is the application of [computer vision](https://en.wikipedia.org/wiki/Computer_vision) techniques to the [image retrieval](https://en.wikipedia.org/wiki/Image_retrieval) problem, that is, the problem of searching for [digital images](https://en.wikipedia.org/wiki/Digital_image) in large [databases](https://en.wikipedia.org/wiki/Database) (see this survey for a recent scientific overview of the CBIR field). |
-| 2 | [Google](https://en.wikipedia.org/wiki/Google)| Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include [online advertising technologies](https://en.wikipedia.org/wiki/Online_advertising), a [search engine](https://en.wikipedia.org/wiki/Search_engine), [cloud computing](https://en.wikipedia.org/wiki/Cloud_computing), software, and hardware.|
-| 3 | [Multimedia data](https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-39940-9_1008)| Multimedia in principle means data of more than one medium. It usually refers to data representing multiple types of medium to capture information and experiences related to objects and events. Commonly used forms of data are numbers, alphanumeric, text, images, audio, and video. In common usage, people refer a data set as multimedia only when time-dependent data such as audio and video are involved.|
-| 4 | Multimedia IR| Multimedia Information Retrieval (MIR) is an organic system made up of Text Retrieval (TR); Visual Retrieval (VR); Video Retrieval (VDR); and Audio Retrieval (AR) systems. So that each type of digital document may be analyzed and searched by the elements of language appropriate to its nature, search criteria must be extended.|
