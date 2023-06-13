@@ -7,6 +7,12 @@ TBD
 # Tags
 IT 
 
+# Definitions, Acronyms, Abbreviations
+| # | Abbreviation or Acronym | Definition     |
+| - | ------------------------|:--------------:|
+| 1 | CV | TBD
+| 2 | Scrum | TBD |
+
 # Content
 
 ## Just joined a project with Scrum
@@ -60,9 +66,3 @@ experience softwaredevelopment estimation
 | 2 |Software Complexity|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_activity-6934186023509741568-9mZu?utm_source=share&utm_medium=member_desktop)| April, 2022 | Dmytro Nikulin||
 | 3 |Which title describes better a real job?|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_itconsulting-itcompany-cv-activity-7000719821558411264-1dHl?utm_source=share&utm_medium=member_desktop)| November, 2022 | Dmytro Nikulin||
 | 4 |What do you usually do to provide accurate estimations?|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_experience-softwaredevelopment-estimation-activity-7069560555165876224-_Af3?utm_source=share&utm_medium=member_desktop)| 30 May, 2023 | Dmytro Nikulin| |
-
-# Definitions, Acronyms, Abbreviations
-| # | Abbreviation or Acronym | Definition     |
-| - | ------------------------|:--------------:|
-| 1 | CV | TBD
-| 2 | Scrum | TBD |

@@ -11,6 +11,15 @@ The author also discusses their journey of creating their own multimedia organiz
 # Tags
 Multimedia data, Photo album, Multimedia information retrieval (IR) systems, Multimedia organizer, Metadata
 
+# Definitions, Acronyms, Abbreviations
+| # | Abbreviation or Acronym | Definition     |
+| - | ------------------------|:--------------:|
+| 1 | [Synology Moments](https://www.synology.com/en-global/dsm/feature/moments)|It gathers all your photos and videos in one private place and organize them in an entirely new way. Synology Moments is the brand-new photo solution for personal and home use, offering a modern browsing experience with the image recognition technique. |
+| 2 | [metadata](https://en.wikipedia.org/wiki/Metadata)|Metadata is "data that provides [information](https://en.wikipedia.org/wiki/Information) about other data". In other words, it is "data about data." Many distinct types of metadata exist, including descriptive metadata, structural metadata, administrative metadata, reference metadata and statistical metadata. |
+| 3 | Multimedia IR| Multimedia Information Retrieval (MIR) is an organic system made up of Text Retrieval (TR); Visual Retrieval (VR); Video Retrieval (VDR); and Audio Retrieval (AR) systems. So that each type of digital document may be analyzed and searched by the elements of language appropriate to its nature, search criteria must be extended.|
+| 4 | [Multimedia data](https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-39940-9_1008)| Multimedia in principle means data of more than one medium. It usually refers to data representing multiple types of medium to capture information and experiences related to objects and events. Commonly used forms of data are numbers, alphanumeric, text, images, audio, and video. In common usage, people refer a data set as multimedia only when time-dependent data such as audio and video are involved.|
+| 5 | [digiKam](https://www.digikam.org/about/)|digiKam is an advanced open-source digital photo management application that runs on Linux, Windows, and MacOS. The application provides a comprehensive set of tools for importing, managing, editing, and sharing photos and raw files. |
+
 # Content
 As a child, I used to flip through a family photo album to see my relatives whom I had not seen in real life.
 At that time we had film cameras only, so the number of photos was not so large.
@@ -54,12 +63,3 @@ Honestly, I didn't expect that it would be so hard and in the meantime so intere
 | 7 | Image organizer      |[Web](https://en.wikipedia.org/wiki/Image_organizer)|                        | Wikipedia      | |
 | 8 | Best Photo Management Software to Organize Digital Photos in 2022 |[Web](https://wethegeek.com/best-photo-management-software-organize-photos/)| 2021-12-17 | Mansi Vijay ||
 | 9 | Photo organizer |[Web](https://github.com/topics/photo-organizer)| | GitHub ||
-
-# Definitions, Acronyms, Abbreviations
-| # | Abbreviation or Acronym | Definition     |
-| - | ------------------------|:--------------:|
-| 1 | [Synology Moments](https://www.synology.com/en-global/dsm/feature/moments)|It gathers all your photos and videos in one private place and organize them in an entirely new way. Synology Moments is the brand-new photo solution for personal and home use, offering a modern browsing experience with the image recognition technique. |
-| 2 | [metadata](https://en.wikipedia.org/wiki/Metadata)|Metadata is "data that provides [information](https://en.wikipedia.org/wiki/Information) about other data". In other words, it is "data about data." Many distinct types of metadata exist, including descriptive metadata, structural metadata, administrative metadata, reference metadata and statistical metadata. |
-| 3 | Multimedia IR| Multimedia Information Retrieval (MIR) is an organic system made up of Text Retrieval (TR); Visual Retrieval (VR); Video Retrieval (VDR); and Audio Retrieval (AR) systems. So that each type of digital document may be analyzed and searched by the elements of language appropriate to its nature, search criteria must be extended.|
-| 4 | [Multimedia data](https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-39940-9_1008)| Multimedia in principle means data of more than one medium. It usually refers to data representing multiple types of medium to capture information and experiences related to objects and events. Commonly used forms of data are numbers, alphanumeric, text, images, audio, and video. In common usage, people refer a data set as multimedia only when time-dependent data such as audio and video are involved.|
-| 5 | [digiKam](https://www.digikam.org/about/)|digiKam is an advanced open-source digital photo management application that runs on Linux, Windows, and MacOS. The application provides a comprehensive set of tools for importing, managing, editing, and sharing photos and raw files. |
