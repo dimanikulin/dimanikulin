@@ -20,7 +20,6 @@ DOU ChatGPT Humor
 
 
 # References
-TBD
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 | 1 | 100+ ChatGPT Prompts for Software Developers | [DOU](https://dou.ua/forums/topic/43131/?from=tg&utm_source=telegram&utm_medium=social) | 20 April, 2023 | DOU | |
