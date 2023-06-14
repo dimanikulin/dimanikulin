@@ -19,7 +19,9 @@ Regular scan is supported by integration Bionic.ai into CI/CD pipeline.
 When it detects the change, it also suggests the context and analyzes the impact the changes might cause.
 As the output, it creates software architecture diagrams with deployment, logical and flow views.
 
-<img src="./Images/TBD.jpg" alt="TBD" />
+<img src="./DAGExistingSolution.png" alt="DAGExistingSolution" />
+
+
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
