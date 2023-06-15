@@ -31,9 +31,15 @@ As the output, it creates software architecture diagrams with deployment, logica
 
 <img src="./DAGExistingSolutions1.png" alt="DAGExistingSolution" />
 
+## Castsoftware Highlight 
+[Cast Highlight](https://www.castsoftware.com/products/highlight) is an application to automatically analyze the source code.
 
+### Main features
+- It analyzes the code to define what process/applications can be refactored, retired, rebuild; 
+- Based on analysis it can provide a percent of readiness to migrate to the cloud.
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 https://www.bionic.ai/
+https://www.castsoftware.com/products/highlight
