@@ -38,6 +38,18 @@ As the output, it creates software architecture diagrams with deployment, logica
 - It analyzes the code to define what process/applications can be refactored, retired, rebuild; 
 - Based on analysis it can provide a percent of readiness to migrate to the cloud.
 
+## Castsoftware Cast Imaging 
+Cast Imaging application creates visualization of architecture with several different levels of detailsation from services level up to code/classes level. It defines the flows of data from high level (application level) up to the database. When changes occur, it provides the impact of changes for example, the list of components affected by breaking of components communication. It creates the inventories of 
+- databases;
+- libraries/frameworks;
+- languages.
+
+### Main features
+- It performs reverse engineering of code, databases, and dependencies of applications;
+- It performs the creation of holistic architecture views and blueprints;
+- Its architecture view has interactive mode;
+- It has a tagging feature to group components by criteria. Once tagging is finished, the user can search the components and filter them.
+
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
