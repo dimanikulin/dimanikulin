@@ -39,7 +39,7 @@ As the output, it creates software architecture diagrams with deployment, logica
 - Based on analysis it can provide a percent of readiness to migrate to the cloud.
 
 ## Castsoftware Cast Imaging 
-Cast Imaging application creates visualization of architecture with several different levels of detailsation from services level up to code/classes level. It defines the flows of data from high level (application level) up to the database. When changes occur, it provides the impact of changes for example, the list of components affected by breaking of components communication. It creates the inventories of 
+[Cast Imaging](https://www.castsoftware.com/imaging) application creates visualization of architecture with several different levels of detailsation from services level up to code/classes level. It defines the flows of data from high level (application level) up to the database. When changes occur, it provides the impact of changes for example, the list of components affected by breaking of components communication. It creates the inventories of 
 - databases;
 - libraries/frameworks;
 - languages.
@@ -55,3 +55,4 @@ Cast Imaging application creates visualization of architecture with several diff
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 https://www.bionic.ai/
 https://www.castsoftware.com/products/highlight
+https://www.castsoftware.com/imaging
