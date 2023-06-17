@@ -98,7 +98,9 @@ It supports following metrics:
 |Detection Architecture level issues(new data flow, new API, new connection)|+|+|-|+|
 |Detection Compliance level issues|+|-|+|-|
 |Detection DevOps level issues|-|-|-|-|
-
+|Detection Data level issues|-|-|-|-|
+|Scanning code and configuration|+|+|+|+|
+|Scanning documentation (UML) to get input|-|-|+|-|
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
