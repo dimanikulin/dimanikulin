@@ -60,6 +60,8 @@ It gives the possibility to manage the dependencies by creating the graphs and m
 - It can be easily plugged into the CI/CD process to find the code and architecture problem in real time;
 - When it finds an issue, it provides the cost of fix and its priority.
 
+<img src="./DAGExistingSolutions2.png" alt="DAGExistingSolution2" />
+
 ## Axivion
 [Axivion](https://www.axivion.com/en/) Suite is the static code analysis tool that provides you with the ability to check software architecture to prevent drifts or erosions. It provides customizable reporting with a reporting API. With Axivion you have an editor to create the rules for checking or to customize the default rules
 
