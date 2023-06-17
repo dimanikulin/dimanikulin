@@ -90,6 +90,12 @@ It supports following metrics:
 | Function | Bionic | Cast Imaging and Highlight | Axivion  | NDepend               |
 | -------- | -------|--------------------------- |--------- |:---------------------:|
 |The initial scan to create baseline (holistic application architecture diagram of all services, data flows, dependencies, and APIs, technology stack, application layers)|+|+|+|+|
+|To create the inventories (all the languages, frameworks, libraries, and databases used in the application)|-|+|+|-|
+|The scan after a change to detect drift or erosion (integration into CI/CD pipelines)|+|-|+|+|
+|Tagging the components|-|+|-|-|
+|Reporting the changes (behavioral or structural change)|+|+|+|+|
+|Detection Security level issues|+|+|+|+|
+
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
