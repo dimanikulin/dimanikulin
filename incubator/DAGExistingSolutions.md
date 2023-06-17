@@ -60,6 +60,30 @@ It gives the possibility to manage the dependencies by creating the graphs and m
 - It can be easily plugged into the CI/CD process to find the code and architecture problem in real time;
 - When it finds an issue, it provides the cost of fix and its priority.
 
+## Axivion
+[Axivion](https://www.axivion.com/en/) Suite is the static code analysis tool that provides you with the ability to check software architecture to prevent drifts or erosions. It provides customizable reporting with a reporting API. With Axivion you have an editor to create the rules for checking or to customize the default rules
+
+It supports the checking for the next compliance standards/rules:
+- MISRA;
+- AUTOSAR C++14 code;
+- CERT;
+- CWE;
+- ISO/IEC TS 17961.
+
+It supports following metrics: 
+- HIS; 
+- McCabe;
+- Tracking memory leaks.
+
+### Main features
+- Code checks for clones, unreachable code and cycles;
+- three main OS are supported to run on - MacOS, Windows and Linux;
+- identification for technical debt;
+- Integration with CI tools to work as a part of pipeline (Jenkins and Bamboo are supported);
+- make, CMake, Msbuild and gradle are supported;
+- analysis of delta to continuously track the changes against baseline;
+- it supports some IDE plugins to integrate Axivion into a developer environment. 
+
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
@@ -67,3 +91,4 @@ https://www.bionic.ai/
 https://www.castsoftware.com/products/highlight
 https://www.castsoftware.com/imaging
 https://www.workshell.co.uk/products/netdepends/
+https://www.axivion.com/en/
