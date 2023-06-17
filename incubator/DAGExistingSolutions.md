@@ -50,9 +50,20 @@ As the output, it creates software architecture diagrams with deployment, logica
 - Its architecture view has interactive mode;
 - It has a tagging feature to group components by criteria. Once tagging is finished, the user can search the components and filter them.
 
+## NDepend
+[NDepend] is application to analyze C# code to check against best practices and to check the code based on rules created by developers and architects.
+It gives the possibility to manage the dependencies by creating the graphs and matrix.
+
+### Main features
+- A user can use built-in rules and can customize the rules;
+- it provides a way to investigate how an application is structured and linked with libraries; 
+- It can be easily plugged into the CI/CD process to find the code and architecture problem in real time;
+- When it finds an issue, it provides the cost of fix and its priority.
+
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 https://www.bionic.ai/
 https://www.castsoftware.com/products/highlight
 https://www.castsoftware.com/imaging
+https://www.workshell.co.uk/products/netdepends/
