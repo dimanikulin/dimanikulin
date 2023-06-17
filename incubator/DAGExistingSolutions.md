@@ -95,6 +95,9 @@ It supports following metrics:
 |Tagging the components|-|+|-|-|
 |Reporting the changes (behavioral or structural change)|+|+|+|+|
 |Detection Security level issues|+|+|+|+|
+|Detection Architecture level issues(new data flow, new API, new connection)|+|+|-|+|
+|Detection Compliance level issues|+|-|+|-|
+|Detection DevOps level issues|-|-|-|-|
 
 
 # References
