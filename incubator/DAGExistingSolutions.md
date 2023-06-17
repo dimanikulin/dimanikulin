@@ -86,6 +86,11 @@ It supports following metrics:
 - analysis of delta to continuously track the changes against baseline;
 - it supports some IDE plugins to integrate Axivion into a developer environment. 
 
+## Comparison of existing solutions
+| Function | Bionic | Cast Imaging and Highlight | Axivion  | NDepend               |
+| -------- | -------|--------------------------- |--------- |:---------------------:|
+|The initial scan to create baseline (holistic application architecture diagram of all services, data flows, dependencies, and APIs, technology stack, application layers)|+|+|+|+|
+
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
