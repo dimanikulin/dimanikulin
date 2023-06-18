@@ -24,7 +24,7 @@ To get access to code, configuration and DB the interactions with the Version Co
 
 Finally, Report Storage is used to save the outputs extracted from Architecture under analysis. 
 
-<img src="./Images/DAGProposedSolution1.png" alt="DAGProposedSolution.png" />
+<img src="DAGProposedSolution1.png" alt="DAGProposedSolution.png" />
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
