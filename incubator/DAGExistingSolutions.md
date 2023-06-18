@@ -107,6 +107,8 @@ It supports following metrics:
 |Simple to set up|+|+|+|+|
 |Check for cloud Readiness|-|+|-|-|
 
+As we can see from the table above the existing solutions do not provide coverage for levels important for architecture governments like DevOps, Data, Compliance one etc.
+Also not all inputs are supported by the overviewed solutions, for example scanning DB is not supported by Bionic.ai and scanning UML documentation is not supported at all. 
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
