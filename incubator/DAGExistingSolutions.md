@@ -101,6 +101,11 @@ It supports following metrics:
 |Detection Data level issues|-|-|-|-|
 |Scanning code and configuration|+|+|+|+|
 |Scanning documentation (UML) to get input|-|-|+|-|
+|Scanning DB|-|+|-|+|
+|Saving the results to UML documentation tools|-|-|-|-|
+|Impact analysis|+|+|-|+|
+
+
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
