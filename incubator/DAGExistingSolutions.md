@@ -104,7 +104,8 @@ It supports following metrics:
 |Scanning DB|-|+|-|+|
 |Saving the results to UML documentation tools|-|-|-|-|
 |Impact analysis|+|+|-|+|
-
+|Simple to set up|+|+|+|+|
+|Check for cloud Readiness|-|+|-|-|
 
 
 # References
