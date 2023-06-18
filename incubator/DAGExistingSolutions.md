@@ -113,8 +113,8 @@ Also not all inputs are supported by the overviewed solutions, for example scann
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
-https://www.bionic.ai/
-https://www.castsoftware.com/products/highlight
-https://www.castsoftware.com/imaging
-https://www.workshell.co.uk/products/netdepends/
-https://www.axivion.com/en/
+| 1 | Bionic | [Web](https://www.bionic.ai/) | | | |
+| 2 | Castsoftware highlight | [Web](https://www.castsoftware.com/products/highlight) | | | |
+| 3 | Castsoftware Image | [Web](https://www.castsoftware.com/imaging) | | | |
+| 4 | Netdepends | [Web](https://www.workshell.co.uk/products/netdepends/) | | | |
+| 5 | Axivion | [Web](https://www.axivion.com/en/) | | | |
