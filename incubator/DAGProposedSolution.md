@@ -26,6 +26,13 @@ Finally, Report Storage is used to save the outputs extracted from Architecture 
 
 <img src="DAGProposedSolution1.png" alt="DAGProposedSolution.png" />
 
+## Context view for separate step in CI/CD
+
+The only difference between previous view and Context View for Separate step in CI/CD is integration of the proposed solution with existing CI/CD pipeline.
+
+<img src="DAGProposedSolution2.png" alt="DAGProposedSolution.png" />
+
+
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
