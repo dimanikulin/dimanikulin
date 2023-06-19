@@ -49,10 +49,10 @@ What I usually do is multiply my estimations by 2-3, but even that approach does
 I have rarely come across a developer who is consistently good at estimating.
 
 So what do you usually do to provide accurate estimations?
-- Break tasks into smaller parts **100%**
-- Use historical data **0%**
-- Involve the team **0%**
-- Regularly review and learn **0%**
+- Break tasks into smaller parts **56%**
+- Use historical data **10%**
+- Involve the team **16%**
+- Regularly review and learn **18%**
 
 Please share your opinions in the comments.
 
