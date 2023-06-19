@@ -61,7 +61,7 @@ experience softwaredevelopment estimation
 
 ## C++ death
 
-Do you have any programming language that was predicted to die a long time ago but is still going strong?
+Do you have any programming language/technology that were predicted to die a long time ago but are still going strong?
 
 For me, it's C++. I started using it more than 20 years ago, and after a while (2-3 years), there were predictions that C++ would die soon due to the emergence of new languages and technologies.
 
@@ -74,7 +74,8 @@ So, when was the first time you heard that your language/technology X would die?
 - 5 years ago
 - never heard
 
-Please share in the comments your language/technology that had to die but it did not happen.
+Please share in the comments your programming language/technology that was predicted to die but didn't.
+
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
