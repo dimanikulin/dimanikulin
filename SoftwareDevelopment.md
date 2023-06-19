@@ -76,6 +76,8 @@ So, when was the first time you heard that your language/technology X would die?
 
 Please share in the comments your programming language/technology that was predicted to die but didn't.
 
+### Tags
+programminglanguage technologytrends cpplus prediction
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
