@@ -1,7 +1,6 @@
 нужно ли учить скрам заранее
 I don't jump from job to job just for salary
 С++ and guessing is on opposite sides
-C++ death
 
 chees and glukoza, have glukoza and you win
 выиргрывать то выигрывать макс, если проиграть то только одну, две что понять что не случайно была первая
