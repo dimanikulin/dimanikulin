@@ -37,6 +37,8 @@ The only difference between previous view and Context View for Separate step in 
 A functional diagram below shows the high-level function decomposition of the proposed solution.
 An agenda below explains the coloring for functional decomposition diagram.
 
+<img src="DAGProposedSolution3.png" alt="DAGProposedSolution.png" />
+
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
