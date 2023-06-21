@@ -101,6 +101,12 @@ In addition, proposed solution shall be integrated with such online UML designin
 - PlantUML;
 - Gliffy.com.
 
+### Integration with offline UML design tools
+Because offline tools do not have an API to work with, the cooperation with them is implemented using import mechanisms. 
+So input architecture documents saved in Microsoft Visio format will be exported by a plugin (integration point) and analyzed then by the Processor.
+The path for scanning input documents is saved in System Configuration DB.
+So parsing the different input formats shall be implemented to support this kind of integration.
+
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
