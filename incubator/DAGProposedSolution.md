@@ -84,9 +84,9 @@ User interface component is represented as a web service.
 Processor and ML are native processes built for the target platform.
 Reports plugins and integration points shall be represented as dynamic libraries that can be easily added, removed and configured at run time.
 
+## Deployment view - Cloud
 <img src="DAGProposedSolution5.png" alt="DAGProposedSolution.png" />
-
-On premise, deployment assumes two computing nodes for installation.
+Cloud deployment assumes two computing nodes for installation.
 Because the Machine Learning process can utilize the CPU time a lot, it is suggested to have a separate machine for Machine Learning process for cloud pipeline.
 
 ## Integration with UML design tools
