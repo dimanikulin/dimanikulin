@@ -50,6 +50,10 @@ Following are the components:
 - CI/CD integration point - component to integrate CI/CD tools (like Jenkins, Bamboo) with Processor;
 - The Reports plugins - an engine to generate reports in a flexible way and to save them on external report storage.
 
+### User Interface
+The user interface function interacts with the user in two modes: architects and administrator mode. 
+It is based on a web interface that supports desktop browsers. 
+
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
