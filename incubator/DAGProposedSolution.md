@@ -39,6 +39,17 @@ An agenda below explains the coloring for functional decomposition diagram.
 
 <img src="DAGProposedSolution3.png" alt="DAGProposedSolution.png" />
 
+### Integration layer
+The integration layer function is to abstract and segregate the system from external components to improve the system extensibility and modifiability.
+
+Following are the components:
+- Online UML tools integration point - component to integrate Online UML tools with Processor;
+- Offline  UML tools integration point - component to integrate Offline UML tools with Processor;
+- VSC integration point - component to integrate Version Control Systems with Processor;
+- Databases integration point - component to integrate databases configuration with Processor;
+- CI/CD integration point - component to integrate CI/CD tools (like Jenkins, Bamboo) with Processor;
+- The Reports plugins - an engine to generate reports in a flexible way and to save them on external report storage.
+
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
