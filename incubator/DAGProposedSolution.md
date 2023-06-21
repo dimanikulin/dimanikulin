@@ -73,6 +73,8 @@ The deployment schemes show how a solution shall be deployed with its flows and 
 
 ## Deployment view - on premise
 
+<img src="DAGProposedSolution4.png" alt="DAGProposedSolution.png" />
+
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
