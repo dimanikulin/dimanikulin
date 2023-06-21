@@ -60,6 +60,13 @@ The data layer function keeps following types of data:
 - System configuration - it is a set of check configurations for processing, it also keeps track of reports plugins configuration, available for a change from the architects panel;
 - User configuration - user profiles and access rights, available for a change from administrator panel.
 
+### Processing layer
+The processing layer is a core function of systems to process the input to find architecture problems. 
+It is configured from the architect panel to run the checks against input. 
+It interacts with the reports plugins engine to store the reports. 
+It also saves the extracted architecture to Architecture baselines so the architects can review it later. 
+To improve the quality of reports, Machine Learning (ML) during processing might be used. ML and its interaction is described in this document later.  
+
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
