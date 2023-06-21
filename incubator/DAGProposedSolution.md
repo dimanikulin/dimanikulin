@@ -89,6 +89,18 @@ Reports plugins and integration points shall be represented as dynamic libraries
 On premise, deployment assumes two computing nodes for installation.
 Because the Machine Learning process can utilize the CPU time a lot, it is suggested to have a separate machine for Machine Learning process for cloud pipeline.
 
+## Integration with UML design tools
+As it was described earlier, proposed solution shall be integrated with such offline UML designing tools like:
+- Microsoft Visio;
+- OmniGraffle;
+
+In addition, proposed solution shall be integrated with such online UML designing tools like:
+- Enterprise Architecture;
+- LucidChart;
+- Draw.IO;
+- PlantUML;
+- Gliffy.com.
+
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
