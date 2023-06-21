@@ -54,6 +54,11 @@ Following are the components:
 The user interface function interacts with the user in two modes: architects and administrator mode. 
 It is based on a web interface that supports desktop browsers. 
 
+### Data layer
+The data layer function keeps following types of data:
+- Architecture baselines - it is a history of Architecture changes so users can see at any time which Architecture change took place, available for a view from the architects panel;
+- System configuration - it is a set of check configurations for processing, it also keeps track of reports plugins configuration, available for a change from the architects panel;
+- User configuration - user profiles and access rights, available for a change from administrator panel.
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
