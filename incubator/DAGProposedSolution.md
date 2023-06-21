@@ -67,6 +67,12 @@ It interacts with the reports plugins engine to store the reports.
 It also saves the extracted architecture to Architecture baselines so the architects can review it later. 
 To improve the quality of reports, Machine Learning (ML) during processing might be used. ML and its interaction is described in this document later.  
 
+## Deployment view
+
+The deployment schemes show how a solution shall be deployed with its flows and supporting components.
+
+## Deployment view - on premise
+
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
