@@ -101,11 +101,21 @@ In addition, proposed solution shall be integrated with such online UML designin
 - PlantUML;
 - Gliffy.com.
 
+<img src="DAGProposedSolution6.png" alt="DAGProposedSolution.png" />
+
 ### Integration with offline UML design tools
 Because offline tools do not have an API to work with, the cooperation with them is implemented using import mechanisms. 
 So input architecture documents saved in Microsoft Visio format will be exported by a plugin (integration point) and analyzed then by the Processor.
 The path for scanning input documents is saved in System Configuration DB.
 So parsing the different input formats shall be implemented to support this kind of integration.
+
+### Integration with online UML design tools
+
+Online UML design tools usually have an API to work with and the cooperation with them shall use that API. Still some UML design tools might not have API for integration. In such cases, the import of architecture docs to some folder shall take place. Then parsing those documents is implemented to import data to the Processor, so in the same way as described earlier for offline tools.
+For online UML design tools, usually HTTP or REST API is available. In this case, the integration point shall access the data in the UML design tool using HTTP or REST API. For each integration with such one tool shall have a separate integration point. 
+For example, the integration with LucidChart shall be implemented using HTTP protocol with GET and POST verbs. 
+For Enterprise Architect the integration shall be implemented using rest API and JSON as data format.
+
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
