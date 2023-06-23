@@ -129,6 +129,13 @@ For example for AWS it can be:
 - Machine Learning - Machine Learning;
 - and etc.
 
+## Dependency analyzing tool
+The dependency identification is an important function used during architecture analysis. 
+It breaks down the whole code on the pieces to define the components and interaction between them. 
+Because such functions are already implemented in tools like JDeps it makes sense to use their output to support proposed solution implementation. 
+JDeps is the command line tool to launch the Java class dependency analyzer. 
+For .Net framework, Net Dependency Walker can be used to identify dependency. 
+
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
