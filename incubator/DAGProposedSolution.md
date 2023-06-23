@@ -116,6 +116,18 @@ For online UML design tools, usually HTTP or REST API is available. In this case
 For example, the integration with LucidChart shall be implemented using HTTP protocol with GET and POST verbs. 
 For Enterprise Architect the integration shall be implemented using rest API and JSON as data format.
 
+## Integration with AWS or Azure
+This section describes how a proposed solution can be integrated with AWS, Azure or GCP.
+Because Machine Learning can improve the quality of results, it makes sense to use a separate compute node for ML.
+Still on premise environment can fail to support ML calculation.
+In such cases, the *silver bullet* can be using Cloud Environment for ML computation and whole computation as well.
+Based on deployment flows described earlier each component shall be presented with appropriate cloud provider service. 
+For example for AWS it can be:
+
+- Processor - AWS Lambda functions;
+- Database  - RDS and MySQL services;
+- Machine Learning - Machine Learning;
+- and etc.
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
