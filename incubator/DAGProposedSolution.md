@@ -136,6 +136,12 @@ Because such functions are already implemented in tools like JDeps it makes sens
 JDeps is the command line tool to launch the Java class dependency analyzer. 
 For .Net framework, Net Dependency Walker can be used to identify dependency. 
 
+## Integration with Jenkins or Bamboo
+As it was mentioned earlier, the one mode of application is a step in CI/CD pipeline. 
+CI/CD is a complex/composite process, which consists of multiple steps. 
+There is a lot of functionality within a single CI/CD pipeline.
+
+
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
