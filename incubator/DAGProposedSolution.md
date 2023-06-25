@@ -141,6 +141,7 @@ As it was mentioned earlier, the one mode of application is a step in CI/CD pipe
 CI/CD is a complex/composite process, which consists of multiple steps. 
 There is a lot of functionality within a single CI/CD pipeline.
 
+<img src="DAGProposedSolution7.png" alt="DAGProposedSolution.png" />
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
