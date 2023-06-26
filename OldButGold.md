@@ -36,6 +36,26 @@ I have seen that a lot.
 
 <img src="./Images/BSOD.jpg" alt="BSOD.jpg" />
 
+## First Mobile Phone
+This is my first mobile phone.
+
+It had no:
+- color screen
+- music
+- internet connection
+- touchable screen
+- multimedia support
+- camera
+- extendable memory
+
+Do you think I was not happy with it? - Nope!
+
+Please share what your first mobile phone was.
+Were you happy with it?
+
+<img src="./Images/firstMobilePhone.jpg" alt="firstMobilePhone" />
+
+
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
