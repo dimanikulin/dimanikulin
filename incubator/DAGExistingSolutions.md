@@ -8,7 +8,10 @@ TBD
 TBD
 
 # Definitions, Acronyms, Abbreviations
-TBD
+| # | Abbreviation or Acronym | Definition     |
+| - | ------------------------|:--------------:|
+| 1 | API                     |is a computing interface to a software component or a system, that defines how other components or systems can use it. It defines the kinds of calls or requests that can be made, how to make them, the data formats that should be used, the conventions to follow, etc                |
+
 
 # Content
 ## Bionic.ai
