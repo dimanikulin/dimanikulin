@@ -62,4 +62,4 @@ Were you happy with it?
 | 1 | Windows 95           |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_oldschool-old-activity-7048925594268352512-c-4G?utm_source=share&utm_medium=member_desktop) | 2023, April| Dmytro Nikulin||
 | 2 | Miranda NG           |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_old-activity-7016323085142224896-OyzK?utm_source=share&utm_medium=member_desktop) | 2023, January| Dmytro Nikulin||
 | 3 | BSoD                 |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_oldschool-oldtech-activity-7066684307964125184-hZG4?utm_source=share&utm_medium=member_desktop)| 2023, May 25 | Dmytro Nikulin||
-| 3 | First Mobile Phone   |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_oldisgold-oldschool-first-activity-7078993334840569858-vZp0?utm_source=share&utm_medium=member_desktop| 2023, June 26 | Dmytro Nikulin||
+| 3 | First Mobile Phone   |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_oldisgold-oldschool-first-activity-7078993334840569858-vZp0?utm_source=share&utm_medium=member_desktop)| 2023, June 26 | Dmytro Nikulin||
