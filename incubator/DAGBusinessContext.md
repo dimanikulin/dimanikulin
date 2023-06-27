@@ -28,7 +28,13 @@ The description for change shall be provided with impact analysis so the user ca
 For any drift, there should be a possibility to save the document keeping the description of drifts or erosion to help it analyze later.
 Widely used CI/CD tools like Jenkins, Bamboo, etc. have to be easily integrated with proposed solutions.
 
-### Solution modes
+### Solution inputs 
+The inputs for the proposed solution can be: 
+- any code from the solution under review;
+- any configuration from the solution under review;
+- software design from UML designing tools;
+- Database scripts and database configuration.
+
 
 <img src="./Images/TBD.jpg" alt="TBD" />
 
