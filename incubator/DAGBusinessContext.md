@@ -65,6 +65,36 @@ The administrators shall be able to configure the system for intended use.
 The architects shall be able to run the proposed solution for analysis and to review the analysis results.
 The dashboards can be available to show metrics and software architecture status like: components count, dependencies list etc.
 
+### Solution output
+There are two formats of output: the text (plain text or table) one and graphic one.
+
+The table format is used to provide a user with 
+- a level of issue, 
+- the issue priority, 
+- the issue description itself 
+- and the suggested way to fix the issue.
+
+In addition, it shall list
+- all dependencies (frameworks, libraries);
+- APIs, 
+- databases, 
+- technology stack (languages) 
+- and application layers into separate documents. 
+
+It shall be possible to request the inventories of the 
+- languages, 
+- frameworks, 
+- libraries, 
+and databases used in the application at any time.
+
+The graphic format is used to show the software architecture in the form of 
+- holistic application architecture, 
+- diagram of all services, 
+- data flows etc. 
+
+Offline and Online UML diagramming tools are used to save extracted Software Architecture.
+Using graphic format users shall be able to tag any component, an item from inventory by any user-defined key words.
+
 
 <img src="./Images/TBD.jpg" alt="TBD" />
 
