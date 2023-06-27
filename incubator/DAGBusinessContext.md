@@ -103,7 +103,6 @@ An example of text output might be following
 |11 | Code | High | Technology standards changed - the developers started using the library or programming language that is out of scope.| To replace that library with allowed one |
 |12 | Code | Low | A microservice accesses local FS and provides access to internal data | To add an abstraction level to decrease the level of dependency on internal data |
 
-
 The graphic format is used to show the software architecture in the form of 
 - holistic application architecture, 
 - diagram of all services, 
@@ -118,6 +117,12 @@ An example of graphic output might be following
 
 In the picture above four services and one database are defined in the software architecture.
 From the output you can see the relationship between them and the direction of communication.
+
+### Modifiability and extendibility
+Because there is no limitation on the solution, scope defined above the solution itself shall be extensible enough to support adding new features such a new check or even a new level.
+Because there might not be good software practices used on a project the default set of checks shall be used to verify target architecture. In case of established architecture governance, a proposed solution user shall be provided a possibility for extension of the set of checks.
+Because there are multiple Static Code tools like Coverity, SonarQube, etc. there is no sense to implement low-level checks like checking indentation, formatting etc.
+
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
