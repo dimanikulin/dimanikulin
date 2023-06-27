@@ -116,6 +116,9 @@ An example of graphic output might be following
 
 <img src="./DAGBusinessContext.png" alt="TBD" />
 
+In the picture above four services and one database are defined in the software architecture.
+From the output you can see the relationship between them and the direction of communication.
+
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
