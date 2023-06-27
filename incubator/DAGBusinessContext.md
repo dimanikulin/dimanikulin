@@ -35,6 +35,27 @@ The inputs for the proposed solution can be:
 - software design from UML designing tools;
 - Database scripts and database configuration.
 
+### Solution integration 
+Based on required inputs the proposed solution can be integrated with offline UML designing tools like:
+- OmniGraffle;
+- Microsoft Visio.
+
+In addition, proposed solution can be integrated with such online UML designing tools like:
+- Enterprise Architect;
+- LucidChart;
+- Draw.IO;
+- PlantUML;
+- Gliffy.com.
+
+To have access to code and configuration the proposed solution can be integrated with source control management system like:
+- SVN;
+- Git.
+
+In this way, the proposed solution user shall understand the more input is provided the more efficient automatic review will be performed.
+As an example of the input code could be the code written in C# using microservices architecture. The other example could be the code written in JavaScript for multi-tier applications. 
+The example of configuration might be the description of nodes used in deployment. Another example could be the configuration of VPN network and API gateways.
+The example of input software design can be description of interfaces saved in Enterprise Architect.
+
 
 <img src="./Images/TBD.jpg" alt="TBD" />
 
