@@ -52,15 +52,17 @@ To have access to code and configuration the proposed solution can be integrated
 - Git.
 
 In this way, the proposed solution user shall understand the more input is provided the more efficient automatic review will be performed.
-As an example of the input code could be the code written in C# using microservices architecture. The other example could be the code written in JavaScript for multi-tier applications. 
-The example of configuration might be the description of nodes used in deployment. Another example could be the configuration of VPN network and API gateways.
+As an example of the input code could be the code written in C# using microservices architecture. 
+The other example could be the code written in JavaScript for multi-tier applications. 
+The example of configuration might be the description of nodes used in deployment.
+Another example could be the configuration of VPN network and API gateways.
 The example of input software design can be description of interfaces saved in Enterprise Architect.
 
 ### User interaction
 The user can interact with the solution using a web interface from a desktop computer. No mobile device (like smartphones or tablets) is intended because the low screen size of mobile devices is not suitable for the content the proposed solution is going to provide. 
 Two types of user shall be supported: administrators and architects. 
 The administrators shall be able to configure the system for intended use.
-The architects shall be able to run the proposed solution for analysis and to review the analysis results.  
+The architects shall be able to run the proposed solution for analysis and to review the analysis results.
 The dashboards can be available to show metrics and software architecture status like: components count, dependencies list etc.
 
 
