@@ -94,6 +94,10 @@ An example of text output might be following
 | 2 | DevOps |	High |	Endpoints configuration are not correct basing of their meta description |To fix configuration |
 | 3 | Architecture| High | Communication in between microservices does not meet initially predefined communication | To update initially documented communication or to fix current communication |
 | 4 | Architecture| Medium | BackEnd For FrontEnd services are directly integrated with domain Data Access/data stores engines | To add an abstraction level to decrease the level of dependency on domain Data Access/Data stores engines |
+| 5 | Architecture| Low | BackEnd For FrontEnd and Domain services are mixed | To move domain logic out of BackEnd For FrontEnd services|
+| 6 | Architecture| Medium | Domain services are aware of client (browsers, devices)|	To move awareness of client away from domain services|
+| 7 | Architecture| Medium | Domain services are stateful | To move state management away from domain services|
+| 8 | DevOps| Medium | The code does not use the selected cloud model | To check Cloud Model being used|
 
 
 The graphic format is used to show the software architecture in the form of 
