@@ -112,8 +112,9 @@ The graphic format is used to show the software architecture in the form of
 Offline and Online UML diagramming tools are used to save extracted Software Architecture.
 Using graphic format users shall be able to tag any component, an item from inventory by any user-defined key words.
 
+An example of graphic output might be following
 
-<img src="./Images/TBD.jpg" alt="TBD" />
+<img src="./DAGBusinessContext.png" alt="TBD" />
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
