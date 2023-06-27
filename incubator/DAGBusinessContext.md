@@ -124,6 +124,16 @@ Because there might not be good software practices used on a project the default
 In case of established architecture governance, a proposed solution user shall be provided a possibility for extension of the set of checks.
 Because there are multiple Static Code tools like Coverity, SonarQube, etc. there is no sense to implement low-level checks like checking indentation, formatting etc.
 
+### Configurability
+The following configuration items can be supported:
+- Solution mode (available for configuration at deployment stage);
+- A path to read the architecture documents from offline UML design tools;
+- An address of online UML design tool API to read and write the architecture documents;
+- Source control management system configuration;
+- The addresses of databases for observation the data layer;
+- The integration with CI/CD tools like Jenkins or Bamboo;
+- The report plugins configuration (format, storage etc)
+
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
