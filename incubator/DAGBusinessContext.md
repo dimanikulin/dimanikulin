@@ -98,6 +98,10 @@ An example of text output might be following
 | 6 | Architecture| Medium | Domain services are aware of client (browsers, devices)|	To move awareness of client away from domain services|
 | 7 | Architecture| Medium | Domain services are stateful | To move state management away from domain services|
 | 8 | DevOps| Medium | The code does not use the selected cloud model | To check Cloud Model being used|
+|9  | DevOps | Medium | The architecture of solution uses the Cloud services it was not expected to use | To check Cloud Services being used |
+|10 | DevOps | Medium | A microservice became strictly depending on an environment | To make that service be deployable on any environment |
+|11 | Code | High | Technology standards changed - the developers started using the library or programming language that is out of scope.| To replace that library with allowed one |
+|12 | Code | Low | A microservice accesses local FS and provides access to internal data | To add an abstraction level to decrease the level of dependency on internal data |
 
 
 The graphic format is used to show the software architecture in the form of 
