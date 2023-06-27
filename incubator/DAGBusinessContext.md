@@ -120,9 +120,9 @@ From the output you can see the relationship between them and the direction of c
 
 ### Modifiability and extendibility
 Because there is no limitation on the solution, scope defined above the solution itself shall be extensible enough to support adding new features such a new check or even a new level.
-Because there might not be good software practices used on a project the default set of checks shall be used to verify target architecture. In case of established architecture governance, a proposed solution user shall be provided a possibility for extension of the set of checks.
+Because there might not be good software practices used on a project the default set of checks shall be used to verify target architecture.
+In case of established architecture governance, a proposed solution user shall be provided a possibility for extension of the set of checks.
 Because there are multiple Static Code tools like Coverity, SonarQube, etc. there is no sense to implement low-level checks like checking indentation, formatting etc.
-
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
