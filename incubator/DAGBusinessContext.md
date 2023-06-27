@@ -87,6 +87,11 @@ It shall be possible to request the inventories of the
 - libraries, 
 and databases used in the application at any time.
 
+An example of text output might be following
+| # | Level                | Priority              | Issue                  | Suggestion   |
+| - | ---------------------|---------------------- |----------------------- |:-------------:|
+| 1 | Architecture | Medium | BackEnd For FrontEnd services are directly integrated with third party services (external services) | To add an abstraction level to decrease the level of dependency on third parties |
+
 The graphic format is used to show the software architecture in the form of 
 - holistic application architecture, 
 - diagram of all services, 
