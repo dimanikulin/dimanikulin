@@ -14,11 +14,26 @@ TBD
 ## Executive summary
 In the modern software world, the rapidly changing environment requires the software architecture to be changeable fast as well.
 Everything connected to the software as business and product requirements, architectural requirements might evolve to succeed in the high-tech world. 
+
 Therefore, a software architecture as a product technical basement should evolve fast and be for the changes. 
+
 Although the readiness for changes is a key point for a product to succeed, the uncontrolled architecture drifts and erosions may lead a product to fail even when it is already in a production state and has been successful for a while.
+
 For example, the architecture drift can lead to lose the initially expected extensibility and new customers can fail to use a product in case the number of users increases.
 Such drifts might be identified during architecture reviews. Usually, the process of architecture reviews is quite a complex process and takes much time to assess the software architecture because it requires experienced architects and this process is almost manual. 
+
 In addition, because it is manual almost it might be intended as not so efficient and many architectural issues might not be discovered due to the influence of human factors.
+
+## Detecting Architectural Gaps with Automation
+Please read this paper before going to the next chapters. 
+
+You'll learn:
+
+- What architecture drift and erosion are, and how they impact the business.
+- How dependency analysis, peer reviews, and other manual inspections work.
+- Why even though they catch issues not prevented through the application of best practice good architecture governance, manual reviews are not the ideal solution.
+- Specific considerations to keep in mind around compliance, data security, DevOps, and more when evaluating architecture review solutions.
+- What automating architecture checks may look like in a series of example use case scenarios.
  
 ## Solution requirements
 This section describes the requirements to implement the solution. 
