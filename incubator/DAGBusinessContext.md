@@ -25,7 +25,7 @@ Such drifts might be identified during architecture reviews. Usually, the proces
 In addition, because it is manual almost it might be intended as not so efficient and many architectural issues might not be discovered due to the influence of human factors.
 
 ## Detecting Architectural Gaps with Automation
-Please read this paper before going to the next chapters. 
+Please read [this paper](https://www.globallogic.com/insights/white-papers/detecting-architectural-gaps-with-automation/) before going to the next chapters. 
 
 You'll learn:
 
