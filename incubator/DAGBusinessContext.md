@@ -11,6 +11,15 @@ TBD
 TBD
 
 # Content
+## Executive summary
+In the modern software world, the rapidly changing environment requires the software architecture to be changeable fast as well.
+Everything connected to the software as business and product requirements, architectural requirements might evolve to succeed in the high-tech world. 
+Therefore, a software architecture as a product technical basement should evolve fast and be for the changes. 
+Although the readiness for changes is a key point for a product to succeed, the uncontrolled architecture drifts and erosions may lead a product to fail even when it is already in a production state and has been successful for a while.
+For example, the architecture drift can lead to lose the initially expected extensibility and new customers can fail to use a product in case the number of users increases.
+Such drifts might be identified during architecture reviews. Usually, the process of architecture reviews is quite a complex process and takes much time to assess the software architecture because it requires experienced architects and this process is almost manual. 
+In addition, because it is manual almost it might be intended as not so efficient and many architectural issues might not be discovered due to the influence of human factors.
+ 
 ## Solution requirements
 This section describes the requirements to implement the solution. 
 This set of requirements are not limited and might be extended based on real project needs.
