@@ -11,7 +11,11 @@ TBD
 | # | Abbreviation or Acronym | Definition     |
 | - | ------------------------|:--------------:|
 | 1 | API                     |is a computing interface to a software component or a system, that defines how other components or systems can use it. It defines the kinds of calls or requests that can be made, how to make them, the data formats that should be used, the conventions to follow, etc                |
-
+Bamboo	Bamboo is a continuous integration and deployment tool that ties automated builds, tests and releases together in a single workflow.
+Bamboo	Bamboo is a continuous integration and deployment tool that ties automated builds, tests and releases together in a single workflow.
+C#	C# is a general-purpose, multi-paradigm programming language. C# encompasses static typing, strong typing, lexically scoped, imperative, declarative, functional, generic, object-oriented, and component-oriented programming disciplines.
+CDN	A content delivery network (CDN) refers to a geographically distributed group of servers that work together to provide fast delivery of Internet content.
+CI/CD	CI/CD or CICD is the combined practices of continuous integration and continuous delivery or continuous deployment.
 
 # Content
 ## Context view for standalone application
