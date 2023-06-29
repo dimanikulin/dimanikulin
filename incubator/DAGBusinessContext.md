@@ -9,6 +9,13 @@ TBD
 
 # Definitions, Acronyms, Abbreviations
 TBD
+API	API is the acronym for Application Programming Interface, which is a software intermediary that allows two applications to talk to each other.
+API gateways	An API gateway is an API management tool that sits between a client and a collection of backend services. An API gateway acts as a reverse proxy to accept all application programming interface (API) calls, aggregate the various services required to fulfill them, and return the appropriate result.
+Architecture Governance		Architecture governance is an approach, a series of processes, a cultural orientation, and set of owned responsibilities that ensure the integrity and effectiveness of the organization's architectures.
+CI/CD	CI/CD or CICD is the combined practices of continuous integration and continuous delivery or continuous deployment.
+Cloud Model	There are three major cloud service models: software as a service (SaaS), infrastructure as a service (IaaS) and platform as a service (PaaS). Cloud service pricing models are categorized into pay per use, subscription-based and hybrid, which is a combination of pay-per-use and subscription pricing models.
+Cloud Services	The term "cloud services" refers to a wide range of services delivered on demand to companies and customers over the internet. These services are designed to provide easy, affordable access to applications and resources, without the need for internal infrastructure or hardware.
+Cluster 	A computer cluster is a set of computers that work together so that they can be viewed as a single system. Unlike grid computers, computer clusters have each node set to perform the same task, controlled and scheduled by software.
 
 # Content
 ## Executive summary
