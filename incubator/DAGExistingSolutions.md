@@ -11,6 +11,14 @@ TBD
 | # | Abbreviation or Acronym | Definition     |
 | - | ------------------------|:--------------:|
 | 1 | API                     |is a computing interface to a software component or a system, that defines how other components or systems can use it. It defines the kinds of calls or requests that can be made, how to make them, the data formats that should be used, the conventions to follow, etc                |
+AUTOSAR 	AUTomotive Open System ARchitecture is a development partnership of automotive interested parties founded in 2003. It pursues the objective to create and establish an open and standardized software architecture for automotive electronic control units
+Bamboo	Bamboo is a continuous integration and deployment tool that ties automated builds, tests and releases together in a single workflow.
+Big Data	is data that contains greater variety, arriving in increasing volumes and with more velocity. This is also known as the three Vs. Put simply, big data is larger, more complex data sets, especially from new data sources.
+C#	C# is a general-purpose, multi-paradigm programming language. C# encompasses static typing, strong typing, lexically scoped, imperative, declarative, functional, generic, object-oriented, and component-oriented programming disciplines.
+Bamboo	Bamboo is a continuous integration and deployment tool that ties automated builds, tests and releases together in a single workflow.
+C#	C# is a general-purpose, multi-paradigm programming language. C# encompasses static typing, strong typing, lexically scoped, imperative, declarative, functional, generic, object-oriented, and component-oriented programming disciplines.
+CDN	A content delivery network (CDN) refers to a geographically distributed group of servers that work together to provide fast delivery of Internet content.
+CI/CD	CI/CD or CICD is the combined practices of continuous integration and continuous delivery or continuous deployment.
 
 
 # Content
