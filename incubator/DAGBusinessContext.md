@@ -189,10 +189,8 @@ The following configuration items can be supported:
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
-| | Architectural drift analysis using architecture reflexion viewpoint and design structure reflexion matrices | [web](https://www.researchgate.net/publication/301257152_Architectural_drift_analysis_using_architecture_reflexion_viewpoint_and_design_structure_reflexion_matrices)
-2 Drift and Erosion in Software Architecture: Summary and Prevention Strategies - https://www.researchgate.net/publication/339385701_Drift_and_Erosion_in_Software_Architecture_Summary_and_Prevention_Strategies
-
-3 DISCUSSION: Architectural drift & erosion violations https://uw.cs.cs446.narkive.com/nRvtbr2q/discussion-architectural-drift-erosion-violations
-
-4 Differentiate software architectural erosion and architectural drift? https://www.ques10.com/p/13271/differentiate-software-architectural-erosion-and-1/
+| 1 | Architectural drift analysis using architecture reflexion viewpoint and design structure reflexion matrices | [web](https://www.researchgate.net/publication/301257152_Architectural_drift_analysis_using_architecture_reflexion_viewpoint_and_design_structure_reflexion_matrices)| | | |
+| 2 | Drift and Erosion in Software Architecture: Summary and Prevention Strategies                               | [web](https://www.researchgate.net/publication/339385701_Drift_and_Erosion_in_Software_Architecture_Summary_and_Prevention_Strategies)| | | |
+| 3 | DISCUSSION: Architectural drift & erosion violations                                                        | [web](https://uw.cs.cs446.narkive.com/nRvtbr2q/discussion-architectural-drift-erosion-violations)| | | |
+| 4 | Differentiate software architectural erosion and architectural drift?                                       | [web](https://www.ques10.com/p/13271/differentiate-software-architectural-erosion-and-1/)| | | |
  
