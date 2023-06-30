@@ -173,12 +173,9 @@ In this case, extended pipeline will look like the second pipeline on the pictur
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
-5 Why data drift detection is important and how do you automate it in 5 simple steps https://towardsdatascience.com/why-data-drift-detection-is-important-and-how-do-you-automate-it-in-5-simple-steps-96d611095d93
-
-6 https://aws.amazon.com/blogs/architecture/detecting-data-drift-using-amazon-sagemaker/ Detecting data drift using Amazon SageMaker
-
-7 Manipulate the Visio file format programmatically https://learn.microsoft.com/en-us/office/client-developer/visio/how-to-manipulate-the-visio-file-format-programmatically
-
-8 Enterprise Architect API https://sparxsystems.com/resources/user-guides/15.1/automation/automation.pdf
-
-9 Java class dependency analyzer https://docs.oracle.com/javase/9/tools/jdeps.htm#JSWOR690
+| 1 | Why data drift detection is important and how do you automate it in 5 simple steps | [web](https://towardsdatascience.com/why-data-drift-detection-is-important-and-how-do-you-automate-it-in-5-simple-steps-96d611095d93)
+| 2 | Detecting data drift using Amazon SageMaker | [web](https://aws.amazon.com/blogs/architecture/detecting-data-drift-using-amazon-sagemaker/)
+| 3 | Manipulate the Visio file format programmatically | [web](https://learn.microsoft.com/en-us/office/client-developer/visio/how-to-manipulate-the-visio-file-format-programmatically)
+| 4 | Enterprise Architect API | [web](https://sparxsystems.com/resources/user-guides/15.1/automation/automation.pdf)
+| 5 | Java class dependency analyzer | [web](https://docs.oracle.com/javase/9/tools/jdeps.htm#JSWOR690)
+ 
