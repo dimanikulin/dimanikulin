@@ -8,7 +8,10 @@ TBD
 TBD
 
 # Definitions, Acronyms, Abbreviations
-TBD
+| # | Abbreviation or Acronym | Definition     |
+| - | ------------------------|:--------------:|
+| 1 | API                     | |
+
 API	API is the acronym for Application Programming Interface, which is a software intermediary that allows two applications to talk to each other.
 API gateways	An API gateway is an API management tool that sits between a client and a collection of backend services. An API gateway acts as a reverse proxy to accept all application programming interface (API) calls, aggregate the various services required to fulfill them, and return the appropriate result.
 Architecture Governance		Architecture governance is an approach, a series of processes, a cultural orientation, and set of owned responsibilities that ensure the integrity and effectiveness of the organization's architectures.
