@@ -1,11 +1,11 @@
 # Headline
-TBD
+Информационная война или зачем нужен телеграмм?
 
 # Article description
 TBD 
 
 # Tags
-TBD
+TelegramChannels InformationManipulation DiscreditingTactics Ukraine
 
 # Content
 
