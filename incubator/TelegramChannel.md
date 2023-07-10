@@ -7,9 +7,6 @@ TBD
 # Tags
 TBD
 
-# Definitions, Acronyms, Abbreviations
-TBD
-
 # Content
 
 ## Навіщо все це?
