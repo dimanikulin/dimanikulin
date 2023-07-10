@@ -5,7 +5,7 @@ TBD
 TBD 
 
 # Tags
-TBD
+TelegramChannels InformationManipulation DiscreditingTactics Ukraine
 
 # Content
 
