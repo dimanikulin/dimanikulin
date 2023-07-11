@@ -120,6 +120,10 @@ TelegramChannels InformationManipulation DiscreditingTactics Ukraine
 
 Слава Україні!
 
+TBD
+ Is there bold text used for key word?
+- is there italic used for conversation?
+-
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
