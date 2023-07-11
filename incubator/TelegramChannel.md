@@ -13,7 +13,7 @@ TelegramChannels InformationManipulation DiscreditingTactics Ukraine
 # Content
 
 ## Навіщо все це?
-Відповідь на питання про необхідність всього цього добре описана в книзі "Мистецтво війни" Сунь Цзи.
+Відповідь на питання про необхідність всього цього добре описана в книзі **Мистецтво війни** *Сунь Цзи*.
 
 По суті, ворог, що сумнівається в собі, є слабшим ворогом.
 Щоб змусити ворога сумніватися і приймати нераціональні рішення, можна використовувати інформаційно-психологічні операції (ІПСО), тобто впливати на інформаційне поле.
@@ -123,10 +123,6 @@ TelegramChannels InformationManipulation DiscreditingTactics Ukraine
 
 Слава Україні!
 
-TBD
- Is there bold text used for key word?
-- is there italic used for conversation?
--
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
