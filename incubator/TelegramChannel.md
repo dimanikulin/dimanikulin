@@ -123,6 +123,7 @@ TelegramChannels InformationManipulation DiscreditingTactics Ukraine
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
-
+| 1 | StopRussiaChannel    |[Telegram](https://t.me/+EbXZHBfHXbszY2I6) | | | |
+| 1 | Оч. сложные вопросы  |[Telegram](https://t.me/questions4russians) | | Dmytro Nikulin | |
 
 
