@@ -23,3 +23,4 @@ Now, I'm curious to know what you do to employ a similar approach?
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
+| 1 | Playing chess        |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_worklifebalance-workload-relax-activity-7084787080802836480-jGcU?utm_source=share&utm_medium=member_desktop) | July 12, 2023 | Dmytro Nikulin | |
