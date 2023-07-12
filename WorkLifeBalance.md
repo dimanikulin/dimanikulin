@@ -6,6 +6,8 @@ TBD
 
 # Content
 
+<img src="./Images/chess.jpg" alt="chess" />
+
 ### Tags
 
 
