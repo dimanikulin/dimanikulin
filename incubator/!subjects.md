@@ -2,7 +2,6 @@
 I don't jump from job to job just for salary
 С++ and guessing is on opposite sides
 
-chees and glukoza, have glukoza and you win
 выиргрывать то выигрывать макс, если проиграть то только одну, две что понять что не случайно была первая
 
 People are created to make mistakes but great people can learn from mistakes. 
