@@ -83,10 +83,10 @@
 | [verysexydasha](https://t.me/verysexydasha)        | 
 | [vitteli](https://t.me/vitteli)              | 
 | [voytenkos](https://t.me/voytenkos)            | 
-| [](https://t.me/vv_volodin)           | 
-| [](https://t.me/war_ukr_russ)         | 
-| [](https://t.me/warhistoryalconafter) | 
-| [](https://t.me/xaknet_team)          | 
-| [](https://t.me/xoxol_uk)             | 
-| [](https://t.me/zhurnalistka_z)       | 
-| [](https://t.me/ZSU_Hunter_2_0)       | 
+| [vv_volodin](https://t.me/vv_volodin)           | 
+| [war_ukr_russ](https://t.me/war_ukr_russ)         | 
+| [warhistoryalconafter](https://t.me/warhistoryalconafter) | 
+| [xaknet_team](https://t.me/xaknet_team)          | 
+| [xoxol_uk](https://t.me/xoxol_uk)             | 
+| [zhurnalistka_z](https://t.me/zhurnalistka_z)       | 
+| [SU_Hunter_2_0](https://t.me/ZSU_Hunter_2_0)       | 
