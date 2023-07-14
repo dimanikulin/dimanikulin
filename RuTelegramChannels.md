@@ -1,9 +1,9 @@
 | Link                 | Name                  | Description            |
 | ---------------------|---------------------- |:----------------------:|
-| [](https://t.me/+TjGTywz1xPRjNzg6)    | 
-| [](https://t.me/a_kuzichev)           | 
-| [](https://t.me/a_nesmijan_longread)  | 
-| [](https://t.me/absatzmedia)          | 
+| [+TjGTywz1xPRjNzg6](https://t.me/+TjGTywz1xPRjNzg6)    | 
+| [a_kuzichev](https://t.me/a_kuzichev)           | 
+| [a_nesmijan_longread](https://t.me/a_nesmijan_longread)  | 
+| [absatzmedia](https://t.me/absatzmedia)          | 
 | [](https://t.me/Ags_Donbass)          | 
 | [](https://t.me/alexeypoddubny_jango) | 
 | [](https://t.me/alyonamakk)           | 
