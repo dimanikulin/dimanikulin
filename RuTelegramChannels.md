@@ -1,5 +1,5 @@
-| Link                 | Status                  | Description            |
-| ---------------------|---------------------- |:----------------------:|
+| Link                                               | Status                | Description            |
+| ---------------------------------------------------|---------------------- |:----------------------:|
 | [+TjGTywz1xPRjNzg6](https://t.me/+TjGTywz1xPRjNzg6)| 
 | [a_kuzichev](https://t.me/a_kuzichev)              | 
 | [a_nesmijan_longread](https://t.me/a_nesmijan_longread)| 
