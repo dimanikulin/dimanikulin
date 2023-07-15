@@ -1,4 +1,4 @@
-| Link                 | Name                  | Description            |
+| Link                 | Status                  | Description            |
 | ---------------------|---------------------- |:----------------------:|
 | [+TjGTywz1xPRjNzg6](https://t.me/+TjGTywz1xPRjNzg6)| 
 | [a_kuzichev](https://t.me/a_kuzichev)              | 
