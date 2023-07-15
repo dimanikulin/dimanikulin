@@ -42,6 +42,7 @@
 | [krasnovdmitri](https://t.me/krasnovdmitri)        | 
 | [kuzichev_chat](https://t.me/kuzichev_chat)        | 
 | [labppsh](https://t.me/labppsh)                    | 
+| [longread2023](https://t.me/longread2023)          |
 | [LIC_LPR](https://t.me/LIC_LPR)                    | 
 | [m0sc0wcalling](https://t.me/m0sc0wcalling)        |
 | [moscowmap](https://t.me/moscowmap)                |
