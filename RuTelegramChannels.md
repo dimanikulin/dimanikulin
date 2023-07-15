@@ -43,7 +43,8 @@
 | [kuzichev_chat](https://t.me/kuzichev_chat)        | 
 | [labppsh](https://t.me/labppsh)                    | 
 | [LIC_LPR](https://t.me/LIC_LPR)                    | 
-| [m0sc0wcalling](https://t.me/m0sc0wcalling)        | 
+| [m0sc0wcalling](https://t.me/m0sc0wcalling)        |
+| [moscowmap](https://t.me/moscowmap)                |
 | [mariabutina](https://t.me/mariabutina)            | 
 | [Marinaslovo](https://t.me/Marinaslovo)            | 
 | [matanaliz_kofman](https://t.me/matanaliz_kofman)  | 
@@ -57,7 +58,8 @@
 | [nemeZ1da_ru](https://t.me/nemeZ1da_ru)            | 
 | [NeSocSeti](https://t.me/NeSocSeti)                | 
 | [nos_chanel](https://t.me/nos_chanel)              | 
-| [OlesyaShigina](https://t.me/OlesyaShigina)        | 
+| [OlesyaShigina](https://t.me/OlesyaShigina)        |
+| [only_rodina](https://t.me/only_rodina)            |
 | [olgaseletskaya](https://t.me/olgaseletskaya)      | 
 | [Opalennye_vojnoj](https://t.me/Opalennye_vojnoj)  | 
 | [opdnrinfo](https://t.me/opdnrinfo)                | 
