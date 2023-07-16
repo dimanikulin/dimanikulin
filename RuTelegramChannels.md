@@ -2,7 +2,7 @@
 | ---------------------------------------------------|---------------------- |:----------------------:|
 | [Бладсикер 2.0](https://t.me/+TjGTywz1xPRjNzg6)    | Blocked for DN | |
 | [Кузичев](https://t.me/a_kuzichev)                 | Blocked for DN | |
-| [a_nesmijan_longread](https://t.me/a_nesmijan_longread)| 
+| [Лонгрид (Несмиян)](https://t.me/a_nesmijan_longread)| 
 | [absatzmedia](https://t.me/absatzmedia)            | 
 | [Ags_Donbass](https://t.me/Ags_Donbass)            | 
 | [alexeypoddubny_jango](https://t.me/alexeypoddubny_jango)| 
