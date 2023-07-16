@@ -45,7 +45,7 @@
 | [longread2023](https://t.me/longread2023)          |
 | [LIC_LPR](https://t.me/LIC_LPR)                    | 
 | [m0sc0wcalling](https://t.me/m0sc0wcalling)        |
-| [moscowmap](https://t.me/moscowmap)                |
+| [moscowmap](https://t.me/moscowmap)                | | AntiPutin content |
 | [mariabutina](https://t.me/mariabutina)            | 
 | [Marinaslovo](https://t.me/Marinaslovo)            | 
 | [matanaliz_kofman](https://t.me/matanaliz_kofman)  | 
