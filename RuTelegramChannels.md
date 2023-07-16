@@ -1,7 +1,7 @@
 | Link                                               | Status                | Description            |
 | ---------------------------------------------------|---------------------- |:----------------------:|
 | [Бладсикер 2.0](https://t.me/+TjGTywz1xPRjNzg6)    | Blocked for DN | |
-| [a_kuzichev](https://t.me/a_kuzichev)              | 
+| [Кузичев](https://t.me/a_kuzichev)                 | Blocked for DN | |
 | [a_nesmijan_longread](https://t.me/a_nesmijan_longread)| 
 | [absatzmedia](https://t.me/absatzmedia)            | 
 | [Ags_Donbass](https://t.me/Ags_Donbass)            | 
