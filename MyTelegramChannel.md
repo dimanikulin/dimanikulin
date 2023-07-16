@@ -158,3 +158,4 @@ TelegramChannels InformationManipulation DiscreditingTactics Ukraine
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 | 1 | StopRussiaChannel    |[Telegram](https://t.me/+EbXZHBfHXbszY2I6) | | | |
 | 2 | Оч. сложные вопросы  |[Telegram](https://t.me/questions4russians) | | Dmytro Nikulin | |
+| 3 | Список российских телеграм каналов | [github](./RuTelegramChannels.md) | | Dmytro Nikulin | |
