@@ -1,6 +1,6 @@
 | Link                                               | Status                | Description            |
 | ---------------------------------------------------|---------------------- |:----------------------:|
-| [+TjGTywz1xPRjNzg6](https://t.me/+TjGTywz1xPRjNzg6)| 
+| [Бладсикер 2.0](https://t.me/+TjGTywz1xPRjNzg6)| 
 | [a_kuzichev](https://t.me/a_kuzichev)              | 
 | [a_nesmijan_longread](https://t.me/a_nesmijan_longread)| 
 | [absatzmedia](https://t.me/absatzmedia)            | 
