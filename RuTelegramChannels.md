@@ -16,7 +16,7 @@
 | [breege_time_20zz](https://t.me/breege_time_20zz)  | 
 | [brekotins](https://t.me/brekotins)                | 
 | [chub_detection](https://t.me/chub_detection)      | 
-| [crazypower1](https://t.me/crazypower1)            | 
+| [crazypower1](https://t.me/crazypower1)            | | AntiPutin content |
 | [Crimeanprachka](https://t.me/Crimeanprachka)      | 
 | [crystal_book](https://t.me/crystal_book)          | 
 | [dep_shishkina](https://t.me/dep_shishkina)        | 
@@ -42,7 +42,7 @@
 | [krasnovdmitri](https://t.me/krasnovdmitri)        | 
 | [kuzichev_chat](https://t.me/kuzichev_chat)        | 
 | [labppsh](https://t.me/labppsh)                    | 
-| [longread2023](https://t.me/longread2023)          |
+| [longread2023](https://t.me/longread2023)          | Closed comments for everyone | |
 | [LIC_LPR](https://t.me/LIC_LPR)                    | 
 | [m0sc0wcalling](https://t.me/m0sc0wcalling)        |
 | [moscowmap](https://t.me/moscowmap)                | | AntiPutin content |
