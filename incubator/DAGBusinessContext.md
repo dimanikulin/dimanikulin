@@ -79,10 +79,9 @@ You will gain insights into the following:
 By reading this paper, you will develop a deeper understanding of architecture drift and erosion, the limitations of manual reviews, the benefits of automation, and important considerations when evaluating architecture review solutions.
  
 ## Solution requirements
-This section describes the requirements to implement the solution. 
-This set of requirements are not limited and might be extended based on real project needs.
-First, it starts from description of the solution modes and inputs, and then it switches to the solution integration and user interaction. 
-After it describes the solution output with such quality attributes like modifiability, extendibility and configurability.
+This section outlines the requirements for implementing the solution.
+It is important to note that these requirements are not exhaustive and can be extended based on the specific needs of the project.
+The requirements are categorized into solution modes and inputs, solution integration and user interaction, and solution output with quality attributes like modifiability, extendibility, and configurability.
 
 ### Solution modes
 The following modes shall be supported to run the solution:
