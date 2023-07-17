@@ -84,15 +84,21 @@ It is important to note that these requirements are not exhaustive and can be ex
 The requirements are categorized into solution modes and inputs, solution integration and user interaction, and solution output with quality attributes like modifiability, extendibility, and configurability.
 
 ### Solution modes
-The following modes shall be supported to run the solution:
-- Standalone application: because the solution is required to be executed on demand it should be possible to run as a usual application without any dependencies on the target environment;
-- Separate step in CI/CD pipeline: Because the regular assessment of architecture might be required, it should be possible to run it as integrated into CI/CD pipeline step.
+The proposed solution should support the following modes:
 
-In the scope of CI/CD, there should be a possibility to set initial architecture as referenced one and any deviations from it should be reported as drifts. 
-Once the drift is detected, there should be an option to approve or decline the changes with comments. 
-The description for change shall be provided with impact analysis so the user can acknowledge the cost of change.
-For any drift, there should be a possibility to save the document keeping the description of drifts or erosion to help it analyze later.
-Widely used CI/CD tools like Jenkins, Bamboo, etc. have to be easily integrated with proposed solutions.
+Standalone application: The solution should be designed to run as a standalone application, allowing it to be executed on demand without any dependencies on the target environment. This mode provides flexibility for manual execution of the solution.
+
+Integration with CI/CD pipeline: The solution should have the capability to integrate seamlessly into a CI/CD pipeline as a separate step. This mode enables regular assessment of the architecture within the automated pipeline.
+
+In the context of the CI/CD mode, the following features should be supported:
+
+Initial architecture reference: The solution should allow setting an initial architecture as a reference point. Any deviations from this reference architecture should be identified as architecture drifts.
+
+Drift reporting and approval process: When a drift is detected, the solution should provide an option to approve or decline the changes with comments. The description of the change should include an impact analysis, allowing the user to understand the cost associated with the proposed change.
+
+Documenting drifts and erosion: The solution should provide the ability to save the documentation that describes drifts or erosions. This documentation can be useful for future analysis and reference. It should be easily accessible for review and analysis purposes.
+
+Integration with popular CI/CD tools: The solution should be easily integrated with widely used CI/CD tools such as Jenkins, Bamboo, etc. This ensures compatibility and seamless integration into existing CI/CD workflows.
 
 ### Solution inputs 
 The inputs for the proposed solution can be: 
