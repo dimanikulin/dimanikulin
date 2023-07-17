@@ -73,7 +73,8 @@
 | [rosich_admin](https://t.me/rosich_admin)          | 
 | [rsotmdivision](https://t.me/rsotmdivision)        | 
 | [russiaz](https://t.me/russiaz)                    | 
-| [sergeyvostrecov](https://t.me/sergeyvostrecov)    | 
+| [sergeyvostrecov](https://t.me/sergeyvostrecov)    |
+| [СОЛДАТ УДАЧИ](https://t.me/Soldieroffortune777)   | Blocked for DN | | 
 | [sharikovtime](https://t.me/sharikovtime)          | 
 | [smershmsk](https://t.me/smershmsk)                | 
 | [spainrus](https://t.me/spainrus)                  | 
