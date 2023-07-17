@@ -2,7 +2,11 @@
 TBD
 
 # Article description
-TBD 
+This text discusses the implementation of a solution for detecting architectural gaps and drifts in software systems.
+It highlights the importance of maintaining a changeable software architecture in the rapidly evolving tech world.
+The paper explores the limitations of manual architecture reviews and proposes automated alternatives to improve efficiency and outcomes.
+The solution requirements include different modes of execution, inputs from code and configuration, integration with UML design tools and source control systems, user interaction through a web interface, and various output formats for issue reporting and graphic visualization of the architecture.
+The solution aims to enhance modifiability, extendibility, and configurability, allowing for flexibility in adapting to project needs. 
 
 # Tags
 TBD
