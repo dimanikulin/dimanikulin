@@ -65,15 +65,18 @@ The paper also provides use case scenarios to illustrate what automated architec
 By adopting automated architecture review solutions, organizations can improve their ability to identify and address architectural gaps, ensuring the stability, scalability, and maintainability of their software systems.
 
 ## Detecting Architectural Gaps with Automation
-Please read [this paper](https://www.globallogic.com/insights/white-papers/detecting-architectural-gaps-with-automation/) before going to the next chapters. 
 
-You'll learn:
+Please read [this paper](https://www.globallogic.com/insights/white-papers/detecting-architectural-gaps-with-automation/) before proceeding to the next chapters.
 
-- What architecture drift and erosion are, and how they impact the business.
-- How dependency analysis, peer reviews, and other manual inspections work.
-- Why even though they catch issues not prevented through the application of best practice good architecture governance, manual reviews are not the ideal solution.
-- Specific considerations to keep in mind around compliance, data security, DevOps, and more when evaluating architecture review solutions.
-- What automating architecture checks may look like in a series of example use case scenarios.
+You will gain insights into the following:
+
+- Understanding architecture drift and erosion: Learn what architecture drift and erosion are and how they can impact the business. Gain an understanding of the risks and challenges associated with uncontrolled architectural changes.
+- Manual inspections and their limitations: Explore the role of dependency analysis, peer reviews, and other manual inspections in detecting architectural issues. Understand why manual reviews, while important, may not be the ideal solution due to their limitations.
+- The need for automated architecture review: Discover the benefits of automating architecture checks and how they can complement manual reviews. Learn how automation can provide more efficient and comprehensive detection of architectural gaps.
+- Considerations for evaluating architecture review solutions: Explore specific considerations to keep in mind when evaluating architecture review solutions. Topics covered include compliance, data security, DevOps integration, and more.
+- Use case scenarios: Gain insights into what automating architecture checks may look like through a series of example use case scenarios. Understand how automation can be applied in practical situations to enhance architecture review processes.
+
+By reading this paper, you will develop a deeper understanding of architecture drift and erosion, the limitations of manual reviews, the benefits of automation, and important considerations when evaluating architecture review solutions.
  
 ## Solution requirements
 This section describes the requirements to implement the solution. 
