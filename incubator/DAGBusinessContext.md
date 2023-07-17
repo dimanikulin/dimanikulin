@@ -9,7 +9,7 @@ The solution requirements include different modes of execution, inputs from code
 The solution aims to enhance modifiability, extendibility, and configurability, allowing for flexibility in adapting to project needs. 
 
 # Tags
-TBD
+Software architecture, architecture review, architecture drift, architecture erosion, manual review, dependency analysis
 
 # Definitions, Acronyms, Abbreviations
 | # | Abbreviation or Acronym | Definition     |
