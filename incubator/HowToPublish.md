@@ -164,7 +164,7 @@ My is
 - if there is "References"? it might be no
 - if there is no formatting symbols?
 - if there is no empty chapters?
-- Are "Definitions, Acronyms, Abbreviations" sorted? it might be no
+- Are "Definitions, Acronyms, Abbreviations" sorted?
 - if there is no PII ?
 - if there is no TBD and TODO?
 - Is it asking for an opinion?
