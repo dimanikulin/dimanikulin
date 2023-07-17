@@ -84,7 +84,8 @@
 | [ukr_leaks](https://t.me/ukr_leaks)                | 
 | [vadovskaya](https://t.me/vadovskaya)              | 
 | [verysexydasha](https://t.me/verysexydasha)        | 
-| [vitteli](https://t.me/vitteli)                    | 
+| [vitteli](https://t.me/vitteli)                    |
+| [Воин DV](https://t.me/voin_dv)                    | comments closed | | 
 | [voytenkos](https://t.me/voytenkos)                | 
 | [vv_volodin](https://t.me/vv_volodin)              | 
 | [war_ukr_russ](https://t.me/war_ukr_russ)          | 
