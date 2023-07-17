@@ -69,7 +69,8 @@
 | [opoveshenie](https://t.me/opoveshenie)            | 
 | [orsha_pereobutaya](https://t.me/orsha_pereobutaya)| 
 | [petrlundstrem](https://t.me/petrlundstrem)        | 
-| [politsputnik](https://t.me/politsputnik)          | 
+| [politsputnik](https://t.me/politsputnik)          |
+| [Росич Rosich](https://t.me/rosich_ru) | Blocked for DN | | 
 | [rosich_admin](https://t.me/rosich_admin)          | 
 | [rsotmdivision](https://t.me/rsotmdivision)        | 
 | [russiaz](https://t.me/russiaz)                    | 
