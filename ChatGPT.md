@@ -16,7 +16,7 @@ Took idea from [DOU](https://dou.ua/forums/topic/43131/?from=tg&utm_source=teleg
 <img src="./Images/ChatGPTAsk.png" alt="TBD" />
 
 ### Tags
-DOU ChatGPT Humor
+DOU Humor
 
 ## ChatGPT in CV
 Nowadays, many people include their experience with ChatGPT in their CVs as a way to showcase their skills and expertise in various domains.
@@ -41,3 +41,4 @@ cv skills
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 | 1 | 100+ ChatGPT Prompts for Software Developers | [DOU](https://dou.ua/forums/topic/43131/?from=tg&utm_source=telegram&utm_medium=social) | 20 April, 2023 | DOU | |
 | 2 | Everyone must know that! | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_humor-chatgpt-chatgpttutorial-activity-7056156667721191424-rcxW?utm_source=share&utm_medium=member_desktop) | 24 April, 2023 | Dmytro Nikulin | |
+| 3 | ChatGPT in CV | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_chatgpt-cv-skills-activity-7086958836036644864-hpB6?utm_source=share&utm_medium=member_desktop) | 18 July, 2023 | Dmytro Nikulin | |
