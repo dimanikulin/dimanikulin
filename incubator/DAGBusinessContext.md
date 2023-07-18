@@ -114,22 +114,17 @@ The proposed solution can accept various inputs, including:
 These inputs collectively provide the necessary information for the solution to perform its analysis and evaluation of the software architecture.
 
 ### Solution integration 
-Based on required inputs the proposed solution can be integrated with offline UML designing tools like:
-- OmniGraffle;
-- Microsoft Visio.
+Integration of the proposed solution with various tools and systems allows for a comprehensive analysis of software architecture.
+Here are the integration possibilities mentioned:
 
-In addition, proposed solution can be integrated with such online UML designing tools like:
-- Enterprise Architect;
-- LucidChart;
-- Draw.IO;
-- PlantUML;
-- Gliffy.com.
+- Offline UML designing tools: The solution can be integrated with offline UML designing tools like OmniGraffle and Microsoft Visio. This integration enables the import of UML diagrams created using these tools for analysis and evaluation.
 
-To have access to code and configuration the proposed solution can be integrated with source control management system like:
-- SVN;
-- Git.
+- Online UML designing tools: Integration with online UML designing tools such as Enterprise Architect, LucidChart, Draw.IO, PlantUML, and Gliffy.com provides the ability to import UML diagrams created in these platforms. This expands the range of tools that can be used for software design and analysis.
 
-In this way, the proposed solution user shall understand the more input is provided the more efficient automatic review will be performed.
+- Source control management systems: Integration with source control management systems like SVN and Git allows the solution to access code and configuration files directly from the repository. This ensures that the latest version of the software is analyzed, and any changes made to the codebase are taken into account.
+
+By integrating the solution with these tools and systems, users can leverage existing software design and version control workflows to enhance the effectiveness of the automatic review process. 
+
 As an example of the input code could be the code written in C# using microservices architecture. 
 The other example could be the code written in JavaScript for multi-tier applications. 
 The example of configuration might be the description of nodes used in deployment.
