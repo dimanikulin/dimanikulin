@@ -86,19 +86,19 @@ The requirements are categorized into solution modes and inputs, solution integr
 ### Solution modes
 The proposed solution should support the following modes:
 
-Standalone application: The solution should be designed to run as a standalone application, allowing it to be executed on demand without any dependencies on the target environment. This mode provides flexibility for manual execution of the solution.
+- Standalone application: The solution should be designed to run as a standalone application, allowing it to be executed on demand without any dependencies on the target environment. This mode provides flexibility for manual execution of the solution.
 
-Integration with CI/CD pipeline: The solution should have the capability to integrate seamlessly into a CI/CD pipeline as a separate step. This mode enables regular assessment of the architecture within the automated pipeline.
+- Integration with CI/CD pipeline: The solution should have the capability to integrate seamlessly into a CI/CD pipeline as a separate step. This mode enables regular assessment of the architecture within the automated pipeline.
 
 In the context of the CI/CD mode, the following features should be supported:
 
-Initial architecture reference: The solution should allow setting an initial architecture as a reference point. Any deviations from this reference architecture should be identified as architecture drifts.
+- Initial architecture reference: The solution should allow setting an initial architecture as a reference point. Any deviations from this reference architecture should be identified as architecture drifts.
 
-Drift reporting and approval process: When a drift is detected, the solution should provide an option to approve or decline the changes with comments. The description of the change should include an impact analysis, allowing the user to understand the cost associated with the proposed change.
+- Drift reporting and approval process: When a drift is detected, the solution should provide an option to approve or decline the changes with comments. The description of the change should include an impact analysis, allowing the user to understand the cost associated with the proposed change.
 
-Documenting drifts and erosion: The solution should provide the ability to save the documentation that describes drifts or erosions. This documentation can be useful for future analysis and reference. It should be easily accessible for review and analysis purposes.
+- Documenting drifts and erosion: The solution should provide the ability to save the documentation that describes drifts or erosions. This documentation can be useful for future analysis and reference. It should be easily accessible for review and analysis purposes.
 
-Integration with popular CI/CD tools: The solution should be easily integrated with widely used CI/CD tools such as Jenkins, Bamboo, etc. This ensures compatibility and seamless integration into existing CI/CD workflows.
+- Integration with popular CI/CD tools: The solution should be easily integrated with widely used CI/CD tools such as Jenkins, Bamboo, etc. This ensures compatibility and seamless integration into existing CI/CD workflows.
 
 ### Solution inputs 
 The proposed solution can accept various inputs, including:
