@@ -20,6 +20,3 @@ can you provide what picture I can use for such text?
 
 ## Main question
 to be or not to be GPT or not GPT
-
-## GPT for CV 
- is it OK?
