@@ -1,5 +1,5 @@
 This is message for reporting the channels: 
-**The channel was created and works to promote and publish fake news about the Russian invasion of Ukraine!**
+The channel was created and works to promote and publish fake news about the Russian invasion of Ukraine!
 | Link                                               | Status                | Description            |
 | ---------------------------------------------------|---------------------- |:----------------------:|
 | [Бладсикер 2.0](https://t.me/+TjGTywz1xPRjNzg6)    | Blocked for DN | |
