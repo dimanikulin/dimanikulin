@@ -10,7 +10,7 @@ The channel was created and works to promote and publish fake news about the Rus
 | [Алексей Поддубный Джанго Z](https://t.me/alexeypoddubny_jango)| Blocked for DN | |
 | [Краля Даля](https://t.me/alyonamakk)              | Blocked for DN | |
 | [Анна Ревякина Донбасс](https://t.me/annarevyakina)| Blocked for DN | |
-| [arbaletgovorit](https://t.me/arbaletgovorit)      | 
+| [Арбалет Z Говорит](https://t.me/arbaletgovorit)   | 
 | [ARTpodderjka](https://t.me/ARTpodderjka)          | 
 | [BattleSailor_13](https://t.me/BattleSailor_13)    | 
 | [Belarus_VPO](https://t.me/Belarus_VPO)            | 
