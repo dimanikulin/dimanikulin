@@ -3,7 +3,7 @@
 | [Бладсикер 2.0](https://t.me/+TjGTywz1xPRjNzg6)    | Blocked for DN | |
 | [Кузичев](https://t.me/a_kuzichev)                 | Blocked for DN | |
 | [Лонгрид (Несмиян)](https://t.me/a_nesmijan_longread)| Blocked for DN | | 
-| [Абзац медиа](https://t.me/absatzmedia)            | 
+| [Абзац медиа](https://t.me/absatzmedia)            | Closed comments for everyone | |
 | [Ags_Donbass](https://t.me/Ags_Donbass)            | 
 | [alexeypoddubny_jango](https://t.me/alexeypoddubny_jango)| 
 | [alyonamakk](https://t.me/alyonamakk)              | 
