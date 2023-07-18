@@ -132,11 +132,19 @@ Another example could be the configuration of VPN network and API gateways.
 The example of input software design can be description of interfaces saved in Enterprise Architect.
 
 ### User interaction
-The user can interact with the solution using a web interface from a desktop computer. No mobile device (like smartphones or tablets) is intended because the low screen size of mobile devices is not suitable for the content the proposed solution is going to provide. 
-Two types of user shall be supported: administrators and architects. 
-The administrators shall be able to configure the system for intended use.
-The architects shall be able to run the proposed solution for analysis and to review the analysis results.
-The dashboards can be available to show metrics and software architecture status like: components count, dependencies list etc.
+The proposed solution provides a web interface that allows users to interact with it from a desktop computer.
+The interface is designed to accommodate the content and functionality required for software architecture analysis, making it unsuitable for mobile devices such as smartphones or tablets due to their smaller screen size.
+
+There are two types of users supported by the solution: administrators and architects. 
+Administrators have the capability to configure the system according to the intended use.
+They can set up various parameters and customize the solution to meet specific requirements.
+
+Architects, on the other hand, have the ability to run the proposed solution for analysis and review the results.
+They can initiate the analysis process and examine the generated analysis reports. 
+The solution provides dashboards that display relevant metrics and software architecture status, such as the count of components and dependencies. 
+These dashboards offer a comprehensive overview of the software architecture and assist architects in understanding its structure and characteristics.
+
+By catering to both administrators and architects and offering dedicated functionalities for each role, the solution ensures that users can effectively configure and utilize the system for software architecture analysis and evaluation.
 
 ### Solution output
 There are two formats of output: the text (plain text or table) one and graphic one.
