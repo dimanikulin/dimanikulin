@@ -18,6 +18,23 @@ Took idea from [DOU](https://dou.ua/forums/topic/43131/?from=tg&utm_source=teleg
 ### Tags
 DOU ChatGPT Humor
 
+## ChatGPT in CV
+Nowadays, many people include their experience with ChatGPT in their CVs as a way to showcase their skills and expertise in various domains.
+
+However, in my opinion, this practice may seem excessive.
+
+Why?
+
+Because it's akin to listing the ability to move one's body as a skill.
+
+Is it OK to mention ChatGPT in CV?
+- Yes **0%**
+- No **100%**
+- ChatGPT knows answer **0%**
+
+### Tags
+cv skills
+
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
