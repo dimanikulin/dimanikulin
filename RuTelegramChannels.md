@@ -6,8 +6,8 @@ This is message for reporting the channels:
 | [Кузичев](https://t.me/a_kuzichev)                 | Blocked for DN | |
 | [Лонгрид (Несмиян)](https://t.me/a_nesmijan_longread)| Blocked for DN | | 
 | [Абзац медиа](https://t.me/absatzmedia)            | Closed comments for everyone | |
-| [АГС_Z_Донбасса](https://t.me/Ags_Donbass)         | | Blocked for DN | | 
-| [alexeypoddubny_jango](https://t.me/alexeypoddubny_jango)| 
+| [АГС_Z_Донбасса](https://t.me/Ags_Donbass)         | Blocked for DN | | 
+| [Алексей Поддубный Джанго Z](https://t.me/alexeypoddubny_jango)| Blocked for DN | |
 | [alyonamakk](https://t.me/alyonamakk)              | 
 | [annarevyakina](https://t.me/annarevyakina)        | 
 | [arbaletgovorit](https://t.me/arbaletgovorit)      | 
