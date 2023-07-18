@@ -101,11 +101,17 @@ Documenting drifts and erosion: The solution should provide the ability to save 
 Integration with popular CI/CD tools: The solution should be easily integrated with widely used CI/CD tools such as Jenkins, Bamboo, etc. This ensures compatibility and seamless integration into existing CI/CD workflows.
 
 ### Solution inputs 
-The inputs for the proposed solution can be: 
-- any code from the solution under review;
-- any configuration from the solution under review;
-- software design from UML designing tools;
-- Database scripts and database configuration.
+The proposed solution can accept various inputs, including:
+
+- Code from the solution under review: The solution should be able to analyze and process code files from the software being reviewed.
+
+- Configuration from the solution under review: Configuration files used by the software should be compatible with the solution to extract relevant information.
+
+- Software design from UML designing tools: The solution should support importing software designs created using UML (Unified Modeling Language) tools. This allows for a comprehensive analysis of the software's architectural design.
+
+- Database scripts and database configuration: The solution should be capable of working with database scripts and configurations, enabling analysis of the database layer in the software.
+
+These inputs collectively provide the necessary information for the solution to perform its analysis and evaluation of the software architecture.
 
 ### Solution integration 
 Based on required inputs the proposed solution can be integrated with offline UML designing tools like:
