@@ -176,7 +176,7 @@ An example of text output might be following
 | 6 | Architecture| Medium | The Domain services being aware of the client (browsers, devices) can lead to a violation of the principle of separation of concerns| To address this, it is recommended to move the awareness of the client away from the Domain services|
 | 7 | Architecture| Medium | The Domain services became stateful, it can introduce complexity and reduce the clarity of responsibilities within the system | To address this, it is recommended to move the state management away from the Domain services |
 | 8 | DevOps| Medium | The code does not align with the selected cloud model | It is essential to verify the Cloud Model being used |
-|9  | DevOps | Medium | The architecture of solution uses the Cloud services it was not expected to use | To check Cloud Services being used |
+|9  | DevOps | Medium | The architecture of a solution utilizes unexpected Cloud services | it is important to assess and verify the Cloud services being used |
 |10 | DevOps | Medium | A microservice became strictly depending on an environment | To make that service be deployable on any environment |
 |11 | Code | High | Technology standards changed - the developers started using the library or programming language that is out of scope.| To replace that library with allowed one |
 |12 | Code | Low | A microservice accesses local FS and provides access to internal data | To add an abstraction level to decrease the level of dependency on internal data |
