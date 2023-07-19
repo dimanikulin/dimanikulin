@@ -174,7 +174,7 @@ An example of text output might be following
 | 4 | Architecture| Medium | The BackEnd For FrontEnd services are directly integrated with domain Data Access/data stores engines | o reduce the dependency on domain Data Access/Data stores engines, an abstraction level should be added. This abstraction level will help decrease the coupling between the BackEnd For FrontEnd services and the domain Data Access/Data stores engines |
 | 5 | Architecture| Low | The BackEnd For FrontEnd (BEFF) and Domain services are mixed, which can lead to a lack of separation of concerns | To address this issue, the domain logic should be moved out of the BackEnd For FrontEnd services |
 | 6 | Architecture| Medium | The Domain services being aware of the client (browsers, devices) can lead to a violation of the principle of separation of concerns| To address this, it is recommended to move the awareness of the client away from the Domain services|
-| 7 | Architecture| Medium | Domain services are stateful | To move state management away from domain services|
+| 7 | Architecture| Medium | The Domain services became stateful, it can introduce complexity and reduce the clarity of responsibilities within the system | To address this, it is recommended to move the state management away from the Domain services |
 | 8 | DevOps| Medium | The code does not use the selected cloud model | To check Cloud Model being used|
 |9  | DevOps | Medium | The architecture of solution uses the Cloud services it was not expected to use | To check Cloud Services being used |
 |10 | DevOps | Medium | A microservice became strictly depending on an environment | To make that service be deployable on any environment |
