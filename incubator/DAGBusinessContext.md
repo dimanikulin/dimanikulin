@@ -178,7 +178,7 @@ An example of text output might be following
 | 8 | DevOps| Medium | The code does not align with the selected cloud model | It is essential to verify the Cloud Model being used |
 | 9 | DevOps | Medium | The architecture of a solution utilizes unexpected Cloud services | it is important to assess and verify the Cloud services being used |
 |10 | DevOps | Medium | A microservice becomes tightly coupled to a specific environment, it limits its portability and flexibility | To make that service be deployable on any environment |
-|11 | Code | High | Technology standards changed - the developers started using the library or programming language that is out of scope.| To replace that library with allowed one |
+|11 | Code | High | technology standards change and developers start using libraries or programming languages that are out of scope | To replace the unauthorized library with an allowed one |
 |12 | Code | Low | A microservice accesses local FS and provides access to internal data | To add an abstraction level to decrease the level of dependency on internal data |
 
 The graphic format is used to show the software architecture in the form of 
