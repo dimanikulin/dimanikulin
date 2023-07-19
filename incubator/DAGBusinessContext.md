@@ -185,6 +185,7 @@ The graphic format is utilized to visually represent the software architecture, 
 - the holistic application architecture, 
 - diagrams of all services, 
 - and data flows. 
+
 Both offline and online UML diagramming tools are employed to save and document the extracted software architecture. 
 This graphic format allows users to annotate and tag components and inventory items using user-defined keywords.
 
