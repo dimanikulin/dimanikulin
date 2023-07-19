@@ -173,7 +173,7 @@ An example of text output might be following
 | 3 | Architecture| High | The communication between microservices does not meet the initially predefined communication | To address this issue, the initially documented communication needs to be updated or the current communication needs to be fixed |
 | 4 | Architecture| Medium | The BackEnd For FrontEnd services are directly integrated with domain Data Access/data stores engines | o reduce the dependency on domain Data Access/Data stores engines, an abstraction level should be added. This abstraction level will help decrease the coupling between the BackEnd For FrontEnd services and the domain Data Access/Data stores engines |
 | 5 | Architecture| Low | The BackEnd For FrontEnd (BEFF) and Domain services are mixed, which can lead to a lack of separation of concerns | To address this issue, the domain logic should be moved out of the BackEnd For FrontEnd services |
-| 6 | Architecture| Medium | Domain services are aware of client (browsers, devices)|	To move awareness of client away from domain services|
+| 6 | Architecture| Medium | The Domain services being aware of the client (browsers, devices) can lead to a violation of the principle of separation of concerns| To address this, it is recommended to move the awareness of the client away from the Domain services|
 | 7 | Architecture| Medium | Domain services are stateful | To move state management away from domain services|
 | 8 | DevOps| Medium | The code does not use the selected cloud model | To check Cloud Model being used|
 |9  | DevOps | Medium | The architecture of solution uses the Cloud services it was not expected to use | To check Cloud Services being used |
