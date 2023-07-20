@@ -192,17 +192,24 @@ This graphic format allows users to annotate and tag components and inventory it
 Here's an example of a graphic output:
 
 <img src="./DAGBusinessContext.png" alt="TBD" />
-
-In the picture above four services and one database are defined in the software architecture.
-From the output you can see the relationship between them and the direction of communication.
+In the graphic representation above, four services and one database are identified within the software architecture.
+The diagram clearly illustrates the relationships between these components and the direction of communication between them.
 
 ### Modifiability and extendibility
-Because there is no limitation on the solution, scope defined above the solution itself shall be extensible enough to support adding new features such a new check or even a new level.
-Because there might not be good software practices used on a project the default set of checks shall be used to verify target architecture.
-In case of established architecture governance, a proposed solution user shall be provided a possibility for extension of the set of checks.
-Because there are multiple Static Code tools like Coverity, SonarQube, etc. there is no sense to implement low-level checks like checking indentation, formatting etc.
+Modifiability and extendibility are essential attributes for the proposed solution. 
+The solution should be designed in a way that allows for easy extension and the addition of new features, such as new checks or levels. 
+The scope of the solution should not restrict its ability to adapt to different project needs and requirements.
+
+By default, the solution should include a set of checks to verify the target architecture. 
+However, for projects that already have an established architecture governance process, users should have the flexibility to extend and customize the set of checks according to their specific needs.
+
+Given the existence of various Static Code tools like Coverity and SonarQube that handle low-level checks like indentation and formatting, it would be redundant to implement those checks in the proposed solution.
+Instead, the solution should focus on providing value through higher-level architectural checks and analysis.
 
 ### Configurability
+
+
+
 The following configuration items can be supported:
 - Solution mode (available for configuration at deployment stage);
 - A path to read the architecture documents from offline UML design tools;
@@ -211,6 +218,12 @@ The following configuration items can be supported:
 - The addresses of databases for observation the data layer;
 - The integration with CI/CD tools like Jenkins or Bamboo;
 - The report plugins configuration (format, storage etc)
+
+
+
+
+
+
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
