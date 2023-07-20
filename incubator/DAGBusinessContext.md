@@ -78,8 +78,8 @@ You will gain insights into the following:
 
 By reading this paper, you will develop a deeper understanding of architecture drift and erosion, the limitations of manual reviews, the benefits of automation, and important considerations when evaluating architecture review solutions.
 
-img src="./DAGBusinessContext1.jpg" alt="TBD" />
-I 
+<img src="./DAGBusinessContext1.jpg" alt="TBD" />
+ 
 ## Solution requirements
 This section outlines the requirements for implementing the solution.
 It is important to note that these requirements are not exhaustive and can be extended based on the specific needs of the project.
