@@ -89,7 +89,8 @@ The channel was created and works to promote and publish fake news about the Rus
 | [vadovskaya](https://t.me/vadovskaya)              | 
 | [verysexydasha](https://t.me/verysexydasha)        | 
 | [vitteli](https://t.me/vitteli)                    |
-| [Воин DV](https://t.me/voin_dv)                    | comments closed | | 
+| [Воин DV](https://t.me/voin_dv)                    | comments closed | |
+| [Военкор Котенок](https://t.me/voenkorKotenok)     | comments closed | | 
 | [voytenkos](https://t.me/voytenkos)                | 
 | [vv_volodin](https://t.me/vv_volodin)              | 
 | [war_ukr_russ](https://t.me/war_ukr_russ)          | 
