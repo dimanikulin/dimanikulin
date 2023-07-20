@@ -11,7 +11,7 @@ The channel was created and works to promote and publish fake news about the Rus
 | [Краля Даля](https://t.me/alyonamakk)              | Blocked for DN | |
 | [Анна Ревякина Донбасс](https://t.me/annarevyakina)| Blocked for DN | |
 | [Арбалет Z Говорит](https://t.me/arbaletgovorit)   | Blocked for DN | |
-| [ARTpodderjka](https://t.me/ARTpodderjka)          | 
+| [АРТподдержка](https://t.me/ARTpodderjka)          | 
 | [BattleSailor_13](https://t.me/BattleSailor_13)    | 
 | [Belarus_VPO](https://t.me/Belarus_VPO)            | 
 | [BOBRMORF](https://t.me/BOBRMORF)                  | 
