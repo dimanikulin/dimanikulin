@@ -207,23 +207,24 @@ Given the existence of various Static Code tools like Coverity and SonarQube tha
 Instead, the solution should focus on providing value through higher-level architectural checks and analysis.
 
 ### Configurability
-
-
-
+Configurability is a crucial aspect of the proposed solution, allowing users to tailor the system to their specific needs and environment. 
 The following configuration items can be supported:
-- Solution mode (available for configuration at deployment stage);
-- A path to read the architecture documents from offline UML design tools;
-- An address of online UML design tool API to read and write the architecture documents;
-- Source control management system configuration;
-- The addresses of databases for observation the data layer;
-- The integration with CI/CD tools like Jenkins or Bamboo;
-- The report plugins configuration (format, storage etc)
 
+- Solution Mode: The solution should offer different modes of operation, and users can configure the preferred mode during the deployment stage. For example, it can be run as a standalone application or integrated into the CI/CD pipeline.
 
+- Path for Architecture Documents: Users should be able to specify the path to read architecture documents from offline UML design tools like OmniGraffle or Microsoft Visio.
 
+- Online UML Design Tool API: The solution can integrate with online UML design tools like Enterprise Architect, LucidChart, Draw.IO, PlantUML, or Gliffy.com. Users need to provide the API address to access and update architecture documents online.
 
+- Source Control Management System Configuration: The proposed solution should be able to integrate with version control systems like SVN or Git. Users will configure the settings to access code and configuration from these repositories.
 
+- Database Addresses for Data Layer Observation: Users should provide the addresses of databases to observe the data layer and perform analysis on database scripts and configurations.
 
+- CI/CD Tool Integration: The solution should seamlessly integrate with popular CI/CD tools like Jenkins or Bamboo. Configuration options should enable easy integration into the CI/CD pipeline for regular architecture assessment.
+
+- Report Plugins Configuration: Users should be able to configure report plugins, including their format and storage settings. This allows customization of the generated reports based on individual preferences and requirements.
+
+By providing these configurability options, the proposed solution becomes versatile and adaptable, meeting the specific needs and workflows of different projects and organizations.
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
