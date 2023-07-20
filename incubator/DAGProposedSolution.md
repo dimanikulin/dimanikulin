@@ -178,4 +178,5 @@ In this case, extended pipeline will look like the second pipeline on the pictur
 | 3 | Manipulate the Visio file format programmatically | [web](https://learn.microsoft.com/en-us/office/client-developer/visio/how-to-manipulate-the-visio-file-format-programmatically)| 04/03/2023 | Microsoft | |
 | 4 | Enterprise Architect API | [Pdf document](https://sparxsystems.com/resources/user-guides/15.1/automation/automation.pdf)| 2020-01-20 | Sparx Systems | |
 | 5 | Java class dependency analyzer | [web](https://docs.oracle.com/javase/9/tools/jdeps.htm#JSWOR690)| | | |
- 
+TBD link to 2 part
+TBD link to 3 part 
