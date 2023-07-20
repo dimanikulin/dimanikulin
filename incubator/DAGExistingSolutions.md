@@ -137,5 +137,5 @@ Also not all inputs are supported by the overviewed solutions, for example scann
 | 3 | Castsoftware Image | [Web](https://www.castsoftware.com/imaging) | | | |
 | 4 | Netdepends | [Web](https://www.workshell.co.uk/products/netdepends/) | | | |
 | 5 | Axivion | [Web](https://www.axivion.com/en/) | | | |
-TBD link to 2 part
-TBD link to 3 part
+| 6 | Detecting Architectural Gaps with Automation : Business Context | [GitHub](./DAGBusinessContext.md) |  | Dmytro Nikulin | | 
+| 7 | Detecting Architectural Gaps with Automation : Proposed Solution | [GitHub](./DAGProposedSolution.md) |  | Dmytro Nikulin | | 
