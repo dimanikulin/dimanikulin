@@ -77,6 +77,8 @@ You will gain insights into the following:
 - Use case scenarios: Gain insights into what automating architecture checks may look like through a series of example use case scenarios. Understand how automation can be applied in practical situations to enhance architecture review processes.
 
 By reading this paper, you will develop a deeper understanding of architecture drift and erosion, the limitations of manual reviews, the benefits of automation, and important considerations when evaluating architecture review solutions.
+
+DAGBusinessContext2.jpg
  
 ## Solution requirements
 This section outlines the requirements for implementing the solution.
