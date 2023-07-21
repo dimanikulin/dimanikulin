@@ -70,7 +70,8 @@ The channel was created and works to promote and publish fake news about the Rus
 | [oplnr](https://t.me/oplnr)                        | 
 | [opoveshenie](https://t.me/opoveshenie)            | 
 | [orsha_pereobutaya](https://t.me/orsha_pereobutaya)| 
-| [petrlundstrem](https://t.me/petrlundstrem)        | 
+| [petrlundstrem](https://t.me/petrlundstrem)        |
+| [Pobeda_Za_Deda](https://t.me/Pobeda_Za_Deda)      | | | 
 | [politsputnik](https://t.me/politsputnik)          |
 | [Росич Rosich](https://t.me/rosich_ru) | Blocked for DN | | 
 | [rosich_admin](https://t.me/rosich_admin)          | 
