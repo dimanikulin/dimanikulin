@@ -15,7 +15,7 @@ The channel was created and works to promote and publish fake news about the Rus
 | [Battle_🅉 _Sailor](https://t.me/BattleSailor_13)  | | too few subsribers | 
 | [БелВПО](https://t.me/Belarus_VPO)                 | 
 | [🇷🇺БОБР🇷🇺](https://t.me/BOBRMORF)              | Blocked for DN | |
-| [breege_time_20zz](https://t.me/breege_time_20zz)  | 
+| [Brееgе Timе ZÖZZ🇷🇺](https://t.me/breege_time_20zz)| 
 | [brekotins](https://t.me/brekotins)                | 
 | [chub_detection](https://t.me/chub_detection)      | 
 | [crazypower1](https://t.me/crazypower1)            | | AntiPutin content |
