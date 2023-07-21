@@ -12,7 +12,7 @@ The channel was created and works to promote and publish fake news about the Rus
 | [Анна Ревякина Донбасс](https://t.me/annarevyakina)| Blocked for DN | |
 | [Арбалет Z Говорит](https://t.me/arbaletgovorit)   | Blocked for DN | |
 | [АРТподдержка](https://t.me/ARTpodderjka)          | Blocked for DN without any msg | | 
-| [BattleSailor_13](https://t.me/BattleSailor_13)    | | too few subsribers | 
+| [Battle_🅉 _Sailor](https://t.me/BattleSailor_13)    | | too few subsribers | 
 | [Belarus_VPO](https://t.me/Belarus_VPO)            | 
 | [BOBRMORF](https://t.me/BOBRMORF)                  | 
 | [breege_time_20zz](https://t.me/breege_time_20zz)  | 
