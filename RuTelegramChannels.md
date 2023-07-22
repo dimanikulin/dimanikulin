@@ -76,7 +76,7 @@ The channel was created and works to promote and publish fake news about the Rus
 | [Росич Rosich](https://t.me/rosich_ru) | Blocked for DN | | 
 | [rosich_admin](https://t.me/rosich_admin)          | 
 | [rsotmdivision](https://t.me/rsotmdivision)        |
-| [RuFront](https://t.me/RuFront)                    | | |
+| [RuFront](https://t.me/RuFront)                    | Closed comments for everyone | |
 | [russiaz](https://t.me/russiaz)                    | 
 | [sergeyvostrecov](https://t.me/sergeyvostrecov)    |
 | [СОЛДАТ УДАЧИ](https://t.me/Soldieroffortune777)   | Blocked for DN | | 
