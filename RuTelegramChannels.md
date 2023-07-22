@@ -26,7 +26,8 @@ The channel was created and works to promote and publish fake news about the Rus
 | [dolgarevaanna](https://t.me/dolgarevaanna)        | 
 | [donezkiy](https://t.me/donezkiy)                  | 
 | [dva_majors](https://t.me/dva_majors)              | 
-| [eternoff](https://t.me/eternoff)                  | 
+| [eternoff](https://t.me/eternoff)                  |
+| [Fighterbomber](https://t.me/fighter_bomber)       | Blocked for DN | |
 | [FridrihShow](https://t.me/FridrihShow)            | 
 | [Grigorjev](https://t.me/Grigorjev)                | 
 | [harry_homolsky](https://t.me/harry_homolsky)      | 
