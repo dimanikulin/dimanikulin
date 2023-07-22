@@ -69,7 +69,8 @@ The channel was created and works to promote and publish fake news about the Rus
 | [opennewss](https://t.me/opennewss)                | 
 | [oplnr](https://t.me/oplnr)                        | 
 | [opoveshenie](https://t.me/opoveshenie)            | 
-| [orsha_pereobutaya](https://t.me/orsha_pereobutaya)| 
+| [orsha_pereobutaya](https://t.me/orsha_pereobutaya)|
+| [Позывной《OSETIN》](https://t.me/osetin20) |
 | [petrlundstrem](https://t.me/petrlundstrem)        |
 | [Pobeda_Za_Deda](https://t.me/Pobeda_Za_Deda)      | | | 
 | [politsputnik](https://t.me/politsputnik)          |
