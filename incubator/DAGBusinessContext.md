@@ -1,5 +1,5 @@
 # Headline
-Title: Detecting Architectural Gaps with Automation: Enhancing Software Architecture Maintenance and Efficiency
+Detecting Architectural Gaps with Automation: Enhancing Software Architecture Maintenance and Efficiency
 
 # Article description
 This text discusses the implementation of a solution for detecting architectural gaps and drifts in software systems.
