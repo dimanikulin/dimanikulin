@@ -152,22 +152,22 @@ These dashboards offer a comprehensive overview of the software architecture and
 By catering to both **administrators** and **architects** and offering dedicated functionalities for each role, the solution ensures that users can effectively configure and utilize the system for software architecture analysis and evaluation.
 
 ### Solution output
-The proposed solution offers two formats for presenting the output: text-based (plain text or table) and graphic.
+The proposed solution offers two formats for presenting the output: **text-based** (plain text or table) and **graphic**.
 
-The text-based format, particularly in a table structure, provides users with detailed information about identified issues.
+The **text-based format**, particularly in a table structure, provides users with detailed information about identified issues.
 
 The table typically includes the following columns:
 
-- Level of issue: Indicates the severity or significance of the issue.
-- Issue priority: Specifies the priority level assigned to address the issue.
-- Issue description: Provides a clear description of the identified issue.
-- Suggested way to fix the issue: Offers recommendations or guidelines on how to resolve the issue effectively.
+- **Level of issue**: Indicates the severity or significance of the issue.
+- **Issue priority**: Specifies the priority level assigned to address the issue.
+- **Issue description**: Provides a clear description of the identified issue.
+- **Suggested way to fix the issue**: Offers recommendations or guidelines on how to resolve the issue effectively.
 
-Additionally, the table format includes separate sections that list various dependencies, such as frameworks, libraries, APIs, databases, technology stack (languages), and application layers. 
+Additionally, the table format includes separate sections that list various dependencies, such as **frameworks**, **libraries**, **APIs**, **databases**, **technology stack (languages)**, and **application layers**. 
 Each section provides a comprehensive inventory of the associated components used in the application.
 This allows users to gain insights into the technologies and resources utilized and understand their impact on the architecture.
 
-Furthermore, the solution enables users to request inventories of specific elements, including languages, frameworks, libraries, and databases, at any time.
+Furthermore, the solution enables users to request inventories of specific **elements**, including **languages**, **frameworks**, **libraries**, and **databases**, at any time.
 This feature provides a convenient way to access comprehensive information about the software application's underlying components and dependencies.
 
 An example of text output might be following
