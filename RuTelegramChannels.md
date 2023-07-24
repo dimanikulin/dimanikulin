@@ -82,6 +82,7 @@ The channel was created and works to promote and publish fake news about the Rus
 | [russiaz](https://t.me/russiaz)                    | 
 | [sergeyvostrecov](https://t.me/sergeyvostrecov)    |
 | [СОЛДАТ УДАЧИ](https://t.me/Soldieroffortune777)   | Blocked for DN | | 
+| [Скабеева](https://t.me/skabeeva)                  | Closed comments for everyone | |
 | [sharikovtime](https://t.me/sharikovtime)          | 
 | [smershmsk](https://t.me/smershmsk)                | 
 | [spainrus](https://t.me/spainrus)                  | 
