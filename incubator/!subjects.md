@@ -15,6 +15,7 @@ When you start fighting, please be prepared before how to loose just in case.
 https://dou.eu/en/community/posts/what-are-multimedia-information-retrieval-systems 
 
 что помогло выжить это жзимой а может быть еще хуже 
+https://dou.ua/forums/topic/44453/?from=tg&utm_source=telegram&utm_medium=social
 
 portbable app
 archive
