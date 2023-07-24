@@ -71,13 +71,13 @@ Please read [this paper](https://www.globallogic.com/insights/white-papers/detec
 
 You will gain insights into the following:
 
-- Understanding architecture drift and erosion: Learn what architecture drift and erosion are and how they can impact the business. Gain an understanding of the risks and challenges associated with uncontrolled architectural changes.
-- Manual inspections and their limitations: Explore the role of dependency analysis, peer reviews, and other manual inspections in detecting architectural issues. Understand why manual reviews, while important, may not be the ideal solution due to their limitations.
-- The need for automated architecture review: Discover the benefits of automating architecture checks and how they can complement manual reviews. Learn how automation can provide more efficient and comprehensive detection of architectural gaps.
-- Considerations for evaluating architecture review solutions: Explore specific considerations to keep in mind when evaluating architecture review solutions. Topics covered include compliance, data security, DevOps integration, and more.
-- Use case scenarios: Gain insights into what automating architecture checks may look like through a series of example use case scenarios. Understand how automation can be applied in practical situations to enhance architecture review processes.
+- **Understanding architecture drift and erosion**: Learn what architecture drift and erosion are and how they can impact the business. Gain an understanding of the risks and challenges associated with uncontrolled architectural changes.
+- **Manual inspections and their limitations**: Explore the role of dependency analysis, peer reviews, and other manual inspections in detecting architectural issues. Understand why manual reviews, while important, may not be the ideal solution due to their limitations.
+- **The need for automated architecture review**: Discover the benefits of automating architecture checks and how they can complement manual reviews. Learn how automation can provide more efficient and comprehensive detection of architectural gaps.
+- **Considerations for evaluating architecture review solutions**: Explore specific considerations to keep in mind when evaluating architecture review solutions. Topics covered include compliance, data security, DevOps integration, and more.
+- **Use case scenarios**: Gain insights into what automating architecture checks may look like through a series of example use case scenarios. Understand how automation can be applied in practical situations to enhance architecture review processes.
 
-By reading this paper, you will develop a deeper understanding of architecture drift and erosion, the limitations of manual reviews, the benefits of automation, and important considerations when evaluating architecture review solutions.
+By reading this paper, you will develop a deeper understanding of **architecture drift and erosion**, the limitations of **manual reviews**, the benefits of **automation**, and important considerations when evaluating architecture review solutions.
 
 <img src="./DAGBusinessContext1.jpg" alt="TBD" />
  
