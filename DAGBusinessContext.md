@@ -79,7 +79,7 @@ You will gain insights into the following:
 
 By reading this paper, you will develop a deeper understanding of **architecture drift and erosion**, the limitations of **manual reviews**, the benefits of **automation**, and important considerations when evaluating architecture review solutions.
 
-<img src="./DAGBusinessContext1.jpg" alt="TBD" />
+<img src="./Images/DAGBusinessContext1.jpg" alt="TBD" />
  
 ## Solution requirements
 This section outlines the requirements for implementing the solution.
@@ -196,7 +196,7 @@ This graphic format allows users to annotate and tag components and inventory it
 
 Here's an example of a graphic output:
 
-<img src="./DAGBusinessContext2.png" alt="TBD" />
+<img src="./Images/DAGBusinessContext2.png" alt="TBD" />
 
 In the **graphic** representation above, **four services** and **one database** are identified within the software architecture.
 The diagram clearly illustrates the relationships between these components and the direction of communication between them.
