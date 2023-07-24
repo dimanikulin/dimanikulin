@@ -202,14 +202,14 @@ In the **graphic** representation above, **four services** and **one database** 
 The diagram clearly illustrates the relationships between these components and the direction of communication between them.
 
 ### Modifiability and extendibility
-Modifiability and extendibility are essential attributes for the proposed solution. 
+**Modifiability and extendibility** are essential attributes for the proposed solution. 
 The solution should be designed in a way that allows for easy extension and the addition of new features, such as new checks or levels. 
 The scope of the solution should not restrict its ability to adapt to different project needs and requirements.
 
 By default, the solution should include a set of checks to verify the target architecture. 
 However, for projects that already have an established architecture governance process, users should have the flexibility to extend and customize the set of checks according to their specific needs.
 
-Given the existence of various Static Code tools like Coverity and SonarQube that handle low-level checks like indentation and formatting, it would be redundant to implement those checks in the proposed solution.
+Given the existence of various Static Code tools like **Coverity** and **SonarQube** that handle low-level checks like indentation and formatting, it would be redundant to implement those checks in the proposed solution.
 Instead, the solution should focus on providing value through higher-level architectural checks and analysis.
 
 ### Configurability
