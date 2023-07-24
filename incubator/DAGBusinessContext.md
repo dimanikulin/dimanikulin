@@ -186,18 +186,19 @@ An example of text output might be following
 |11 | Code | High | technology standards change and developers start using libraries or programming languages that are out of scope | To replace the unauthorized library with an allowed one |
 |12 | Code | Low | A microservice accesses local FS and provides access to internal data | To add an abstraction level to decrease the level of dependency on internal data |
 
-The graphic format is utilized to visually represent the software architecture, including 
+The **graphic format** is utilized to visually represent the software architecture, including 
 - the holistic application architecture, 
 - diagrams of all services, 
 - and data flows. 
 
-Both offline and online UML diagramming tools are employed to save and document the extracted software architecture. 
+Both **offline** and **online UML** diagramming tools are employed to save and document the extracted software architecture. 
 This graphic format allows users to annotate and tag components and inventory items using user-defined keywords.
 
 Here's an example of a graphic output:
 
 <img src="./DAGBusinessContext2.png" alt="TBD" />
-In the graphic representation above, four services and one database are identified within the software architecture.
+
+In the **graphic** representation above, **four services** and **one database** are identified within the software architecture.
 The diagram clearly illustrates the relationships between these components and the direction of communication between them.
 
 ### Modifiability and extendibility
