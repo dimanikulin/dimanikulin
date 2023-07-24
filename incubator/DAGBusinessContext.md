@@ -46,23 +46,24 @@ Software architecture, architecture review, architecture drift, architecture ero
 ## Executive summary
 
 In today's rapidly changing software world, the ability to adapt and evolve the software architecture is **crucial** for success.
-The readiness for change is a key factor in ensuring a product can meet evolving business and product requirements in the high-tech industry.
+The readiness for change is a **key** factor in ensuring a product can meet evolving business and product requirements in the high-tech industry.
 
-However, uncontrolled architecture drifts and erosions pose significant risks to a product's success.
+However, uncontrolled **architecture drifts** and **erosions** pose significant risks to a product's success.
 These drifts can result in the loss of expected extensibility and hinder the adoption of a product as the user base grows.
 Identifying and addressing these drifts is often done through complex and time-consuming manual architecture reviews, relying on experienced architects to assess the software architecture.
 
-Despite the importance of manual reviews, they have limitations in terms of efficiency and coverage. 
+Despite the importance of **manual reviews**, they have limitations in terms of efficiency and coverage. 
 Human factors can influence the identification of architectural issues, leading to inconsistencies and potentially missing critical problems.
 
-To overcome these challenges, there is a need for automated solutions that can detect architecture drift and erosion more effectively.
+To overcome these challenges, there is a need for automated solutions that can detect **architecture drift** and **erosion** more effectively.
 By leveraging automated tools and processes, organizations can achieve better outcomes in terms of identifying and preventing architectural issues.
 
-This white paper explores the concept of detecting architectural gaps with automation.
-It covers the impact of architecture drift and erosion on the business, the limitations of manual reviews, and the benefits of automating architecture checks. Additionally, it discusses specific considerations related to compliance, data security, DevOps, and more when evaluating architecture review solutions. 
+This white paper explores the concept of **detecting architectural gaps with automation**.
+It covers the impact of **architecture drift** and **erosion** on the business, the limitations of **manual reviews**, and the benefits of automating architecture checks. 
+Additionally, it discusses specific considerations related to **compliance**, **data security**, **DevOps**, and more when evaluating architecture review solutions. 
 The paper also provides use case scenarios to illustrate what automated architecture checks can look like in practice.
 
-By adopting automated architecture review solutions, organizations can improve their ability to identify and address architectural gaps, ensuring the stability, scalability, and maintainability of their software systems.
+By adopting **automated architecture review** solutions, organizations can improve their ability to identify and address architectural gaps, ensuring the stability, scalability, and maintainability of their software systems.
 
 ## Detecting Architectural Gaps with Automation
 
