@@ -118,13 +118,13 @@ These inputs collectively provide the necessary information for the solution to 
 
 ### Solution integration 
 Integration of the proposed solution with various tools and systems allows for a comprehensive analysis of software architecture.
-Here are the integration possibilities mentioned:
+Here are the **integration** possibilities mentioned:
 
-- Offline UML designing tools: The solution can be integrated with offline UML designing tools like OmniGraffle and Microsoft Visio. This integration enables the import of UML diagrams created using these tools for analysis and evaluation.
+- **Offline UML designing tools**: The solution can be integrated with offline UML designing tools like OmniGraffle and Microsoft Visio. This integration enables the import of UML diagrams created using these tools for analysis and evaluation.
 
-- Online UML designing tools: Integration with online UML designing tools such as Enterprise Architect, LucidChart, Draw.IO, PlantUML, and Gliffy.com provides the ability to import UML diagrams created in these platforms. This expands the range of tools that can be used for software design and analysis.
+- **Online UML designing tools**: Integration with online UML designing tools such as Enterprise Architect, LucidChart, Draw.IO, PlantUML, and Gliffy.com provides the ability to import UML diagrams created in these platforms. This expands the range of tools that can be used for software design and analysis.
 
-- Source control management systems: Integration with source control management systems like SVN and Git allows the solution to access code and configuration files directly from the repository. This ensures that the latest version of the software is analyzed, and any changes made to the codebase are taken into account.
+- **Source control management systems**: Integration with source control management systems like SVN and Git allows the solution to access code and configuration files directly from the repository. This ensures that the latest version of the software is analyzed, and any changes made to the codebase are taken into account.
 
 By integrating the solution with these tools and systems, users can leverage existing software design and version control workflows to enhance the effectiveness of the automatic review process. 
 
