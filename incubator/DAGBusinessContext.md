@@ -106,13 +106,13 @@ In the context of the **CI/CD** mode, the following features should be supported
 ### Solution inputs 
 The proposed solution can accept various inputs, including:
 
-- Code from the solution under review: The solution should be able to analyze and process code files from the software being reviewed.
+- **Code from the solution under review**: The solution should be able to analyze and process code files from the software being reviewed.
 
-- Configuration from the solution under review: Configuration files used by the software should be compatible with the solution to extract relevant information.
+- **Configuration from the solution under review**: Configuration files used by the software should be compatible with the solution to extract relevant information.
 
-- Software design from UML designing tools: The solution should support importing software designs created using UML (Unified Modeling Language) tools. This allows for a comprehensive analysis of the software's architectural design.
+- **Software design from UML designing tools**: The solution should support importing software designs created using **UML** (**Unified Modeling Language**) tools. This allows for a comprehensive analysis of the software's architectural design.
 
-- Database scripts and database configuration: The solution should be capable of working with database scripts and configurations, enabling analysis of the database layer in the software.
+- **Database scripts and database configuration**: The solution should be capable of working with database scripts and configurations, enabling analysis of the database layer in the software.
 
 These inputs collectively provide the necessary information for the solution to perform its analysis and evaluation of the software architecture.
 
@@ -128,11 +128,13 @@ Here are the integration possibilities mentioned:
 
 By integrating the solution with these tools and systems, users can leverage existing software design and version control workflows to enhance the effectiveness of the automatic review process. 
 
-As an example of the input code could be the code written in C# using microservices architecture. 
-The other example could be the code written in JavaScript for multi-tier applications. 
-The example of configuration might be the description of nodes used in deployment.
-Another example could be the configuration of VPN network and API gateways.
-The example of input software design can be description of interfaces saved in Enterprise Architect.
+As an example of the input code could be the code written in **C#** using **microservices architecture**. 
+The other example could be the code written in **JavaScript** for **multi-tier applications**. 
+
+The example of configuration might be the **description of nodes** used in deployment.
+Another example could be the **configuration of VPN networks** and **API gateways**.
+
+The example of input software design can be description of interfaces saved in **Enterprise Architect**.
 
 ### User interaction
 The proposed solution provides a web interface that allows users to interact with it from a desktop computer.
