@@ -1,5 +1,5 @@
 # Headline
-Detecting Architectural Gaps with Automation: Enhancing Software Architecture Maintenance and Efficiency
+**Detecting Architectural Gaps** with Automation: Enhancing Software Architecture Maintenance and Efficiency
 
 # Article description
 This text discusses the implementation of a solution for detecting architectural gaps and drifts in software systems.
@@ -45,7 +45,7 @@ Software architecture, architecture review, architecture drift, architecture ero
 # Content
 ## Executive summary
 
-In today's rapidly changing software world, the ability to adapt and evolve the software architecture is crucial for success.
+In today's rapidly changing software world, the ability to adapt and evolve the software architecture is **crucial** for success.
 The readiness for change is a key factor in ensuring a product can meet evolving business and product requirements in the high-tech industry.
 
 However, uncontrolled architecture drifts and erosions pose significant risks to a product's success.
