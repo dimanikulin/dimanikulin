@@ -84,7 +84,7 @@ By reading this paper, you will develop a deeper understanding of **architecture
 ## Solution requirements
 This section outlines the requirements for implementing the solution.
 It is important to note that these requirements are not exhaustive and can be extended based on the specific needs of the project.
-The requirements are categorized into solution modes and inputs, solution integration and user interaction, and solution output with quality attributes like modifiability, extendibility, and configurability.
+The requirements are categorized into solution **modes and inputs**, solution **integration** and **user interaction**, and **solution output** with **quality attributes** like modifiability, extendibility, and configurability.
 
 ### Solution modes
 The proposed solution should support the following modes:
