@@ -99,7 +99,8 @@ The channel was created and works to promote and publish fake news about the Rus
 | [voytenkos](https://t.me/voytenkos)                | 
 | [vv_volodin](https://t.me/vv_volodin)              | 
 | [war_ukr_russ](https://t.me/war_ukr_russ)          | 
-| [warhistoryalconafter](https://t.me/warhistoryalconafter)| 
+| [warhistoryalconafter](https://t.me/warhistoryalconafter)|
+| [Крепкое слово](https://t.me/wrusss)               | 
 | [xaknet_team](https://t.me/xaknet_team)            | 
 | [xoxol_uk](https://t.me/xoxol_uk)                  | 
 | [zhurnalistka_z](https://t.me/zhurnalistka_z)      | 
