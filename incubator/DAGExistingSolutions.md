@@ -7,7 +7,7 @@ From creating baseline architectures to detecting drifts, erosions, and security
 Dive into the comparison of their functionalities and understand how they address different levels of architectural governance, ensuring optimal application performance and development. 
 
 # Tags
-TBD
+Bionic.ai Castsoftware Axivion NDepend softwarearchitecture applicationanalysis impactanalysis codeanalysis staticcodeanalysis architecturemaintenance
 
 # Definitions, Acronyms, Abbreviations
 | # | Abbreviation or Acronym | Definition     |
