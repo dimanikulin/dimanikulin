@@ -104,4 +104,5 @@ The channel was created and works to promote and publish fake news about the Rus
 | [xaknet_team](https://t.me/xaknet_team)            | 
 | [xoxol_uk](https://t.me/xoxol_uk)                  | 
 | [zhurnalistka_z](https://t.me/zhurnalistka_z)      | 
+| [Zuben.co новости](https://t.me/zuben_co)          |
 | [SU_Hunter_2_0](https://t.me/ZSU_Hunter_2_0)       | 
