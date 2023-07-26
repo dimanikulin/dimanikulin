@@ -58,18 +58,17 @@ As a result, it generates comprehensive software architecture diagrams, encompas
 - Analyzes the code to identify processes/applications suitable for refactoring, retirement, or rebuilding.
 - Provides a readiness percentage for migrating to the cloud based on the analysis.
 
-
 ## Castsoftware Cast Imaging 
-[Cast Imaging](https://www.castsoftware.com/imaging) application creates visualization of architecture with several different levels of detailsation from services level up to code/classes level. It defines the flows of data from high level (application level) up to the database. When changes occur, it provides the impact of changes for example, the list of components affected by breaking of components communication. It creates the inventories of 
-- databases;
-- libraries/frameworks;
-- languages.
+[Cast Imaging](https://www.castsoftware.com/imaging) is an application that creates visualizations of architecture, offering several levels of detailed views ranging from services level up to code/classes level.
+It defines data flows from the high-level application perspective down to the database level.
+When changes occur, it provides the impact analysis, such as a list of components affected by the breaking of component communication.
+Additionally, it creates inventories of databases, libraries/frameworks, and languages.
 
 ### Main features
-- It performs reverse engineering of code, databases, and dependencies of applications;
-- It performs the creation of holistic architecture views and blueprints;
-- Its architecture view has interactive mode;
-- It has a tagging feature to group components by criteria. Once tagging is finished, the user can search the components and filter them.
+- Performs reverse engineering of code, databases, and application dependencies.
+- Generates holistic architecture views and blueprints.
+- Interactive mode for exploring architecture views.
+- Tagging feature to group components based on criteria, enabling easy component search and filtering after tagging is completed.
 
 ## NDepend
 [NDepend] is application to analyze C# code to check against best practices and to check the code based on rules created by developers and architects.
