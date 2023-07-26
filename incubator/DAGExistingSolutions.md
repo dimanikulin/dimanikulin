@@ -51,12 +51,13 @@ As a result, it generates comprehensive software architecture diagrams, encompas
 
 <img src="./DAGExistingSolutions1.png" alt="DAGExistingSolution" />
 
-## Castsoftware Highlight 
-[Cast Highlight](https://www.castsoftware.com/products/highlight) is an application to automatically analyze the source code.
+## Castsoftware Highlight
+[Cast Highlight](https://www.castsoftware.com/products/highlight) is an application designed to automatically analyze the source code.
 
-### Main features
-- It analyzes the code to define what process/applications can be refactored, retired, rebuild; 
-- Based on analysis it can provide a percent of readiness to migrate to the cloud.
+### Main features:
+- Analyzes the code to identify processes/applications suitable for refactoring, retirement, or rebuilding.
+- Provides a readiness percentage for migrating to the cloud based on the analysis.
+
 
 ## Castsoftware Cast Imaging 
 [Cast Imaging](https://www.castsoftware.com/imaging) application creates visualization of architecture with several different levels of detailsation from services level up to code/classes level. It defines the flows of data from high level (application level) up to the database. When changes occur, it provides the impact of changes for example, the list of components affected by breaking of components communication. It creates the inventories of 
