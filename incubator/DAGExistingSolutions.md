@@ -71,7 +71,7 @@ Additionally, it creates inventories of databases, libraries/frameworks, and lan
 - Tagging feature to group components based on criteria, enabling easy component search and filtering after tagging is completed.
 
 ## NDepend
-[NDepend] is application to analyze C# code to check against best practices and to check the code based on rules created by developers and architects.
+[NDepend] TBDDDD is application to analyze C# code to check against best practices and to check the code based on rules created by developers and architects.
 It gives the possibility to manage the dependencies by creating the graphs and matrix.
 
 ### Main features
