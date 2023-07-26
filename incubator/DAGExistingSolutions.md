@@ -41,13 +41,13 @@ Upon detecting a change, Bionic.ai suggests the context and thoroughly analyzes 
 As a result, it generates comprehensive software architecture diagrams, encompassing deployment, logical, and flow views.
 
 ### Main features
-- it helps to check if architecture rules and standards are applied;
-- it helps to identify any structural or behavioral changes.
-- it scans the code and document at the initial or scheduled stage.
-- it determines the new API in the application;
-- it is able to find new data flows;
-- it detects new connections; 
-- it provides the prioritized list of risks once change occurred; 
+- Facilitates checking if architecture rules and standards are applied
+- Aids in identifying any structural or behavioral changes
+- Conducts code and document scans during the initial or scheduled stages
+- Determines new APIs in the application
+- Capable of finding new data flows
+- Detects new connections
+- Provides a prioritized list of risks once changes occur
 
 <img src="./DAGExistingSolutions1.png" alt="DAGExistingSolution" />
 
