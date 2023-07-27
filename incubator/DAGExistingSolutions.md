@@ -104,14 +104,16 @@ Supported Metrics:
 
 With Axivion Suite, users can proactively maintain the integrity and quality of their software architecture by adhering to industry-leading compliance standards and monitoring key metrics.
 
-### Main features
-- Code checks for clones, unreachable code and cycles;
-- three main OS are supported to run on - MacOS, Windows and Linux;
-- identification for technical debt;
-- Integration with CI tools to work as a part of pipeline (Jenkins and Bamboo are supported);
-- make, CMake, Msbuild and gradle are supported;
-- analysis of delta to continuously track the changes against baseline;
-- it supports some IDE plugins to integrate Axivion into a developer environment. 
+### Main Features
+
+- Code checks for clones, identifying duplicated code segments to ensure code efficiency.
+- Detection of unreachable code and cycles, improving code reliability and performance.
+- Supported on three major operating systems - MacOS, Windows, and Linux, for seamless usage across platforms.
+- Identification of technical debt, allowing developers to address code areas that require improvement or refactoring.
+- Integration with CI (Continuous Integration) tools such as Jenkins and Bamboo, enabling smooth integration into development pipelines.
+- Support for popular build systems like make, CMake, Msbuild, and Gradle, facilitating easy setup and usage.
+- Analysis of delta changes against the baseline, enabling continuous tracking of code modifications and their impact on the architecture.
+- IDE (Integrated Development Environment) plugins support, allowing developers to seamlessly integrate Axivion Suite into their preferred development environment for streamlined code analysis and optimization
 
 ## Comparison of existing solutions
 | Function | Bionic | Cast Imaging and Highlight | Axivion  | NDepend               |
