@@ -19,8 +19,8 @@ The channel was created and works to promote and publish fake news about the Rus
 | [Брекотин](https://t.me/brekotins)                 | Blocked for DN | |
 | [Опознай хохла по чубу](https://t.me/chub_detection)| Blocked for DN | |
 | [crazypower1](https://t.me/crazypower1)            | | AntiPutin content |
-| [Крымская Z прачка 🧺🧼](https://t.me/Crimeanprachka)      | Blocked for DN | |
-| [crystal_book](https://t.me/crystal_book)          | 
+| [Крымская Z прачка 🧺🧼](https://t.me/Crimeanprachka)| Blocked for DN | |
+| [КРИСТАЛЛ РОСТА](https://t.me/crystal_book)        | 
 | [dep_shishkina](https://t.me/dep_shishkina)        | 
 | [DnevnikDesantnika](https://t.me/DnevnikDesantnika)| 
 | [dolgarevaanna](https://t.me/dolgarevaanna)        | 
