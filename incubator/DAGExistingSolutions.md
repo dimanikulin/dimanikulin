@@ -71,14 +71,15 @@ Additionally, it creates inventories of databases, libraries/frameworks, and lan
 - Tagging feature to group components based on criteria, enabling easy component search and filtering after tagging is completed.
 
 ## NDepend
-[NDepend](https://www.workshell.co.uk/products/netdepends/) is application to analyze C# code to check against best practices and to check the code based on rules created by developers and architects.
-It gives the possibility to manage the dependencies by creating the graphs and matrix.
+[NDepend](https://www.workshell.co.uk/products/netdepends/) is an application designed to analyze C# code, checking it against best practices and rules created by developers and architects. 
+The tool enables users to manage dependencies through the creation of graphs and matrices.
 
 ### Main features
-- A user can use built-in rules and can customize the rules;
-- it provides a way to investigate how an application is structured and linked with libraries; 
-- It can be easily plugged into the CI/CD process to find the code and architecture problem in real time;
-- When it finds an issue, it provides the cost of fix and its priority.
+
+- Utilize built-in rules and customize them according to specific needs.
+- Investigate application structure and library linkages.
+- Seamless integration into the CI/CD process, enabling real-time identification of code and architecture issues.
+- Provides insights into the cost and priority of fixing identified issues.
 
 <img src="./DAGExistingSolutions2.png" alt="DAGExistingSolution2" />
 
