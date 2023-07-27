@@ -84,7 +84,8 @@ The channel was created and works to promote and publish fake news about the Rus
 | [СОЛДАТ УДАЧИ](https://t.me/Soldieroffortune777)   | Blocked for DN | | 
 | [Скабеева](https://t.me/skabeeva)                  | Closed comments for everyone | |
 | [sharikovtime](https://t.me/sharikovtime)          | 
-| [smershmsk](https://t.me/smershmsk)                | 
+| [smershmsk](https://t.me/smershmsk)                |
+| [«СОЮЗ ВЕТЕРАНОВ СВО» по КК](https://t.me/souzveteranovsvokk)| 
 | [spainrus](https://t.me/spainrus)                  | 
 | [sskarnaukhov](https://t.me/sskarnaukhov)          | 
 | [strazh_1](https://t.me/strazh_1)                  | 
