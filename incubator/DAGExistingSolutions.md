@@ -83,20 +83,26 @@ The tool enables users to manage dependencies through the creation of graphs and
 
 <img src="./DAGExistingSolutions2.png" alt="DAGExistingSolution2" />
 
-## Axivion
-[Axivion](https://www.axivion.com/en/) Suite is the static code analysis tool that provides you with the ability to check software architecture to prevent drifts or erosions. It provides customizable reporting with a reporting API. With Axivion you have an editor to create the rules for checking or to customize the default rules
+## Axivion Suite
+[Axivion Suite](https://www.axivion.com/en/) is a powerful static code analysis tool that empowers users to thoroughly examine software architecture, ensuring prevention of drifts and erosions. 
+The platform offers customizable reporting with a reporting API, providing flexibility in generating reports.
+Axivion also includes an editor that allows users to create or customize rules for comprehensive code checking.
 
-It supports the checking for the next compliance standards/rules:
-- MISRA;
-- AUTOSAR C++14 code;
-- CERT;
-- CWE;
-- ISO/IEC TS 17961.
+Supported Compliance Standards/Rules:
 
-It supports following metrics: 
-- HIS; 
-- McCabe;
-- Tracking memory leaks.
+- MISRA
+- AUTOSAR C++14 code
+- CERT
+- CWE
+- ISO/IEC TS 17961
+
+Supported Metrics:
+
+- HIS (High Integrity Software)
+- McCabe
+- Tracking memory leaks
+
+With Axivion Suite, users can proactively maintain the integrity and quality of their software architecture by adhering to industry-leading compliance standards and monitoring key metrics.
 
 ### Main features
 - Code checks for clones, unreachable code and cycles;
