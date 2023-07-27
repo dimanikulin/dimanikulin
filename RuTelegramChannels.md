@@ -58,6 +58,7 @@ The channel was created and works to promote and publish fake news about the Rus
 | [membersofxaknet](https://t.me/membersofxaknet)    | 
 | [Metametrica](https://t.me/Metametrica)            | 
 | [mylandbelarus](https://t.me/mylandbelarus)        | 
+| [Настюшка на Войнушке](https://t.me/nastyadnr)     |
 | [ncbs18](https://t.me/ncbs18)                      | 
 | [nemeZ1da_ru](https://t.me/nemeZ1da_ru)            | 
 | [NeSocSeti](https://t.me/NeSocSeti)                | 
