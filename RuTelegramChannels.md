@@ -50,6 +50,7 @@ The channel was created and works to promote and publish fake news about the Rus
 | [longread2023](https://t.me/longread2023)          | Closed comments for everyone | |
 | [LIC_LPR](https://t.me/LIC_LPR)                    |
 | [НОВОСТИ ЛНР](https://t.me/luganskallnews)         | Closed comments for everyone | |
+| [Мариуполь сейчас](https://t.me/mariupolz)         |
 | [m0sc0wcalling](https://t.me/m0sc0wcalling)        |
 | [moscowmap](https://t.me/moscowmap)                | | AntiPutin content |
 | [mariabutina](https://t.me/mariabutina)            | 
