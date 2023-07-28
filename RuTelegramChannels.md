@@ -25,7 +25,8 @@ The channel was created and works to promote and publish fake news about the Rus
 | [dep_shishkina](https://t.me/dep_shishkina)        | 
 | [DnevnikDesantnika](https://t.me/DnevnikDesantnika)| 
 | [dolgarevaanna](https://t.me/dolgarevaanna)        | 
-| [donezkiy](https://t.me/donezkiy)                  | 
+| [donezkiy](https://t.me/donezkiy)                  |
+| [Донбасс решает](https://t.me/donbassr)            |
 | [dva_majors](https://t.me/dva_majors)              | 
 | [eternoff](https://t.me/eternoff)                  |
 | [Fighterbomber](https://t.me/fighter_bomber)       | Blocked for DN | |
