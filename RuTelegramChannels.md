@@ -20,7 +20,7 @@ The channel was created and works to promote and publish fake news about the Rus
 | [Опознай хохла по чубу](https://t.me/chub_detection)| Blocked for DN | |
 | [crazypower1](https://t.me/crazypower1)            | | AntiPutin content |
 | [Крымская Z прачка 🧺🧼](https://t.me/Crimeanprachka)| Blocked for DN | |
-| [КРИСТАЛЛ РОСТА](https://t.me/crystal_book)        |
+| [КРИСТАЛЛ РОСТА](https://t.me/crystal_book)        | Closed comments for everyone | |
 | [Донецк ⚒ | ЧП Макеевка](https://t.me/dark_donetskz)|Closed comments for everyone | |
 | [dep_shishkina](https://t.me/dep_shishkina)        | 
 | [DnevnikDesantnika](https://t.me/DnevnikDesantnika)| 
