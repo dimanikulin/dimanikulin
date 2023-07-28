@@ -84,6 +84,7 @@ The channel was created and works to promote and publish fake news about the Rus
 | [Росич Rosich](https://t.me/rosich_ru) | Blocked for DN | | 
 | [rosich_admin](https://t.me/rosich_admin)          | 
 | [rsotmdivision](https://t.me/rsotmdivision)        |
+| [Репортёр Руденко V🇷🇺](https://t.me/RtrDonetsk)  | Closed comments for everyone | | 
 | [RuFront](https://t.me/RuFront)                    | Closed comments for everyone | |
 | [russiaz](https://t.me/russiaz)                    | 
 | [sergeyvostrecov](https://t.me/sergeyvostrecov)    |
