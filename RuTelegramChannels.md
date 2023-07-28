@@ -17,6 +17,7 @@ The channel was created and works to promote and publish fake news about the Rus
 | [🇷🇺БОБР🇷🇺](https://t.me/BOBRMORF)              | Blocked for DN | |
 | [Brееgе Timе ZÖZZ🇷🇺](https://t.me/breege_time_20zz)| Blocked for DN | |
 | [Брекотин](https://t.me/brekotins)                 | Blocked for DN | |
+| [Работайте, братья!](https://t.me/btr80)           | Closed comments for everyone | | 
 | [Опознай хохла по чубу](https://t.me/chub_detection)| Blocked for DN | |
 | [crazypower1](https://t.me/crazypower1)            | | AntiPutin content |
 | [Крымская Z прачка 🧺🧼](https://t.me/Crimeanprachka)| Blocked for DN | |
