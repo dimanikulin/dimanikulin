@@ -71,7 +71,7 @@ Additionally, it creates inventories of **databases**, **libraries/frameworks**,
 - Tagging feature to group components based on criteria, enabling easy component search and filtering after tagging is completed.
 
 ## NDepend
-[NDepend](https://www.workshell.co.uk/products/netdepends/) is an application designed to analyze C# code, checking it against best practices and rules created by developers and architects. 
+[NDepend](https://www.workshell.co.uk/products/netdepends/) is an application designed to analyze **C#** code, checking it against best practices and rules created by developers and architects. 
 The tool enables users to manage dependencies through the creation of graphs and matrices.
 
 ### Main features
@@ -84,7 +84,7 @@ The tool enables users to manage dependencies through the creation of graphs and
 <img src="./DAGExistingSolutions2.png" alt="DAGExistingSolution2" />
 
 ## Axivion Suite
-[Axivion Suite](https://www.axivion.com/en/) is a powerful static code analysis tool that empowers users to thoroughly examine software architecture, ensuring prevention of drifts and erosions. 
+[Axivion Suite](https://www.axivion.com/en/) is a powerful static code analysis tool that empowers users to thoroughly examine software **architecture**, ensuring prevention of **drifts** and **erosions**. 
 The platform offers customizable reporting with a reporting API, providing flexibility in generating reports.
 Axivion also includes an editor that allows users to create or customize rules for comprehensive code checking.
 
@@ -102,7 +102,7 @@ Supported Metrics:
 - McCabe
 - Tracking memory leaks
 
-With Axivion Suite, users can proactively maintain the integrity and quality of their software architecture by adhering to industry-leading compliance standards and monitoring key metrics.
+With Axivion Suite, users can proactively maintain the integrity and quality of their **software architecture** by adhering to industry-leading compliance standards and monitoring key metrics.
 
 ### Main Features
 
@@ -136,9 +136,9 @@ With Axivion Suite, users can proactively maintain the integrity and quality of 
 |Simple to set up|+|+|+|+|
 |Check for cloud Readiness|-|+|-|-|
 
-As we can see from the table above, the existing solutions do not provide coverage for levels important for architecture governance, such as DevOps, Data, and Compliance. 
+As we can see from the table above, the existing **solutions** do not provide coverage for levels important for **architecture** governance, such as **DevOps**, **Data**, and **Compliance**. 
 Additionally, not all inputs are supported by the overviewed solutions.
-For example, scanning DB is not supported by Bionic.ai, and scanning UML documentation is not supported at all.
+For example, scanning DB is not supported by **Bionic.ai**, and scanning **UML** documentation is not supported at all.
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
