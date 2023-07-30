@@ -118,8 +118,8 @@ With Axivion Suite, users can proactively maintain the integrity and quality of 
 ## Comparison of existing solutions
 | Function | Bionic | Cast Imaging and Highlight | Axivion  | NDepend               |
 | -------- | -------|--------------------------- |--------- |:---------------------:|
-|The initial scan to create baseline (holistic application architecture diagram of all services, data flows, dependencies, and APIs, technology stack, application layers)|+|+|+|+|
-|To create the inventories (all the languages, frameworks, libraries, and databases used in the application)|-|+|+|-|
+|The initial scan to create a baseline of the holistic application architecture diagram involves capturing the comprehensive overview of all services, data flows, dependencies, APIs, technology stack, and application layers|+|+|+|+|
+|Creating inventories of all the languages, frameworks, libraries, and databases used in the application|-|+|+|-|
 |The scan after a change to detect drift or erosion (integration into CI/CD pipelines)|+|-|+|+|
 |Tagging the components|-|+|-|-|
 |Reporting the changes (behavioral or structural change)|+|+|+|+|
