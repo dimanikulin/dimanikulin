@@ -59,10 +59,10 @@ As a result, it generates comprehensive software **architecture** diagrams, enco
 - Provides a readiness percentage for migrating to the cloud based on the analysis.
 
 ## Castsoftware Cast Imaging 
-[Cast Imaging](https://www.castsoftware.com/imaging) is an application that creates visualizations of architecture, offering several levels of detailed views ranging from services level up to code/classes level.
+[Cast Imaging](https://www.castsoftware.com/imaging) is an application that creates visualizations of **architecture**, offering several levels of detailed views ranging from services level up to code/classes level.
 It defines data flows from the high-level application perspective down to the database level.
 When changes occur, it provides the impact analysis, such as a list of components affected by the breaking of component communication.
-Additionally, it creates inventories of databases, libraries/frameworks, and languages.
+Additionally, it creates inventories of **databases**, **libraries/frameworks**, and **languages**.
 
 ### Main features
 - Performs reverse engineering of code, databases, and application dependencies.
