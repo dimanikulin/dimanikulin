@@ -81,6 +81,7 @@ The channel was created and works to promote and publish fake news about the Rus
 | [petrlundstrem](https://t.me/petrlundstrem)        |
 | [Pobeda_Za_Deda](https://t.me/Pobeda_Za_Deda)      | | | 
 | [politsputnik](https://t.me/politsputnik)          |
+| [Лев Вершинин](https://t.me/putnik1lv)             |
 | [Росич Rosich](https://t.me/rosich_ru) | Blocked for DN | | 
 | [rosich_admin](https://t.me/rosich_admin)          | 
 | [rsotmdivision](https://t.me/rsotmdivision)        |
