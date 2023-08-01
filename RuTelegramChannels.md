@@ -5,7 +5,7 @@ The channel was created and works to promote and publish fake news about the Rus
 | [Бладсикер 2.0](https://t.me/+TjGTywz1xPRjNzg6)    | Blocked for DN | |
 | [Кузичев](https://t.me/a_kuzichev)                 | Blocked for DN | |
 | [Лонгрид (Несмиян)](https://t.me/a_nesmijan_longread)| Blocked for DN | | 
-| [Абзац медиа](https://t.me/absatzmedia)            | Closed comments for everyone | |
+| [Абзац медиа](https://t.me/absatzmedia)            | Closed comments | |
 | [АГС_Z_Донбасса](https://t.me/Ags_Donbass)         | Blocked for DN | | 
 | [Алексей Поддубный Джанго Z](https://t.me/alexeypoddubny_jango)| Blocked for DN | |
 | [Краля Даля](https://t.me/alyonamakk)              | Blocked for DN | |
@@ -17,12 +17,12 @@ The channel was created and works to promote and publish fake news about the Rus
 | [🇷🇺БОБР🇷🇺](https://t.me/BOBRMORF)              | Blocked for DN | |
 | [Brееgе Timе ZÖZZ🇷🇺](https://t.me/breege_time_20zz)| Blocked for DN | |
 | [Брекотин](https://t.me/brekotins)                 | Blocked for DN | |
-| [Работайте, братья!](https://t.me/btr80)           | Closed comments for everyone | | 
+| [Работайте, братья!](https://t.me/btr80)           | Closed comments | | 
 | [Опознай хохла по чубу](https://t.me/chub_detection)| Blocked for DN | |
 | [crazypower1](https://t.me/crazypower1)            | | AntiPutin content |
 | [Крымская Z прачка 🧺🧼](https://t.me/Crimeanprachka)| Blocked for DN | |
-| [КРИСТАЛЛ РОСТА](https://t.me/crystal_book)        | Closed comments for everyone | |
-| [Донецк ⚒ | ЧП Макеевка](https://t.me/dark_donetskz)|Closed comments for everyone | |
+| [КРИСТАЛЛ РОСТА](https://t.me/crystal_book)        | Closed comments | |
+| [Донецк ⚒ | ЧП Макеевка](https://t.me/dark_donetskz)|Closed comments | |
 | [dep_shishkina](https://t.me/dep_shishkina)        | Blocked for DN | | 
 | [DnevnikDesantnika](https://t.me/DnevnikDesantnika)| 
 | [dolgarevaanna](https://t.me/dolgarevaanna)        | 
@@ -49,9 +49,9 @@ The channel was created and works to promote and publish fake news about the Rus
 | [krasnovdmitri](https://t.me/krasnovdmitri)        | 
 | [kuzichev_chat](https://t.me/kuzichev_chat)        | 
 | [labppsh](https://t.me/labppsh)                    | 
-| [longread2023](https://t.me/longread2023)          | Closed comments for everyone | |
+| [longread2023](https://t.me/longread2023)          | Closed comments | |
 | [LIC_LPR](https://t.me/LIC_LPR)                    |
-| [НОВОСТИ ЛНР](https://t.me/luganskallnews)         | Closed comments for everyone | |
+| [НОВОСТИ ЛНР](https://t.me/luganskallnews)         | Closed comments | |
 | [Мариуполь сейчас](https://t.me/mariupolz)         |
 | [m0sc0wcalling](https://t.me/m0sc0wcalling)        |
 | [moscowmap](https://t.me/moscowmap)                | | AntiPutin content |
@@ -86,12 +86,12 @@ The channel was created and works to promote and publish fake news about the Rus
 | [Росич Rosich](https://t.me/rosich_ru) | Blocked for DN | | 
 | [rosich_admin](https://t.me/rosich_admin)          | 
 | [rsotmdivision](https://t.me/rsotmdivision)        |
-| [Репортёр Руденко V🇷🇺](https://t.me/RtrDonetsk)  | Closed comments for everyone | | 
-| [RuFront](https://t.me/RuFront)                    | Closed comments for everyone | |
+| [Репортёр Руденко V🇷🇺](https://t.me/RtrDonetsk)  | Closed comments | | 
+| [RuFront](https://t.me/RuFront)                    | Closed comments | |
 | [russiaz](https://t.me/russiaz)                    | 
 | [sergeyvostrecov](https://t.me/sergeyvostrecov)    |
 | [СОЛДАТ УДАЧИ](https://t.me/Soldieroffortune777)   | Blocked for DN | | 
-| [Скабеева](https://t.me/skabeeva)                  | Closed comments for everyone | |
+| [Скабеева](https://t.me/skabeeva)                  | Closed comments | |
 | [sharikovtime](https://t.me/sharikovtime)          | 
 | [smershmsk](https://t.me/smershmsk)                |
 | [«СОЮЗ ВЕТЕРАНОВ СВО» по КК](https://t.me/souzveteranovsvokk)| 
