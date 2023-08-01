@@ -67,6 +67,9 @@ Please share your thoughts in the comments.
 
 <img src="./Images/InterviewAITools.png" alt="InterviewAITools" />
 
+### Tags
+ai interviewtips cheating
+
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
@@ -75,6 +78,3 @@ Please share your thoughts in the comments.
 | 3 | Interview Red Flags | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_redflags-interview-activity-7063775173203640321-fEDW?utm_source=share&utm_medium=member_desktop) | May 15, 2023 | Dmytro Nikulin | |
 | 4 | AI tools for interview | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_ai-interviewtips-cheating-activity-7092037033061232640-bL5J?utm_source=share&utm_medium=member_desktop) | August 1, 2023 | Dmytro Nikulin | | 
 | 5 | Rip job interviews | [LinkedIn](https://www.linkedin.com/posts/zainkahn_rip-job-interviews-this-new-ai-tool-called-ugcPost-7069295920248406016-zBao?utm_source=share&utm_medium=member_desktop) | | Zain Kahn | |
-
-# Definitions, Acronyms, Abbreviations
-TBD
