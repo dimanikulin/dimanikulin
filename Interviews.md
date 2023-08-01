@@ -48,7 +48,6 @@ PS. Based on real interview.
 
 <img src="./Images/InterviewRedFlags.png" alt="InterviewRedFlags" />
 
-
 ## AI tools for interview 
 Nowadays, people actively use AI to learn, grow, and engage in many other positive endeavors.
 However, some individuals may employ AI to cheat, gaining an advantage during interviews.
@@ -66,7 +65,7 @@ And here are some other tips for interviewers:
 What measures do you take to avoid the use of AI tools during interviews?
 Please share your thoughts in the comments.
 
-
+<img src="./Images/InterviewAITools.png" alt="InterviewAITools" />
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
