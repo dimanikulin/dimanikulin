@@ -48,12 +48,34 @@ PS. Based on real interview.
 
 <img src="./Images/InterviewRedFlags.png" alt="InterviewRedFlags" />
 
+
+## AI tools for interview 
+Nowadays, people actively use AI to learn, grow, and engage in many other positive endeavors.
+However, some individuals may employ AI to cheat, gaining an advantage during interviews.
+One such new AI tool is called Ecout, which can listen to an interviewer's questions in real-time and generate instant answers.
+This poses a potential problem for interviewers.
+
+To detect such cases, I suggest the following:
+- Maintain eye contact. If a person frequently avoids eye contact, it may indicate the use of cheating tools.
+- Avoid waiting too long for an answer, as this could allow candidates to receive hints from AI tools incrementally.
+
+And here are some other tips for interviewers:
+- Be maximally objective to ensure fairness throughout the interview process.
+- Maintain a poker face, as revealing emotions might help a candidate guess the correct answer.
+
+What measures do you take to avoid the use of AI tools during interviews?
+Please share your thoughts in the comments.
+
+https://www.linkedin.com/posts/zainkahn_rip-job-interviews-this-new-ai-tool-called-ugcPost-7069295920248406016-zBao?utm_source=share&utm_medium=member_desktop
+
+
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 | 1 | Top Interviewer in Kyiv in C/C++ | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_globallogic-activity-6894337668830822401-iBcr?utm_source=share&utm_medium=member_desktop) | January 2022 | Dmytro Nikulin | |
 | 2 | Top Interviewer in Kyiv in C/C++ | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_globallogic-interviewer-cplusplus-activity-7038422433585860608-Tr0W?utm_source=share&utm_medium=member_desktop) | March 2023 | Dmytro Nikulin | |
 | 3 | Interview Red Flags | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_redflags-interview-activity-7063775173203640321-fEDW?utm_source=share&utm_medium=member_desktop) | May 15, 2023 | Dmytro Nikulin | |
- 
+| 4 | AI tools for interview | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_ai-interviewtips-cheating-activity-7092037033061232640-bL5J?utm_source=share&utm_medium=member_desktop) | August 1, 2023 | Dmytro Nikulin | | 
+
 # Definitions, Acronyms, Abbreviations
 TBD
