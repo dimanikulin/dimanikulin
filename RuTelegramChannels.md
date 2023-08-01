@@ -68,7 +68,8 @@ The channel was created and works to promote and publish fake news about the Rus
 | [ncbs18](https://t.me/ncbs18)                      | 
 | [nemeZ1da_ru](https://t.me/nemeZ1da_ru)            | 
 | [NeSocSeti](https://t.me/NeSocSeti)                | 
-| [nos_chanel](https://t.me/nos_chanel)              | 
+| [nos_chanel](https://t.me/nos_chanel)              |
+| [Типичная Одесса](https://t.me/odessa_typical)     | 
 | [OlesyaShigina](https://t.me/OlesyaShigina)        |
 | [only_rodina](https://t.me/only_rodina)            |
 | [olgaseletskaya](https://t.me/olgaseletskaya)      | 
