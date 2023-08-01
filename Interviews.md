@@ -20,7 +20,7 @@ In 2022 it was quite the same
 
 <img src="./Images/NumberOfInterviews.jpg" alt="Number Of Interviews" />
 
-# Interview Red Flags
+## Interview Red Flags
 
 Let me start with a small history about a technical interview I recently hosted. 
 The interviewee greeted me in Ukrainian, which was a pleasant surprise. 
@@ -47,9 +47,6 @@ So, some red flags to watch out for during an interview include:
 PS. Based on real interview.
 
 <img src="./Images/InterviewRedFlags.png" alt="InterviewRedFlags" />
-
-### Tags
-globallogic 
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
