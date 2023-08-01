@@ -99,7 +99,8 @@ The channel was created and works to promote and publish fake news about the Rus
 | [sskarnaukhov](https://t.me/sskarnaukhov)          | 
 | [strazh_1](https://t.me/strazh_1)                  | 
 | [stringer_donetsk](https://t.me/stringer_donetsk)  | 
-| [tactical_13](https://t.me/tactical_13)            | 
+| [tactical_13](https://t.me/tactical_13)            |
+| [Говорит ТопаZ🦩#ШВО](https://t.me/Topaz_Govorit)  | 
 | [ukr_leaks](https://t.me/ukr_leaks)                | 
 | [vadovskaya](https://t.me/vadovskaya)              | 
 | [verysexydasha](https://t.me/verysexydasha)        | 
