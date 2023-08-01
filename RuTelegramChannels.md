@@ -117,4 +117,5 @@ The channel was created and works to promote and publish fake news about the Rus
 | [xoxol_uk](https://t.me/xoxol_uk)                  | 
 | [zhurnalistka_z](https://t.me/zhurnalistka_z)      | 
 | [Zuben.co новости](https://t.me/zuben_co)          |
+| [MILITARY Z](https://t.me/x_military)              |
 | [SU_Hunter_2_0](https://t.me/ZSU_Hunter_2_0)       | 
