@@ -23,7 +23,7 @@ The channel was created and works to promote and publish fake news about the Rus
 | [Крымская Z прачка 🧺🧼](https://t.me/Crimeanprachka)| Blocked for DN | |
 | [КРИСТАЛЛ РОСТА](https://t.me/crystal_book)        | Closed comments for everyone | |
 | [Донецк ⚒ | ЧП Макеевка](https://t.me/dark_donetskz)|Closed comments for everyone | |
-| [dep_shishkina](https://t.me/dep_shishkina)        | 
+| [dep_shishkina](https://t.me/dep_shishkina)        | Blocked for DN | | 
 | [DnevnikDesantnika](https://t.me/DnevnikDesantnika)| 
 | [dolgarevaanna](https://t.me/dolgarevaanna)        | 
 | [donezkiy](https://t.me/donezkiy)                  |
