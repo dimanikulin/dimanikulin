@@ -42,17 +42,14 @@ Finally, Report Storage is employed to save the outputs extracted from the Archi
 
 <img src="DAGProposedSolution1.png" alt="DAGProposedSolution.png" />
 
-
 ## The Context View for a Separate Step in CI/CD
 The sole distinction between the previous view and the Context View for a Separate Step in CI/CD is the integration of the proposed solution with the existing CI/CD pipeline.
 
-
 <img src="DAGProposedSolution2.png" alt="DAGProposedSolution.png" />
 
-## Functional view
-
-A functional diagram below shows the high-level function decomposition of the proposed solution.
-An agenda below explains the coloring for functional decomposition diagram.
+## Functional View
+The functional diagram below illustrates the high-level functional decomposition of the proposed solution.
+An agenda is provided below to explain the color coding used in the functional decomposition diagram.
 
 <img src="DAGProposedSolution3.png" alt="DAGProposedSolution.png" />
 
