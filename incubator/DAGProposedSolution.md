@@ -11,7 +11,7 @@ Furthermore, learn about the integration with UML design tools, cloud services, 
 Whether you're an architect, developer, or IT enthusiast, this article offers a comprehensive guide to understanding the inner workings of a forward-looking software solution. 
 
 # Tags
-TBD
+Software Architecture, Integration Strategies, Deployment Scenarios, Context Diagrams, Functional Decomposition, CI/CD Pipelines
 
 # Definitions, Acronyms, Abbreviations
 | # | Abbreviation or Acronym | Definition     |
