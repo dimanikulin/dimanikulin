@@ -28,7 +28,7 @@ Software Architecture, Integration Strategies, Deployment Scenarios, Context Dia
 | 10| UML | The Unified Modeling Language (UML) is a general-purpose, developmental, modeling language in the field of software engineering that is intended to provide a standard way to visualize the design of a system.|
 
 # Content
-## Context View for Standalone Application
+## The Context View for Standalone Application
 A context diagram (view) defines the solution's boundaries and connections with third parties, such as external systems, users, and data.
 
 As shown in the context diagram above, there is an interaction between Users and the Proposed Solution.
@@ -42,9 +42,10 @@ Finally, Report Storage is employed to save the outputs extracted from the Archi
 
 <img src="DAGProposedSolution1.png" alt="DAGProposedSolution.png" />
 
-## Context view for separate step in CI/CD
 
-The only difference between previous view and Context View for Separate step in CI/CD is integration of the proposed solution with existing CI/CD pipeline.
+## The Context View for a Separate Step in CI/CD
+The sole distinction between the previous view and the Context View for a Separate Step in CI/CD is the integration of the proposed solution with the existing CI/CD pipeline.
+
 
 <img src="DAGProposedSolution2.png" alt="DAGProposedSolution.png" />
 
