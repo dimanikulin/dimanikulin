@@ -1,5 +1,5 @@
 # Headline
-TBD
+**Detecting Architectural Gaps** with Automation: Comprehensive Overview of Proposed Software Solution's Architecture and Integration
 
 # Article description
 TBD 
