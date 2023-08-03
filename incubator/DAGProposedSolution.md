@@ -77,18 +77,17 @@ The data layer function maintains the following types of data:
 - System Configuration: This aspect encompasses a set of check configurations for processing. It also keeps track of configurations for report plugins. Changes to these configurations can be made from the architects' panel.
 - User Configuration: This includes user profiles and access rights, which can be modified from the administrator panel.
 
-### Processing layer
-The processing layer is a core function of systems to process the input to find architecture problems. 
-It is configured from the architect panel to run the checks against input. 
-It interacts with the reports plugins engine to store the reports. 
-It also saves the extracted architecture to Architecture baselines so the architects can review it later. 
-To improve the quality of reports, Machine Learning (ML) during processing might be used. ML and its interaction is described in this document later.  
+### Processing Layer
+The processing layer serves as a fundamental function within systems, tasked with processing input data to identify architecture problems.
+Configuration of this layer takes place through the architect panel, where checks against the input are initiated.
+Additionally, it collaborates with the reports plugins engine for report storage. 
+Furthermore, the extracted architecture is preserved in Architecture baselines, enabling architects to review it at a later time.
+It is worth noting that Machine Learning (ML) might be employed during processing to enhance the quality of reports.
 
-## Deployment view
+## Deployment View
+The deployment view illustrates how a solution is intended to be deployed, encompassing its flows and the supporting components.
 
-The deployment schemes show how a solution shall be deployed with its flows and supporting components.
-
-## Deployment view - on premise
+### Deployment View - On-Premises
 
 <img src="DAGProposedSolution4.png" alt="DAGProposedSolution.png" />
 
