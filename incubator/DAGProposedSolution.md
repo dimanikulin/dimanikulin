@@ -67,14 +67,15 @@ The following components are involved:
 
 
 ### User Interface
-The user interface function interacts with the user in two modes: architects and administrator mode. 
-It is based on a web interface that supports desktop browsers. 
+The user interface function interacts with users in two modes: architects and administrator mode. 
+It utilizes a web interface that is compatible with desktop browsers.
 
-### Data layer
-The data layer function keeps following types of data:
-- Architecture baselines - it is a history of Architecture changes so users can see at any time which Architecture change took place, available for a view from the architects panel;
-- System configuration - it is a set of check configurations for processing, it also keeps track of reports plugins configuration, available for a change from the architects panel;
-- User configuration - user profiles and access rights, available for a change from administrator panel.
+### Data Layer
+The data layer function maintains the following types of data:
+
+- Architecture Baselines: This feature records the history of architecture changes, allowing users to track and view past changes. It is accessible for viewing from the architects' panel.
+- System Configuration: This aspect encompasses a set of check configurations for processing. It also keeps track of configurations for report plugins. Changes to these configurations can be made from the architects' panel.
+- User Configuration: This includes user profiles and access rights, which can be modified from the administrator panel.
 
 ### Processing layer
 The processing layer is a core function of systems to process the input to find architecture problems. 
