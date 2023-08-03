@@ -53,16 +53,18 @@ An agenda is provided below to explain the color coding used in the functional d
 
 <img src="DAGProposedSolution3.png" alt="DAGProposedSolution.png" />
 
-### Integration layer
-The integration layer function is to abstract and segregate the system from external components to improve the system extensibility and modifiability.
+### Integration Layer
+The function of the integration layer is to abstract and segregate the system from external components, enhancing system extensibility and modifiability.
 
-Following are the components:
-- Online UML tools integration point - component to integrate Online UML tools with Processor;
-- Offline  UML tools integration point - component to integrate Offline UML tools with Processor;
-- VSC integration point - component to integrate Version Control Systems with Processor;
-- Databases integration point - component to integrate databases configuration with Processor;
-- CI/CD integration point - component to integrate CI/CD tools (like Jenkins, Bamboo) with Processor;
-- The Reports plugins - an engine to generate reports in a flexible way and to save them on external report storage.
+The following components are involved:
+
+- Online UML Tools Integration Point: This component integrates Online UML tools with the Processor.
+- Offline UML Tools Integration Point: This component integrates Offline UML tools with the Processor.
+- Version Control Systems (VSC) Integration Point: This component integrates Version Control Systems with the Processor.
+- Databases Integration Point: This component integrates database configurations with the Processor.
+- CI/CD Integration Point: This component integrates CI/CD tools (such as Jenkins, Bamboo) with the Processor.
+- Reports Plugins: An engine designed to generate reports in a flexible manner and store them in an external report storage.
+
 
 ### User Interface
 The user interface function interacts with the user in two modes: architects and administrator mode. 
