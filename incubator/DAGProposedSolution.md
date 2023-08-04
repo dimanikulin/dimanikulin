@@ -122,18 +122,26 @@ Furthermore, the proposed solution should also integrate effectively with online
 
 <img src="DAGProposedSolution6.png" alt="DAGProposedSolution.png" />
 
-### Integration with offline UML design tools
-Because offline tools do not have an API to work with, the cooperation with them is implemented using import mechanisms. 
-So input architecture documents saved in Microsoft Visio format will be exported by a plugin (integration point) and analyzed then by the Processor.
-The path for scanning input documents is saved in System Configuration DB.
-So parsing the different input formats shall be implemented to support this kind of integration.
+### Integration with Offline UML Design Tools
 
-### Integration with online UML design tools
+Due to the absence of APIs in offline tools, collaboration with them is established through import mechanisms.
+Consequently, architectural documents saved in Microsoft Visio format will be exported by a plugin (integration point) and subsequently analyzed by the Processor.
+The path for scanning input documents will be stored in the System Configuration DB.
+To support this form of integration, the ability to parse various input formats must be implemented.
 
-Online UML design tools usually have an API to work with and the cooperation with them shall use that API. Still some UML design tools might not have API for integration. In such cases, the import of architecture docs to some folder shall take place. Then parsing those documents is implemented to import data to the Processor, so in the same way as described earlier for offline tools.
-For online UML design tools, usually HTTP or REST API is available. In this case, the integration point shall access the data in the UML design tool using HTTP or REST API. For each integration with such one tool shall have a separate integration point. 
-For example, the integration with LucidChart shall be implemented using HTTP protocol with GET and POST verbs. 
-For Enterprise Architect the integration shall be implemented using rest API and JSON as data format.
+### Integration with Online UML Design Tools
+
+Online UML design tools typically offer APIs for integration purposes.
+The collaboration with such tools will make use of their respective APIs.
+However, it's important to note that some UML design tools might lack APIs for integration.
+In such scenarios, the import of architecture documents to a designated folder will be undertaken.
+The subsequent parsing of these documents will be implemented to import data into the Processor, following a similar approach as outlined earlier for offline tools.
+
+For online UML design tools, HTTP or REST APIs are commonly available.
+Accordingly, the integration point will access data within the UML design tool using the provided HTTP or REST API.
+Each integration with a specific tool will require a distinct integration point.
+For instance, integration with LucidChart will be realized using the HTTP protocol with GET and POST verbs.
+On the other hand, integration with Enterprise Architect will involve the use of a REST API with JSON as the data format.
 
 ## Integration with AWS or Azure
 This section describes how a proposed solution can be integrated with AWS, Azure or GCP.
