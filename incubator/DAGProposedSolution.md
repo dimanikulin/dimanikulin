@@ -100,22 +100,25 @@ The Database component is deployed as a single DB instance with multiple schemas
 The User Interface component is presented as a web service, while the Processor and ML components are native processes built for the target platform.
 Reports plugins and integration points are designed as dynamic libraries that can be easily added, removed, and configured at runtime.
 
-## Deployment view - Cloud
+## Deployment View - Cloud
 <img src="DAGProposedSolution5.png" alt="DAGProposedSolution.png" />
-Cloud deployment assumes two computing nodes for installation.
-Because the Machine Learning process can utilize the CPU time a lot, it is suggested to have a separate machine for Machine Learning process for cloud pipeline.
 
-## Integration with UML design tools
-As it was described earlier, proposed solution shall be integrated with such offline UML designing tools like:
-- Microsoft Visio;
-- OmniGraffle;
+Cloud deployment involves the utilization of two computing nodes for installation.
+Due to the potentially high CPU usage of the Machine Learning process, it is recommended to allocate a dedicated machine for this purpose within the cloud pipeline.
 
-In addition, proposed solution shall be integrated with such online UML designing tools like:
-- Enterprise Architecture;
-- LucidChart;
-- Draw.IO;
-- PlantUML;
-- Gliffy.com.
+## Integration with UML Design Tools:
+As previously mentioned, the proposed solution should seamlessly integrate with offline UML design tools, including:
+
+- Microsoft Visio
+- OmniGraffle
+
+Furthermore, the proposed solution should also integrate effectively with online UML design tools, which encompass:
+
+- Enterprise Architecture
+- LucidChart
+- Draw.IO
+- PlantUML
+- Gliffy.com
 
 <img src="DAGProposedSolution6.png" alt="DAGProposedSolution.png" />
 
