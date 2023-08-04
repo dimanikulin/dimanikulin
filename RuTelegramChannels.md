@@ -68,7 +68,7 @@ The channel was created and works to promote and publish fake news about the Rus
 | [Настюшка на Войнушке](https://t.me/nastyadnr)     |
 | [ncbs18](https://t.me/ncbs18)                      | 
 | [nemeZ1da_ru](https://t.me/nemeZ1da_ru)            |
-| [НгП раZVедка](https://t.me/negumanitarnaya_pomosch_Z) | 
+| [НгП раZVедка](https://t.me/negumanitarnaya_pomosch_Z)| 
 | [NeSocSeti](https://t.me/NeSocSeti)                | 
 | [nos_chanel](https://t.me/nos_chanel)              |
 | [Типичная Одесса](https://t.me/odessa_typical)     | 
@@ -120,4 +120,5 @@ The channel was created and works to promote and publish fake news about the Rus
 | [zhurnalistka_z](https://t.me/zhurnalistka_z)      | 
 | [Zuben.co новости](https://t.me/zuben_co)          |
 | [MILITARY Z](https://t.me/x_military)              |
+| [Vыше нас только Zвезды](https://t.me/ZaPobedy_uvo)|
 | [SU_Hunter_2_0](https://t.me/ZSU_Hunter_2_0)       | 
