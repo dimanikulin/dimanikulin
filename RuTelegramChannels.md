@@ -67,7 +67,8 @@ The channel was created and works to promote and publish fake news about the Rus
 | [mylandbelarus](https://t.me/mylandbelarus)        | 
 | [Настюшка на Войнушке](https://t.me/nastyadnr)     |
 | [ncbs18](https://t.me/ncbs18)                      | 
-| [nemeZ1da_ru](https://t.me/nemeZ1da_ru)            | 
+| [nemeZ1da_ru](https://t.me/nemeZ1da_ru)            |
+| [НгП раZVедка](https://t.me/negumanitarnaya_pomosch_Z) | 
 | [NeSocSeti](https://t.me/NeSocSeti)                | 
 | [nos_chanel](https://t.me/nos_chanel)              |
 | [Типичная Одесса](https://t.me/odessa_typical)     | 
