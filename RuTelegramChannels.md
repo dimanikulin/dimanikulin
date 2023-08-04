@@ -43,7 +43,7 @@ The channel was created and works to promote and publish fake news about the Rus
 | [izolentalive](https://t.me/izolentalive)          | 
 | [kalininrus](https://t.me/kalininrus)              | 
 | [karjakinchess](https://t.me/karjakinchess)        |
-| [Константиновка ZOV Обстановка](https://t.me/konstantunovka_ZOV) |
+| [Константиновка ZOV Обстановка](https://t.me/konstantunovka_ZOV) | Blocked for DN | |
 | [kommunist](https://t.me/kommunist)                | 
 | [KotNaMirotvorze](https://t.me/KotNaMirotvorze)    | 
 | [KovaksClearSky](https://t.me/KovaksClearSky)      | 
