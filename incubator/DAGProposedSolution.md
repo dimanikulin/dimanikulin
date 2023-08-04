@@ -91,14 +91,14 @@ The deployment view illustrates how a solution is intended to be deployed, encom
 
 <img src="DAGProposedSolution4.png" alt="DAGProposedSolution.png" />
 
-On premise, deployment assumes only one computing node for installation. 
-The Data Base component shall be deployed first as other components depend on it.
-Then, the Processor and ML component are being deployed after the Database component is in place.
-The User interface component, reports plugins and integration points are deployed at the last stage. 
-The Data Base component shall be deployed in the form of one DB instance with several schemes inside.
-User interface component is represented as a web service.
-Processor and ML are native processes built for the target platform.
-Reports plugins and integration points shall be represented as dynamic libraries that can be easily added, removed and configured at run time.
+On-premise deployment assumes the use of a single computing node for installation.
+The Database component should be deployed first, as other components depend on it.
+Subsequently, the Processor and ML components are deployed once the Database component is in place.
+The User Interface component, report plugins, and integration points are deployed in the final stage.
+
+The Database component is deployed as a single DB instance with multiple schemas inside.
+The User Interface component is presented as a web service, while the Processor and ML components are native processes built for the target platform.
+Reports plugins and integration points are designed as dynamic libraries that can be easily added, removed, and configured at runtime.
 
 ## Deployment view - Cloud
 <img src="DAGProposedSolution5.png" alt="DAGProposedSolution.png" />
