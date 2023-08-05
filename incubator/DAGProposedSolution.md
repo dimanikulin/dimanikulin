@@ -143,18 +143,21 @@ Each integration with a specific tool will require a distinct integration point.
 For instance, integration with LucidChart will be realized using the HTTP protocol with GET and POST verbs.
 On the other hand, integration with Enterprise Architect will involve the use of a REST API with JSON as the data format.
 
-## Integration with AWS or Azure
-This section describes how a proposed solution can be integrated with AWS, Azure or GCP.
-Because Machine Learning can improve the quality of results, it makes sense to use a separate compute node for ML.
-Still on premise environment can fail to support ML calculation.
-In such cases, the *silver bullet* can be using Cloud Environment for ML computation and whole computation as well.
-Based on deployment flows described earlier each component shall be presented with appropriate cloud provider service. 
-For example for AWS it can be:
+## Integration with AWS, Azure, or GCP
 
-- Processor - AWS Lambda functions;
-- Database  - RDS and MySQL services;
-- Machine Learning - Machine Learning;
-- and etc.
+This section outlines how the proposed solution can seamlessly integrate with AWS, Azure, or GCP.
+Given the potential enhancements Machine Learning can offer in terms of result quality, it is advisable to allocate a dedicated compute node for ML tasks. 
+However, in scenarios where the on-premise environment lacks the capability to support ML calculations, a viable solution is to leverage a Cloud Environment for both ML computation and the overall computing needs.
+
+Drawing from the deployment flows previously described, each component should be matched with the appropriate cloud provider service.
+For instance, in the context of AWS:
+
+- Processor - Leveraging AWS Lambda functions
+- Database - Utilizing RDS and MySQL services
+- Machine Learning - Employing AWS Machine Learning services
+- And so forth for other components
+
+Similar mapping strategies can be applied for Azure and GCP, ensuring that each component seamlessly integrates with the suitable services provided by the respective cloud platforms.
 
 ## Dependency analyzing tool
 The dependency identification is an important function used during architecture analysis. 
