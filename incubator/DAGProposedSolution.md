@@ -174,21 +174,24 @@ Within a single CI/CD pipeline, a plethora of functionalities converge to facili
 
 <img src="DAGProposedSolution7.png" alt="DAGProposedSolution.png" />
 
-In the picture above the typical CI/ CD pipeline is shown as first pipeline. It consists of several steps like:
+The diagram provided illustrates a standard CI/CD pipeline, depicted as the first pipeline.
+This pipeline encompasses multiple sequential stages, which include:
 
-- Plan;
-- Code;
-- Build;
-- Test;
-- Release;
-- Deploy;
-- Operate.
- 
-Currently two products implement CI/CD pipeline: Jenkins and Bamboo. 
-Each of them in real project condition has implemented pipelines for different purposes. 
-Usually at least one pipeline is being called at each commit.
-That pipeline can be extended to call proposed solution for analyzing the architecture. 
-In this case, extended pipeline will look like the second pipeline on the picture above.
+- Plan
+- Code
+- Build
+- Test
+- Release
+- Deploy
+- Operate
+
+At present, two prominent products, Jenkins and Bamboo, serve as implementations of the CI/CD pipeline concept.
+In real-world project scenarios, both Jenkins and Bamboo are utilized to create pipelines tailored to specific project requirements.
+Typically, upon each code commit, at least one pipeline is triggered, orchestrating various processes.
+
+In the context of integrating the proposed solution, the existing pipeline structure can be extended.
+This extension entails invoking the proposed solution for architecture analysis.
+Consequently, the augmented pipeline would resemble the second pipeline depicted in the provided diagram.
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
