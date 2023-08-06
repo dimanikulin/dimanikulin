@@ -159,17 +159,18 @@ For instance, in the context of AWS:
 
 Similar mapping strategies can be applied for Azure and GCP, ensuring that each component seamlessly integrates with the suitable services provided by the respective cloud platforms.
 
-## Dependency analyzing tool
-The dependency identification is an important function used during architecture analysis. 
-It breaks down the whole code on the pieces to define the components and interaction between them. 
-Because such functions are already implemented in tools like JDeps it makes sense to use their output to support proposed solution implementation. 
-JDeps is the command line tool to launch the Java class dependency analyzer. 
-For .Net framework, Net Dependency Walker can be used to identify dependency. 
+## Dependency Analysis Tool
+Dependency identification plays a crucial role in architecture analysis.
+It dissects the entire codebase into components and elucidates their interactions.
+Given that similar functions are already available in tools like JDeps, leveraging their output would logically bolster the implementation of the proposed solution.
+JDeps, for instance, is a command-line tool utilized for launching the Java class dependency analyzer.
+For systems built on the .NET framework, Net Dependency Walker serves as a suitable choice to ascertain dependencies.
 
 ## Integration with Jenkins or Bamboo
-As it was mentioned earlier, the one mode of application is a step in CI/CD pipeline. 
-CI/CD is a complex/composite process, which consists of multiple steps. 
-There is a lot of functionality within a single CI/CD pipeline.
+
+As mentioned previously, one facet of the application involves integration within a CI/CD pipeline.
+CI/CD represents a multifaceted and composite process, encompassing numerous stages.
+Within a single CI/CD pipeline, a plethora of functionalities converge to facilitate a comprehensive workflow.
 
 <img src="DAGProposedSolution7.png" alt="DAGProposedSolution.png" />
 
