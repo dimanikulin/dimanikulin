@@ -59,7 +59,9 @@ GlobalLogicUkraine
 <img src="./Images/Luxemburg,Luxemburg.jpeg" alt="Luxemburg, Luxemburg" />
 
 ## Олена Зеленська
+
 Якби у вас була така можливість, то що б ви запитали у Олени Зеленської?
+
 <img src="./Images/OlenaZelenska.jfif" alt="Olena Zelenska" />
 
 ## A white paper on GlobalLogic Insights
