@@ -25,7 +25,7 @@ The channel was created and works to promote and publish fake news about the Rus
 | [Донецк ⚒ | ЧП Макеевка](https://t.me/dark_donetskz)|Closed comments | |
 | [dep_shishkina](https://t.me/dep_shishkina)        | Blocked for DN | | 
 | [DnevnikDesantnika](https://t.me/DnevnikDesantnika)| Blocked for DN | |
-| [УКРОПСКИЙ ФРЕШ](https://t.me/dillfrash)           | 
+| [УКРОПСКИЙ ФРЕШ](https://t.me/dillfrash)           | Blocked for DN | |
 | [dolgarevaanna](https://t.me/dolgarevaanna)        | 
 | [donezkiy](https://t.me/donezkiy)                  |
 | [Донбасс решает](https://t.me/donbassr)            |
