@@ -167,13 +167,13 @@ For systems built on the **.NET framework**, **Net Dependency Walker** serves as
 
 ## Integration with Jenkins or Bamboo
 
-As mentioned previously, one facet of the application involves integration within a CI/CD pipeline.
-CI/CD represents a multifaceted and composite process, encompassing numerous stages.
-Within a single CI/CD pipeline, a plethora of functionalities converge to facilitate a comprehensive workflow.
+As mentioned previously, one facet of the application involves integration within a **CI/CD** pipeline.
+**CI/CD** represents a multifaceted and composite process, encompassing numerous stages.
+Within a single **CI/CD** pipeline, a plethora of functionalities converge to facilitate a comprehensive workflow.
 
 <img src="DAGProposedSolution7.png" alt="DAGProposedSolution.png" />
 
-The diagram provided illustrates a standard CI/CD pipeline, depicted as the first pipeline.
+The diagram provided illustrates a standard **CI/CD** pipeline, depicted as the first pipeline.
 This pipeline encompasses multiple sequential stages, which include:
 
 - Plan
@@ -184,7 +184,7 @@ This pipeline encompasses multiple sequential stages, which include:
 - Deploy
 - Operate
 
-At present, two prominent products, Jenkins and Bamboo, serve as implementations of the CI/CD pipeline concept.
+At present, two prominent products, **Jenkins and Bamboo**, serve as implementations of the **CI/CD** pipeline concept.
 In real-world project scenarios, both Jenkins and Bamboo are utilized to create pipelines tailored to specific project requirements.
 Typically, upon each code commit, at least one pipeline is triggered, orchestrating various processes.
 
