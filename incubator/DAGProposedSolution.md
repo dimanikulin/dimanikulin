@@ -156,14 +156,14 @@ For instance, in the context of **AWS**:
 - Machine Learning - Employing AWS Machine Learning services
 - And so forth for other components
 
-Similar mapping strategies can be applied for Azure and GCP, ensuring that each component seamlessly integrates with the suitable services provided by the respective cloud platforms.
+Similar mapping strategies can be applied for **Azure** and **GCP**, ensuring that each component seamlessly integrates with the suitable services provided by the respective cloud platforms.
 
 ## Dependency Analysis Tool
 Dependency identification plays a crucial role in architecture analysis.
 It dissects the entire codebase into components and elucidates their interactions.
-Given that similar functions are already available in tools like JDeps, leveraging their output would logically bolster the implementation of the proposed solution.
-JDeps, for instance, is a command-line tool utilized for launching the Java class dependency analyzer.
-For systems built on the .NET framework, Net Dependency Walker serves as a suitable choice to ascertain dependencies.
+Given that similar functions are already available in tools like **JDeps**, leveraging their output would logically bolster the implementation of the **proposed solution**.
+**JDeps**, for instance, is a command-line tool utilized for launching the **Java** class dependency analyzer.
+For systems built on the **.NET framework**, **Net Dependency Walker** serves as a suitable choice to ascertain dependencies.
 
 ## Integration with Jenkins or Bamboo
 
