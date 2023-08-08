@@ -130,26 +130,26 @@ To support this form of integration, the ability to parse various input formats 
 
 ### Integration with Online UML Design Tools
 
-Online UML design tools typically offer APIs for integration purposes.
-The collaboration with such tools will make use of their respective APIs.
-However, it's important to note that some UML design tools might lack APIs for integration.
+**Online UML** design tools typically offer **APIs** for integration purposes.
+The collaboration with such tools will make use of their respective **APIs**.
+However, it's important to note that some UML design tools might lack **APIs** for integration.
 In such scenarios, the import of architecture documents to a designated folder will be undertaken.
-The subsequent parsing of these documents will be implemented to import data into the Processor, following a similar approach as outlined earlier for offline tools.
+The subsequent parsing of these documents will be implemented to import data into the **Processor**, following a similar approach as outlined earlier for offline tools.
 
-For online UML design tools, HTTP or REST APIs are commonly available.
-Accordingly, the integration point will access data within the UML design tool using the provided HTTP or REST API.
+For online **UML** design tools, **HTTP** or **REST APIs** are commonly available.
+Accordingly, the integration point will access data within the **UML design** tool using the provided **HTTP** or **REST API**.
 Each integration with a specific tool will require a distinct integration point.
-For instance, integration with LucidChart will be realized using the HTTP protocol with GET and POST verbs.
-On the other hand, integration with Enterprise Architect will involve the use of a REST API with JSON as the data format.
+For instance, integration with **LucidChart** will be realized using the **HTTP** protocol with **GET** and **POST** verbs.
+On the other hand, integration with **Enterprise Architect** will involve the use of a **REST API** with **JSON** as the data format.
 
 ## Integration with AWS, Azure, or GCP
 
-This section outlines how the proposed solution can seamlessly integrate with AWS, Azure, or GCP.
-Given the potential enhancements Machine Learning can offer in terms of result quality, it is advisable to allocate a dedicated compute node for ML tasks. 
-However, in scenarios where the on-premise environment lacks the capability to support ML calculations, a viable solution is to leverage a Cloud Environment for both ML computation and the overall computing needs.
+This section outlines how the proposed solution can seamlessly integrate with **AWS**, **Azure**, or **GCP**.
+Given the potential enhancements **Machine Learning** can offer in terms of result quality, it is advisable to allocate a dedicated compute node for **ML** tasks. 
+However, in scenarios where the on-premise environment lacks the capability to support **ML** calculations, a viable solution is to leverage a **Cloud Environment** for both **ML** computation and the overall computing needs.
 
 Drawing from the deployment flows previously described, each component should be matched with the appropriate cloud provider service.
-For instance, in the context of AWS:
+For instance, in the context of **AWS**:
 
 - Processor - Leveraging AWS Lambda functions
 - Database - Utilizing RDS and MySQL services
