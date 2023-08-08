@@ -80,8 +80,8 @@ The data layer function maintains the following types of data:
 The processing layer serves as a fundamental function within systems, tasked with processing input data to identify architecture problems.
 Configuration of this layer takes place through the architect panel, where checks against the input are initiated.
 Additionally, it collaborates with the reports plugins engine for report storage. 
-Furthermore, the extracted architecture is preserved in Architecture baselines, enabling architects to review it at a later time.
-It is worth noting that Machine Learning (ML) might be employed during processing to enhance the quality of reports.
+Furthermore, the extracted architecture is preserved in **Architecture** baselines, enabling architects to review it at a later time.
+It is worth noting that **Machine Learning (ML)** might be employed during processing to enhance the quality of reports.
 
 ## Deployment View
 The deployment view illustrates how a solution is intended to be deployed, encompassing its flows and the supporting components.
@@ -91,12 +91,12 @@ The deployment view illustrates how a solution is intended to be deployed, encom
 <img src="DAGProposedSolution4.png" alt="DAGProposedSolution.png" />
 
 On-premise deployment assumes the use of a single computing node for installation.
-The Database component should be deployed first, as other components depend on it.
-Subsequently, the Processor and ML components are deployed once the Database component is in place.
-The User Interface component, report plugins, and integration points are deployed in the final stage.
+The **Database** component should be deployed first, as other components depend on it.
+Subsequently, the **Processor** and **ML components** are deployed once the Database component is in place.
+The **User Interface** component, report plugins, and integration points are deployed in the final stage.
 
-The Database component is deployed as a single DB instance with multiple schemas inside.
-The User Interface component is presented as a web service, while the Processor and ML components are native processes built for the target platform.
+The **Database** component is deployed as a single DB instance with multiple schemas inside.
+The **User Interface** component is presented as a web service, while the **Processor** and **ML components** are native processes built for the target platform.
 Reports plugins and integration points are designed as dynamic libraries that can be easily added, removed, and configured at runtime.
 
 ## Deployment View - Cloud
