@@ -102,16 +102,16 @@ Reports plugins and integration points are designed as dynamic libraries that ca
 ## Deployment View - Cloud
 <img src="DAGProposedSolution5.png" alt="DAGProposedSolution.png" />
 
-Cloud deployment involves the utilization of two computing nodes for installation.
-Due to the potentially high CPU usage of the Machine Learning process, it is recommended to allocate a dedicated machine for this purpose within the cloud pipeline.
+**Cloud deployment** involves the utilization of two computing nodes for installation.
+Due to the potentially high **CPU usage** of the Machine Learning process, it is recommended to allocate a dedicated machine for this purpose within the cloud pipeline.
 
 ## Integration with UML Design Tools:
-As previously mentioned, the proposed solution should seamlessly integrate with offline UML design tools, including:
+As previously mentioned, the proposed solution should seamlessly integrate with offline **UML design** tools, including:
 
 - Microsoft Visio
 - OmniGraffle
 
-Furthermore, the proposed solution should also integrate effectively with online UML design tools, which encompass:
+Furthermore, the proposed solution should also integrate effectively with online **UML design** tools, which encompass:
 
 - Enterprise Architecture
 - LucidChart
@@ -123,9 +123,9 @@ Furthermore, the proposed solution should also integrate effectively with online
 
 ### Integration with Offline UML Design Tools
 
-Due to the absence of APIs in offline tools, collaboration with them is established through import mechanisms.
-Consequently, architectural documents saved in Microsoft Visio format will be exported by a plugin (integration point) and subsequently analyzed by the Processor.
-The path for scanning input documents will be stored in the System Configuration DB.
+Due to the absence of **APIs** in offline tools, collaboration with them is established through import mechanisms.
+Consequently, architectural documents saved in **Microsoft Visio** format will be exported by a plugin (integration point) and subsequently analyzed by the **Processor**.
+The path for scanning input documents will be stored in the **System Configuration DB**.
 To support this form of integration, the ability to parse various input formats must be implemented.
 
 ### Integration with Online UML Design Tools
