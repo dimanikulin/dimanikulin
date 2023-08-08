@@ -29,21 +29,21 @@ Software Architecture, Integration Strategies, Deployment Scenarios, Context Dia
 
 # Content
 ## The Context View for Standalone Application
-A context diagram (view) defines the solution's boundaries and connections with third parties, such as external systems, users, and data.
+A **context diagram (view)** defines the solution's boundaries and connections with third parties, such as external systems, users, and data.
 
-As shown in the context diagram above, there is an interaction between Users and the Proposed Solution.
-These interactions will be implemented using a UI web interface.
+As shown in the context diagram above, there is an interaction between **Users** and the **Proposed Solution**.
+These interactions will be implemented using a **UI web interface**.
 
-For obtaining input, the solution interacts with Online and Offline UML tools using their API to retrieve the initial Software Architecture and to save the extracted Software Architecture.
+For obtaining input, the solution interacts with **Online** and **Offline UML** tools using their **API** to retrieve the initial **Software Architecture** and to save the extracted **Software Architecture**.
 
-To access code, configuration, and the database, interactions with Version Control Systems and the database are utilized.
+To access code, configuration, and the database, interactions with **Version Control Systems** and the database are utilized.
 
-Finally, Report Storage is employed to save the outputs extracted from the Architecture under analysis.
+Finally, Report Storage is employed to save the outputs extracted from the **Architecture** under analysis.
 
 <img src="DAGProposedSolution1.png" alt="DAGProposedSolution.png" />
 
 ## The Context View for a Separate Step in CI/CD
-The sole distinction between the previous view and the Context View for a Separate Step in CI/CD is the integration of the proposed solution with the existing CI/CD pipeline.
+The sole distinction between the previous view and the **Context View** for a **Separate Step** in **CI/CD** is the integration of the proposed solution with the existing **CI/CD** pipeline.
 
 <img src="DAGProposedSolution2.png" alt="DAGProposedSolution.png" />
 
