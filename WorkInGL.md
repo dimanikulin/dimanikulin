@@ -5,7 +5,7 @@ TBD
 TBD 
 
 # Tags
-globallogic
+GlobalLogic Work
 
 # Content
 ## Presents in GlobalLogic for an employer 
