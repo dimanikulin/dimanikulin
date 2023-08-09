@@ -5,7 +5,7 @@ TBD
 TBD 
 
 # Tags
-TBD
+holidays
 
 # Content
 ## What is the best gift for Ukrainian people for Christmas and New Year?
