@@ -94,7 +94,8 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [rsotmdivision](https://t.me/rsotmdivision)        |
 | [Репортёр Руденко V🇷🇺](https://t.me/RtrDonetsk)  | Closed comments | | 
 | [RuFront](https://t.me/RuFront)                    | Closed comments | |
-| [russiaz](https://t.me/russiaz)                    | 
+| [russiaz](https://t.me/russiaz)                    |
+| [Крылатые](https://t.me/russian_airborne)          | 
 | [sergeyvostrecov](https://t.me/sergeyvostrecov)    |
 | [СОЛДАТ УДАЧИ](https://t.me/Soldieroffortune777)   | Blocked for DN | | 
 | [Скабеева](https://t.me/skabeeva)                  | Closed comments | |
