@@ -66,7 +66,8 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [MAYDNR](https://t.me/MAYDNR)                      | 
 | [MediaOfficers](https://t.me/MediaOfficers)        | 
 | [membersofxaknet](https://t.me/membersofxaknet)    | 
-| [Metametrica](https://t.me/Metametrica)            | 
+| [Metametrica](https://t.me/Metametrica)            |
+| [Военный Осведомитель](https://t.me/milinfolive)   | Closed comments | |
 | [mylandbelarus](https://t.me/mylandbelarus)        | 
 | [Настюшка на Войнушке](https://t.me/nastyadnr)     |
 | [ncbs18](https://t.me/ncbs18)                      | 
