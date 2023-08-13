@@ -57,8 +57,8 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [LIC_LPR](https://t.me/LIC_LPR)                    |
 | [НОВОСТИ ЛНР](https://t.me/luganskallnews)         | Closed comments | |
 | [Мариуполь сейчас](https://t.me/mariupolz)         |
-| [m0sc0wcalling](https://t.me/m0sc0wcalling)        |
-| [moscowmap](https://t.me/moscowmap)                | | AntiPutin content |
+| [m0sc0wcalling](https://t.me/m0sc0wcalling)        | | AntiPutin content |
+| [moscowmap](https://t.me/moscowmap)                | 
 | [mariabutina](https://t.me/mariabutina)            | 
 | [Marinaslovo](https://t.me/Marinaslovo)            | 
 | [matanaliz_kofman](https://t.me/matanaliz_kofman)  | 
