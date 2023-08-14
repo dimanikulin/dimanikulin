@@ -109,6 +109,9 @@ metaprograms + social styles +
 Мое общение с ними - просто моя реакция на их действия.
 
 вопросы к зеленской
+https://www.facebook.com/olenazelenska.official/posts/pfbid025TUqBC1FcR1CnMt3eGDS8JHx9eXwJAnQDDRbrm9KomuZ3D62DLgdDbSHQMWh6ev4l
+https://t.me/FirstLadyOfUkraine/3807
+https://www.instagram.com/p/Cvuzbfwt7ZV/?img_index=1
 Как пропатчить KDE2 в FreeBSD уже спрашивали?
 Какую жрачку готовит мужу, если есть возможность все, что угодно? Есть жеж домашне?
 Де купити скумбрію по 8 грн.
