@@ -63,7 +63,7 @@ I used that a lot when I started programming.
 
 If you can guess, we are the same age.
 
-<img src="./Images/" alt="TBD" />
+<img src="./Images/WindowsNT40.jfif" alt="TBD" />
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
