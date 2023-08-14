@@ -55,6 +55,15 @@ Were you happy with it?
 
 <img src="./Images/firstMobilePhone.jpg" alt="firstMobilePhone" />
 
+## Windows NT 4.0
+
+Can you guess what is this without googling?
+
+I used that a lot when I started programming.
+
+If you can guess, we are the same age.
+
+<img src="./Images/" alt="TBD" />
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
@@ -63,3 +72,6 @@ Were you happy with it?
 | 2 | Miranda NG           |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_old-activity-7016323085142224896-OyzK?utm_source=share&utm_medium=member_desktop) | 2023, January| Dmytro Nikulin||
 | 3 | BSoD                 |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_oldschool-oldtech-activity-7066684307964125184-hZG4?utm_source=share&utm_medium=member_desktop)| 2023, May 25 | Dmytro Nikulin||
 | 4 | First Mobile Phone   |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_oldisgold-oldschool-first-activity-7078993334840569858-vZp0?utm_source=share&utm_medium=member_desktop)| 2023, June 26 | Dmytro Nikulin||
+
+| 5 | Windows NT 4.0   |[LinkedIn]()| 2023, August 14 | Dmytro Nikulin| |
+
