@@ -19,6 +19,8 @@ First I started thinking how to get more engagement with my open source project.
 
 Their contributions can accelerate the pace of innovation, foster a sense of ownership and community, and create a network effect that attracts more developers to get involved.
 
+And I decided to create attractive readme.
+
 ## Create a Good Readme
 [It](https://github.com/dimanikulin/fva#readme) is the first thing that a visitor to your repository sees.
 And good README serves as a comprehensive and accessible starting point for users and developers to engage with your project.
