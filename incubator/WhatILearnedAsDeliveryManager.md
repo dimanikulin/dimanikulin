@@ -24,21 +24,22 @@ As a result, I decided to create an appealing README.
 
 ## Create a Good Readme
 [It](https://github.com/dimanikulin/fva#readme) is the first thing that a visitor to your repository sees.
-And good README serves as a comprehensive and accessible starting point for users and developers to engage with your project.
+A good README serves as a comprehensive and accessible starting point for users and developers to engage with your project.
 
-It should be able to convey what your project is able to do, how to instakk and work with the project, how to contribute, etc.
-It also keeps structured information for product and its implementation details. 
+It should be able to convey what your project is capable of doing, how to install and work with the project, how to contribute, and more.
+It also maintains structured information about the product and its implementation details.
 
-Not to overlod main reamd there are some child files created to keep details:
-- [CodeDocumentation.md](https://github.com/dimanikulin/fva/blob/master/CodeDocumentation.md) - to describe how to document the code 
-- [CodeStyle.md](https://github.com/dimanikulin/fva/blob/master/CodeStyle.md)        - to describe the code style
-- [Constraints.md](https://github.com/dimanikulin/fva/blob/master/Constraints.md)      - to describe solution constraints
-- [Dependencies.md](https://github.com/dimanikulin/fva/blob/master/Dependencies.md)     - to descrive tools and libs are used for product development
-- [DependenciesOld.md](https://github.com/dimanikulin/fva/blob/master/DependenciesOld.md)  - to descrive old tools and libs were used for product development
-- [FunctionalView.md](https://github.com/dimanikulin/fva/blob/master/FunctionalView.md)   - to show and describe functioanl view 
-- [QualityAttributes.md](https://github.com/dimanikulin/fva/blob/master/QualityAttributes.md) - to decsribe product Quality Attributes
+To avoid overloading the main README, there are several child files created to provide additional details:
 
-And my readme start with product logo. 
+- [CodeDocumentation.md](https://github.com/dimanikulin/fva/blob/master/CodeDocumentation.md) - Describes how to document the code.
+- [CodeStyle.md](https://github.com/dimanikulin/fva/blob/master/CodeStyle.md)                 - Describes the code style.
+- [Constraints.md](https://github.com/dimanikulin/fva/blob/master/Constraints.md)             - Describes the solution constraints.
+- [Dependencies.md](https://github.com/dimanikulin/fva/blob/master/Dependencies.md)           - Describes the tools and libraries used for product development.
+- [DependenciesOld.md](https://github.com/dimanikulin/fva/blob/master/DependenciesOld.md)     - Describes the old tools and libraries that were used for product development.
+- [FunctionalView.md](https://github.com/dimanikulin/fva/blob/master/FunctionalView.md)       - Shows and describes the functional view.
+- [QualityAttributes.md](https://github.com/dimanikulin/fva/blob/master/QualityAttributes.md) - Describes the product's Quality Attributes.
+
+Furthermore, my README starts with the product logo.
 
 ### Bages
 Than it moves to bage chapters that are helpful for developers. There are following sections:
