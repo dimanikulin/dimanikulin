@@ -1,3 +1,5 @@
+WhatILearnedAsTester.md
+
 нужно ли учить скрам заранее
 I don't jump from job to job just for salary
 С++ and guessing is on opposite sides
@@ -48,7 +50,6 @@ presents from EPAM
 говорить много не значит говорить хорошо
 уволить его значит уволить меня
 metaprograms + social styles + 
-
 
 если у вас зависимость от лайков на ваши посты в соц сетях следиту делаете ли посты что б
 
