@@ -4,7 +4,6 @@ What I learned as a Delivery Manager while creating my product
 
 # Article description
 TBD 
-, and uncover the significance of tracking implementation status for better requirement coverage
 
 # Tags
 TBD
