@@ -32,6 +32,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [ДОЛГАРЕVА 🇷🇺](https://t.me/dolgarevaanna)       | 
 | [donezkiy](https://t.me/donezkiy)                  |
 | [Донбасс решает](https://t.me/donbassr)            |
+| [Donrf](https://t.me/donrf22)                      |
 | [dva_majors](https://t.me/dva_majors)              | 
 | [eternoff](https://t.me/eternoff)                  |
 | [Fighterbomber](https://t.me/fighter_bomber)       | Blocked for DN | |
