@@ -42,18 +42,20 @@ To avoid overloading the main README, there are several child files created to p
 Furthermore, my README starts with the product logo.
 
 ### Bages
-Than it moves to bage chapters that are helpful for developers. There are following sections:
-- Common (Repo stars, contributors, followers, sponsors and twitter URL)
-- Release (last release version, last release date and numbers of downloads)
-- Code statistic (status of build flow,GitHub commit activity,GitHub last commit and www.codefactor.io status)
-- Issues and Pull requests (GitHub issues, GitHub closed issues, GitHub pull requests and GitHub closed pull requests)
-- Repository statictis (GitHub top language, GitHub language count and GitHub repo size) 
-- Documentation(Roadmap, Discussions, License and Main Readme)
+The README then proceeds to badge chapters that prove helpful for developers. These sections include:
 
-There are 3 different types of badges in terms of their way of implementation
-- Implememented by GitHub like [this](https://github.com/dimanikulin/fva/actions/workflows/main.yml/badge.svg?branch=master) 
-- Implememented by img.shields.io like [this](https://img.shields.io/github/last-commit/dimanikulin/fva)
-- Implememented by www.codefactor.io like [this](https://www.codefactor.io/repository/github/dimanikulin/fva)
+- Common(Repository stars, contributors, followers, sponsors, and Twitter URL)
+- Release(Latest release version, release date, and number of downloads)
+- Code Statistics(Build flow status, GitHub commit activity, GitHub's latest commit, and CodeFactor.io status)
+- Issues and Pull Requests(GitHub issues, closed issues, pull requests, and closed pull requests)
+- Repository Statistics(GitHub top language, count of languages, and repository size)
+- Documentation(Roadmap, Discussions, License, and Main README)
+
+There are three different types of badges based on their implementation approach:
+
+Implemented by GitHub, displayed as: [GitHub Badge](https://github.com/dimanikulin/fva/actions/workflows/main.yml/badge.svg?branch=master)
+Implemented by img.shields.io, displayed as: [Badge](https://img.shields.io/github/last-commit/dimanikulin/fva)
+Implemented by www.codefactor.io, displayed as: [Badge](https://www.codefactor.io/repository/github/dimanikulin/fva)
 
 <img src="FvaReadme.png" alt="FvaReadme"/>
 
