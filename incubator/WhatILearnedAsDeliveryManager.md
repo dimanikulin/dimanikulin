@@ -53,9 +53,9 @@ The README then proceeds to badge chapters that prove helpful for developers. Th
 
 There are three different types of badges based on their implementation approach:
 
-Implemented by GitHub, displayed as: [GitHub Badge](https://github.com/dimanikulin/fva/actions/workflows/main.yml/badge.svg?branch=master)
-Implemented by img.shields.io, displayed as: [Badge](https://img.shields.io/github/last-commit/dimanikulin/fva)
-Implemented by www.codefactor.io, displayed as: [Badge](https://www.codefactor.io/repository/github/dimanikulin/fva)
+- Implemented by GitHub, displayed as: [GitHub Badge](https://github.com/dimanikulin/fva/actions/workflows/main.yml/badge.svg?branch=master)
+- Implemented by img.shields.io, displayed as: [Badge](https://img.shields.io/github/last-commit/dimanikulin/fva)
+- Implemented by www.codefactor.io, displayed as: [Badge](https://www.codefactor.io/repository/github/dimanikulin/fva)
 
 <img src="FvaReadme.png" alt="FvaReadme"/>
 
