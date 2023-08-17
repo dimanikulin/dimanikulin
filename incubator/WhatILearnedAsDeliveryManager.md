@@ -60,15 +60,16 @@ There are three different types of badges based on their implementation approach
 <img src="FvaReadme.png" alt="FvaReadme"/>
 
 ### Quick Links
-After it switches to [Quick Links](https://github.com/dimanikulin/fva#quick-links) chapter. 
-Quick links in a README file are important because they provide easy and convenient access to key sections, resources, or external references related to a project. 
-They serve as navigational aids, allowing readers to quickly jump to specific parts of the README without having to scroll or search extensively.
-So I add the Quick Links for each main chpter in [readme](https://github.com/dimanikulin/fva#readme)
+Following this, the README transitions to the [Quick Links](https://github.com/dimanikulin/fva#quick-links) chapter.
+Quick links within a README file play a crucial role as they offer convenient access to key sections, resources, or external references relevant to a project.
+They act as navigation aids, enabling readers to swiftly navigate to specific parts of the README without the need for extensive scrolling or searching.
+To enhance accessibility, I've added Quick Links for each main chapter in the [README](https://github.com/dimanikulin/fva#readme).
 
-### Capabilities and Description 
-The description of [capabilities](https://github.com/dimanikulin/fva#capabilities) and product [description](https://github.com/dimanikulin/fva#description) in a README file is critical for effectively communicating the value, purpose, and unique selling points of your product. 
-It helps users understand what your product offers, why it is valuable, and whether it meets their requirements.
-By providing clear and compelling information, you can attract the right audience and increase the chances of user adoption and satisfaction.
+### Capabilities and Description
+The description of [capabilities](https://github.com/dimanikulin/fva#capabilities) and the [product's overview](https://github.com/dimanikulin/fva#description) within a README file holds utmost importance.
+It plays a critical role in effectively conveying the value, purpose, and unique selling points of your product.
+This description aids users in comprehending what your product brings to the table, why it holds value, and whether it aligns with their requirements.
+By presenting information that is both clear and compelling, you can draw in the right audience and increase the likelihood of user adoption and satisfaction.
 
 ### Architecture documentation
 Then it switches to description of Architecture documentation with following chapters:
