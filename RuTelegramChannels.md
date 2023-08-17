@@ -29,7 +29,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Депутат Елена Шишкина (ДНР)](https://t.me/dep_shishkina)| Blocked for DN | | 
 | [Дневник Десантника🇷🇺](https://t.me/DnevnikDesantnika)| Blocked for DN | |
 | [УКРОПСКИЙ ФРЕШ](https://t.me/dillfrash)           | Blocked for DN | |
-| [ДОЛГАРЕVА 🇷🇺](https://t.me/dolgarevaanna)       | 
+| [ДОЛГАРЕVА 🇷🇺](https://t.me/dolgarevaanna)       | Blocked for DN | |
 | [donezkiy](https://t.me/donezkiy)                  |
 | [Донбасс решает](https://t.me/donbassr)            |
 | [Donrf](https://t.me/donrf22)                      |
