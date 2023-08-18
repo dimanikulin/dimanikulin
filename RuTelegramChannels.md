@@ -82,7 +82,8 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [olgaseletskaya](https://t.me/olgaseletskaya)      | 
 | [Opalennye_vojnoj](https://t.me/Opalennye_vojnoj)  | 
 | [opdnrinfo](https://t.me/opdnrinfo)                | 
-| [opennewss](https://t.me/opennewss)                | 
+| [opennewss](https://t.me/opennewss)                |
+| [Оперативные сводки](https://t.me/opersvodki)      | Closed comments | |
 | [oplnr](https://t.me/oplnr)                        | 
 | [opoveshenie](https://t.me/opoveshenie)            | 
 | [orsha_pereobutaya](https://t.me/orsha_pereobutaya)|
