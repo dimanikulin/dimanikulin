@@ -22,7 +22,8 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Брекотин](https://t.me/brekotins)                 | Blocked for DN | |
 | [Работайте, братья!](https://t.me/btr80)           | Closed comments | | 
 | [Опознай хохла по чубу](https://t.me/chub_detection)| Blocked for DN | |
-| [Черноморский экспресс](https://t.me/chernmorskiiexpres) | Closed comments | | 
+| [Черноморский экспресс](https://t.me/chernmorskiiexpres) | Closed comments | |
+| [Российский Рубеж " Za нашу](https://t.me/compass83) | Closed comments | |
 | [Сумасшедшая власть](https://t.me/crazypower1)     | | AntiPutin content |
 | [Крымская Z прачка 🧺🧼](https://t.me/Crimeanprachka)| Blocked for DN | |
 | [КРИСТАЛЛ РОСТА](https://t.me/crystal_book)        | Closed comments | |
