@@ -99,15 +99,16 @@ To tackle this, I formulated a table equipped with the following columns:
 - **File Names**: Here, the file names are enumerated where the implementation pertaining to the requirement can be located.
 - **Description**: This column furnishes a descriptive account of the functional requirement.
 
-### Contributing and Stay in touch
-Here I describe the channels which anyone can use to help me in developing and how to contribute. 
+### Contributing and Stay in Touch
+In this section, I outline the various channels that individuals can utilize to contribute to the project's development.
+This includes information on how one can actively participate and offer their assistance.
 
 ### Definitions, Acronyms, Abbreviations
-Last but not least I describe Definitions, Acronyms and Abbreviations.
-it is in form of table with columns:
+Lastly, I provide an explanation of Definitions, Acronyms, and Abbreviations.
+Presented in a tabular format, this section comprises the following columns:
 - Number
 - Abbreviation or Acronym
-- and Definition
+- Definition
 
 ## Project Status tracking
 Overall, tracking project status is crucial for a Delivery Manager to ensure project success, manage risks and resources, facilitate communication, and make informed decisions throughout the project lifecycle.
