@@ -88,16 +88,16 @@ It acts as a valuable resource for the development team, guaranteeing that the p
 
 Should you require further information, feel free to explore the section dedicated to Code Style and Documentation.
 
-### Implementation status
-Then I considered how I could effectively track the [coverage](https://github.com/dimanikulin/fva#implementation-status) of requirements. 
-I needed a way to implement tracing and determine which requirements were covered and which ones were not. 
-To address this, I devised a table with the following columns:
+### Implementation Status
+Subsequently, I contemplated an effective means to monitor the [coverage](https://github.com/dimanikulin/fva#implementation-status) of requirements.
+It was essential to establish a method for tracing and discerning which requirements had been covered and which ones remained unaddressed. 
+To tackle this, I formulated a table equipped with the following columns:
 
-- **Implemented**: Indicates whether the requirement has been implemented, marked as either "yes" or "no."
-- **Feature ID**: An identifier sourced from the features.
-- **Component**: Specifies the name of the component.
-- **File names**: Lists the file names where the implementation for the requirement can be found.
-- **Description**: Provides a description of the functional requirement.
+- **Implemented**: This column denotes whether the requirement has been implemented, denoted as either "yes" or "no."
+- **Feature ID**: This serves as an identifier originating from the project's features.
+- **Component**: This field specifies the name of the corresponding component.
+- **File Names**: Here, the file names are enumerated where the implementation pertaining to the requirement can be located.
+- **Description**: This column furnishes a descriptive account of the functional requirement.
 
 ### Contributing and Stay in touch
 Here I describe the channels which anyone can use to help me in developing and how to contribute. 
