@@ -71,19 +71,22 @@ It plays a critical role in effectively conveying the value, purpose, and unique
 This description aids users in comprehending what your product brings to the table, why it holds value, and whether it aligns with their requirements.
 By presenting information that is both clear and compelling, you can draw in the right audience and increase the likelihood of user adoption and satisfaction.
 
-### Architecture documentation
-Then it switches to description of Architecture documentation with following chapters:
+### Architecture Documentation
+Subsequently, the README delves into the description of Architecture Documentation, encompassing the following chapters:
+
 - [Software Architecture Requirements](https://github.com/dimanikulin/fva#software-architecture-requirements)
 - [Software Architecture Views](https://github.com/dimanikulin/fva#software-architecture-views)
-- [Tools](https://github.com/dimanikulin/fva#dependencies), libraries and [programming languages](https://github.com/dimanikulin/fva#programming-languages)
+- [Tools](https://github.com/dimanikulin/fva#dependencies), Libraries and [Programming Languages](https://github.com/dimanikulin/fva#programming-languages)
 - [Licenses](https://github.com/dimanikulin/fva#license)
 
-For more details see [here](./WhatILearnedAsAppArchitect.md)
+For more detailed information, please refer to the designated [section](./WhatILearnedAsAppArchitect.md).
 
 ### Code Style and Documentation
-After it describes [Code Style](https://github.com/dimanikulin/fva#code-style) and [Documentation](https://github.com/dimanikulin/fva#code-documentation).
-Documenting code style and practices promotes consistency, code quality, collaboration, and long-term maintainability of the project.
-It serves as a valuable resource for the development team and ensures that the project's codebase remains organized, understandable, and scalable. 
+The README then proceeds to expound upon [Code Style](https://github.com/dimanikulin/fva#code-style) and [Documentation](https://github.com/dimanikulin/fva#code-documentation).
+The act of documenting code style and practices serves as a linchpin for maintaining consistency, upholding code quality, fostering collaboration, and ensuring the project's long-term maintainability. 
+It acts as a valuable resource for the development team, guaranteeing that the project's codebase retains organization, comprehensibility, and scalability.
+
+Should you require further information, feel free to explore the section dedicated to Code Style and Documentation.
 
 ### Implementation status
 Then I considered how I could effectively track the [coverage](https://github.com/dimanikulin/fva#implementation-status) of requirements. 
