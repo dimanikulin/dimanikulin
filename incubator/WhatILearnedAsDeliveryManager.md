@@ -110,9 +110,16 @@ Presented in a tabular format, this section comprises the following columns:
 - Abbreviation or Acronym
 - Definition
 
-## Project Status tracking
-Overall, tracking project status is crucial for a Delivery Manager to ensure project success, manage risks and resources, facilitate communication, and make informed decisions throughout the project lifecycle.
-So I tried 
+## Project Status Tracking
+In a broader perspective, monitoring the project's status holds immense significance for a Delivery Manager. 
+This practice ensures the triumph of the project by overseeing factors such as risk management, resource allocation, effective communication, and the ability to make well-informed decisions across the entirety of the project's lifecycle.
+
+### GitHub Projects
+GitHub Projects emerges as a tool dedicated to tracking project status in an online environment, seamlessly integrated into your GitHub profile. Its user-friendly interface facilitates ease of use, and while it doesn't offer an extensive array of functions, it adeptly serves its purpose. Allow me to present it:
+
+[Insert appropriate reference/link here]
+
+
 
 ### GitHub projects
 **GitHub Projects** is tool for tracking project status online integrated into your GitHub profile.
