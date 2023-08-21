@@ -120,10 +120,12 @@ Its user-friendly interface facilitates ease of use, and while it doesn't offer 
 Allow me to present [it](https://github.com/dimanikulin/fva/projects/3)
 
 ### ProjectLibre
-In spite of all the above-mentioned, a more compex solution was required. 
-My choice was [ProjectLibre](https://www.projectlibre.com/product/1-alternative-microsoft-project-open-source).
-ProjectLibre desktop is a free and open-source project management software system, intended ultimately as a standalone replacement for Microsoft Project.
-Despite being a free and small app, it gave me everything I needed.
+Despite the aforementioned options, the demand for a more sophisticated solution persisted.
+In light of this, my preference leaned towards [ProjectLibre](https://www.projectlibre.com/product/1-alternative-microsoft-project-open-source).
+The ProjectLibre software, designed for desktop usage, presents itself as a comprehensive and open-source project management system.
+Positioned as a stand-alone substitute for Microsoft Project, ProjectLibre effectively addresses the intricate requirements I sought.
+
+Despite its stature as a compact and cost-free application, ProjectLibre remarkably delivered everything essential for my needs.
 
 ## Releasing the code and the docs
 The release of product shall be on demand as soon as peace of product functionality is ready for release.
