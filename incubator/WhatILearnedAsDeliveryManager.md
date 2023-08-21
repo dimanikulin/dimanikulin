@@ -125,8 +125,6 @@ My choice was [ProjectLibre](https://www.projectlibre.com/product/1-alternative-
 ProjectLibre desktop is a free and open-source project management software system, intended ultimately as a standalone replacement for Microsoft Project.
 Despite being a free and small app, it gave me everything I needed.
 
-TBD openproject
-
 ## Releasing the code and the docs
 The release of product shall be on demand as soon as peace of product functionality is ready for release.
 Thus the release branch is being created or updated to keep added/updated product functionality.
