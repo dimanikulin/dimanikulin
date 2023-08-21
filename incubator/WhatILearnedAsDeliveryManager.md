@@ -115,16 +115,9 @@ In a broader perspective, monitoring the project's status holds immense signific
 This practice ensures the triumph of the project by overseeing factors such as risk management, resource allocation, effective communication, and the ability to make well-informed decisions across the entirety of the project's lifecycle.
 
 ### GitHub Projects
-GitHub Projects emerges as a tool dedicated to tracking project status in an online environment, seamlessly integrated into your GitHub profile. Its user-friendly interface facilitates ease of use, and while it doesn't offer an extensive array of functions, it adeptly serves its purpose. Allow me to present it:
-
-[Insert appropriate reference/link here]
-
-
-
-### GitHub projects
-**GitHub Projects** is tool for tracking project status online integrated into your GitHub profile.
-It is quite easy to use, and it doesn't have a lot of functions. 
-Here it [is](https://github.com/dimanikulin/fva/projects/3)
+**GitHub Projects** emerges as a tool dedicated to tracking project status in an online environment, seamlessly integrated into your GitHub profile. 
+Its user-friendly interface facilitates ease of use, and while it doesn't offer an extensive array of functions, it adeptly serves its purpose. 
+Allow me to present [it](https://github.com/dimanikulin/fva/projects/3)
 
 ### ProjectLibre
 In spite of all the above-mentioned, a more compex solution was required. 
