@@ -127,15 +127,19 @@ Positioned as a stand-alone substitute for Microsoft Project, ProjectLibre effec
 
 Despite its stature as a compact and cost-free application, ProjectLibre remarkably delivered everything essential for my needs.
 
-## Releasing the code and the docs
-The release of product shall be on demand as soon as peace of product functionality is ready for release.
-Thus the release branch is being created or updated to keep added/updated product functionality.
+## Releasing the Code and Documentation
+The release of the product is strategically planned to coincide with the readiness of a substantial portion of its functionality.
+Whenever a segment of the product's functionality is deemed ready for release, the creation or updating of the release branch ensues.
+This practice ensures that any added or updated product functionality is seamlessly integrated into the release branch.
 
-Regardless of incremental approach to add or update product functions, the artifacts shall accumulate whole product installation packages and not increments even really small piece of functions is released.
+Irrespective of adopting an incremental approach to the addition or update of product functions, it's pivotal to underscore that the resulting artifacts shall encompass the entirety of the product installation packages.
+This holds true even when releasing relatively minor components of functionality.
 
-The following artifacts shall be created:
-- The documentation for code (based on doxy comments);
-- The installation packages for Windows, Mac and Linux latest version. 
+In adherence to this approach, the ensuing artifacts are generated:
+
+- Documentation for the code, structured around doxy comments.
+- Installation packages for the latest versions of Windows, Mac, and Linux.
+
 
 # References
 | # | Name                 | Source           | Release date           |  Author                 | Description |
