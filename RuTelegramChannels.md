@@ -14,7 +14,8 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Краля Даля](https://t.me/alyonamakk)              | Blocked for DN | |
 | [Анна Ревякина Донбасс](https://t.me/annarevyakina)| Blocked for DN | |
 | [Арбалет Z Говорит](https://t.me/arbaletgovorit)   | Blocked for DN | |
-| [АРТподдержка](https://t.me/ARTpodderjka)          | Blocked for DN without any msg | | 
+| [АРТподдержка](https://t.me/ARTpodderjka)          | Blocked for DN without any msg | |
+| [Батальон Восток](https://t.me/batalyon_vostok)    | Closed comments | | 
 | [Battle_🅉 _Sailor](https://t.me/BattleSailor_13)  | | too few subsribers | 
 | [БелВПО](https://t.me/Belarus_VPO)                 | Blocked for DN | | 
 | [🇷🇺БОБР🇷🇺](https://t.me/BOBRMORF)              | Blocked for DN | |
