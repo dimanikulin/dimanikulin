@@ -104,6 +104,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [sergeyvostrecov](https://t.me/sergeyvostrecov)    |
 | [СОЛДАТ УДАЧИ](https://t.me/Soldieroffortune777)   | Blocked for DN | | 
 | [Скабеева](https://t.me/skabeeva)                  | Closed comments | |
+| [Дядя Слава](https://t.me/slavaded1337)            |
 | [sharikovtime](https://t.me/sharikovtime)          | 
 | [smershmsk](https://t.me/smershmsk)                |
 | [«СОЮЗ ВЕТЕРАНОВ СВО» по КК](https://t.me/souzveteranovsvokk)| 
