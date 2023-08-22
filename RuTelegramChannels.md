@@ -50,6 +50,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [izolentalive](https://t.me/izolentalive)          | 
 | [kalininrus](https://t.me/kalininrus)              | 
 | [karjakinchess](https://t.me/karjakinchess)        |
+| [Полина Кокс & CandyFlip](https://t.me/koksncandy) |
 | [Константиновка ZOV Обстановка](https://t.me/konstantunovka_ZOV) | Blocked for DN | |
 | [kommunist](https://t.me/kommunist)                | 
 | [KotNaMirotvorze](https://t.me/KotNaMirotvorze)    | 
