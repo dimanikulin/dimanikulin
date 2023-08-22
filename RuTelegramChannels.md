@@ -13,6 +13,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Алексей Поддубный Джанго Z](https://t.me/alexeypoddubny_jango)| Blocked for DN | |
 | [Краля Даля](https://t.me/alyonamakk)              | Blocked for DN | |
 | [Анна Ревякина Донбасс](https://t.me/annarevyakina)| Blocked for DN | |
+| [ANONYMOUS | RUSSIA](https://t.me/anon_russ)       |
 | [Арбалет Z Говорит](https://t.me/arbaletgovorit)   | Blocked for DN | |
 | [АРТподдержка](https://t.me/ARTpodderjka)          | Blocked for DN without any msg | |
 | [Батальон Восток](https://t.me/batalyon_vostok)    | Closed comments | | 
