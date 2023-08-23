@@ -22,17 +22,17 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Brееgе Timе ZÖZZ🇷🇺](https://t.me/breege_time_20zz)|  | |
 | [Брекотин](https://t.me/brekotins)                 |  | |
 | [Работайте, братья!](https://t.me/btr80)           | Closed comments | | 
-| [Опознай хохла по чубу](https://t.me/chub_detection)| Blocked for DN | |
+| [Опознай хохла по чубу](https://t.me/chub_detection)| | |
 | [Черноморский экспресс](https://t.me/chernmorskiiexpres) | Closed comments | |
 | [Российский Рубеж " Za нашу](https://t.me/compass83) | Closed comments | |
 | [Сумасшедшая власть](https://t.me/crazypower1)     | | AntiPutin content |
-| [Крымская Z прачка 🧺🧼](https://t.me/Crimeanprachka)| Blocked for DN | |
+| [Крымская Z прачка 🧺🧼](https://t.me/Crimeanprachka)| | |
 | [КРИСТАЛЛ РОСТА](https://t.me/crystal_book)        | Closed comments | |
 | [Донецк ⚒ | ЧП Макеевка](https://t.me/dark_donetskz)|Closed comments | |
-| [Депутат Елена Шишкина (ДНР)](https://t.me/dep_shishkina)| Blocked for DN | | 
-| [Дневник Десантника🇷🇺](https://t.me/DnevnikDesantnika)| Blocked for DN | |
-| [УКРОПСКИЙ ФРЕШ](https://t.me/dillfrash)           | Blocked for DN | |
-| [ДОЛГАРЕVА 🇷🇺](https://t.me/dolgarevaanna)       | Blocked for DN | |
+| [Депутат Елена Шишкина (ДНР)](https://t.me/dep_shishkina)|  | | 
+| [Дневник Десантника🇷🇺](https://t.me/DnevnikDesantnika)| | |
+| [УКРОПСКИЙ ФРЕШ](https://t.me/dillfrash)           | | |
+| [ДОЛГАРЕVА 🇷🇺](https://t.me/dolgarevaanna)       | | |
 | [donezkiy](https://t.me/donezkiy)                  |
 | [Донбасс решает](https://t.me/donbassr)            |
 | [Donrf](https://t.me/donrf22)                      |
