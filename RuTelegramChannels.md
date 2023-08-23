@@ -13,14 +13,14 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Краля Даля](https://t.me/alyonamakk)              |  | |
 | [Анна Ревякина Донбасс](https://t.me/annarevyakina)|  | |
 | [ANONYMOUS | RUSSIA](https://t.me/anon_russ)       |
-| [Арбалет Z Говорит](https://t.me/arbaletgovorit)   | Blocked for DN | |
-| [АРТподдержка](https://t.me/ARTpodderjka)          | Blocked for DN without any msg | |
+| [Арбалет Z Говорит](https://t.me/arbaletgovorit)   |  | |
+| [АРТподдержка](https://t.me/ARTpodderjka)          |  | |
 | [Батальон Восток](https://t.me/batalyon_vostok)    | Closed comments | | 
 | [Battle_🅉 _Sailor](https://t.me/BattleSailor_13)  | | too few subsribers | 
-| [БелВПО](https://t.me/Belarus_VPO)                 | Blocked for DN | | 
-| [🇷🇺БОБР🇷🇺](https://t.me/BOBRMORF)              | Blocked for DN | |
-| [Brееgе Timе ZÖZZ🇷🇺](https://t.me/breege_time_20zz)| Blocked for DN | |
-| [Брекотин](https://t.me/brekotins)                 | Blocked for DN | |
+| [БелВПО](https://t.me/Belarus_VPO)                 |  | | 
+| [🇷🇺БОБР🇷🇺](https://t.me/BOBRMORF)              |  | |
+| [Brееgе Timе ZÖZZ🇷🇺](https://t.me/breege_time_20zz)|  | |
+| [Брекотин](https://t.me/brekotins)                 |  | |
 | [Работайте, братья!](https://t.me/btr80)           | Closed comments | | 
 | [Опознай хохла по чубу](https://t.me/chub_detection)| Blocked for DN | |
 | [Черноморский экспресс](https://t.me/chernmorskiiexpres) | Closed comments | |
