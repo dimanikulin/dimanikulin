@@ -38,7 +38,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Donrf](https://t.me/donrf22)                      |
 | [dva_majors](https://t.me/dva_majors)              | 
 | [eternoff](https://t.me/eternoff)                  |
-| [Fighterbomber](https://t.me/fighter_bomber)       | Blocked for DN | |
+| [Fighterbomber](https://t.me/fighter_bomber)       | | |
 | [FridrihShow](https://t.me/FridrihShow)            | 
 | [Grigorjev](https://t.me/Grigorjev)                | 
 | [harry_homolsky](https://t.me/harry_homolsky)      | 
@@ -51,7 +51,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [kalininrus](https://t.me/kalininrus)              | 
 | [karjakinchess](https://t.me/karjakinchess)        |
 | [Полина Кокс & CandyFlip](https://t.me/koksncandy) |
-| [Константиновка ZOV Обстановка](https://t.me/konstantunovka_ZOV) | Blocked for DN | |
+| [Константиновка ZOV Обстановка](https://t.me/konstantunovka_ZOV) | | |
 | [kommunist](https://t.me/kommunist)                | 
 | [KotNaMirotvorze](https://t.me/KotNaMirotvorze)    | 
 | [KovaksClearSky](https://t.me/KovaksClearSky)      | 
@@ -97,7 +97,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [politsputnik](https://t.me/politsputnik)          |
 | [Лев Вершинин](https://t.me/putnik1lv)             |
 | [Сводки и Аналитика СВО](https://t.me/rezervsvo)   | Closed comments | |
-| [Росич Rosich](https://t.me/rosich_ru) | Blocked for DN | | 
+| [Росич Rosich](https://t.me/rosich_ru)             | | | 
 | [rosich_admin](https://t.me/rosich_admin)          | 
 | [rsotmdivision](https://t.me/rsotmdivision)        |
 | [Репортёр Руденко V🇷🇺](https://t.me/RtrDonetsk)  | Closed comments | | 
