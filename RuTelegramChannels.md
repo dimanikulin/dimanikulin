@@ -4,14 +4,14 @@ This is message to send to bots before blocking it:
 System alert! Due to inactivity this bot will be blocked. Please contact support team.
 | Link                                               | Status                | Description            |
 | ---------------------------------------------------|---------------------- |:----------------------:|
-| [Бладсикер 2.0](https://t.me/+TjGTywz1xPRjNzg6)    | Blocked for DN | |
-| [Кузичев](https://t.me/a_kuzichev)                 | Blocked for DN | |
-| [Лонгрид (Несмиян)](https://t.me/a_nesmijan_longread)| Blocked for DN | | 
+| [Бладсикер 2.0](https://t.me/+TjGTywz1xPRjNzg6)    |  | |
+| [Кузичев](https://t.me/a_kuzichev)                 |  | |
+| [Лонгрид (Несмиян)](https://t.me/a_nesmijan_longread)|  | | 
 | [Абзац медиа](https://t.me/absatzmedia)            | Closed comments | |
-| [АГС_Z_Донбасса](https://t.me/Ags_Donbass)         | Blocked for DN | | 
-| [Алексей Поддубный Джанго Z](https://t.me/alexeypoddubny_jango)| Blocked for DN | |
-| [Краля Даля](https://t.me/alyonamakk)              | Blocked for DN | |
-| [Анна Ревякина Донбасс](https://t.me/annarevyakina)| Blocked for DN | |
+| [АГС_Z_Донбасса](https://t.me/Ags_Donbass)         |  | | 
+| [Алексей Поддубный Джанго Z](https://t.me/alexeypoddubny_jango)|  | |
+| [Краля Даля](https://t.me/alyonamakk)              |  | |
+| [Анна Ревякина Донбасс](https://t.me/annarevyakina)|  | |
 | [ANONYMOUS | RUSSIA](https://t.me/anon_russ)       |
 | [Арбалет Z Говорит](https://t.me/arbaletgovorit)   | Blocked for DN | |
 | [АРТподдержка](https://t.me/ARTpodderjka)          | Blocked for DN without any msg | |
