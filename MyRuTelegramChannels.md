@@ -12,7 +12,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Алексей Поддубный Джанго Z](https://t.me/alexeypoddubny_jango)|  | |
 | [Краля Даля](https://t.me/alyonamakk)              |  | |
 | [Анна Ревякина Донбасс](https://t.me/annarevyakina)|  | |
-| [ANONYMOUS | RUSSIA](https://t.me/anon_russ)       |
+| [ANONYMOUS RUSSIA](https://t.me/anon_russ)       |
 | [Арбалет Z Говорит](https://t.me/arbaletgovorit)   |  | |
 | [АРТподдержка](https://t.me/ARTpodderjka)          |  | |
 | [Батальон Восток](https://t.me/batalyon_vostok)    | Closed comments | | 
@@ -28,7 +28,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Сумасшедшая власть](https://t.me/crazypower1)     | | AntiPutin content |
 | [Крымская Z прачка 🧺🧼](https://t.me/Crimeanprachka)| | |
 | [КРИСТАЛЛ РОСТА](https://t.me/crystal_book)        | Closed comments | |
-| [Донецк ⚒ | ЧП Макеевка](https://t.me/dark_donetskz)|Closed comments | |
+| [Донецк ⚒  ЧП Макеевка](https://t.me/dark_donetskz)|Closed comments | |
 | [Депутат Елена Шишкина (ДНР)](https://t.me/dep_shishkina)|  | | 
 | [Дневник Десантника🇷🇺](https://t.me/DnevnikDesantnika)| | |
 | [УКРОПСКИЙ ФРЕШ](https://t.me/dillfrash)           | | |
@@ -134,7 +134,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [zhurnalistka_z](https://t.me/zhurnalistka_z)      | 
 | [Zuben.co новости](https://t.me/zuben_co)          |
 | [MILITARY Z](https://t.me/x_military)              |
-| [Vladimir Zelenskiy](https://t.me/vladimir_zelenskiy_official_page) comments closed | |
+| [Vladimir Zelenskiy](https://t.me/vladimir_zelenskiy_official_page) | comments closed | |
 | [ЗАПОРОЖСКИЙ ФРОНТ](https://t.me/ZA_FROHT)         | comments closed | | 
 | [Vыше нас только Zвезды](https://t.me/ZaPobedy_uvo)|
 | [SU_Hunter_2_0](https://t.me/ZSU_Hunter_2_0)       | 
