@@ -92,7 +92,8 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [oplnr](https://t.me/oplnr)                        | 
 | [opoveshenie](https://t.me/opoveshenie)            | 
 | [orsha_pereobutaya](https://t.me/orsha_pereobutaya)|
-| [Позывной《OSETIN》](https://t.me/osetin20) |
+| [Позывной《OSETIN》](https://t.me/osetin20)          |
+| [Отряд "КЕРЧЬ"42-я гв.МСД](https://t.me/otryadkerch42) |
 | [petrlundstrem](https://t.me/petrlundstrem)        |
 | [Pobeda_Za_Deda](https://t.me/Pobeda_Za_Deda)      | | | 
 | [politsputnik](https://t.me/politsputnik)          |
