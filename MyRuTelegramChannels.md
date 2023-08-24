@@ -12,9 +12,10 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Алексей Поддубный Джанго Z](https://t.me/alexeypoddubny_jango)|  | |
 | [Краля Даля](https://t.me/alyonamakk)              |  | |
 | [Анна Ревякина Донбасс](https://t.me/annarevyakina)|  | |
-| [ANONYMOUS RUSSIA](https://t.me/anon_russ)       |
+| [ANONYMOUS RUSSIA](https://t.me/anon_russ)         |
 | [Арбалет Z Говорит](https://t.me/arbaletgovorit)   |  | |
 | [АРТподдержка](https://t.me/ARTpodderjka)          |  | |
+| [A.V.C. Group](https://t.me/avcgroup)              |
 | [Батальон Восток](https://t.me/batalyon_vostok)    | Closed comments | | 
 | [Battle_🅉 _Sailor](https://t.me/BattleSailor_13)  | | too few subsribers |
 | [Battle_🅉 _Sailor](https://t.me/BattleSailor13)   | 
