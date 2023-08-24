@@ -132,7 +132,8 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Крепкое слово](https://t.me/wrusss)               | 
 | [xaknet_team](https://t.me/xaknet_team)            | 
 | [xoxol_uk](https://t.me/xoxol_uk)                  | 
-| [zhurnalistka_z](https://t.me/zhurnalistka_z)      | 
+| [zhurnalistka_z](https://t.me/zhurnalistka_z)      |
+| [Zanoza](https://t.me/Zanoza)                      | 
 | [Zuben.co новости](https://t.me/zuben_co)          |
 | [MILITARY Z](https://t.me/x_military)              |
 | [Vladimir Zelenskiy](https://t.me/vladimir_zelenskiy_official_page) | comments closed | |
