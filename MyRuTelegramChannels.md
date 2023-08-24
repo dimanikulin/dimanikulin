@@ -124,7 +124,8 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [tactical_13](https://t.me/tactical_13)            |
 | [Говорит ТопаZ🦩#ШВО](https://t.me/Topaz_Govorit)  | 
 | [ukr_leaks](https://t.me/ukr_leaks)                | 
-| [vadovskaya](https://t.me/vadovskaya)              | 
+| [vadovskaya](https://t.me/vadovskaya)              |
+| [Новости Россия! Zа правду!](https://t.me/vchatz)  | 
 | [verysexydasha](https://t.me/verysexydasha)        | 
 | [vitteli](https://t.me/vitteli)                    |
 | [Воин DV](https://t.me/voin_dv)                    | comments closed | |
