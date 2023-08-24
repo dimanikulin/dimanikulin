@@ -43,6 +43,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Fighterbomber](https://t.me/fighter_bomber)       | | |
 | [FridrihShow](https://t.me/FridrihShow)            | 
 | [Grigorjev](https://t.me/Grigorjev)                | 
+| [ПриZрак Новороссии](https://t.me/ghost_of_novorossia) |
 | [harry_homolsky](https://t.me/harry_homolsky)      | 
 | [HersonVestnik](https://t.me/HersonVestnik)        | 
 | [iikhu](https://t.me/iikhu)                        | 
