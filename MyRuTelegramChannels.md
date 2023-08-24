@@ -16,7 +16,8 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Арбалет Z Говорит](https://t.me/arbaletgovorit)   |  | |
 | [АРТподдержка](https://t.me/ARTpodderjka)          |  | |
 | [Батальон Восток](https://t.me/batalyon_vostok)    | Closed comments | | 
-| [Battle_🅉 _Sailor](https://t.me/BattleSailor_13)  | | too few subsribers | 
+| [Battle_🅉 _Sailor](https://t.me/BattleSailor_13)  | | too few subsribers |
+| [Battle_🅉 _Sailor](https://t.me/BattleSailor13)   | 
 | [БелВПО](https://t.me/Belarus_VPO)                 |  | | 
 | [🇷🇺БОБР🇷🇺](https://t.me/BOBRMORF)              |  | |
 | [Brееgе Timе ZÖZZ🇷🇺](https://t.me/breege_time_20zz)|  | |
