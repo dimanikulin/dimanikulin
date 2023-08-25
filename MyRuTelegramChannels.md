@@ -84,6 +84,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [НгП раZVедка](https://t.me/negumanitarnaya_pomosch_Z)| 
 | [NeSocSeti](https://t.me/NeSocSeti)                | 
 | [nos_chanel](https://t.me/nos_chanel)              |
+| [Новая 🅉 Украина Live](https://t.me/novajaukraina)|
 | [Типичная Одесса](https://t.me/odessa_typical)     | 
 | [OlesyaShigina](https://t.me/OlesyaShigina)        |
 | [only_rodina](https://t.me/only_rodina)            |
