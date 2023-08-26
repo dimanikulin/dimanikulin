@@ -111,11 +111,11 @@ Presented in a tabular format, this section comprises the following columns:
 - **Definition**
 
 ## Project Status Tracking
-In a broader perspective, monitoring the project's status holds immense significance for a Delivery Manager. 
+In a broader perspective, monitoring the project's status holds immense significance for a **Delivery Manager**. 
 This practice ensures the triumph of the project by overseeing factors such as risk management, resource allocation, effective communication, and the ability to make well-informed decisions across the entirety of the project's lifecycle.
 
 ### GitHub Projects
-**GitHub Projects** emerges as a tool dedicated to tracking project status in an online environment, seamlessly integrated into your GitHub profile. 
+**GitHub Projects** emerges as a tool dedicated to tracking project status in an online environment, seamlessly integrated into your **GitHub** profile. 
 Its user-friendly interface facilitates ease of use, and while it doesn't offer an extensive array of functions, it adeptly serves its purpose. 
 Allow me to present [it](https://github.com/dimanikulin/fva/projects/3)
 
@@ -126,9 +126,9 @@ Allow me to present [it](https://github.com/dimanikulin/fva/projects/3)
 Despite the aforementioned options, the demand for a more sophisticated solution persisted.
 In light of this, my preference leaned towards [ProjectLibre](https://www.projectlibre.com/product/1-alternative-microsoft-project-open-source).
 The ProjectLibre software, designed for desktop usage, presents itself as a comprehensive and open-source project management system.
-Positioned as a stand-alone substitute for Microsoft Project, ProjectLibre effectively addresses the intricate requirements I sought.
+Positioned as a stand-alone substitute for **Microsoft Project**, **ProjectLibre** effectively addresses the intricate requirements I sought.
 
-Despite its stature as a compact and cost-free application, ProjectLibre remarkably delivered everything essential for my needs.
+Despite its stature as a compact and cost-free application, **ProjectLibre** remarkably delivered everything essential for my needs.
 
 ## Releasing the Code and Documentation
 The release of the product is strategically planned to coincide with the readiness of a substantial portion of its functionality.
@@ -141,8 +141,7 @@ This holds true even when releasing relatively minor components of functionality
 In adherence to this approach, the ensuing artifacts are generated:
 
 - Documentation for the code, structured around doxy comments.
-- Installation packages for the latest versions of Windows, Mac, and Linux.
-
+- Installation packages for the latest versions of **Windows, Mac, and Linux**.
 
 # References
 | # | Name                 | Source           | Release date           |  Author                 | Description |
