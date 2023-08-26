@@ -1,12 +1,12 @@
 # Headline
-TBD
 What I learned as a Delivery Manager while creating my product
+Crafting an Engaging Open-Source Project: A Guide to Elevating Developer Engagement and README Excellence
 
 # Article description
-TBD 
+Unlocking Developer Engagement: A Comprehensive Guide to Enhancing Open-Source Projects and Creating Compelling READMEs 
 
 # Tags
-TBD
+Open Source Development, Developer Engagement, README Best Practices, Project Documentation, GitHub Projects, ProjectLibre
 
 # Content
 
