@@ -120,6 +120,9 @@ Its user-friendly interface facilitates ease of use, and while it doesn't offer 
 Allow me to present [it](https://github.com/dimanikulin/fva/projects/3)
 
 ### ProjectLibre
+
+<img src="ProjectLibre.png" alt="ProjectLibre"/>
+
 Despite the aforementioned options, the demand for a more sophisticated solution persisted.
 In light of this, my preference leaned towards [ProjectLibre](https://www.projectlibre.com/product/1-alternative-microsoft-project-open-source).
 The ProjectLibre software, designed for desktop usage, presents itself as a comprehensive and open-source project management system.
