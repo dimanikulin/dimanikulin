@@ -10,7 +10,7 @@ Open Source Development, Developer Engagement, README Best Practices, Project Do
 
 # Content
 
-First, I began contemplating how to increase engagement with my open-source project. Why? Because:
+First, I began contemplating how to increase engagement with my open-source project. **Why?** Because:
 
 - Developers play a pivotal role in adopting and integrating your product into their projects.
 - Engaged developers, who have a positive experience with your product, can become influential advocates.
@@ -20,16 +20,16 @@ First, I began contemplating how to increase engagement with my open-source proj
 
 Their contributions can expedite the pace of innovation, foster a sense of ownership and community, and trigger a network effect that entices more developers to get involved.
 
-As a result, I decided to create an appealing README.
+As a result, I decided to create an appealing **README**.
 
 ## Create a Good Readme
 [It](https://github.com/dimanikulin/fva#readme) is the first thing that a visitor to your repository sees.
-A good README serves as a comprehensive and accessible starting point for users and developers to engage with your project.
+A good **README** serves as a comprehensive and accessible starting point for users and developers to engage with your project.
 
 It should be able to convey what your project is capable of doing, how to install and work with the project, how to contribute, and more.
 It also maintains structured information about the product and its implementation details.
 
-To avoid overloading the main README, there are several child files created to provide additional details:
+To avoid overloading the main **README**, there are several child files created to provide additional details:
 
 - [CodeDocumentation.md](https://github.com/dimanikulin/fva/blob/master/CodeDocumentation.md) - Describes how to document the code.
 - [CodeStyle.md](https://github.com/dimanikulin/fva/blob/master/CodeStyle.md)                 - Describes the code style.
@@ -39,10 +39,10 @@ To avoid overloading the main README, there are several child files created to p
 - [FunctionalView.md](https://github.com/dimanikulin/fva/blob/master/FunctionalView.md)       - Shows and describes the functional view.
 - [QualityAttributes.md](https://github.com/dimanikulin/fva/blob/master/QualityAttributes.md) - Describes the product's Quality Attributes.
 
-Furthermore, my README starts with the product logo.
+Furthermore, my **README starts with the product logo.
 
 ### Bages
-The README then proceeds to badge chapters that prove helpful for developers. These sections include:
+The **README** then proceeds to badge chapters that prove helpful for developers. These sections include:
 
 - Common(Repository stars, contributors, followers, sponsors, and Twitter URL)
 - Release(Latest release version, release date, and number of downloads)
@@ -60,9 +60,9 @@ There are three different types of badges based on their implementation approach
 <img src="FvaReadme.png" alt="FvaReadme"/>
 
 ### Quick Links
-Following this, the README transitions to the [Quick Links](https://github.com/dimanikulin/fva#quick-links) chapter.
-Quick links within a README file play a crucial role as they offer convenient access to key sections, resources, or external references relevant to a project.
-They act as navigation aids, enabling readers to swiftly navigate to specific parts of the README without the need for extensive scrolling or searching.
+Following this, the **README** transitions to the [Quick Links](https://github.com/dimanikulin/fva#quick-links) chapter.
+**Quick links** within a **README** file play a crucial role as they offer convenient access to key sections, resources, or external references relevant to a project.
+They act as navigation aids, enabling readers to swiftly navigate to specific parts of the **README** without the need for extensive scrolling or searching.
 To enhance accessibility, I've added Quick Links for each main chapter in the [README](https://github.com/dimanikulin/fva#readme).
 
 ### Capabilities and Description
@@ -72,7 +72,7 @@ This description aids users in comprehending what your product brings to the tab
 By presenting information that is both clear and compelling, you can draw in the right audience and increase the likelihood of user adoption and satisfaction.
 
 ### Architecture Documentation
-Subsequently, the README delves into the description of Architecture Documentation, encompassing the following chapters:
+Subsequently, the **README** delves into the description of **Architecture Documentation**, encompassing the following chapters:
 
 - [Software Architecture Requirements](https://github.com/dimanikulin/fva#software-architecture-requirements)
 - [Software Architecture Views](https://github.com/dimanikulin/fva#software-architecture-views)
@@ -82,11 +82,11 @@ Subsequently, the README delves into the description of Architecture Documentati
 For more detailed information, please refer to the designated [section](./WhatILearnedAsAppArchitect.md).
 
 ### Code Style and Documentation
-The README then proceeds to expound upon [Code Style](https://github.com/dimanikulin/fva#code-style) and [Documentation](https://github.com/dimanikulin/fva#code-documentation).
+The **README** then proceeds to expound upon [Code Style](https://github.com/dimanikulin/fva#code-style) and [Documentation](https://github.com/dimanikulin/fva#code-documentation).
 The act of documenting code style and practices serves as a linchpin for maintaining consistency, upholding code quality, fostering collaboration, and ensuring the project's long-term maintainability. 
 It acts as a valuable resource for the development team, guaranteeing that the project's codebase retains organization, comprehensibility, and scalability.
 
-Should you require further information, feel free to explore the section dedicated to Code Style and Documentation.
+Should you require further information, feel free to explore the section dedicated to **Code Style** and **Documentation**.
 
 ### Implementation Status
 Subsequently, I contemplated an effective means to monitor the [coverage](https://github.com/dimanikulin/fva#implementation-status) of requirements.
@@ -104,11 +104,11 @@ In this section, I outline the various channels that individuals can utilize to 
 This includes information on how one can actively participate and offer their assistance.
 
 ### Definitions, Acronyms, Abbreviations
-Lastly, I provide an explanation of Definitions, Acronyms, and Abbreviations.
+Lastly, I provide an explanation of **Definitions, Acronyms, and Abbreviations**.
 Presented in a tabular format, this section comprises the following columns:
-- Number
-- Abbreviation or Acronym
-- Definition
+- **Number**
+- **Abbreviation or Acronym**
+- **Definition**
 
 ## Project Status Tracking
 In a broader perspective, monitoring the project's status holds immense significance for a Delivery Manager. 
