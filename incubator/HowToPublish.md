@@ -181,4 +181,4 @@ publish first the post you will refer to and then more global post. So first wil
 # References 
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
-| 1 | Your ccomplete guide to writing for hacker noon | [web](https://help.hackernoon.com/your-complete-guide-to-writing-for-hacker-noon) | | | | 
+| 1 | Your complete guide to writing for hacker noon | [web](https://help.hackernoon.com/your-complete-guide-to-writing-for-hacker-noon) | | | | 
