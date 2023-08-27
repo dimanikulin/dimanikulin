@@ -57,7 +57,7 @@ There are three different types of badges based on their implementation approach
 - Implemented by img.shields.io, displayed as: [Badge](https://img.shields.io/github/last-commit/dimanikulin/fva)
 - Implemented by www.codefactor.io, displayed as: [Badge](https://www.codefactor.io/repository/github/dimanikulin/fva)
 
-<img src="FvaReadme.png" alt="FvaReadme"/>
+<img src="./Images/FvaReadme.png" alt="FvaReadme"/>
 
 ### Quick Links
 Following this, the **README** transitions to the [Quick Links](https://github.com/dimanikulin/fva#quick-links) chapter.
@@ -121,7 +121,7 @@ Allow me to present [it](https://github.com/dimanikulin/fva/projects/3)
 
 ### ProjectLibre
 
-<img src="ProjectLibre.png" alt="ProjectLibre"/>
+<img src="./Images/ProjectLibre.png" alt="ProjectLibre"/>
 
 Despite the aforementioned options, the demand for a more sophisticated solution persisted.
 In light of this, my preference leaned towards [ProjectLibre](https://www.projectlibre.com/product/1-alternative-microsoft-project-open-source).
