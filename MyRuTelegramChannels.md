@@ -12,6 +12,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Алексей Поддубный Джанго Z](https://t.me/alexeypoddubny_jango)|  | |
 | [Краля Даля](https://t.me/alyonamakk)              |  | |
 | [Анна Ревякина Донбасс](https://t.me/annarevyakina)|  | |
+| [ANSHLAK](https://t.me/ANSNLAK)                    |
 | [ANONYMOUS RUSSIA](https://t.me/anon_russ)         |
 | [Арбалет Z Говорит](https://t.me/arbaletgovorit)   |  | |
 | [АРТподдержка](https://t.me/ARTpodderjka)          |  | |
