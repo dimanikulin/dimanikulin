@@ -124,6 +124,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [strazh_1](https://t.me/strazh_1)                  | 
 | [stringer_donetsk](https://t.me/stringer_donetsk)  | 
 | [tactical_13](https://t.me/tactical_13)            |
+| [Ты охуеешь, но это ДНР!](https://t.me/TOneDNR)    |
 | [Говорит ТопаZ🦩#ШВО](https://t.me/Topaz_Govorit)  |
 | [Труха Барселона](https://t.me/truhabarselona)     |
 | [ukr_leaks](https://t.me/ukr_leaks)                | 
