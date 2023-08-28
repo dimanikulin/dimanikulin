@@ -5,7 +5,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | Link                                               | Status                | Description            |
 | ---------------------------------------------------|---------------------- |:----------------------:|
 | [Бладсикер 2.0](https://t.me/+TjGTywz1xPRjNzg6)    |  | |
-| [Кузичев](https://t.me/a_kuzichev)                 |  | |
+| [Кузичев](https://t.me/a_kuzichev)                 | closed for DN | |
 | [Лонгрид (Несмиян)](https://t.me/a_nesmijan_longread)|  | | 
 | [Абзац медиа](https://t.me/absatzmedia)            | Closed comments | |
 | [АГС_Z_Донбасса](https://t.me/Ags_Donbass)         |  | | 
@@ -28,7 +28,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Опознай хохла по чубу](https://t.me/chub_detection)| | |
 | [Черноморский экспресс](https://t.me/chernmorskiiexpres) | Closed comments | |
 | [Российский Рубеж " Za нашу](https://t.me/compass83) | Closed comments | |
-| [Сумасшедшая власть](https://t.me/crazypower1)     | | AntiPutin content, not working |
+| [Сумасшедшая власть](https://t.me/crazypower1)     | not working | AntiPutin content |
 | [Крымская Z прачка 🧺🧼](https://t.me/Crimeanprachka)| | |
 | [КРИСТАЛЛ РОСТА](https://t.me/crystal_book)        | Closed comments | |
 | [Донецк ⚒  ЧП Макеевка](https://t.me/dark_donetskz)|Closed comments | |
