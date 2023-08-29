@@ -26,7 +26,6 @@ clearn up current app and environment
 
 work life balance
 
-NT 4.0 :-)
 peceace of code for old OS
 
 видучаывай
