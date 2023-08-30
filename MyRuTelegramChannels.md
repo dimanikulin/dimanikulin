@@ -43,6 +43,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [dva_majors](https://t.me/dva_majors)              | 
 | [eternoff](https://t.me/eternoff)                  |
 | [Fighterbomber](https://t.me/fighter_bomber)       | | |
+| [Скотомогильник](https://t.me/fiftnmls)            | 
 | [FridrihShow](https://t.me/FridrihShow)            | 
 | [Grigorjev](https://t.me/Grigorjev)                | 
 | [ПриZрак Новороссии](https://t.me/ghost_of_novorossia) |
