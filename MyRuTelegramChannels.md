@@ -105,6 +105,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [politsputnik](https://t.me/politsputnik)          |
 | [Лев Вершинин](https://t.me/putnik1lv)             |
 | [Сводки и Аналитика СВО](https://t.me/rezervsvo)   | Closed comments | |
+| [Режим Б](https://t.me/rezhimbe)                   |
 | [Росич Rosich](https://t.me/rosich_ru)             | | | 
 | [rosich_admin](https://t.me/rosich_admin)          | 
 | [rsotmdivision](https://t.me/rsotmdivision)        |
