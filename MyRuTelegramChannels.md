@@ -132,6 +132,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Ты охуеешь, но это ДНР!](https://t.me/TOneDNR)    |
 | [Говорит ТопаZ🦩#ШВО](https://t.me/Topaz_Govorit)  |
 | [Труха Барселона](https://t.me/truhabarselona)     |
+| [Трупы ВСУ ХОХЛЫ 200](https://t.me/trupvsy)        |
 | [ukr_leaks](https://t.me/ukr_leaks)                | 
 | [vadovskaya](https://t.me/vadovskaya)              |
 | [Новости Россия! Zа правду!](https://t.me/vchatz)  | 
