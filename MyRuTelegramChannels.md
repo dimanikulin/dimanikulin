@@ -117,6 +117,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Русская Весна СПЕЦОПЕРАЦ](https://t.me/russian_spring_zz) | Closed comments | |
 | [Крылатые](https://t.me/russian_airborne)          | 
 | [sergeyvostrecov](https://t.me/sergeyvostrecov)    |
+| [Редакция ШМЕЛЬ](https://t.me/shmel_chik)          |
 | [СОЛДАТ УДАЧИ](https://t.me/Soldieroffortune777)   | | | 
 | [Скабеева](https://t.me/skabeeva)                  | Closed comments | |
 | [Дядя Слава](https://t.me/slavaded1337)            |
