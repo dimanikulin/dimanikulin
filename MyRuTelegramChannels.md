@@ -123,7 +123,8 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [spainrus](https://t.me/spainrus)                  |
 | [ПИСАРЬ ИЗ СПЕЦНАZА](https://t.me/specnaz_com)     | 
 | [sskarnaukhov](https://t.me/sskarnaukhov)          | 
-| [strazh_1](https://t.me/strazh_1)                  | 
+| [strazh_1](https://t.me/strazh_1)                  |
+| [Судоплатов](https://t.me/sudoplatov_official)     | comments closed | |
 | [stringer_donetsk](https://t.me/stringer_donetsk)  | 
 | [tactical_13](https://t.me/tactical_13)            |
 | [Ты охуеешь, но это ДНР!](https://t.me/TOneDNR)    |
