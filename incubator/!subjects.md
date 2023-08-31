@@ -1,5 +1,7 @@
 WhatILearnedAsTester.md
 
+RecursiveDrinking.jpg
+
 нужно ли учить скрам заранее
 I don't jump from job to job just for salary
 С++ and guessing is on opposite sides
