@@ -58,6 +58,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [izolentalive](https://t.me/izolentalive)          | 
 | [kalininrus](https://t.me/kalininrus)              | 
 | [karjakinchess](https://t.me/karjakinchess)        |
+| [ХОХЛЫ, ШО С ЕБАЛОМ ?](https://t.me/KILL_BCY)      |
 | [Полина Кокс & CandyFlip](https://t.me/koksncandy) |
 | [Константиновка ZOV Обстановка](https://t.me/konstantunovka_ZOV) | | |
 | [kommunist](https://t.me/kommunist)                | 
