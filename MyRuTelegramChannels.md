@@ -17,6 +17,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Арбалет Z Говорит](https://t.me/arbaletgovorit)   |  | |
 | [АРТподдержка](https://t.me/ARTpodderjka)          |  | |
 | [A.V.C. Group](https://t.me/avcgroup)              |
+| [Азарёнок. СТВ. Беларусь](https://t.me/AzarenokCTV)|
 | [Батальон Восток](https://t.me/batalyon_vostok)    | Closed comments | | 
 | [Battle_🅉 _Sailor](https://t.me/BattleSailor_13)  | | too few subsribers |
 | [Battle_🅉 _Sailor](https://t.me/BattleSailor13)   | 
@@ -107,6 +108,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Pobeda_Za_Deda](https://t.me/Pobeda_Za_Deda)      | | | 
 | [politsputnik](https://t.me/politsputnik)          |
 | [Лев Вершинин](https://t.me/putnik1lv)             |
+| [Рагуль из овощей](https://t.me/ragulinho)         |
 | [Сводки и Аналитика СВО](https://t.me/rezervsvo)   | Closed comments | |
 | [Режим Б](https://t.me/rezhimbe)                   |
 | [Росич Rosich](https://t.me/rosich_ru)             | | | 
