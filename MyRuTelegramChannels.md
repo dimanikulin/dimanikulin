@@ -136,6 +136,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Судоплатов](https://t.me/sudoplatov_official)     | comments closed | |
 | [stringer_donetsk](https://t.me/stringer_donetsk)  | 
 | [tactical_13](https://t.me/tactical_13)            |
+| [Шепот Фронта](https://t.me/Tatarinov_R)           |
 | [Ты охуеешь, но это ДНР!](https://t.me/TOneDNR)    |
 | [Говорит ТопаZ🦩#ШВО](https://t.me/Topaz_Govorit)  |
 | [Труха Барселона](https://t.me/truhabarselona)     |
