@@ -65,7 +65,8 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Константиновка ZOV Обстановка](https://t.me/konstantunovka_ZOV) | | |
 | [kommunist](https://t.me/kommunist)                | 
 | [KotNaMirotvorze](https://t.me/KotNaMirotvorze)    | 
-| [KovaksClearSky](https://t.me/KovaksClearSky)      | 
+| [KovaksClearSky](https://t.me/KovaksClearSky)      |
+| [КТО ПО ЖИЗНИ](https://t.me/KPZYoyTube)            |
 | [krasnovdmitri](https://t.me/krasnovdmitri)        | 
 | [kuzichev_chat](https://t.me/kuzichev_chat)        | 
 | [labppsh](https://t.me/labppsh)                    | 
