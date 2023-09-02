@@ -91,6 +91,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [nemeZ1da_ru](https://t.me/nemeZ1da_ru)            |
 | [НгП раZVедка](https://t.me/negumanitarnaya_pomosch_Z)| 
 | [NeSocSeti](https://t.me/NeSocSeti)                |
+| [АНП - агентство новостей](https://t.me/neolginskie)| 
 | [Найс!](https://t.me/n1ce_ch)                      |
 | [nos_chanel](https://t.me/nos_chanel)              |
 | [Новая 🅉 Украина Live](https://t.me/novajaukraina)|
