@@ -1,14 +1,13 @@
 Each year in GlobalLogic an employer gets the present for birthday.
-I have got following 5:
+I have got following 6:
 - Backpack;
 - Multitool knife;
 - Belt bag;
 - Power bank;
-- Bottle for water.
+- Bottle for water;
+- Blanket.
 
-This year I realized their value especially in terms of war.
-
-Thank you GlobalLogic for taking care of me in advance!
+I value it especially in terms of war, and thank you GlobalLogic for taking care of me.
 
 P.S. Here I meant GL Ukraine.
 
