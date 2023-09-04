@@ -98,6 +98,24 @@ https://www.facebook.com/olenazelenska.official/posts/pfbid025TUqBC1FcR1CnMt3eGD
 ### Tags
 mentalhealth mentalhealthsupport zelensky
 
+## Presents in GlobalLogic for an employer 2 
+Each year in GlobalLogic an employer gets the present for birthday.
+
+I have got following 6:
+- Backpack;
+- Multitool knife;
+- Belt bag;
+- Power bank;
+- Bottle for water;
+- Blanket.
+
+I value it especially in terms of war, and thank GlobalLogic for taking care of me.
+
+P.S. Here I meant GL Ukraine.
+
+### Tags
+ukraine, war
+
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
@@ -111,3 +129,4 @@ mentalhealth mentalhealthsupport zelensky
 | 8 | A white paper on GlobalLogic Insights| [LinkedIn](https://www.linkedin.com/posts/dimanikulin_detecting-architectural-gaps-with-automation-activity-7073919594154868738-CpcR?utm_source=share&utm_medium=member_desktop)  | June 9, 2023 | Dmytro Nikulin | |
 | 9 | Олена Зеленська | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_%D1%8F%D0%BA%D0%B1%D0%B8-%D1%83-%D0%B2%D0%B0%D1%81-%D0%B1%D1%83%D0%BB%D0%B0-%D1%82%D0%B0%D0%BA%D0%B0-%D0%BC%D0%BE%D0%B6%D0%BB%D0%B8%D0%B2%D1%96%D1%81%D1%82%D1%8C-%D1%82%D0%BE-%D1%89%D0%BE-%D0%B1-activity-7094210810255675392-Cj5E?utm_source=share&utm_medium=member_desktop ) | August 7, 2023 | Dmytro Nikulin | |
 | 10| Олена Зеленська2 | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_%D0%BE%D0%BB%D0%B5%D0%BD%D0%B0-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D1%81%D1%8C%D0%BA%D0%B0-%D0%B4%D0%B1%D0%B0%D1%82%D0%B8-%D0%BF%D1%80%D0%BE-%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5-%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2-activity-7101818614164389889-NNuc?utm_source=share&utm_medium=member_desktop) | August 28, 2023 | Dmytro Nikulin | |
+| 11| Presents in GlobalLogic for an employer 2 | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_ukraine-war-globallogic-activity-7104355502528077825-Afg6?utm_source=share&utm_medium=member_desktop) | September 4, 2023 | Dmytro Nikulin | |
