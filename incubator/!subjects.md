@@ -1,19 +1,3 @@
-Each year in GlobalLogic an employer gets the present for birthday.
-I have got following 6:
-- Backpack;
-- Multitool knife;
-- Belt bag;
-- Power bank;
-- Bottle for water;
-- Blanket.
-
-I value it especially in terms of war, and thank you GlobalLogic for taking care of me.
-
-P.S. Here I meant GL Ukraine.
-
-#ukraine, #war, #globallogic
-
-
 WhatILearnedAsTester.md
 
 RecursiveDrinking.jpg
