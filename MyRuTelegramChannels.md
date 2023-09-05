@@ -11,6 +11,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [АГС_Z_Донбасса](https://t.me/Ags_Donbass)         |  | | 
 | [Алексей Поддубный Джанго Z](https://t.me/alexeypoddubny_jango)|  | |
 | [Краля Даля](https://t.me/alyonamakk)              |  | |
+| [Тицкий_на_Юге 🇷🇺](https://t.me/AntonTitski)     |
 | [Анна Ревякина Донбасс](https://t.me/annarevyakina)|  | |
 | [ANSHLAK](https://t.me/ANSNLAK)                    |
 | [ANONYMOUS RUSSIA](https://t.me/anon_russ)         |
