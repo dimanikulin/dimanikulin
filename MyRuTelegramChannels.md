@@ -75,6 +75,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [НОВОСТИ ЛНР](https://t.me/luganskallnews)         | Closed comments | |
 | [Мариуполь сейчас](https://t.me/mariupolz)         |
 | [Министерство Логики](https://t.me/minlogiki)      |
+| [Мисливец LITE](https://t.me/mislivetslite)        |
 | [m0sc0wcalling](https://t.me/m0sc0wcalling)        | | AntiPutin content |
 | [moscowmap](https://t.me/moscowmap)                | 
 | [mariabutina](https://t.me/mariabutina)            | 
