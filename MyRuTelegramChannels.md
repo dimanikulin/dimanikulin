@@ -112,6 +112,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [petrlundstrem](https://t.me/petrlundstrem)        |
 | [Pobeda_Za_Deda](https://t.me/Pobeda_Za_Deda)      | | | 
 | [politsputnik](https://t.me/politsputnik)          |
+| [Татьяна Поп](https://t.me/poptatiana)             |
 | [Лев Вершинин](https://t.me/putnik1lv)             |
 | [Рагуль из овощей](https://t.me/ragulinho)         |
 | [Сводки и Аналитика СВО](https://t.me/rezervsvo)   | Closed comments | |
