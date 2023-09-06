@@ -84,7 +84,6 @@ Enjoy your reading experience!
 ### Tags
 whitepaper softwarearchitecture softwaredesign
 
-
 ## Олена Зеленська 2
 Нещодавно співробітники GlobalLogic Ukraine мали нагоду поспілкуватися з Першою Леді, Оленою Зеленською, Оксаною Збітнєвою та Олегом Романчуком, експертами Програми “Ти як?”
 
@@ -93,7 +92,6 @@ whitepaper softwarearchitecture softwaredesign
 Мені особисто спілкування сподобалося корисністю та форматом.
 
 https://www.facebook.com/olenazelenska.official/posts/pfbid025TUqBC1FcR1CnMt3eGDS8JHx9eXwJAnQDDRbrm9KomuZ3D62DLgdDbSHQMWh6ev4l
-
 
 ### Tags
 mentalhealth mentalhealthsupport zelensky
@@ -112,6 +110,8 @@ I have got following 6:
 I value it especially in terms of war, and thank GlobalLogic for taking care of me.
 
 P.S. Here I meant GL Ukraine.
+
+<img src="./Images/GLPresents.jfif" alt="PresentsInGL" />
 
 ### Tags
 ukraine, war
