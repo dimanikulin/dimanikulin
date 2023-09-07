@@ -145,6 +145,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [stringer_donetsk](https://t.me/stringer_donetsk)  | 
 | [tactical_13](https://t.me/tactical_13)            |
 | [Шепот Фронта](https://t.me/Tatarinov_R)           |
+| [Новости: «Русский фронт»](https://t.me/the_russki_front)| 
 | [Ты охуеешь, но это ДНР!](https://t.me/TOneDNR)    |
 | [Говорит ТопаZ🦩#ШВО](https://t.me/Topaz_Govorit)  |
 | [Труха Барселона](https://t.me/truhabarselona)     |
