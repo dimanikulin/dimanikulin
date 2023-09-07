@@ -71,7 +71,8 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [КТО ПО ЖИЗНИ](https://t.me/KPZYoyTube)            |
 | [krasnovdmitri](https://t.me/krasnovdmitri)        | 
 | [kuzichev_chat](https://t.me/kuzichev_chat)        | 
-| [labppsh](https://t.me/labppsh)                    | 
+| [labppsh](https://t.me/labppsh)                    |
+| [Военкор Белла Либерман](https://t.me/liberman_bella)| 
 | [longread2023](https://t.me/longread2023)          | Closed comments | |
 | [LIC_LPR](https://t.me/LIC_LPR)                    |
 | [НОВОСТИ ЛНР](https://t.me/luganskallnews)         | Closed comments | |
