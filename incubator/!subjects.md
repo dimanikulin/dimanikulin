@@ -52,7 +52,6 @@ single source of truth for linked in profile, all prof networks anf glo, keep th
 
 healthcare мониторинг
 
-presents from GL
 presents from EPAM
 
 говорить много не значит говорить хорошо
