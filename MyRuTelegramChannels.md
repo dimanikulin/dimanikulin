@@ -122,6 +122,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Рагуль из овощей](https://t.me/ragulinho)         |
 | [Сводки и Аналитика СВО](https://t.me/rezervsvo)   | Closed comments | |
 | [Режим Б](https://t.me/rezhimbe)                   |
+| [Romanov Лайт](https://t.me/romanov_92)            |
 | [Росич Rosich](https://t.me/rosich_ru)             | | | 
 | [rosich_admin](https://t.me/rosich_admin)          |
 | [Роза Шпатель❤️](https://t.me/rozashpatel2023)     |
