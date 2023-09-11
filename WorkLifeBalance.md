@@ -60,7 +60,7 @@ Now, I'm curious to know what you do to employ a similar approach?
 
 А Ви маєте аналогічний досвід?
 
-<img src="./Images/tabletki.jfif" alt="insurance" />
+<img src="./Images/tabletki.jfif" alt="tabletki" />
 
 ### Tags
 wellbeing insurance medicalcare
@@ -69,3 +69,4 @@ wellbeing insurance medicalcare
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 | 1 | Playing chess        |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_worklifebalance-workload-relax-activity-7084787080802836480-jGcU?utm_source=share&utm_medium=member_desktop) | July 12, 2023 | Dmytro Nikulin | |
+| 2 | Insurance case       |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_wellbeing-insurance-medicalcare-activity-7106889450810449920-rtpf?utm_source=share&utm_medium=member_desktop) | September 11, 2023 | Dmytro Nikulin |
