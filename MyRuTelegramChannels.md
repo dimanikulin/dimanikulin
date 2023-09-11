@@ -6,7 +6,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | ---------------------------------------------------|---------------------- |:----------------------:|
 | [Бладсикер 2.0](https://t.me/+TjGTywz1xPRjNzg6)    |  | |
 | [Кузичев](https://t.me/a_kuzichev)                 | closed for DN | |
-| [Лонгрид (Несмиян)](https://t.me/a_nesmijan_longread)|  | | 
+| [Лонгрид (Несмиян)](https://t.me/a_nesmijan_longread)|  | AntiPutin content | 
 | [Абзац медиа](https://t.me/absatzmedia)            | Closed comments | |
 | [АГС_Z_Донбасса](https://t.me/Ags_Donbass)         | | closed for DN | | 
 | [Алексей Поддубный Джанго Z](https://t.me/alexeypoddubny_jango)|  | |
