@@ -176,6 +176,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Zuben.co новости](https://t.me/zuben_co)          |
 | [MILITARY Z](https://t.me/x_military)              |
 | [Vladimir Zelenskiy](https://t.me/vladimir_zelenskiy_official_page) | comments closed | |
+| [ZaRussia72rus](https://t.me/zarussia010)          |
 | [Za наших](https://t.me/za_army)                   |
 | [ЗАПОРОЖСКИЙ ФРОНТ](https://t.me/ZA_FROHT)         | comments closed | |
 | [Za Наших новости](https://t.me/za_nashih_news)    | comments closed | |
