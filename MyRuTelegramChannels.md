@@ -50,7 +50,8 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Лик Войны](https://t.me/faceofwar)                |
 | [Fighterbomber](https://t.me/fighter_bomber)       | | |
 | [Скотомогильник](https://t.me/fiftnmls)            | 
-| [FridrihShow](https://t.me/FridrihShow)            | 
+| [FridrihShow](https://t.me/FridrihShow)            |
+| [GREY ZONE](https://t.me/grey_zone)                |
 | [Grigorjev](https://t.me/Grigorjev)                | 
 | [ПриZрак Новороссии](https://t.me/ghost_of_novorossia) |
 | [harry_homolsky](https://t.me/harry_homolsky)      | 
