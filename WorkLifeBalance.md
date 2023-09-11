@@ -60,6 +60,8 @@ Now, I'm curious to know what you do to employ a similar approach?
 
 А Ви маєте аналогічний досвід?
 
+<img src="./Images/tabletki.jfif" alt="insurance" />
+
 ### Tags
 wellbeing insurance medicalcare
 
