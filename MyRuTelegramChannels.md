@@ -165,7 +165,8 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [warhistoryalconafter](https://t.me/warhistoryalconafter)|
 | [Крепкое слово](https://t.me/wrusss)               | 
 | [xaknet_team](https://t.me/xaknet_team)            | 
-| [xoxol_uk](https://t.me/xoxol_uk)                  | 
+| [xoxol_uk](https://t.me/xoxol_uk)                  |
+| [Vыше нас только Zвезды](https://t.me/ZaPobedy_uvo26)| 
 | [zhurnalistka_z](https://t.me/zhurnalistka_z)      |
 | [Zanoza](https://t.me/Zanoza)                      | 
 | [Zuben.co новости](https://t.me/zuben_co)          |
