@@ -117,11 +117,12 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Позывной《OSETIN》](https://t.me/osetin20)          |
 | [Отряд "КЕРЧЬ"42-я гв.МСД](https://t.me/otryadkerch42) |
 | [petrlundstrem](https://t.me/petrlundstrem)        |
+| [Миротворец News](https://t.me/peacemaker565)      |
 | [Pobeda_Za_Deda](https://t.me/Pobeda_Za_Deda)      | | | 
 | [politsputnik](https://t.me/politsputnik)          |
 | [Татьяна Поп](https://t.me/poptatiana)             |
 | [Лев Вершинин](https://t.me/putnik1lv)             |
-| [Рагуль из овощей](https://t.me/ragulinho)         |
+| [Рагуль из овощей](https://t.me/ragulinho)         |'
 | [Сводки и Аналитика СВО](https://t.me/rezervsvo)   | Closed comments | |
 | [Режим Б](https://t.me/rezhimbe)                   |
 | [Romanov Лайт](https://t.me/romanov_92)            |
