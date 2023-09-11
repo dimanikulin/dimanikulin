@@ -8,7 +8,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Кузичев](https://t.me/a_kuzichev)                 | closed for DN | |
 | [Лонгрид (Несмиян)](https://t.me/a_nesmijan_longread)|  | | 
 | [Абзац медиа](https://t.me/absatzmedia)            | Closed comments | |
-| [АГС_Z_Донбасса](https://t.me/Ags_Donbass)         |  | | 
+| [АГС_Z_Донбасса](https://t.me/Ags_Donbass)         | | closed for DN | | 
 | [Алексей Поддубный Джанго Z](https://t.me/alexeypoddubny_jango)|  | |
 | [Краля Даля](https://t.me/alyonamakk)              |  | |
 | [Тицкий_на_Юге 🇷🇺](https://t.me/AntonTitski)     |
