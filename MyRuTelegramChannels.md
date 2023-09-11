@@ -90,6 +90,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [membersofxaknet](https://t.me/membersofxaknet)    | 
 | [Metametrica](https://t.me/Metametrica)            |
 | [Военный Осведомитель](https://t.me/milinfolive)   | Closed comments | |
+| [МоскалькоV](https://t.me/MoskalkovSB)             |
 | [mylandbelarus](https://t.me/mylandbelarus)        | 
 | [Настюшка на Войнушке](https://t.me/nastyadnr)     |
 | [ncbs18](https://t.me/ncbs18)                      | 
