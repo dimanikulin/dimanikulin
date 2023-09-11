@@ -15,6 +15,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Анна Ревякина Донбасс](https://t.me/annarevyakina)|  | |
 | [ANSHLAK](https://t.me/ANSNLAK)                    |
 | [ANONYMOUS RUSSIA](https://t.me/anon_russ)         |
+| [Alex Parker Returns](https://t.me/apwagner)       |
 | [Арбалет Z Говорит](https://t.me/arbaletgovorit)   |  | |
 | [АРТподдержка](https://t.me/ARTpodderjka)          |  | |
 | [A.V.C. Group](https://t.me/avcgroup)              |
