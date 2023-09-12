@@ -159,6 +159,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Труха Барселона](https://t.me/truhabarselona)     |
 | [Трупы ВСУ ХОХЛЫ 200](https://t.me/trupvsy)        |
 | [ukr_leaks](https://t.me/ukr_leaks)                | 
+| [УКРОПИТЕКИ стримы](https://t.me/ucropitek)        |
 | [vadovskaya](https://t.me/vadovskaya)              |
 | [Новости Россия! Zа правду!](https://t.me/vchatz)  | 
 | [verysexydasha](https://t.me/verysexydasha)        | 
