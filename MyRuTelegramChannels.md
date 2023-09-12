@@ -26,6 +26,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [БелВПО](https://t.me/Belarus_VPO)                 |  | |
 | [Чёрные гусары](https://t.me/blackhussars)         |
 | [🇷🇺БОБР🇷🇺](https://t.me/BOBRMORF)              |  | |
+| [Болталка](https://t.me/boltalkarussi)             |
 | [Brееgе Timе ZÖZZ🇷🇺](https://t.me/breege_time_20zz)|  | |
 | [BISMARCK резерв](https://t.me/bismarckedit)       | 
 | [Брекотин](https://t.me/brekotins)                 |  | |
