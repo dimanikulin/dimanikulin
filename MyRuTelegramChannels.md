@@ -49,6 +49,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [DOZOR](https://t.me/dozorwar)                     |
 | [dva_majors](https://t.me/dva_majors)              | 
 | [eternoff](https://t.me/eternoff)                  |
+| [Поддубный ZОV](https://t.me/epoddubny)            |
 | [Лик Войны](https://t.me/faceofwar)                |
 | [Fighterbomber](https://t.me/fighter_bomber)       | | |
 | [Скотомогильник](https://t.me/fiftnmls)            | 
