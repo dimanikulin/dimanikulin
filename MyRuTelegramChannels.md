@@ -133,6 +133,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Romanov Лайт](https://t.me/romanov_92)            |
 | [Росич Rosich](https://t.me/rosich_ru)             | | | 
 | [rosich_admin](https://t.me/rosich_admin)          |
+| [ЦЕНТР НВП РОКОТ](https://t.me/ROKOT_63_ROKOT)     |
 | [Роза Шпатель❤️](https://t.me/rozashpatel2023)     |
 | [rsotmdivision](https://t.me/rsotmdivision)        |
 | [Роман Сапоньков](https://t.me/RSaponkov)          |
