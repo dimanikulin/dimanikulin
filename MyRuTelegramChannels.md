@@ -59,7 +59,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [ПриZрак Новороссии](https://t.me/ghost_of_novorossia) |
 | [harry_homolsky](https://t.me/harry_homolsky)      | 
 | [HersonVestnik](https://t.me/HersonVestnik)        |
-| [Художник Z патриот](https://t.me/hudojnikZ)       |
+| [Художник Z патриот](https://t.me/hudojnikZ)       | closed comments |
 | [iikhu](https://t.me/iikhu)                        | 
 | [imnotbozhena](https://t.me/imnotbozhena)          | 
 | [IronHelmets](https://t.me/IronHelmets)            | 
