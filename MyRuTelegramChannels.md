@@ -126,7 +126,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [politsputnik](https://t.me/politsputnik)          |
 | [Татьяна Поп](https://t.me/poptatiana)             |
 | [Лев Вершинин](https://t.me/putnik1lv)             |
-| [Рагуль из овощей](https://t.me/ragulinho)         |'
+| [Рагуль из овощей](https://t.me/ragulinho)         |
 | [Сводки и Аналитика СВО](https://t.me/rezervsvo)   | Closed comments | |
 | [Режим Б](https://t.me/rezhimbe)                   |
 | [Romanov Лайт](https://t.me/romanov_92)            |
@@ -134,6 +134,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [rosich_admin](https://t.me/rosich_admin)          |
 | [Роза Шпатель❤️](https://t.me/rozashpatel2023)     |
 | [rsotmdivision](https://t.me/rsotmdivision)        |
+| [Роман Сапоньков](https://t.me/RSaponkov)          |
 | [Репортёр Руденко V🇷🇺](https://t.me/RtrDonetsk)  | Closed comments | | 
 | [RuFront](https://t.me/RuFront)                    | Closed comments | |
 | [russiaz](https://t.me/russiaz)                    |
