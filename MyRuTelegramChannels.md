@@ -64,6 +64,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [IronHelmets](https://t.me/IronHelmets)            | 
 | [istoricprovincial](https://t.me/istoricprovincial)| 
 | [izolentalive](https://t.me/izolentalive)          | 
+| [NerV⚡️⚡️⚡️](https://t.me/KaskadNerv)              |
 | [kalininrus](https://t.me/kalininrus)              | 
 | [karjakinchess](https://t.me/karjakinchess)        |
 | [ХОХЛЫ, ШО С ЕБАЛОМ ?](https://t.me/KILL_BCY)      |
