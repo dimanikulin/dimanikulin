@@ -147,6 +147,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Дядя Слава](https://t.me/slavaded1337)            |
 | [sharikovtime](https://t.me/sharikovtime)          | 
 | [smershmsk](https://t.me/smershmsk)                |
+| [Севастополь. СМЕРШ](https://t.me/sevsmersh)       |
 | [«СОЮЗ ВЕТЕРАНОВ СВО» по КК](https://t.me/souzveteranovsvokk)| 
 | [spainrus](https://t.me/spainrus)                  |
 | [ПИСАРЬ ИЗ СПЕЦНАZА](https://t.me/specnaz_com)     | 
