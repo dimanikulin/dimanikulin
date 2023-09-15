@@ -13,7 +13,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Краля Даля](https://t.me/alyonamakk)              |  | |
 | [Тицкий_на_Юге 🇷🇺](https://t.me/AntonTitski)     | Closed comments | |
 | [Анна Ревякина Донбасс](https://t.me/annarevyakina)|  | |
-| [ANSHLAK](https://t.me/ANSNLAK)                    |
+| [ANSHLAK](https://t.me/ANSNLAK)                    | not working channel | | 
 | [ANONYMOUS RUSSIA](https://t.me/anon_russ)         |
 | [Alex Parker Returns](https://t.me/apwagner)       |
 | [Арбалет Z Говорит](https://t.me/arbaletgovorit)   |  | |
