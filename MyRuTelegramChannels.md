@@ -85,6 +85,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [LIC_LPR](https://t.me/LIC_LPR)                    |
 | [НОВОСТИ ЛНР](https://t.me/luganskallnews)         | Closed comments | |
 | [Мариуполь сейчас](https://t.me/mariupolz)         |
+| [Маша из Мариуполя 🇷🇺](https://t.me/mashainmarik)|
 | [Министерство Логики](https://t.me/minlogiki)      |
 | [Мисливец LITE](https://t.me/mislivetslite)        |
 | [m0sc0wcalling](https://t.me/m0sc0wcalling)        | | AntiPutin content |
