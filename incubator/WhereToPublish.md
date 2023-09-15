@@ -126,6 +126,9 @@ Townhall Mode: Anyone Can Comment : On or Off
 TL;DR it might generate wrong TL;DR It generated basing on part of text but not whole publication
 First Seen At - Only for republished stories
 it provides full review - up to one week. I tried 3 times without success, reason for rejection: too small, not actual, not worked links and spelling errors,
+Promoting links in stories, @dimanikulin? You would need to enter our brand as author program instead.
+to much links inside of story
+
 it is imposible to discuss problem right on the platform, I recieved emails and could you reply back.
 
 ####
