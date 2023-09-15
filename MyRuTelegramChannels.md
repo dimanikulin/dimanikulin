@@ -128,6 +128,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [politsputnik](https://t.me/politsputnik)          |
 | [Татьяна Поп](https://t.me/poptatiana)             |
 | [Лев Вершинин](https://t.me/putnik1lv)             |
+| [Putin-today](https://t.me/putin_today)            |
 | [Рагуль из овощей](https://t.me/ragulinho)         |
 | [Сводки и Аналитика СВО](https://t.me/rezervsvo)   | Closed comments | |
 | [Режим Б](https://t.me/rezhimbe)                   |
