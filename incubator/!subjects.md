@@ -14,14 +14,17 @@ I don't jump from job to job just for salary
 С++ and guessing is on opposite sides
 
 выиргрывать то выигрывать макс, если проиграть то только одну, две что понять что не случайно была первая
+When you start fighting, please be prepared before how to loose just in case.
 
 People are created to make mistakes but great people can learn from mistakes. 
 And usual people 
-When you start fighting, please be prepared before how to loose just in case.
 есть тольео один в мире который верит в тебя по настоящему это ты
 но те кто в тебя не верит делают тебе лучше чем ты
 для тех легко вошел в айти легко с него и выйти, все зависит от порога входа.
 лучше не обещай ничего, тем более если не уверен. просто делай
+говорить много не значит говорить хорошо
+уволить его значит уволить меня
+
 
 https://dou.eu/en/community/posts/what-are-multimedia-information-retrieval-systems 
 
@@ -54,8 +57,6 @@ healthcare мониторинг
 
 presents from EPAM
 
-говорить много не значит говорить хорошо
-уволить его значит уволить меня
 metaprograms + social styles + 
 
 если у вас зависимость от лайков на ваши посты в соц сетях следиту делаете ли посты что б
