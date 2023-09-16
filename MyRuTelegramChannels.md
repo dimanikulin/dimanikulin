@@ -8,10 +8,10 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Кузичев](https://t.me/a_kuzichev)                 | closed for DN | |
 | [Лонгрид (Несмиян)](https://t.me/a_nesmijan_longread)|  | AntiPutin content | 
 | [Абзац медиа](https://t.me/absatzmedia)            | Closed comments | |
-| [АГС_Z_Донбасса](https://t.me/Ags_Donbass)         | | closed for DN | |
+| [АГС_Z_Донбасса](https://t.me/Ags_Donbass)         | closed for DN | |
 | [Андрей Гурулев депутат Госу](https://t.me/agurulev) |
 | [Алексей Поддубный Джанго Z](https://t.me/alexeypoddubny_jango)| Closed comments | |
-| [Краля Даля](https://t.me/alyonamakk)              |  | |
+| [Краля Даля](https://t.me/alyonamakk)              | closed for DN | |
 | [Тицкий_на_Юге 🇷🇺](https://t.me/AntonTitski)     | Closed comments | |
 | [Анна Ревякина Донбасс](https://t.me/annarevyakina)|  | |
 | [ANSHLAK](https://t.me/ANSNLAK)                    | not working channel | | 
