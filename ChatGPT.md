@@ -38,6 +38,24 @@ Is it OK to mention ChatGPT in CV?
 ### Tags
 cv skills
 
+## Do you consider ChatGPT a useful tool?
+I have been using ChatGPT for 6 months and would like to share my experience working with it.
+
+So far, it has helped me with:
+- Proofreading
+- Creating tags, headlines, and chapter descriptions from text
+- Converting my text from upper case to lower case
+- Generating poems
+- Finding the top 10 sites to publish IT content
+- Providing interesting facts about various topics
+- Suggesting suitable images for provided text
+
+The only thing it did not help me with was finding my social style.
+
+What about you? Do you consider ChatGPT a useful tool?
+- Yes **100%**
+- No **0%**
+- Never tried it **0%**
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
