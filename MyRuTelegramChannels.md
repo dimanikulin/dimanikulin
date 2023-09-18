@@ -124,7 +124,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Позывной《OSETIN》](https://t.me/osetin20)          |
 | [Отряд "КЕРЧЬ"42-я гв.МСД](https://t.me/otryadkerch42) |
 | [petrlundstrem](https://t.me/petrlundstrem)        |
-| [Миротворец News](https://t.me/peacemaker565)      |
+| [Миротворец News](https://t.me/peacemaker565)      | closed for DN | |
 | [Pobeda_Za_Deda](https://t.me/Pobeda_Za_Deda)      | | | 
 | [politsputnik](https://t.me/politsputnik)          |
 | [Татьяна Поп](https://t.me/poptatiana)             |
