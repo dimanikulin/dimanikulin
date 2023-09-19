@@ -39,6 +39,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Сумасшедшая власть](https://t.me/crazypower1)     | not working | AntiPutin content |
 | [Крымская Z прачка 🧺🧼](https://t.me/Crimeanprachka)| | |
 | [КРИСТАЛЛ РОСТА](https://t.me/crystal_book)        | Closed comments | |
+| [СВО 2023](https://t.me/cvo2022_5)                 |
 | [Донецк ⚒  ЧП Макеевка](https://t.me/dark_donetskz)|Closed comments | |
 | [Депутат Елена Шишкина (ДНР)](https://t.me/dep_shishkina)|  | | 
 | [Дневник Десантника🇷🇺](https://t.me/DnevnikDesantnika)| | |
