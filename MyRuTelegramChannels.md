@@ -9,15 +9,15 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Лонгрид (Несмиян)](https://t.me/a_nesmijan_longread)|  | AntiPutin content | 
 | [Абзац медиа](https://t.me/absatzmedia)            | Closed comments | |
 | [АГС_Z_Донбасса](https://t.me/Ags_Donbass)         | closed for DN | |
-| [Андрей Гурулев депутат Госу](https://t.me/agurulev) |
+| [Андрей Гурулев депутат Госу](https://t.me/agurulev) | WIP |
 | [Алексей Поддубный Джанго Z](https://t.me/alexeypoddubny_jango)| Closed comments | |
 | [Краля Даля](https://t.me/alyonamakk)              | closed for DN | |
 | [Тицкий_на_Юге 🇷🇺](https://t.me/AntonTitski)     | Closed comments | |
-| [Анна Ревякина Донбасс](https://t.me/annarevyakina)|  | |
+| [Анна Ревякина Донбасс](https://t.me/annarevyakina)| WIP | |
 | [ANSHLAK](https://t.me/ANSNLAK)                    | not working channel | | 
-| [ANONYMOUS RUSSIA](https://t.me/anon_russ)         |
-| [Alex Parker Returns](https://t.me/apwagner)       |
-| [Арбалет Z Говорит](https://t.me/arbaletgovorit)   |  | |
+| [ANONYMOUS RUSSIA](https://t.me/anon_russ)         | WIP |
+| [Alex Parker Returns](https://t.me/apwagner)       | WIP |
+| [Арбалет Z Говорит](https://t.me/arbaletgovorit)   | WIP | 
 | [АРТподдержка](https://t.me/ARTpodderjka)          |  | |
 | [A.V.C. Group](https://t.me/avcgroup)              |
 | [Азарёнок. СТВ. Беларусь](https://t.me/AzarenokCTV)|
