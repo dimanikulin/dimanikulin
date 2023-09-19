@@ -147,6 +147,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Крылатые](https://t.me/russian_airborne)          | 
 | [sergeyvostrecov](https://t.me/sergeyvostrecov)    |
 | [Редакция ШМЕЛЬ](https://t.me/shmel_chik)          |
+| [Шейх Тамир](https://t.me/sheyhtamir1974)          |
 | [СОЛДАТ УДАЧИ](https://t.me/Soldieroffortune777)   | | | 
 | [Скабеева](https://t.me/skabeeva)                  | Closed comments | |
 | [Дядя Слава](https://t.me/slavaded1337)            |
@@ -170,7 +171,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [ukr_leaks](https://t.me/ukr_leaks)                | 
 | [УКРОПИТЕКИ стримы](https://t.me/ucropitek)        |
 | [vadovskaya](https://t.me/vadovskaya)              |
-| [Дмитрий Василец](https://t.me/VasiletsDmitriy)    |
+| [Дмитрий Василец](https://t.me/VasiletsDmitriy)    | comments closed | |
 | [Новости Россия! Zа правду!](https://t.me/vchatz)  | 
 | [verysexydasha](https://t.me/verysexydasha)        | 
 | [vitteli](https://t.me/vitteli)                    |
