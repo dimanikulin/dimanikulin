@@ -99,6 +99,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [MediaOfficers](https://t.me/MediaOfficers)        | 
 | [membersofxaknet](https://t.me/membersofxaknet)    | 
 | [Metametrica](https://t.me/Metametrica)            |
+| [Мезинов Юрий](https://t.me/MezinoYuri)            |
 | [Военный Осведомитель](https://t.me/milinfolive)   | Closed comments | |
 | [МоскалькоV](https://t.me/MoskalkovSB)             |
 | [mylandbelarus](https://t.me/mylandbelarus)        | 
