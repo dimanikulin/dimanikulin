@@ -51,6 +51,8 @@
 |reddit     |TBD|TBD|TBD|TBD|
 |quora      |TBD|TBD|TBD|TBD| 
 
+# How, What and Where to publish
+
 # Other publications
 - [ChatGPT](./ChatGPT.md)
 - [Just Joined LinkedIn](./JustJoinedLinkedIn.md)
