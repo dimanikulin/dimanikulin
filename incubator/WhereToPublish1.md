@@ -12,10 +12,20 @@ TBD
 TL;DR
 
 # Content
+Here I will describe the expereince working with for sites/platforms 
+The main question here is *Why do you publish content?* 
+It will help you to choose the right platform to publish. 
+
+For first I selected several *yeasy to go* platforms
+- hackernoon
+- hashnode
+- dev.to
+- medium
+- reddit
+- quora
+ 
 how to manage - is not big deal - to descrive 
 table with columns resources adn lines like publication 
-
-main question why are you doing that? it will help you to choose the right platform to publish 
 
 #######
 hackernoon 
@@ -182,6 +192,8 @@ only H1 used as header size
 bug ??? your post might be shown in draft even you already did post it - no need to press post buttong again as it will duplicate the post
 
 
+#######
+Linkedin
 ##########################################
 
 to publish on to check on "yeasy to publish" platforms first 
