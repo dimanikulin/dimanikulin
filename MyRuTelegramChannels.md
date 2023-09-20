@@ -23,9 +23,9 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Азарёнок. СТВ. Беларусь](https://t.me/AzarenokCTV)| Closed comments | |
 | [Батальон Восток](https://t.me/batalyon_vostok)    | Closed comments | | 
 | [Battle_🅉 _Sailor](https://t.me/BattleSailor_13)  | | too few subsribers |
-| [Battle_🅉 _Sailor](https://t.me/BattleSailor13)   | WIP | |
+| [Battle_🅉 _Sailor](https://t.me/BattleSailor13)   | Closed comments | |
 | [БелВПО](https://t.me/Belarus_VPO)                 | WIP | |
-| [Чёрные гусары](https://t.me/blackhussars)         |
+| [Чёрные гусары](https://t.me/blackhussars)         | WIP | |
 | [🇷🇺БОБР🇷🇺](https://t.me/BOBRMORF)              |  | |
 | [Болталка](https://t.me/boltalkarussi)             |
 | [Brееgе Timе ZÖZZ🇷🇺](https://t.me/breege_time_20zz)|  | |
