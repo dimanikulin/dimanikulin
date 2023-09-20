@@ -19,12 +19,12 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Alex Parker Returns](https://t.me/apwagner)       | WIP |
 | [Арбалет Z Говорит](https://t.me/arbaletgovorit)   | WIP | 
 | [АРТподдержка](https://t.me/ARTpodderjka)          | WIP | |
-| [A.V.C. Group](https://t.me/avcgroup)              |
-| [Азарёнок. СТВ. Беларусь](https://t.me/AzarenokCTV)|
+| [A.V.C. Group](https://t.me/avcgroup)              | closed for DN | |
+| [Азарёнок. СТВ. Беларусь](https://t.me/AzarenokCTV)| Closed comments | |
 | [Батальон Восток](https://t.me/batalyon_vostok)    | Closed comments | | 
 | [Battle_🅉 _Sailor](https://t.me/BattleSailor_13)  | | too few subsribers |
-| [Battle_🅉 _Sailor](https://t.me/BattleSailor13)   | 
-| [БелВПО](https://t.me/Belarus_VPO)                 |  | |
+| [Battle_🅉 _Sailor](https://t.me/BattleSailor13)   | WIP | |
+| [БелВПО](https://t.me/Belarus_VPO)                 | WIP | |
 | [Чёрные гусары](https://t.me/blackhussars)         |
 | [🇷🇺БОБР🇷🇺](https://t.me/BOBRMORF)              |  | |
 | [Болталка](https://t.me/boltalkarussi)             |
