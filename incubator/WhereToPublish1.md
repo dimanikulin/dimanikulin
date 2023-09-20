@@ -23,9 +23,10 @@ For first I selected several *yeasy to go* platforms
 - medium
 - reddit
 - quora
- 
-how to manage - is not big deal - to descrive 
-table with columns resources adn lines like publication 
+- linkedin 
+
+There will be a question - how to manage with several platforms especialy if have a lot of materials to publish.
+That is not big deal really. I created separate table with columns **platforms** adn lines like **publications**
 
 #######
 hackernoon 
@@ -194,9 +195,6 @@ bug ??? your post might be shown in draft even you already did post it - no need
 
 #######
 Linkedin
-##########################################
-
-to publish on to check on "yeasy to publish" platforms first 
 
 
 ################################
