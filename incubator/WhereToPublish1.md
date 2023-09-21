@@ -12,7 +12,7 @@ TBD
 TL;DR
 
 # Content
-Here I will describe the expereince working with for sites/platforms 
+Here I will describe the expereince working with sites/platforms where I publish content
 The main question here is *Why do you publish content?* 
 It will help you to choose the right platform to publish. 
 
@@ -26,12 +26,15 @@ For first I selected several *yeasy to go* platforms
 - linkedin 
 
 There will be a question - how to manage with several platforms especialy if have a lot of materials to publish.
-That is not big deal really. I created separate table with columns **platforms** adn lines like **publications**
+That is not big deal really. I created separate table with columns **platforms** adn lines like **publications**.
 
-#######
-hackernoon 
-Editor - like a WordPad.
-feature picture - title picture
+## hackernoon
+*[HackerNoon](https://hackernoon.com/) publishes technology stories and builds publishing software.*
+ 
+It has content editor like a WordPad.
+
+For each story it provides a possibility to create 
+- **Feature picture** - title picture
 Tags
 Make Your Story Stand Out up to 160 symbols description
 Emoji Credibility Indicator Guide 
@@ -44,6 +47,9 @@ Promoting links in stories, @dimanikulin? You would need to enter our brand as a
 to much links inside of story to one domain
 
 it is imposible to discuss problem right on the platform, I recieved emails and could you reply back.
+
+https://help.hackernoon.com/how-do-i-get-published
+
 
 ####
 TODO to find a link how to publish for hashnode
@@ -198,6 +204,9 @@ Linkedin
 
 
 ################################
+comparision
+
+
 codeproject
 dou.eu
 dou.ua
