@@ -34,22 +34,26 @@ That is not big deal really. I created separate table with columns **platforms**
 It has content editor like a WordPad.
 
 For each story it provides a possibility to create 
-- **Feature picture** - title picture
-Tags
-Make Your Story Stand Out up to 160 symbols description
-Emoji Credibility Indicator Guide 
-Give Shout Out to People on Twitter
-Townhall Mode: Anyone Can Comment : On or Off
-TL;DR it might generate wrong TL;DR It generated basing on part of text but not whole publication
-First Seen At - Only for republished stories
-it provides full review - up to one week. I tried 3 times without success, reason for rejection: too small, not actual, not worked links and spelling errors,
-Promoting links in stories, @dimanikulin? You would need to enter our brand as author program instead.
-to much links inside of story to one domain
+- **Feature picture** - Title picture
+- **Tags** - the set of keywords to speed up the search
+- **Make Your Story Stand Out** -  up to 160 symbols description
+- **Emoji** - Credibility Indicator Guide 
+- **Give Shout Out to People on Twitter** - Send a link to Twitter
+- **Townhall Mode:** - Anyone Can Comment : *On* or *Off*
+- **TL;DR** - Post Description
+- **First Seen At** a link to original story, only for republished stories
 
-it is imposible to discuss problem right on the platform, I recieved emails and could you reply back.
+It provides full review cicle with even human review - up to one week.
+I tried to publish 3 times without success, reason for rejection: too small, not actual, not worked links and spelling errors.
 
-https://help.hackernoon.com/how-do-i-get-published
+For other story it said *Promoting links in stories, @username? You would need to enter our brand as author program instead*.
+It meant too much links to one domain inside of a story
 
+Please notice it might generate wrong **TL;DR**. In my case it generated **TL;DR** basing on part of text but not whole publication.
+
+Also it is imposible to discuss the problem that editor found right on the platform. I recieved emails and could you reply back.
+
+For more information please go [to](https://help.hackernoon.com/how-do-i-get-published)
 
 ####
 TODO to find a link how to publish for hashnode
