@@ -25,15 +25,15 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Battle_🅉 _Sailor](https://t.me/BattleSailor_13)  | | too few subsribers |
 | [Battle_🅉 _Sailor](https://t.me/BattleSailor13)   | Closed comments | |
 | [БелВПО](https://t.me/Belarus_VPO)                 | WIP | |
-| [Чёрные гусары](https://t.me/blackhussars)         | WIP | |
+| [Чёрные гусары](https://t.me/blackhussars)         | closed for DN | |
 | [🇷🇺БОБР🇷🇺](https://t.me/BOBRMORF)              | WIP | |
-| [Болталка](https://t.me/boltalkarussi)             | WIP | |
+| [Болталка](https://t.me/boltalkarussi)             | | |
 | [Brееgе Timе ZÖZZ🇷🇺](https://t.me/breege_time_20zz)| WIP | |
 | [BISMARCK резерв](https://t.me/bismarckedit)       | | too few subsribers |
 | [Брекотин](https://t.me/brekotins)                 | WIP | |
 | [Работайте, братья!](https://t.me/btr80)           | Closed comments | | 
-| [Опознай хохла по чубу](https://t.me/chub_detection)| | |
-| [Черноморский экспресс](https://t.me/chernmorskiiexpres) | Closed comments | |
+| [Опознай хохла по чубу](https://t.me/chub_detection)| WIP | |
+| [Черноморский экспресс](https://t.me/chernmorskiiexpres) | WIP | |
 | [Российский Рубеж " Za нашу](https://t.me/compass83) | Closed comments | |
 | [Синяя Z Борода](https://t.me/cmiye)               |
 | [Сумасшедшая власть](https://t.me/crazypower1)     | not working | AntiPutin content |
