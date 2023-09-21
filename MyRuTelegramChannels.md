@@ -29,8 +29,8 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [🇷🇺БОБР🇷🇺](https://t.me/BOBRMORF)              | WIP | |
 | [Болталка](https://t.me/boltalkarussi)             | WIP | |
 | [Brееgе Timе ZÖZZ🇷🇺](https://t.me/breege_time_20zz)| WIP | |
-| [BISMARCK резерв](https://t.me/bismarckedit)       | 
-| [Брекотин](https://t.me/brekotins)                 |  | |
+| [BISMARCK резерв](https://t.me/bismarckedit)       | | too few subsribers |
+| [Брекотин](https://t.me/brekotins)                 | WIP | |
 | [Работайте, братья!](https://t.me/btr80)           | Closed comments | | 
 | [Опознай хохла по чубу](https://t.me/chub_detection)| | |
 | [Черноморский экспресс](https://t.me/chernmorskiiexpres) | Closed comments | |
