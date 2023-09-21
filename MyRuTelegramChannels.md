@@ -15,7 +15,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Тицкий_на_Юге 🇷🇺](https://t.me/AntonTitski)     | Closed comments | |
 | [Анна Ревякина Донбасс](https://t.me/annarevyakina)| WIP | |
 | [ANSHLAK](https://t.me/ANSNLAK)                    | not working channel | | 
-| [ANONYMOUS RUSSIA](https://t.me/anon_russ)         | WIP |
+| [ANONYMOUS RUSSIA](https://t.me/anon_russ)         | closed for DN |
 | [Alex Parker Returns](https://t.me/apwagner)       | WIP |
 | [Арбалет Z Говорит](https://t.me/arbaletgovorit)   | WIP | 
 | [АРТподдержка](https://t.me/ARTpodderjka)          | WIP | |
@@ -26,9 +26,9 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Battle_🅉 _Sailor](https://t.me/BattleSailor13)   | Closed comments | |
 | [БелВПО](https://t.me/Belarus_VPO)                 | WIP | |
 | [Чёрные гусары](https://t.me/blackhussars)         | WIP | |
-| [🇷🇺БОБР🇷🇺](https://t.me/BOBRMORF)              |  | |
-| [Болталка](https://t.me/boltalkarussi)             |
-| [Brееgе Timе ZÖZZ🇷🇺](https://t.me/breege_time_20zz)|  | |
+| [🇷🇺БОБР🇷🇺](https://t.me/BOBRMORF)              | WIP | |
+| [Болталка](https://t.me/boltalkarussi)             | WIP | |
+| [Brееgе Timе ZÖZZ🇷🇺](https://t.me/breege_time_20zz)| WIP | |
 | [BISMARCK резерв](https://t.me/bismarckedit)       | 
 | [Брекотин](https://t.me/brekotins)                 |  | |
 | [Работайте, братья!](https://t.me/btr80)           | Closed comments | | 
