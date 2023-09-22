@@ -55,17 +55,18 @@ Also it is imposible to discuss the problem that editor found right on the platf
 
 For more information please go [to](https://help.hackernoon.com/how-do-i-get-published)
 
-####
-TODO to find a link how to publish for hashnode
-hashnode
-Editor - like a WordPad.
+## hashnode
+[Hashnode](https://hashnode.com/) is a one-stop platform to start blogging as a developer. Start a blog. Share knowledge, attain creator independence, and grow your career.
 
-it has nice feature, checking for syntax in Grammarly
-you can add cover - main picture
-you can add subtitle - dscription 
+It has content editor like a WordPad.
 
-it shows 
-ARTICLE STATS
+What I really liked in **hashnode** it has nice feature - checking for syntax in **Grammarly**
+
+For each story it provides a possibility to create 
+- **Cover** - Main picture
+- **Subtitle** - Description
+
+While editing it shows article stats: 
 Word count:
 
 869 words
@@ -117,6 +118,9 @@ If you'd rather not have your article show up in Hashnode's feed that's displaye
 Yes, hide this article from Hashnode and display it only on my blog.
 
 https://support.hashnode.com/en/articles/6420682-writing-a-blog-post
+
+TODO to find a link how to publish for hashnode
+
 
 ####
 dev.to md foramt editor
