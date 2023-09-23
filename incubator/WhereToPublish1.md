@@ -67,20 +67,13 @@ For each story it provides a possibility to create
 - **Subtitle** - Description
 
 While editing it shows article stats: 
-Word count:
+**Word count**: 869 words
+**Paragraphs**: 27 paragraphs
+**Read time**: 4 minutes
 
-869 words
+For each story it provides a possibility to 
 
-Paragraphs:
-
-27 paragraphs
-
-Read time:
-
-4 minutes
-
-
-you can select SELECT A BLOG and ARTICLE SLUG
+- select **A BLOG** and **ARTICLE SLUG**
 
 you add up yo 5 tags
 
