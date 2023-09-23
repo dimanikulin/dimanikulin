@@ -53,7 +53,7 @@ Please notice it might generate wrong **TL;DR**. In my case it generated **TL;DR
 
 Also it is imposible to discuss the problem that editor found right on the platform. I recieved emails and could you reply back.
 
-For more information please go [to](https://help.hackernoon.com/how-do-i-get-published)
+For more information on how to publish please go [to](https://help.hackernoon.com/how-do-i-get-published)
 
 ## hashnode
 [Hashnode](https://hashnode.com/) is a one-stop platform to start blogging as a developer. Start a blog. Share knowledge, attain creator independence, and grow your career.
@@ -82,22 +82,10 @@ For each story it provides a possibility to
 - say if **ARE YOU REPUBLISHING?** Change the canonical URL of this article to the original article
 - schedule publication - Select a publishing date/time (Based on your local time zone)
 - select PUBLISH ON A BACKDATE
+- disable comments - This will hide the comments section below your article.
+- hide article from **HASHNODE FEED**, If you'd rather not have your article show up in Hashnode's feed that's displayed to our entire community
 
-DISABLE COMMENTS?
-This will hide the comments section below your article.
-
-Yes
-
-HIDE ARTICLE FROM HASHNODE FEED
-If you'd rather not have your article show up in Hashnode's feed that's displayed to our entire community
-
-
-Yes, hide this article from Hashnode and display it only on my blog.
-
-https://support.hashnode.com/en/articles/6420682-writing-a-blog-post
-
-TODO to find a link how to publish for hashnode
-
+For more information on how to publish please go [to](https://support.hashnode.com/en/articles/6420682-writing-a-blog-post)
 
 ####
 dev.to md foramt editor
