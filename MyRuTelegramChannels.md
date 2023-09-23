@@ -18,7 +18,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [ANONYMOUS RUSSIA](https://t.me/anon_russ)         | closed for DN1 |
 | [Alex Parker Returns](https://t.me/apwagner)       | WIP |
 | [Арбалет Z Говорит](https://t.me/arbaletgovorit)   | WIP | 
-| [АРТподдержка](https://t.me/ARTpodderjka)          | WIP | |
+| [АРТподдержка](https://t.me/ARTpodderjka)          | closed for DN1 | |
 | [A.V.C. Group](https://t.me/avcgroup)              | closed for DN1 | |
 | [Азарёнок. СТВ. Беларусь](https://t.me/AzarenokCTV)| Closed comments | |
 | [Батальон Восток](https://t.me/batalyon_vostok)    | Closed comments | | 
