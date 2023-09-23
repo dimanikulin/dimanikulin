@@ -74,30 +74,14 @@ While editing it shows article stats:
 For each story it provides a possibility to 
 
 - select **A BLOG** and **ARTICLE SLUG**
-
-you add up yo 5 tags
-
-GENERATE TABLE OF CONTENTS? yes
-
-CUSTOM OG IMAGE  - Upload an image to display when your article is embedded online or on social network feeds
-
-SEO TITLE (OPTIONAL) - The "SEO Title" will be shown in place of your Title on search engine results pages, such as a Google search. SEO titles between 40 and 50 characters with commonly searched words have the best click-through-rates.
-
-SEO DESCRIPTION (OPTIONAL)
-The SEO Description will be used in place of your Subtitle on search engine results pages. Good SEO descriptions utilize keywords, summarize the article and are between 140-156 characters long.
-
-ARE YOU REPUBLISHING?
-Change the canonical URL of this article to the original article
-
-SCHEDULE YOUR ARTICLE
-Select a publishing date/time (Based on your local time zone)
-Select a date
-
-
-PUBLISH ON A BACKDATE
-
-Select a date
-
+- add up to 5 tags
+- generate **TABLE OF CONTENTS**
+- add **CUSTOM OG IMAGE**  - Upload an image to display when your article is embedded online or on social network feeds
+- fill up **SEO TITLE** - The "SEO Title" will be shown in place of your Title on search engine results pages, such as a Google search. SEO titles between 40 and 50 characters with commonly searched words have the best click-through-rates.
+- fill up **SEO DESCRIPTION**, The SEO Description will be used in place of your Subtitle on search engine results pages. Good SEO descriptions utilize keywords, summarize the article and are between 140-156 characters long.
+- say if **ARE YOU REPUBLISHING?** Change the canonical URL of this article to the original article
+- schedule publication - Select a publishing date/time (Based on your local time zone)
+- select PUBLISH ON A BACKDATE
 
 DISABLE COMMENTS?
 This will hide the comments section below your article.
