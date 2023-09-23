@@ -4,28 +4,28 @@ This is message to send to bots before blocking it:
 System alert! Due to inactivity this bot will be blocked. Please contact support team.
 | Link                                               | Status                | Description            |
 | ---------------------------------------------------|---------------------- |:----------------------:|
-| [Бладсикер 2.0](https://t.me/+TjGTywz1xPRjNzg6)    | closed for DN | |
-| [Кузичев](https://t.me/a_kuzichev)                 | closed for DN | |
+| [Бладсикер 2.0](https://t.me/+TjGTywz1xPRjNzg6)    | closed for DN1 | |
+| [Кузичев](https://t.me/a_kuzichev)                 | closed for DN1 | |
 | [Лонгрид (Несмиян)](https://t.me/a_nesmijan_longread)|  | AntiPutin content | 
 | [Абзац медиа](https://t.me/absatzmedia)            | Closed comments | |
-| [АГС_Z_Донбасса](https://t.me/Ags_Donbass)         | closed for DN | |
-| [Андрей Гурулев депутат Госу](https://t.me/agurulev) | closed for DN | | 
+| [АГС_Z_Донбасса](https://t.me/Ags_Donbass)         | closed for DN1 | |
+| [Андрей Гурулев депутат Госу](https://t.me/agurulev) | closed for DN1 | | 
 | [Алексей Поддубный Джанго Z](https://t.me/alexeypoddubny_jango)| Closed comments | |
-| [Краля Даля](https://t.me/alyonamakk)              | closed for DN | |
+| [Краля Даля](https://t.me/alyonamakk)              | closed for DN1 | |
 | [Тицкий_на_Юге 🇷🇺](https://t.me/AntonTitski)     | Closed comments | |
 | [Анна Ревякина Донбасс](https://t.me/annarevyakina)| WIP | |
 | [ANSHLAK](https://t.me/ANSNLAK)                    | not working channel | | 
-| [ANONYMOUS RUSSIA](https://t.me/anon_russ)         | closed for DN |
+| [ANONYMOUS RUSSIA](https://t.me/anon_russ)         | closed for DN1 |
 | [Alex Parker Returns](https://t.me/apwagner)       | WIP |
 | [Арбалет Z Говорит](https://t.me/arbaletgovorit)   | WIP | 
 | [АРТподдержка](https://t.me/ARTpodderjka)          | WIP | |
-| [A.V.C. Group](https://t.me/avcgroup)              | closed for DN | |
+| [A.V.C. Group](https://t.me/avcgroup)              | closed for DN1 | |
 | [Азарёнок. СТВ. Беларусь](https://t.me/AzarenokCTV)| Closed comments | |
 | [Батальон Восток](https://t.me/batalyon_vostok)    | Closed comments | | 
 | [Battle_🅉 _Sailor](https://t.me/BattleSailor_13)  | | too few subsribers |
 | [Battle_🅉 _Sailor](https://t.me/BattleSailor13)   | Closed comments | |
 | [БелВПО](https://t.me/Belarus_VPO)                 | WIP | |
-| [Чёрные гусары](https://t.me/blackhussars)         | closed for DN | |
+| [Чёрные гусары](https://t.me/blackhussars)         | closed for DN1 | |
 | [🇷🇺БОБР🇷🇺](https://t.me/BOBRMORF)              | WIP | |
 | [Болталка](https://t.me/boltalkarussi)             | | |
 | [Brееgе Timе ZÖZZ🇷🇺](https://t.me/breege_time_20zz)| WIP | |
@@ -45,7 +45,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Дневник Десантника🇷🇺](https://t.me/DnevnikDesantnika)| | |
 | [УКРОПСКИЙ ФРЕШ](https://t.me/dillfrash)           | | |
 | [ДОЛГАРЕVА 🇷🇺](https://t.me/dolgarevaanna)       | | |
-| [donezkiy](https://t.me/donezkiy)                  | closed for DN | |
+| [donezkiy](https://t.me/donezkiy)                  | closed for DN1 | |
 | [Донбасс решает](https://t.me/donbassr)            |
 | [Donrf](https://t.me/donrf22)                      |
 | [DOZOR](https://t.me/dozorwar)                     |
@@ -126,7 +126,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Позывной《OSETIN》](https://t.me/osetin20)          |
 | [Отряд "КЕРЧЬ"42-я гв.МСД](https://t.me/otryadkerch42) |
 | [petrlundstrem](https://t.me/petrlundstrem)        |
-| [Миротворец News](https://t.me/peacemaker565)      | closed for DN | |
+| [Миротворец News](https://t.me/peacemaker565)      | closed for DN1 | |
 | [Pobeda_Za_Deda](https://t.me/Pobeda_Za_Deda)      | | | 
 | [politsputnik](https://t.me/politsputnik)          |
 | [Татьяна Поп](https://t.me/poptatiana)             |
