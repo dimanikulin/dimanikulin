@@ -87,7 +87,9 @@ For each story it provides a possibility to
 
 For more information on how to publish please go [to](https://support.hashnode.com/en/articles/6420682-writing-a-blog-post)
 
-####
+## dev.to
+[dev.to](dev.to) - is a constructive and inclusive social network for software developers.
+
 dev.to md foramt editor
 tags
 cover image
