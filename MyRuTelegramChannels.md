@@ -13,27 +13,27 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Алексей Поддубный Джанго Z](https://t.me/alexeypoddubny_jango)| Closed comments | |
 | [Краля Даля](https://t.me/alyonamakk)              | closed for DN1 | |
 | [Тицкий_на_Юге 🇷🇺](https://t.me/AntonTitski)     | Closed comments | |
-| [Анна Ревякина Донбасс](https://t.me/annarevyakina)| WIP | |
+| [Анна Ревякина Донбасс](https://t.me/annarevyakina)| WIP1 | |
 | [ANSHLAK](https://t.me/ANSNLAK)                    | not working channel | | 
 | [ANONYMOUS RUSSIA](https://t.me/anon_russ)         | closed for DN1 |
-| [Alex Parker Returns](https://t.me/apwagner)       | WIP |
-| [Арбалет Z Говорит](https://t.me/arbaletgovorit)   | WIP | 
+| [Alex Parker Returns](https://t.me/apwagner)       | WIP1 |
+| [Арбалет Z Говорит](https://t.me/arbaletgovorit)   | WIP1 | 
 | [АРТподдержка](https://t.me/ARTpodderjka)          | closed for DN1 | |
 | [A.V.C. Group](https://t.me/avcgroup)              | closed for DN1 | |
 | [Азарёнок. СТВ. Беларусь](https://t.me/AzarenokCTV)| Closed comments | |
 | [Батальон Восток](https://t.me/batalyon_vostok)    | Closed comments | | 
 | [Battle_🅉 _Sailor](https://t.me/BattleSailor_13)  | | too few subsribers |
 | [Battle_🅉 _Sailor](https://t.me/BattleSailor13)   | Closed comments | |
-| [БелВПО](https://t.me/Belarus_VPO)                 | WIP | |
+| [БелВПО](https://t.me/Belarus_VPO)                 | WIP1 | |
 | [Чёрные гусары](https://t.me/blackhussars)         | closed for DN1 | |
-| [🇷🇺БОБР🇷🇺](https://t.me/BOBRMORF)              | WIP | |
+| [🇷🇺БОБР🇷🇺](https://t.me/BOBRMORF)              | WIP1 | |
 | [Болталка](https://t.me/boltalkarussi)             | | |
-| [Brееgе Timе ZÖZZ🇷🇺](https://t.me/breege_time_20zz)| WIP | |
+| [Brееgе Timе ZÖZZ🇷🇺](https://t.me/breege_time_20zz)| WIP1 | |
 | [BISMARCK резерв](https://t.me/bismarckedit)       | | too few subsribers |
-| [Брекотин](https://t.me/brekotins)                 | WIP | |
+| [Брекотин](https://t.me/brekotins)                 | WIP1 | |
 | [Работайте, братья!](https://t.me/btr80)           | Closed comments | | 
-| [Опознай хохла по чубу](https://t.me/chub_detection)| WIP | |
-| [Черноморский экспресс](https://t.me/chernmorskiiexpres) | WIP | |
+| [Опознай хохла по чубу](https://t.me/chub_detection)| WIP1 | |
+| [Черноморский экспресс](https://t.me/chernmorskiiexpres) | WIP1 | |
 | [Российский Рубеж " Za нашу](https://t.me/compass83) | Closed comments | |
 | [Синяя Z Борода](https://t.me/cmiye)               |
 | [Сумасшедшая власть](https://t.me/crazypower1)     | not working | AntiPutin content |
