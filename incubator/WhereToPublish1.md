@@ -62,10 +62,6 @@ It has content editor like a WordPad.
 
 What I really liked in **hashnode** it has nice feature - checking for syntax in **Grammarly**
 
-For each story it provides a possibility to create 
-- **Cover** - Main picture
-- **Subtitle** - Description
-
 While editing it shows article stats: 
 **Word count**: 869 words
 **Paragraphs**: 27 paragraphs
@@ -73,6 +69,8 @@ While editing it shows article stats:
 
 For each story it provides a possibility to 
 
+- add a **Cover** - Main picture
+- add a **Subtitle** - Description
 - select **A BLOG** and **ARTICLE SLUG**
 - add up to 5 tags
 - generate **TABLE OF CONTENTS**
