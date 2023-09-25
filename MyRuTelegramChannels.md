@@ -35,7 +35,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Опознай хохла по чубу](https://t.me/chub_detection)| WIP1 | |
 | [Черноморский экспресс](https://t.me/chernmorskiiexpres) | WIP1 | |
 | [Российский Рубеж " Za нашу](https://t.me/compass83) | not working | |
-| [Синяя Z Борода](https://t.me/cmiye)               |
+| [Синяя Z Борода](https://t.me/cmiye)               | | too few subsribers |
 | [Сумасшедшая власть](https://t.me/crazypower1)     | not working | AntiPutin content |
 | [Крымская Z прачка 🧺🧼](https://t.me/Crimeanprachka)| | |
 | [КРИСТАЛЛ РОСТА](https://t.me/crystal_book)        | Closed comments | |
