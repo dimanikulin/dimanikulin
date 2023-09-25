@@ -4,7 +4,7 @@ This is message to send to bots before blocking it:
 System alert! Due to inactivity this bot will be blocked. Please contact support team.
 | Link                                               | Status                | Description            |
 | ---------------------------------------------------|---------------------- |:----------------------:|
-| [Бладсикер 2.0](https://t.me/+TjGTywz1xPRjNzg6)    | closed for DN1 | |
+| [Бладсикер 2.0](https://t.me/+TjGTywz1xPRjNzg6)    | closed for DN1 and DN2 | |
 | [Кузичев](https://t.me/a_kuzichev)                 | closed for DN1 | |
 | [Лонгрид (Несмиян)](https://t.me/a_nesmijan_longread)|  | AntiPutin content | 
 | [Абзац медиа](https://t.me/absatzmedia)            | Closed comments | |
