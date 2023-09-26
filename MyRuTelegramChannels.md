@@ -114,6 +114,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [NIK1®](https://t.me/NIK1_99)                      |
 | [nos_chanel](https://t.me/nos_chanel)              |
 | [Новая 🅉 Украина Live](https://t.me/novajaukraina)|
+| [Норд](https://t.me/nordof777)                     |
 | [Типичная Одесса](https://t.me/odessa_typical)     | 
 | [OlesyaShigina](https://t.me/OlesyaShigina)        |
 | [only_rodina](https://t.me/only_rodina)            |
