@@ -47,6 +47,18 @@ Something else? please share in comments other facts.
 
 <img src="./Images/InterestingFactsAbout12.jpg" alt="InterestingFactsAbout12" />
 
+## Interesting facts about number "13"
+In commomn, the number 13 is considered unlucky in many cultures.
+Here are some interesting facts about the number 13:
+- In some Western cultures, Friday the 13th is considered an especially unlucky day.
+- In some ancient cultures, this number was considered sacred and associated with the lunar and feminine cycles. It was seen as a symbol of fertility and good fortune.
+- In mathematics, 13 is considered a prime number, and it has some unique properties - a part of Pythagorean triples and a part of the Fibonacci sequence.
+- In Italian culture, this number is associated with good fortune.
+
+Are there other facts?
+
+<img src="./Images/InterestingFactsAbout13.jpg" alt="InterestingFactsAbout13" />
+
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
