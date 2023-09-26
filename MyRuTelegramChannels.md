@@ -110,6 +110,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [NeSocSeti](https://t.me/NeSocSeti)                |
 | [АНП - агентство новостей](https://t.me/neolginskie)| 
 | [Найс!](https://t.me/n1ce_ch)                      |
+| [NIK1®](https://t.me/NIK1_99)                      |
 | [nos_chanel](https://t.me/nos_chanel)              |
 | [Новая 🅉 Украина Live](https://t.me/novajaukraina)|
 | [Типичная Одесса](https://t.me/odessa_typical)     | 
