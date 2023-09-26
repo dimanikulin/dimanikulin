@@ -181,7 +181,8 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Воин DV](https://t.me/voin_dv)                    | comments closed | |
 | [Военкор Котенок](https://t.me/voenkorKotenok)     | comments closed | | 
 | [voytenkos](https://t.me/voytenkos)                | 
-| [vv_volodin](https://t.me/vv_volodin)              | 
+| [vv_volodin](https://t.me/vv_volodin)              |
+| [ЧВК «Вагнер» Республика Б](https://t.me/wagnerrb) |
 | [war_ukr_russ](https://t.me/war_ukr_russ)          | 
 | [warhistoryalconafter](https://t.me/warhistoryalconafter)|
 | [Крепкое слово](https://t.me/wrusss)               | 
