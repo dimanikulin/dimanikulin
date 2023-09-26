@@ -104,17 +104,17 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [МоскалькоV](https://t.me/MoskalkovSB)             |
 | [mylandbelarus](https://t.me/mylandbelarus)        | 
 | [Настюшка на Войнушке](https://t.me/nastyadnr)     |
-| [Natalia2547](https://t.me/natalia2547)            |
+| [Natalia2547](https://t.me/natalia2547)            | WIP2 | |
 | [ncbs18](https://t.me/ncbs18)                      | 
 | [nemeZ1da_ru](https://t.me/nemeZ1da_ru)            |
 | [НгП раZVедка](https://t.me/negumanitarnaya_pomosch_Z)| 
 | [NeSocSeti](https://t.me/NeSocSeti)                |
 | [АНП - агентство новостей](https://t.me/neolginskie)| 
 | [Найс!](https://t.me/n1ce_ch)                      |
-| [NIK1®](https://t.me/NIK1_99)                      |
+| [NIK1®](https://t.me/NIK1_99)                      | WIP2 | |
 | [nos_chanel](https://t.me/nos_chanel)              |
 | [Новая 🅉 Украина Live](https://t.me/novajaukraina)|
-| [Норд](https://t.me/nordof777)                     |
+| [Норд](https://t.me/nordof777)                     | WIP2 | |
 | [Типичная Одесса](https://t.me/odessa_typical)     | 
 | [OlesyaShigina](https://t.me/OlesyaShigina)        |
 | [only_rodina](https://t.me/only_rodina)            |
