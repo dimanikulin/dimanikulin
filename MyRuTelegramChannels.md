@@ -37,7 +37,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Российский Рубеж " Za нашу](https://t.me/compass83) | not working | |
 | [Синяя Z Борода](https://t.me/cmiye)               | | too few subsribers |
 | [Сумасшедшая власть](https://t.me/crazypower1)     | not working | AntiPutin content |
-| [Крымская Z прачка 🧺🧼](https://t.me/Crimeanprachka)| WIP2 | |
+| [Крымская Z прачка 🧺🧼](https://t.me/Crimeanprachka)| Closed comments | |
 | [КРИСТАЛЛ РОСТА](https://t.me/crystal_book)        | WIP2 | |
 | [СВО 2023](https://t.me/cvo2022_5)                 |  WIP2 | |
 | [Донецк ⚒  ЧП Макеевка](https://t.me/dark_donetskz)|Closed comments | |
