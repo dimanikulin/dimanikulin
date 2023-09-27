@@ -105,7 +105,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [МоскалькоV](https://t.me/MoskalkovSB)             |
 | [mylandbelarus](https://t.me/mylandbelarus)        | 
 | [Настюшка на Войнушке](https://t.me/nastyadnr)     |
-| [Natalia2547](https://t.me/natalia2547)            | WIP2 | |
+| [Natalia2547](https://t.me/natalia2547)            | closed for DN2 | |
 | [ncbs18](https://t.me/ncbs18)                      | 
 | [nemeZ1da_ru](https://t.me/nemeZ1da_ru)            |
 | [НгП раZVедка](https://t.me/negumanitarnaya_pomosch_Z)| 
