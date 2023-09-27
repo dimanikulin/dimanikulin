@@ -188,6 +188,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [voytenkos](https://t.me/voytenkos)                | 
 | [vv_volodin](https://t.me/vv_volodin)              |
 | [ЧВК «Вагнер» Республика Б](https://t.me/wagnerrb) |
+| [WAGNER GROUP](https://t.me/wagnernew)             |
 | [war_ukr_russ](https://t.me/war_ukr_russ)          | 
 | [warhistoryalconafter](https://t.me/warhistoryalconafter)|
 | [Крепкое слово](https://t.me/wrusss)               | 
