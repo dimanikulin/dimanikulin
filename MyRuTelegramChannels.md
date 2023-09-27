@@ -46,6 +46,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [УКРОПСКИЙ ФРЕШ](https://t.me/dillfrash)           | | |
 | [ДОЛГАРЕVА 🇷🇺](https://t.me/dolgarevaanna)       | | |
 | [donezkiy](https://t.me/donezkiy)                  | closed for DN1 | |
+| [Donbass Insider](https://t.me/donbassinsider)     |
 | [Донбасс решает](https://t.me/donbassr)            |
 | [Donrf](https://t.me/donrf22)                      |
 | [DOZOR](https://t.me/dozorwar)                     |
