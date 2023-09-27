@@ -150,7 +150,8 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [russiaz](https://t.me/russiaz)                    |
 | [RUSVARG](https://t.me/rusvarg)                    |
 | [Русская Весна СПЕЦОПЕРАЦ](https://t.me/russian_spring_zz) | Closed comments | |
-| [Крылатые](https://t.me/russian_airborne)          | 
+| [Крылатые](https://t.me/russian_airborne)          |
+| [АРХАНГЕЛ СПЕЦНАЗА Z](https://t.me/rusich_army)    | Closed comments | |
 | [sergeyvostrecov](https://t.me/sergeyvostrecov)    |
 | [Редакция ШМЕЛЬ](https://t.me/shmel_chik)          |
 | [Шейх Тамир](https://t.me/sheyhtamir1974)          |
