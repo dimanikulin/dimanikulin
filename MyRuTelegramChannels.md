@@ -157,6 +157,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [sergeyvostrecov](https://t.me/sergeyvostrecov)    |
 | [Редакция ШМЕЛЬ](https://t.me/shmel_chik)          |
 | [Шейх Тамир](https://t.me/sheyhtamir1974)          |
+| [СИЛОВИКИ](https://t.me/SIL0VIKI)                  | Closed comments | |
 | [СОЛДАТ УДАЧИ](https://t.me/Soldieroffortune777)   | | | 
 | [Скабеева](https://t.me/skabeeva)                  | Closed comments | |
 | [Дядя Слава](https://t.me/slavaded1337)            |
