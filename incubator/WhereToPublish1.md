@@ -88,27 +88,20 @@ For more information on how to publish please go [to](https://support.hashnode.c
 ## dev.to
 [dev.to](dev.to) - is a constructive and inclusive social network for software developers.
 
-dev.to md foramt editor
-tags
-cover image
+It has content editor in Md format.
 
-Canonical URL
-Change meta tag canonical_url if this post was first published elsewhere (like your own blog).
+For each story it provides a possibility to
+- add **tags**
+- add **cover image**
+- add **canonical URL**
+- change meta tag **canonical_url** if this post was first published elsewhere (like your own blog) - https://yoursite.com/post-title
+- schedule **publication** at date with format *mm/dd/yyyy --:-- --*
+- fill up series - will this post be part of a series? you can give the series a unique name. (Series visible once it has multiple posts)
 
-https://yoursite.com/post-title
-
-Schedule Publication
-
-mm/dd/yyyy
-
---:-- --
-Series
-Will this post be part of a series? Give the series a unique name. (Series visible once it has multiple posts)
-
-...
-Existing series:
+For more information on how to publish please go [to](https://dev.to/devteam/writing-your-first-post-on-dev-3m13)
 
 #####################
+
 medium 
 editor like word pad
 
