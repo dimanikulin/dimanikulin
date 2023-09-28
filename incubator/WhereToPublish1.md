@@ -100,9 +100,7 @@ For each story it provides a possibility to
 
 For more information on how to publish please go [to](https://dev.to/devteam/writing-your-first-post-on-dev-3m13)
 
-#####################
-
-medium 
+## Medium 
 editor like word pad
 
 Make this story unlisted?
