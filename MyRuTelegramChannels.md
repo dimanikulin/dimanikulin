@@ -39,11 +39,11 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Сумасшедшая власть](https://t.me/crazypower1)     | not working | AntiPutin content |
 | [Крымская Z прачка 🧺🧼](https://t.me/Crimeanprachka)| Closed comments | |
 | [КРИСТАЛЛ РОСТА](https://t.me/crystal_book)        | WIP2 | |
-| [СВО 2023](https://t.me/cvo2022_5)                 |  WIP2 | |
+| [СВО 2023](https://t.me/cvo2022_5)                 |  closed for DN2 | |
 | [Донецк ⚒  ЧП Макеевка](https://t.me/dark_donetskz)|Closed comments | |
-| [Депутат Елена Шишкина (ДНР)](https://t.me/dep_shishkina)|  | | 
-| [Дневник Десантника🇷🇺](https://t.me/DnevnikDesantnika)| | |
-| [УКРОПСКИЙ ФРЕШ](https://t.me/dillfrash)           | | |
+| [Депутат Елена Шишкина (ДНР)](https://t.me/dep_shishkina)| WIP2 | | 
+| [Дневник Десантника🇷🇺](https://t.me/DnevnikDesantnika)| WIP2 | |
+| [УКРОПСКИЙ ФРЕШ](https://t.me/dillfrash)           | WIP2 | |
 | [ДОЛГАРЕVА 🇷🇺](https://t.me/dolgarevaanna)       | | |
 | [donezkiy](https://t.me/donezkiy)                  | closed for DN1 | |
 | [Donbass Insider](https://t.me/donbassinsider)     |
