@@ -113,7 +113,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [NeSocSeti](https://t.me/NeSocSeti)                |
 | [АНП - агентство новостей](https://t.me/neolginskie)| 
 | [Найс!](https://t.me/n1ce_ch)                      |
-| [NIK1®](https://t.me/NIK1_99)                      | WIP2 | |
+| [NIK1®](https://t.me/NIK1_99)                      | closed for DN2 | |
 | [nos_chanel](https://t.me/nos_chanel)              |
 | [Новая 🅉 Украина Live](https://t.me/novajaukraina)|
 | [Норд](https://t.me/nordof777)                     | WIP2 | |
