@@ -1,5 +1,6 @@
 This is message for reporting the channels and bots: 
 The channel was created and works to promote and publish fake news about the Russian invasion of Ukraine!
+The bot was created and works to promote and publish fake news about the Russian invasion of Ukraine!
 This is message to send to bots before blocking it:
 System alert! Due to inactivity this bot will be blocked. Please contact support team.
 | Link                                               | Status                | Description            |
