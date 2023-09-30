@@ -42,8 +42,8 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [КРИСТАЛЛ РОСТА](https://t.me/crystal_book)        | WIP2 | |
 | [СВО 2023](https://t.me/cvo2022_5)                 |  closed for DN2 | |
 | [Донецк ⚒  ЧП Макеевка](https://t.me/dark_donetskz)|Closed comments | |
-| [Депутат Елена Шишкина (ДНР)](https://t.me/dep_shishkina)| WIP2 | | 
-| [Дневник Десантника🇷🇺](https://t.me/DnevnikDesantnika)| WIP2 | |
+| [Депутат Елена Шишкина (ДНР)](https://t.me/dep_shishkina)| closed for DN2 | | 
+| [Дневник Десантника🇷🇺](https://t.me/DnevnikDesantnika)| closed for DN2 | |
 | [УКРОПСКИЙ ФРЕШ](https://t.me/dillfrash)           | WIP2 | |
 | [ДОЛГАРЕVА 🇷🇺](https://t.me/dolgarevaanna)       | | |
 | [donezkiy](https://t.me/donezkiy)                  | closed for DN1 | |
