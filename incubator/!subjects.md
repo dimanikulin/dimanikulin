@@ -25,7 +25,6 @@ And usual people
 говорить много не значит говорить хорошо
 уволить его значит уволить меня
 
-
 https://dou.eu/en/community/posts/what-are-multimedia-information-retrieval-systems 
 
 что помогло выжить это жзимой а может быть еще хуже 
