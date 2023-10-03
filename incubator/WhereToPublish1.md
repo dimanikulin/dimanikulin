@@ -124,10 +124,14 @@ Please notice it removed bolding in text I copied from github
 
 For more information on how to publish please go [to](https://help.medium.com/hc/en-us/articles/213904978-Add-a-draft-or-post-to-publication)
 
-#####################
-reddit
-Title 
-2 modes: as MarkDown and usual editor 
+## Reddit
+[Reddit](https://www.reddit.com/)  is a network of communities where people can dive into their interests, hobbies and passions.
+
+It has content editor for 2 modes as MarkDown and usual editor like Wordpad.
+
+For each story it provides a possibility to add title and content.
+
+For more information on how to publish please go [to](https://support.reddithelp.com/hc/en-us/articles/360060422572-How-do-I-post-on-Reddit-)
 
 ##############################
 
