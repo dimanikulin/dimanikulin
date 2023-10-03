@@ -46,9 +46,9 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Дневник Десантника🇷🇺](https://t.me/DnevnikDesantnika)| closed for DN2 | |
 | [УКРОПСКИЙ ФРЕШ](https://t.me/dillfrash)           | WIP2 | |
 | [ДОЛГАРЕVА 🇷🇺](https://t.me/dolgarevaanna)       | closed for DN2 | |
-| [donezkiy](https://t.me/donezkiy)                  | WIP2, closed for DN1 | |
+| [donezkiy](https://t.me/donezkiy)                  | closed for DN1,2 | |
 | [Donbass Insider](https://t.me/donbassinsider)     | WIP2 | |
-| [Донбасс решает](https://t.me/donbassr)            |
+| [Донбасс решает](https://t.me/donbassr)            | Closed comments | |
 | [Donrf](https://t.me/donrf22)                      |
 | [DOZOR](https://t.me/dozorwar)                     |
 | [dva_majors](https://t.me/dva_majors)              | 
