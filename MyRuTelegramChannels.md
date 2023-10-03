@@ -49,7 +49,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [donezkiy](https://t.me/donezkiy)                  | closed for DN1,2 | |
 | [Donbass Insider](https://t.me/donbassinsider)     | WIP2 | |
 | [Донбасс решает](https://t.me/donbassr)            | Closed comments | |
-| [Donrf](https://t.me/donrf22)                      |
+| [Donrf](https://t.me/donrf22)                      | WIP2 | |
 | [DOZOR](https://t.me/dozorwar)                     |
 | [dva_majors](https://t.me/dva_majors)              | 
 | [eternoff](https://t.me/eternoff)                  |
