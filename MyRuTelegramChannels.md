@@ -1,8 +1,20 @@
-This is message for reporting the channels and bots: 
+# For channels
+**For reporting:**
 The channel was created and works to promote and publish fake news about the Russian invasion of Ukraine!
+
+# For bots
+
+**For spaming:**
+Этот бот рабочий?
+Интересует адрес сервера хаймарса?
+192.168.0.1
+
+**Before blocking**
+System alert! Due to inactivity this bot will be blocked. Please contact support team.
+
+**Message for reporting:**
 The bot was created and works to promote and publish fake news about the Russian invasion of Ukraine!
-This is message to send to bots before blocking it:
-System alert! Due to inactivity this bot will be blocked. Please contact support team. 
+ 
 | Link                                               | Status                | Description            |
 | ---------------------------------------------------|---------------------- |:----------------------:|
 | [Бладсикер 2.0](https://t.me/+TjGTywz1xPRjNzg6)    | closed for DN1 and DN2 | |
