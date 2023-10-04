@@ -64,7 +64,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Donrf](https://t.me/donrf22)                      | closed for DN2 | |
 | [DOZOR](https://t.me/dozorwar)                     | WIP2 | |
 | [dva_majors](https://t.me/dva_majors)              | WIP2 | |
-| [eternoff](https://t.me/eternoff)                  |
+| [eternoff](https://t.me/eternoff)                  | WIP2 | |
 | [Поддубный ZОV](https://t.me/epoddubny)            | Closed comments | |
 | [Лик Войны](https://t.me/faceofwar)                |
 | [Fighterbomber](https://t.me/fighter_bomber)       | | |
