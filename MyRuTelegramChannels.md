@@ -59,10 +59,10 @@ The bot was created and works to promote and publish fake news about the Russian
 | [УКРОПСКИЙ ФРЕШ](https://t.me/dillfrash)           | WIP2 | |
 | [ДОЛГАРЕVА 🇷🇺](https://t.me/dolgarevaanna)       | closed for DN2 | |
 | [donezkiy](https://t.me/donezkiy)                  | closed for DN1,2 | |
-| [Donbass Insider](https://t.me/donbassinsider)     | WIP2 | |
+| [Donbass Insider](https://t.me/donbassinsider)     | closed for DN2 | |
 | [Донбасс решает](https://t.me/donbassr)            | Closed comments | |
 | [Donrf](https://t.me/donrf22)                      | WIP2 | |
-| [DOZOR](https://t.me/dozorwar)                     |
+| [DOZOR](https://t.me/dozorwar)                     | WIP2 | |
 | [dva_majors](https://t.me/dva_majors)              | 
 | [eternoff](https://t.me/eternoff)                  |
 | [Поддубный ZОV](https://t.me/epoddubny)            | Closed comments | |
