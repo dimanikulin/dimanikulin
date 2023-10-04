@@ -56,14 +56,14 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Донецк ⚒  ЧП Макеевка](https://t.me/dark_donetskz)|Closed comments | |
 | [Депутат Елена Шишкина (ДНР)](https://t.me/dep_shishkina)| closed for DN2 | | 
 | [Дневник Десантника🇷🇺](https://t.me/DnevnikDesantnika)| closed for DN2 | |
-| [УКРОПСКИЙ ФРЕШ](https://t.me/dillfrash)           | WIP2 | |
+| [УКРОПСКИЙ ФРЕШ](https://t.me/dillfrash)           | closed for DN2 | |
 | [ДОЛГАРЕVА 🇷🇺](https://t.me/dolgarevaanna)       | closed for DN2 | |
 | [donezkiy](https://t.me/donezkiy)                  | closed for DN1,2 | |
 | [Donbass Insider](https://t.me/donbassinsider)     | closed for DN2 | |
 | [Донбасс решает](https://t.me/donbassr)            | Closed comments | |
 | [Donrf](https://t.me/donrf22)                      | closed for DN2 | |
 | [DOZOR](https://t.me/dozorwar)                     | WIP2 | |
-| [dva_majors](https://t.me/dva_majors)              | 
+| [dva_majors](https://t.me/dva_majors)              | WIP2 | |
 | [eternoff](https://t.me/eternoff)                  |
 | [Поддубный ZОV](https://t.me/epoddubny)            | Closed comments | |
 | [Лик Войны](https://t.me/faceofwar)                |
