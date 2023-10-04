@@ -2,7 +2,7 @@ This is message for reporting the channels and bots:
 The channel was created and works to promote and publish fake news about the Russian invasion of Ukraine!
 The bot was created and works to promote and publish fake news about the Russian invasion of Ukraine!
 This is message to send to bots before blocking it:
-System alert! Due to inactivity this bot will be blocked. Please contact support team.
+System alert! Due to inactivity this bot will be blocked. Please contact support team. 
 | Link                                               | Status                | Description            |
 | ---------------------------------------------------|---------------------- |:----------------------:|
 | [Бладсикер 2.0](https://t.me/+TjGTywz1xPRjNzg6)    | closed for DN1 and DN2 | |
@@ -211,4 +211,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 | [Владимир Зеленский](https://t.me/zelenckiy)       |
 | [Владимир Зеленский](https://t.me/zelenskyi_vladimir)|
 | [SU_Hunter_2_0](https://t.me/ZSU_Hunter_2_0)       |
-| [Срочно Запорожье](https://t.me/zzzzzzzzzapp)      | 
+| [Срочно Запорожье](https://t.me/zzzzzzzzzapp)      |
+| [Башни Кремля](https://t.me/+dZK10QqBu0xiZjYy)     |
+| [Поколение Z](https://t.me/+EXrNv7j5LIQxNmNi)      |
+| [Спецоперация V](https://t.me/+vb5WJBLW0jo1ZGU6)   | comments closed | |
