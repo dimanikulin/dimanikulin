@@ -30,7 +30,8 @@ The bot was created and works to promote and publish fake news about the Russian
 | [ANSHLAK](https://t.me/ANSNLAK)                    | not working channel | | 
 | [ANONYMOUS RUSSIA](https://t.me/anon_russ)         | closed for DN1 |
 | [Alex Parker Returns](https://t.me/apwagner)       | WIP1 |
-| [Арбалет Z Говорит](https://t.me/arbaletgovorit)   | WIP1 | 
+| [Арбалет Z Говорит](https://t.me/arbaletgovorit)   | WIP1 |
+| [Astory](https://t.me/Astory_Z)                    | WIP2 |
 | [АРТподдержка](https://t.me/ARTpodderjka)          | closed for DN1 | |
 | [A.V.C. Group](https://t.me/avcgroup)              | closed for DN1 | |
 | [Азарёнок. СТВ. Беларусь](https://t.me/AzarenokCTV)| Closed comments | |
