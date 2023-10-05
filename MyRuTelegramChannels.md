@@ -176,6 +176,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Дядя Слава](https://t.me/slavaded1337)            |
 | [sharikovtime](https://t.me/sharikovtime)          | 
 | [smershmsk](https://t.me/smershmsk)                |
+| [СМОТРИ](https://t.me/smotri_media)                | Closed comments | |
 | [Севастополь. СМЕРШ](https://t.me/sevsmersh)       |
 | [«СОЮЗ ВЕТЕРАНОВ СВО» по КК](https://t.me/souzveteranovsvokk)| 
 | [spainrus](https://t.me/spainrus)                  |
