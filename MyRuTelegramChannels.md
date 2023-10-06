@@ -129,7 +129,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [NIK1®](https://t.me/NIK1_99)                      | closed for DN2 | |
 | [nos_chanel](https://t.me/nos_chanel)              |
 | [Новая 🅉 Украина Live](https://t.me/novajaukraina)|
-| [Норд](https://t.me/nordof777)                     | WIP2 | |
+| [Норд](https://t.me/nordof777)                     | closed for DN2 | |
 | [Типичная Одесса](https://t.me/odessa_typical)     |
 | [🩸Одной🩸Крови🩸](https://t.me/odnoikrove)        | Closed comments | |
 | [OlesyaShigina](https://t.me/OlesyaShigina)        |
