@@ -52,8 +52,8 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Синяя Z Борода](https://t.me/cmiye)               | | too few subsribers |
 | [Сумасшедшая власть](https://t.me/crazypower1)     | not working | AntiPutin content |
 | [Крымская Z прачка 🧺🧼](https://t.me/Crimeanprachka)| Closed comments | |
-| [КРИСТАЛЛ РОСТА](https://t.me/crystal_book)        | WIP2 | |
-| [СВО 2023](https://t.me/cvo2022_5)                 |  closed for DN2 | |
+| [КРИСТАЛЛ РОСТА](https://t.me/crystal_book)        | closed for DN2 | |
+| [СВО 2023](https://t.me/cvo2022_5)                 | closed for DN2 | |
 | [Донецк ⚒  ЧП Макеевка](https://t.me/dark_donetskz)|Closed comments | |
 | [Депутат Елена Шишкина (ДНР)](https://t.me/dep_shishkina)| closed for DN2 | | 
 | [Дневник Десантника🇷🇺](https://t.me/DnevnikDesantnika)| closed for DN2 | |
@@ -68,7 +68,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [eternoff](https://t.me/eternoff)                  | closed for DN2 | |
 | [Поддубный ZОV](https://t.me/epoddubny)            | Closed comments | |
 | [Лик Войны](https://t.me/faceofwar)                | WIP2 | |
-| [Fighterbomber](https://t.me/fighter_bomber)       | | |
+| [Fighterbomber](https://t.me/fighter_bomber)       | WIP2 | |
 | [Скотомогильник](https://t.me/fiftnmls)            | 
 | [FridrihShow](https://t.me/FridrihShow)            |
 | [GREY ZONE](https://t.me/grey_zone)                |
