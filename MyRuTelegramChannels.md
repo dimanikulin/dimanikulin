@@ -31,7 +31,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [ANONYMOUS RUSSIA](https://t.me/anon_russ)         | closed for DN1 |
 | [Alex Parker Returns](https://t.me/apwagner)       | WIP1 |
 | [Арбалет Z Говорит](https://t.me/arbaletgovorit)   | WIP1 |
-| [Astory](https://t.me/Astory_Z)                    | WIP2 |
+| [Astory](https://t.me/Astory_Z)                    | closed for DN2 |
 | [АРТподдержка](https://t.me/ARTpodderjka)          | closed for DN1 | |
 | [A.V.C. Group](https://t.me/avcgroup)              | closed for DN1 | |
 | [Азарёнок. СТВ. Беларусь](https://t.me/AzarenokCTV)| Closed comments | |
@@ -67,7 +67,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [dva_majors](https://t.me/dva_majors)              | WIP2 | |
 | [eternoff](https://t.me/eternoff)                  | closed for DN2 | |
 | [Поддубный ZОV](https://t.me/epoddubny)            | Closed comments | |
-| [Лик Войны](https://t.me/faceofwar)                | WIP2 | |
+| [Лик Войны](https://t.me/faceofwar)                | closed for DN2 | |
 | [Fighterbomber](https://t.me/fighter_bomber)       | WIP2 | |
 | [Скотомогильник](https://t.me/fiftnmls)            | 
 | [FridrihShow](https://t.me/FridrihShow)            |
@@ -210,7 +210,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [war_ukr_russ](https://t.me/war_ukr_russ)          | 
 | [warhistoryalconafter](https://t.me/warhistoryalconafter)|
 | [Крепкое слово](https://t.me/wrusss)               |
-| [ИЗНАНКА](https://t.me/The_Wrong_Side)             |
+| [ИЗНАНКА](https://t.me/The_Wrong_Side)             | WIP2 | |
 | [xaknet_team](https://t.me/xaknet_team)            | 
 | [xoxol_uk](https://t.me/xoxol_uk)                  |
 | [Vыше нас только Zвезды](https://t.me/ZaPobedy_uvo26)| 
