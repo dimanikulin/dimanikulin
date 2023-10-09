@@ -68,7 +68,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [eternoff](https://t.me/eternoff)                  | closed for DN2 | |
 | [Поддубный ZОV](https://t.me/epoddubny)            | Closed comments | |
 | [Лик Войны](https://t.me/faceofwar)                | closed for DN2 | |
-| [Fighterbomber](https://t.me/fighter_bomber)       | WIP2 | |
+| [Fighterbomber](https://t.me/fighter_bomber)       | closed for DN2 | |
 | [Скотомогильник](https://t.me/fiftnmls)            | WIP2 | |
 | [FridrihShow](https://t.me/FridrihShow)            | WIP2 | |
 | [GREY ZONE](https://t.me/grey_zone)                | WIP2 | |
