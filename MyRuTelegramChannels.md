@@ -71,7 +71,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Fighterbomber](https://t.me/fighter_bomber)       | WIP2 | |
 | [Скотомогильник](https://t.me/fiftnmls)            | WIP2 | |
 | [FridrihShow](https://t.me/FridrihShow)            | WIP2 | |
-| [GREY ZONE](https://t.me/grey_zone)                |
+| [GREY ZONE](https://t.me/grey_zone)                | WIP2 | |
 | [Grigorjev](https://t.me/Grigorjev)                | 
 | [ПриZрак Новороссии](https://t.me/ghost_of_novorossia) |
 | [harry_homolsky](https://t.me/harry_homolsky)      | 
