@@ -70,7 +70,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Лик Войны](https://t.me/faceofwar)                | closed for DN2 | |
 | [Fighterbomber](https://t.me/fighter_bomber)       | WIP2 | |
 | [Скотомогильник](https://t.me/fiftnmls)            | WIP2 | |
-| [FridrihShow](https://t.me/FridrihShow)            |
+| [FridrihShow](https://t.me/FridrihShow)            | WIP2 | |
 | [GREY ZONE](https://t.me/grey_zone)                |
 | [Grigorjev](https://t.me/Grigorjev)                | 
 | [ПриZрак Новороссии](https://t.me/ghost_of_novorossia) |
