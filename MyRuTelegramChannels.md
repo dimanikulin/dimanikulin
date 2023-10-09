@@ -64,12 +64,12 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Донбасс решает](https://t.me/donbassr)            | Closed comments | |
 | [Donrf](https://t.me/donrf22)                      | closed for DN2 | |
 | [DOZOR](https://t.me/dozorwar)                     | WIP2 | |
-| [dva_majors](https://t.me/dva_majors)              | WIP2 | |
+| [dva_majors](https://t.me/dva_majors)              | closed for DN2 | |
 | [eternoff](https://t.me/eternoff)                  | closed for DN2 | |
 | [Поддубный ZОV](https://t.me/epoddubny)            | Closed comments | |
 | [Лик Войны](https://t.me/faceofwar)                | closed for DN2 | |
 | [Fighterbomber](https://t.me/fighter_bomber)       | WIP2 | |
-| [Скотомогильник](https://t.me/fiftnmls)            | 
+| [Скотомогильник](https://t.me/fiftnmls)            | WIP2 | |
 | [FridrihShow](https://t.me/FridrihShow)            |
 | [GREY ZONE](https://t.me/grey_zone)                |
 | [Grigorjev](https://t.me/Grigorjev)                | 
