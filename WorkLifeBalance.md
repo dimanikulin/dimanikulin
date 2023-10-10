@@ -62,6 +62,15 @@ Now, I'm curious to know what you do to employ a similar approach?
 
 <img src="./Images/tabletki.jfif" alt="tabletki" />
 
+## What does work-life balance mean for you?
+
+In the options, 'W&P' equals to 'Work And Personal'
+
+- Boundaries for W&P lives
+- W&P lives don't dominate other
+- Scheduling for both W&P lives
+- Physical and mental health
+
 ### Tags
 wellbeing insurance medicalcare
 
