@@ -63,7 +63,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Donbass Insider](https://t.me/donbassinsider)     | closed for DN2 | |
 | [Донбасс решает](https://t.me/donbassr)            | Closed comments | |
 | [Donrf](https://t.me/donrf22)                      | closed for DN2 | |
-| [DOZOR](https://t.me/dozorwar)                     | WIP2 | |
+| [DOZOR](https://t.me/dozorwar)                     | closed for DN2 | |
 | [dva_majors](https://t.me/dva_majors)              | closed for DN2 | |
 | [eternoff](https://t.me/eternoff)                  | closed for DN2 | |
 | [Поддубный ZОV](https://t.me/epoddubny)            | Closed comments | |
