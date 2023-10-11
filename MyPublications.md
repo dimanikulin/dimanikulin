@@ -52,6 +52,12 @@
 |quora      |TBD|TBD|TBD|TBD| 
 
 # How, What and Where to publish
+|Name       |[How To Publish](./HowToPublish)|[What To Publish](./WhatToPublish.md)|[Where To Publish 1](./WhereToPublish1.md)|[Where To Publish 2](./WhereToPublish2.md)|
+|-----------|---|---|---|:-----------:|
+|hackernoon |TBD|TBD|TBD|TBD|
+|linkedin   |TBD|TBD|TBD|TBD|
+|dev.to     |TBD|TBD|TBD|TBD|
+|hashnode   |TBD|TBD|TBD|TBD|
 
 # Other publications
 - [ChatGPT](./ChatGPT.md)
