@@ -73,7 +73,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [FridrihShow](https://t.me/FridrihShow)            | closed for DN2 | |
 | [GREY ZONE](https://t.me/grey_zone)                | closed for DN2 | |
 | [Grigorjev](https://t.me/Grigorjev)                | WIP2 | |
-| [ПриZрак Новороссии](https://t.me/ghost_of_novorossia) | WIP2 | |
+| [ПриZрак Новороссии](https://t.me/ghost_of_novorossia) | closed for DN2 | |
 | [harry_homolsky](https://t.me/harry_homolsky)      | WIP2 | |
 | [HersonVestnik](https://t.me/HersonVestnik)        |
 | [Художник Z патриот](https://t.me/hudojnikZ)       | closed comments |
