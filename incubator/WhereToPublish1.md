@@ -144,9 +144,14 @@ Please notice your post might be shown in draft even you already did post it - n
 
 For more information on how to publish please go [to](https://www.quora.com/How-do-I-create-a-%E2%80%98post%E2%80%99-on-Quora-Don%E2%80%99t-have-a-blog-or-website-but-want-to-add-some-of-my-own-posts-but-not-sure-how)
 
-#######
-Linkedin
+## LinkedIn
+[LinkedIn](https://www.linkedin.com/) - **LinkedIn** is a business and employment-focused social media platform that works through websites and mobile apps
 
+It has content editor like Wordpad.
+
+There you can add article picture and title only.
+
+For more information on how to publish please go [to](https://www.linkedin.com/help/linkedin/answer/a522427#:~:text=Click%20Write%20article%20in%20the,you%20to%20the%20publishing%20tool.)
 
 ################################
 comparision
