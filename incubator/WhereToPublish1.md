@@ -156,11 +156,6 @@ For more information on how to publish please go [to](https://www.linkedin.com/h
 ################################
 comparision
 
-
-codeproject
-dou.eu
-dou.ua
-
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
