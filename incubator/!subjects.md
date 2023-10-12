@@ -2,9 +2,6 @@ WhatILearnedAsTester.md
 
 RecursiveDrinking.jpg
 
-MultimediaOrganizersAnalyze.md
-to make more full comparison and investigation, list of organizers got from here - https://habr.com/ru/post/537684/, and from here https://habr.com/ru/post/374465/
-
 SearchRequestsForMedia.md
 To describe what is criteria, what is search attribute
 to descrive matching between search criteria and search attributes matched with metadata
