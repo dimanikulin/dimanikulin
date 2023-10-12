@@ -7,10 +7,13 @@
 |reddit     |[Jun 16, 2022](https://www.reddit.com/r/fva/comments/ve7188/what_is_multimedia_data/)|was deleted as spam. but why?|was deleted as spam. but why?|[Sep 20, 2022](https://www.reddit.com/r/fva/comments/xkum82/what_are_the_multimedia_organizers/)|
 |quora      |[Jun 19, 2022](https://www.quora.com/profile/Dima-Nikulin-2/What-is-Multimedia-Data-We-live-in-the-digital-data-era-and-growing-of-the-Internet-gives-us-a-possibility-to-find-th)|[Jul 3, 2022](https://www.quora.com/profile/Dima-Nikulin-2/What-are-Multimedia-IR-Systems-Lets-briefly-overview-the-Multimedia-IR-systems-According-to-the-Wikipedia-https)|[Jul 13, 2022](https://www.quora.com/profile/Dima-Nikulin-2/Multimedia-IR-Systems-analyze-Let-us-compare-several-multimedia-IR-systems-by-covering-requirements-and-needs-we-identi)|[Sep 22, 2022](https://www.quora.com/profile/Dima-Nikulin-2/What-are-the-Multimedia-Organizers-Multimedia-Organizers-functions-They-currently-perform-the-search-in-photo-set)|
 
-
-|Exploring the World of Multimedia Information Retrieval Systems|Feb 20, 2023|[dou.eu](https://dou.eu/community/posts/what-are-multimedia-information-retrieval-systems)| |
-|Exploring the World of Multimedia Information Retrieval Systems|January 27,2023|[linkedin](https://www.linkedin.com/posts/dimanikulin_activity-7024663781666349057-Hw3_/?utm_source=share&utm_medium=member_desktop)| |
-
+**Exploring the World of Multimedia Information Retrieval Systems**
+(it is a publication that keeps all publications from *Multimedia, Multimedia IR systems and Multimedia Organizers - Part*)
+|Name       | Where       |
+|-----------|:-----------:|
+|linkedin   |[January 27,2023](https://www.linkedin.com/posts/dimanikulin_activity-7024663781666349057-Hw3_/?utm_source=share&utm_medium=member_desktop) |
+|dou.eu     |[Feb 20, 2023](https://dou.eu/community/posts/what-are-multimedia-information-retrieval-systems)|
+|TBD        |
 
 # Publications about Multimedia, Multimedia IR systems and Multimedia Organizers - Part 2
 |Name       |TBD|TBD|TBD|TBD|
