@@ -17,7 +17,7 @@
 |codeproject| TBD |
 
 # Publications about Multimedia, Multimedia IR systems and Multimedia Organizers - Part 2
-|Name       |TBD|TBD|TBD|TBD|
+|Name       |MultimediaOrganizersAnalyze.md|MultimediaSearchRequests.md|TBD|TBD|
 |-----------|---------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------|:----------------------------------------------------------------:|
 |hackernoon |TBD|TBD|TBD|TBD|
 |linkedin   |TBD|TBD|TBD|TBD|
