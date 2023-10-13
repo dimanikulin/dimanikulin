@@ -44,6 +44,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Болталка](https://t.me/boltalkarussi)             | | |
 | [Brееgе Timе ZÖZZ🇷🇺](https://t.me/breege_time_20zz)| WIP1 | |
 | [BISMARCK резерв](https://t.me/bismarckedit)       | | too few subsribers |
+| [Colonelcassad](https://t.me/boris_rozhin)         | 
 | [Брекотин](https://t.me/brekotins)                 | WIP1 | |
 | [Работайте, братья!](https://t.me/btr80)           | Closed comments | | 
 | [Опознай хохла по чубу](https://t.me/chub_detection)| WIP1 | |
@@ -166,6 +167,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [russiaz](https://t.me/russiaz)                    |
 | [RUSVARG](https://t.me/rusvarg)                    |
 | [Русская Весна СПЕЦОПЕРАЦ](https://t.me/russian_spring_zz) | Closed comments | |
+| [ТРОЙКА](https://t.me/rustroyka1945) | Closed comments | | 
 | [Крылатые](https://t.me/russian_airborne)          |
 | [АРХАНГЕЛ СПЕЦНАЗА Z](https://t.me/rusich_army)    | Closed comments | |
 | [Саня во Флориде](https://t.me/sanya_florida)      |
