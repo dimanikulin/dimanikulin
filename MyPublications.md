@@ -17,7 +17,7 @@
 |codeproject| TBD |
 
 # Publications about Multimedia, Multimedia IR systems and Multimedia Organizers - Part 2
-|Name       |[Analyze of Multimedia Organizers](./MultimediaOrganizersAnalyze.md)|[Search Requests for Multimedia.md](./MultimediaSearchRequests.md)|[Enriching the Multimedia](./MultimediaEnriching.md)|[Tagging Your Multimedia](./MultimediaTagging.md)|
+|Name       |[Analyze of Multimedia Organizers](./MultimediaOrganizersAnalyze.md)|[Search Requests for Multimedia](./MultimediaSearchRequests.md)|[Enriching the Multimedia](./MultimediaEnriching.md)|[Tagging Your Multimedia](./MultimediaTagging.md)|
 |-----------|---------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------|:----------------------------------------------------------------:|
 |hackernoon |TBD|TBD|TBD|TBD|
 |linkedin   |TBD|TBD|TBD|TBD|
@@ -67,6 +67,9 @@
 |linkedin   |TBD|TBD|TBD|TBD|
 |dev.to     |TBD|TBD|TBD|TBD|
 |hashnode   |TBD|TBD|TBD|TBD|
+|medium     |TBD|TBD|TBD|TBD|
+|reddit     |TBD|TBD|TBD|TBD|
+|quora      |TBD|TBD|TBD|TBD| 
 
 # Other publications
 - [ChatGPT](./ChatGPT.md)
