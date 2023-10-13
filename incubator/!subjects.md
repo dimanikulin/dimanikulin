@@ -1,5 +1,3 @@
-WhatILearnedAsTester.md
-
 RecursiveDrinking.jpg
 
 I don't jump from job to job just for salary
