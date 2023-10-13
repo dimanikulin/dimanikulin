@@ -61,7 +61,7 @@
 |quora      |TBD|TBD|TBD|TBD| 
 
 # How, What and Where to publish
-|Name       |[How To Publish](./HowToPublish)|[What To Publish](./WhatToPublish.md)|[Where To Publish 1](./WhereToPublish1.md)|[Where To Publish 2](./WhereToPublish2.md)|
+|Name       |[How To Publish](./PublishHow.md)|[What To Publish](./PublishWhat.md)|[Where To Publish 1](./PublishWhere1.md)|[Where To Publish 2](./PublishWhere2.md)|
 |-----------|---|---|---|:-----------:|
 |hackernoon |TBD|TBD|TBD|TBD|
 |linkedin   |TBD|TBD|TBD|TBD|
