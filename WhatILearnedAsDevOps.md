@@ -76,7 +76,7 @@ Still you can use [MS studio solution](https://github.com/dimanikulin/fva/blob/m
 doxy.cfg
 
 ## Releasing code and docs
-<img src="Images/BuildingCode.png" alt="BuildingCode"/>
+<img src="Images/FvaBuildingCode.png" alt="BuildingCode"/>
 
 &nbsp;&nbsp;&nbsp; One more important point was a definition of [building and releasing the product and documentation](./BUILD_RELEASE.md) 
 Here you can find a description for: 
