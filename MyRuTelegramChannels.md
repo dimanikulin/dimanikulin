@@ -78,9 +78,9 @@ The bot was created and works to promote and publish fake news about the Russian
 | [harry_homolsky](https://t.me/harry_homolsky)      | closed for DN2 | |
 | [HersonVestnik](https://t.me/HersonVestnik)        | closed comments | |
 | [Художник Z патриот](https://t.me/hudojnikZ)       | closed comments |
-| [iikhu](https://t.me/iikhu)                        | 
-| [imnotbozhena](https://t.me/imnotbozhena)          | 
-| [IronHelmets](https://t.me/IronHelmets)            | 
+| [iikhu](https://t.me/iikhu)                        | WIP2 | |
+| [imnotbozhena](https://t.me/imnotbozhena)          | WIP2 | |
+| [IronHelmets](https://t.me/IronHelmets)            | WIP2 | |
 | [istoricprovincial](https://t.me/istoricprovincial)| 
 | [izolentalive](https://t.me/izolentalive)          | 
 | [NerV⚡️⚡️⚡️](https://t.me/KaskadNerv)              |
