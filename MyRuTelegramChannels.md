@@ -70,7 +70,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Поддубный ZОV](https://t.me/epoddubny)            | Closed comments | |
 | [Лик Войны](https://t.me/faceofwar)                | closed for DN2 | |
 | [Fighterbomber](https://t.me/fighter_bomber)       | closed for DN2 | |
-| [Скотомогильник](https://t.me/fiftnmls)            | WIP2 | |
+| [Скотомогильник](https://t.me/fiftnmls)            | closed for DN2 | |
 | [FridrihShow](https://t.me/FridrihShow)            | closed for DN2 | |
 | [GREY ZONE](https://t.me/grey_zone)                | closed for DN2 | |
 | [Grigorjev](https://t.me/Grigorjev)                | WIP2 | |
@@ -81,7 +81,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [iikhu](https://t.me/iikhu)                        | WIP2 | |
 | [imnotbozhena](https://t.me/imnotbozhena)          | WIP2 | |
 | [IronHelmets](https://t.me/IronHelmets)            | WIP2 | |
-| [istoricprovincial](https://t.me/istoricprovincial)| 
+| [istoricprovincial](https://t.me/istoricprovincial)| WIP2 | |
 | [izolentalive](https://t.me/izolentalive)          | 
 | [NerV⚡️⚡️⚡️](https://t.me/KaskadNerv)              |
 | [kalininrus](https://t.me/kalininrus)              | 
