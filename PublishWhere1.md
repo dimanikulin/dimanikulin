@@ -156,6 +156,8 @@ For more information on how to publish please go [to](https://www.linkedin.com/h
 ## Comparison and Analyze
 | #             |Hackernoon|hashnode|dev.to|medium|reddit|quora|linkedin|
 | Option        |----------|--------|------|------|------|-----|:------:|
+| Editor        |aka WordPad|
+
 |Feature picture|+         |
 |Tags           |+         |
 |Description    |+         |
