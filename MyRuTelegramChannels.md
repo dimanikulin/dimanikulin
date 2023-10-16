@@ -76,7 +76,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Grigorjev](https://t.me/Grigorjev)                | WIP2 | |
 | [ПриZрак Новороссии](https://t.me/ghost_of_novorossia) | closed for DN2 | |
 | [harry_homolsky](https://t.me/harry_homolsky)      | closed for DN2 | |
-| [HersonVestnik](https://t.me/HersonVestnik)        | WIP2 | |
+| [HersonVestnik](https://t.me/HersonVestnik)        | closed comments | |
 | [Художник Z патриот](https://t.me/hudojnikZ)       | closed comments |
 | [iikhu](https://t.me/iikhu)                        | 
 | [imnotbozhena](https://t.me/imnotbozhena)          | 
@@ -212,7 +212,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [war_ukr_russ](https://t.me/war_ukr_russ)          | 
 | [warhistoryalconafter](https://t.me/warhistoryalconafter)|
 | [Крепкое слово](https://t.me/wrusss)               |
-| [ИЗНАНКА](https://t.me/The_Wrong_Side)             | WIP2 | |
+| [ИЗНАНКА](https://t.me/The_Wrong_Side)             | closed comments | |
 | [xaknet_team](https://t.me/xaknet_team)            | 
 | [xoxol_uk](https://t.me/xoxol_uk)                  |
 | [Vыше нас только Zвезды](https://t.me/ZaPobedy_uvo26)| 
