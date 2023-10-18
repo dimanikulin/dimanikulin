@@ -79,10 +79,10 @@ The bot was created and works to promote and publish fake news about the Russian
 | [HersonVestnik](https://t.me/HersonVestnik)        | closed comments | |
 | [Художник Z патриот](https://t.me/hudojnikZ)       | closed comments |
 | [iikhu](https://t.me/iikhu)                        | WIP2 | |
-| [imnotbozhena](https://t.me/imnotbozhena)          | WIP2 | |
-| [IronHelmets](https://t.me/IronHelmets)            | WIP2 | |
+| [imnotbozhena](https://t.me/imnotbozhena)          | WIP3 | |
+| [IronHelmets](https://t.me/IronHelmets)            | WIP3 | |
 | [istoricprovincial](https://t.me/istoricprovincial)| WIP2 | |
-| [izolentalive](https://t.me/izolentalive)          | 
+| [izolentalive](https://t.me/izolentalive)          | WIP3 | |
 | [NerV⚡️⚡️⚡️](https://t.me/KaskadNerv)              |
 | [kalininrus](https://t.me/kalininrus)              | 
 | [karjakinchess](https://t.me/karjakinchess)        |
