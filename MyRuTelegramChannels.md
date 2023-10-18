@@ -212,7 +212,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [war_ukr_russ](https://t.me/war_ukr_russ)          | 
 | [warhistoryalconafter](https://t.me/warhistoryalconafter)|
 | [Крепкое слово](https://t.me/wrusss)               |
-| [ИЗНАНКА](https://t.me/The_Wrong_Side)             | closed for DN3 | |
+| [ИЗНАНКА](https://t.me/The_Wrong_Side)             | closed for DN2, DN3 | |
 | [xaknet_team](https://t.me/xaknet_team)            | 
 | [xoxol_uk](https://t.me/xoxol_uk)                  |
 | [Vыше нас только Zвезды](https://t.me/ZaPobedy_uvo26)| 
