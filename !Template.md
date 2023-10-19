@@ -8,6 +8,9 @@ TBD
 TBD
 
 # Definitions, Acronyms, Abbreviations
+| # | Abbreviation or Acronym | Definition     |
+| - | ------------------------|:--------------:|
+| 1 |
 TBD
 
 # Content
