@@ -80,7 +80,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Художник Z патриот](https://t.me/hudojnikZ)       | closed comments |
 | [iikhu](https://t.me/iikhu)                        | WIP2 | |
 | [imnotbozhena](https://t.me/imnotbozhena)          | WIP3 | |
-| [IronHelmets](https://t.me/IronHelmets)            | WIP3 | |
+| [IronHelmets](https://t.me/IronHelmets)            | Closed for DN3 | |
 | [istoricprovincial](https://t.me/istoricprovincial)| WIP2 | |
 | [izolentalive](https://t.me/izolentalive)          | WIP3 | |
 | [NerV⚡️⚡️⚡️](https://t.me/KaskadNerv)              |
