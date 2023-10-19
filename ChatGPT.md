@@ -1,8 +1,8 @@
 # Headline
-TBD
+Working with GPT
 
 # Article description
-TBD 
+Author experience working with GPT 
 
 # Tags
 ChatGPT 
