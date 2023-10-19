@@ -83,8 +83,8 @@ The bot was created and works to promote and publish fake news about the Russian
 | [IronHelmets](https://t.me/IronHelmets)            | Closed for DN3 | |
 | [istoricprovincial](https://t.me/istoricprovincial)| WIP2 | |
 | [izolentalive](https://t.me/izolentalive)          | WIP3 | |
-| [NerV⚡️⚡️⚡️](https://t.me/KaskadNerv)              |
-| [kalininrus](https://t.me/kalininrus)              | 
+| [NerV⚡️⚡️⚡️](https://t.me/KaskadNerv)              | closed comments | | 
+| [kalininrus](https://t.me/kalininrus)              | closed comments | | 
 | [karjakinchess](https://t.me/karjakinchess)        |
 | [ХОХЛЫ, ШО С ЕБАЛОМ ?](https://t.me/KILL_BCY)      |
 | [Полина Кокс & CandyFlip](https://t.me/koksncandy) |
