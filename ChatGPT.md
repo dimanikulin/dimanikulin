@@ -16,7 +16,7 @@ When you work with GPT and you ask it to do something, please start your request
 
 Took idea from [DOU](https://dou.ua/forums/topic/43131/?from=tg&utm_source=telegram&utm_medium=social)
 
-<img src="./Images/ChatGPTAsk.png" alt="TBD" />
+<img src="./Images/ChatGPTAsk.png" alt="ChatGPTAsk" />
 
 ### Tags
 DOU Humor
@@ -53,9 +53,9 @@ So far, it has helped me with:
 The only thing it did not help me with was finding my social style.
 
 What about you? Do you consider ChatGPT a useful tool?
-- Yes **100%**
-- No **0%**
-- Never tried it **0%**
+- Yes **80%**
+- No **12%**
+- Never tried it **8%**
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
