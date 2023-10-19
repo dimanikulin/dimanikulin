@@ -73,12 +73,12 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Скотомогильник](https://t.me/fiftnmls)            | closed for DN2 | |
 | [FridrihShow](https://t.me/FridrihShow)            | closed for DN2 | |
 | [GREY ZONE](https://t.me/grey_zone)                | closed for DN2 | |
-| [Grigorjev](https://t.me/Grigorjev)                | WIP2 | |
+| [Grigorjev](https://t.me/Grigorjev)                | closed comments | |
 | [ПриZрак Новороссии](https://t.me/ghost_of_novorossia) | closed for DN2 | |
 | [harry_homolsky](https://t.me/harry_homolsky)      | closed for DN2 | |
 | [HersonVestnik](https://t.me/HersonVestnik)        | closed comments | |
 | [Художник Z патриот](https://t.me/hudojnikZ)       | closed comments |
-| [iikhu](https://t.me/iikhu)                        | WIP2 | |
+| [iikhu](https://t.me/iikhu)                        | closed for DN2 | |
 | [imnotbozhena](https://t.me/imnotbozhena)          | WIP3 | |
 | [IronHelmets](https://t.me/IronHelmets)            | Closed for DN3 | |
 | [istoricprovincial](https://t.me/istoricprovincial)| WIP2 | |
