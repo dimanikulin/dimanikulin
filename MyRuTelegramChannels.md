@@ -85,9 +85,9 @@ The bot was created and works to promote and publish fake news about the Russian
 | [izolentalive](https://t.me/izolentalive)          | WIP3 | |
 | [NerV⚡️⚡️⚡️](https://t.me/KaskadNerv)              | closed comments | | 
 | [kalininrus](https://t.me/kalininrus)              | closed comments | | 
-| [karjakinchess](https://t.me/karjakinchess)        |
-| [ХОХЛЫ, ШО С ЕБАЛОМ ?](https://t.me/KILL_BCY)      |
-| [Полина Кокс & CandyFlip](https://t.me/koksncandy) |
+| [karjakinchess](https://t.me/karjakinchess)        | WIP2 | |
+| [ХОХЛЫ, ШО С ЕБАЛОМ ?](https://t.me/KILL_BCY)      | not working channel | |
+| [Полина Кокс & CandyFlip](https://t.me/koksncandy) | WIP 2 | |
 | [Константиновка ZOV Обстановка](https://t.me/konstantunovka_ZOV) | | |
 | [kommunist](https://t.me/kommunist)                | 
 | [KotNaMirotvorze](https://t.me/KotNaMirotvorze)    | 
