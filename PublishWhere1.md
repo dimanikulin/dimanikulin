@@ -154,12 +154,12 @@ There you can add article picture and title only.
 For more information on how to publish please go [to](https://www.linkedin.com/help/linkedin/answer/a522427#:~:text=Click%20Write%20article%20in%20the,you%20to%20the%20publishing%20tool.)
 
 ## Comparison and Analyze
-| # | Hackernoon                 | Source                | Release date           |  Author                 | Description   |
+| # | Hackernoon                 | hashnode                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 
 
 
-| # |                  | hashnode                | dev.to           |  medium                 | reddit   |
+| # |                  |                 | dev.to           |  medium                 | reddit   |
 
 
 | Feature | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
