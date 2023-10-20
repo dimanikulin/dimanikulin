@@ -82,12 +82,12 @@ The bot was created and works to promote and publish fake news about the Russian
 | [imnotbozhena](https://t.me/imnotbozhena)          | WIP3 | |
 | [IronHelmets](https://t.me/IronHelmets)            | Closed for DN3 | |
 | [istoricprovincial](https://t.me/istoricprovincial)| WIP2 | |
-| [izolentalive](https://t.me/izolentalive)          | WIP3 | |
+| [izolentalive](https://t.me/izolentalive)          | closed for DN3 | |
 | [NerV⚡️⚡️⚡️](https://t.me/KaskadNerv)              | closed comments | | 
 | [kalininrus](https://t.me/kalininrus)              | closed comments | | 
 | [karjakinchess](https://t.me/karjakinchess)        | WIP2 | |
 | [ХОХЛЫ, ШО С ЕБАЛОМ ?](https://t.me/KILL_BCY)      | not working channel | |
-| [Полина Кокс & CandyFlip](https://t.me/koksncandy) | WIP 2 | |
+| [Полина Кокс & CandyFlip](https://t.me/koksncandy) | closed for DN2 | |
 | [Константиновка ZOV Обстановка](https://t.me/konstantunovka_ZOV) | | |
 | [kommunist](https://t.me/kommunist)                | 
 | [KotNaMirotvorze](https://t.me/KotNaMirotvorze)    | 
