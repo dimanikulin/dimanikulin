@@ -88,10 +88,10 @@ The bot was created and works to promote and publish fake news about the Russian
 | [karjakinchess](https://t.me/karjakinchess)        | WIP2 | |
 | [ХОХЛЫ, ШО С ЕБАЛОМ ?](https://t.me/KILL_BCY)      | not working channel | |
 | [Полина Кокс & CandyFlip](https://t.me/koksncandy) | closed for DN2 | |
-| [Константиновка ZOV Обстановка](https://t.me/konstantunovka_ZOV) | | |
-| [kommunist](https://t.me/kommunist)                | 
-| [KotNaMirotvorze](https://t.me/KotNaMirotvorze)    | 
-| [KovaksClearSky](https://t.me/KovaksClearSky)      |
+| [Константиновка ZOV Обстановка](https://t.me/konstantunovka_ZOV) | WIP3 | |
+| [kommunist](https://t.me/kommunist)                | WIP3 | | 
+| [KotNaMirotvorze](https://t.me/KotNaMirotvorze)    | WIP3 | |
+| [KovaksClearSky](https://t.me/KovaksClearSky)      | WIP2 | |
 | [КТО ПО ЖИЗНИ](https://t.me/KPZYoyTube)            |
 | [krasnovdmitri](https://t.me/krasnovdmitri)        | 
 | [kuzichev_chat](https://t.me/kuzichev_chat)        | 
