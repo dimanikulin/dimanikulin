@@ -155,11 +155,11 @@ For more information on how to publish please go [to](https://www.linkedin.com/h
 
 ## Comparison and Analyze
 
-| # | Name                 | Source                | Release date           |  Author                 | Description   |
-| - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
+| # | Hackernoon                 | hashnode                | dev.to           |  medium                 | reddit   |
+| Feature | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 
-| #             |Hackernoon |hashnode|dev.to|medium|reddit|quora|linkedin|
-|Feature        |---------- |--------|------|------|------|-----|:------:|
+| #             | |||||quora|linkedin|
+|        |---------- |--------|------|------|------|-----|:------:|
 
 
 
