@@ -113,7 +113,7 @@ For each story it provides a possibility to
 - Pin **story** - Pinning a story keeps it at the top of the page until you specify otherwise. Pin this story to the top of your profile
 - Set **SEO Title** - The **SEO Title** is used in place of your Title on search engine results pages, such as a Google search. **SEO titles** over 60 characters will be truncated. **SEO titles** between 40 and 50 characters with commonly searched words have the best click-through-rates.
 - Set **SEO Description** - The **SEO Description** is used in place of your Subtitle on search engine results pages. Good **SEO descriptions** utilize keywords, summarize the story and are between 140-156 characters long.
-- Add **Friend Link** - This link guarantees anyone free access to your story, even if they’ve read all of their complimentary stories for this month. Learn more.
+- Add **Friend Link** - This link guarantees anyone free access to your story, even if theyâ€™ve read all of their complimentary stories for this month. Learn more.
 - Set **Content Licensing**
 - Customize **Story Link**
 - Customize **Canonical Link**, to set URL to show if this story was originally published elsewhere
@@ -154,8 +154,8 @@ There you can add article picture and title only.
 For more information on how to publish please go [to](https://www.linkedin.com/help/linkedin/answer/a522427#:~:text=Click%20Write%20article%20in%20the,you%20to%20the%20publishing%20tool.)
 
 ## Comparison and Analyze
-| # | Hackernoon                 | hashnode                | dev.to           |  medium                 | reddit   |
-| - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
+| # |Hackernoon|hashnode|dev.to|medium|reddit|quora|linkedin|
+| - |----------|--------|------|------|------|-----|:------:|
 
 
 
