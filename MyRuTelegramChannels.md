@@ -107,7 +107,8 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Мисливец LITE](https://t.me/mislivetslite)        |
 | [m0sc0wcalling](https://t.me/m0sc0wcalling)        | | AntiPutin content |
 | [moscowmap](https://t.me/moscowmap)                | 
-| [mariabutina](https://t.me/mariabutina)            | 
+| [mariabutina](https://t.me/mariabutina)            |
+| [Мария Захарова](https://t.me/MariaVladimirovnaZakharova) | WIP2 |
 | [Marinaslovo](https://t.me/Marinaslovo)            | 
 | [matanaliz_kofman](https://t.me/matanaliz_kofman)  | 
 | [maximgrigoryev](https://t.me/maximgrigoryev)      | 
