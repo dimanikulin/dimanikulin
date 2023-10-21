@@ -29,7 +29,7 @@ Which ones I missed?
 messenger ithumor
 
 ## What does it mean for me to be online?
-<img src="./Images/BeingOnline.jpg" alt="TBD" />
+<img src="./Images/BeingOnline.jpg" alt="BeingOnline" />
 
 ### Tags
 online ithumor
