@@ -154,9 +154,9 @@ There you can add article picture and title only.
 For more information on how to publish please go [to](https://www.linkedin.com/help/linkedin/answer/a522427#:~:text=Click%20Write%20article%20in%20the,you%20to%20the%20publishing%20tool.)
 
 ## Comparison and Analyze
-| # |Hackernoon|hashnode|dev.to|medium|reddit|quora|linkedin|
-| - |----------|--------|------|------|------|-----|:------:|
-|Editor         |WordPad  |WordPad|MarkDown|WordPad||||
+| #             |Hackernoon |hashnode|dev.to|medium|reddit|quora|linkedin|
+| -             |---------- |--------|------|------|------|-----|:------:|
+|Editor         |WordPad    |WordPad |MarkDown|WordPad|both|||
 |Feature picture| +         | +      | +    | +    ||||
 |Title          | +         | +      | +    | +    ||||
 |Custom OG image| -         | +      | -    | -    ||||
@@ -180,6 +180,11 @@ For more information on how to publish please go [to](https://www.linkedin.com/h
 |Friend Link    | -         | -      | -    | +    ||||
 |Content Licensing| -       | -      | -    | +    ||||
 |Found issues   | +         | -      | -    | +    ||||
+
+It has content editor for 2 modes as MarkDown and usual editor like Wordpad.
+
+For each story it provides a possibility to add title and content.
+
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
