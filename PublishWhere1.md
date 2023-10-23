@@ -156,30 +156,30 @@ For more information on how to publish please go [to](https://www.linkedin.com/h
 ## Comparison and Analyze
 | #             |Hackernoon |hashnode|dev.to|medium|reddit|quora|linkedin|
 | -             |---------- |--------|------|------|------|-----|:------:|
-|Editor         |WordPad  |WordPad|MarkDown|WordPad|both  |||
-|Feature picture| +         | +      | +    | +    | +    |||
-|Title          | +         | +      | +    | +    | +    |||
-|Custom OG image| -         | +      | -    | -    | -    |||
-|Tags           | +         | +      | +    | +    | -    |||
-|Description    | +         | +      | -    | -    | -    |||
-|Emoji          | +         | -      | -    | -    | -    |||
-|Link to Twitter| +         | -      | -    | -    | -    |||
-|Townhall Mode  | +         | +      | -    | -    | -    |||
-|TL;DR          | +         | -      | -    | -    | -    |||
-|Link to original story| +  | +      | +    | +    | -    |||
-|Human review   | +         | -      | -    | -    | -    |||
-|Syntax checking| -         | +      | -    | -    | -    |||
-|Article stats  | -         | +      | -    | -    | -    |||
-|Generate table of content|-| +      | -    | -    | -    |||
-|Seo title      | -         | +      | -    | +    | -    |||
-|Seo description| -         | +      | -    | +    | -    |||
-|Schedule       | -         | +      | +    | +    | -    |||
-|Series         | -         | -      | +    | -    | -    |||
-|Unlisted       | -         | -      | -    | +    | -    |||
-|Pinning story  | -         | -      | -    | +    | -    |||
-|Friend Link    | -         | -      | -    | +    | -    |||
-|Content Licensing| -       | -      | -    | +    | -    |||
-|Found issues   | +         | -      | -    | +    | -    |||
+|Editor         |WordPad  |WordPad|MarkDown|WordPad|both|WordPad||
+|Feature picture| +         | +      | +    | +    | +    | -   ||
+|Title          | +         | +      | +    | +    | +    | +   ||
+|Custom OG image| -         | +      | -    | -    | -    | -   ||
+|Tags           | +         | +      | +    | +    | -    | -   ||
+|Description    | +         | +      | -    | -    | -    | -   ||
+|Emoji          | +         | -      | -    | -    | -    | -   ||
+|Link to Twitter| +         | -      | -    | -    | -    | -   ||
+|Townhall Mode  | +         | +      | -    | -    | -    | -   ||
+|TL;DR          | +         | -      | -    | -    | -    | -   ||
+|Link to original story| +  | +      | +    | +    | -    | -   ||
+|Human review   | +         | -      | -    | -    | -    | -   ||
+|Syntax checking| -         | +      | -    | -    | -    | -   ||
+|Article stats  | -         | +      | -    | -    | -    | -   ||
+|Generate table of content|-| +      | -    | -    | -    | -   ||
+|Seo title      | -         | +      | -    | +    | -    | -   ||
+|Seo description| -         | +      | -    | +    | -    | -   ||
+|Schedule       | -         | +      | +    | +    | -    | -   ||
+|Series         | -         | -      | +    | -    | -    | -   ||
+|Unlisted       | -         | -      | -    | +    | -    | -   ||
+|Pinning story  | -         | -      | -    | +    | -    | -   ||
+|Friend Link    | -         | -      | -    | +    | -    | -   ||
+|Content Licensing| -       | -      | -    | +    | -    | -   ||
+|Found issues   | +         | -      | -    | +    | -    | +   ||
 
 
 # References
