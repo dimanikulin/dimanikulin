@@ -66,7 +66,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Donrf](https://t.me/donrf22)                      | closed for DN2 | |
 | [DOZOR](https://t.me/dozorwar)                     | closed for DN2 | |
 | [dva_majors](https://t.me/dva_majors)              | closed for DN2 | |
-| [eternoff](https://t.me/eternoff)                  | closed for DN2 | |
+| [eternoff](https://t.me/eternoff)                  | WIP2 | |
 | [Поддубный ZОV](https://t.me/epoddubny)            | Closed comments | |
 | [Лик Войны](https://t.me/faceofwar)                | closed for DN2 | |
 | [Fighterbomber](https://t.me/fighter_bomber)       | closed for DN2 | |
@@ -78,7 +78,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [harry_homolsky](https://t.me/harry_homolsky)      | closed for DN2 | |
 | [HersonVestnik](https://t.me/HersonVestnik)        | closed comments | |
 | [Художник Z патриот](https://t.me/hudojnikZ)       | closed comments |
-| [iikhu](https://t.me/iikhu)                        | closed for DN2 | |
+| [iikhu](https://t.me/iikhu)                        | closed for DN2, WIP3 | |
 | [imnotbozhena](https://t.me/imnotbozhena)          | WIP3 | |
 | [IronHelmets](https://t.me/IronHelmets)            | Closed for DN3 | |
 | [istoricprovincial](https://t.me/istoricprovincial)| WIP2 | |
@@ -90,7 +90,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Полина Кокс & CandyFlip](https://t.me/koksncandy) | closed for DN2 | |
 | [Константиновка ZOV Обстановка](https://t.me/konstantunovka_ZOV) | WIP3 | |
 | [kommunist](https://t.me/kommunist)                | WIP3 | | 
-| [KotNaMirotvorze](https://t.me/KotNaMirotvorze)    | WIP3 | |
+| [KotNaMirotvorze](https://t.me/KotNaMirotvorze)    | closed for DN3 | |
 | [KovaksClearSky](https://t.me/KovaksClearSky)      | WIP2 | |
 | [КТО ПО ЖИЗНИ](https://t.me/KPZYoyTube)            |
 | [krasnovdmitri](https://t.me/krasnovdmitri)        | 
