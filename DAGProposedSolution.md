@@ -40,18 +40,18 @@ To access code, configuration, and the database, interactions with **Version Con
 
 Finally, Report Storage is employed to save the outputs extracted from the **Architecture** under analysis.
 
-<img src="./Images/DAGProposedSolution1.png" alt="DAGProposedSolution.png" />
+<img src="./Images/DAGProposedSolution1.png" alt="DAG Proposed Solution 1.png" />
 
 ## The Context View for a Separate Step in CI/CD
 The sole distinction between the previous view and the **Context View** for a **Separate Step** in **CI/CD** is the integration of the proposed solution with the existing **CI/CD** pipeline.
 
-<img src="./Images/DAGProposedSolution2.png" alt="DAGProposedSolution.png" />
+<img src="./Images/DAGProposedSolution2.png" alt="DAG Proposed Solution 2.png" />
 
 ## Functional View
 The functional diagram below illustrates the high-level functional decomposition of the proposed solution.
 An agenda is provided below to explain the color coding used in the functional decomposition diagram.
 
-<img src="./Images/DAGProposedSolution3.png" alt="DAGProposedSolution.png" />
+<img src="./Images/DAGProposedSolution3.png" alt="DAG Proposed Solution 3.png" />
 
 ### Integration Layer
 The function of the integration layer is to abstract and segregate the system from external components, enhancing system extensibility and modifiability.
@@ -88,7 +88,7 @@ The deployment view illustrates how a solution is intended to be deployed, encom
 
 ### Deployment View - On-Premises
 
-<img src="./Images/DAGProposedSolution4.png" alt="DAGProposedSolution.png" />
+<img src="./Images/DAGProposedSolution4.png" alt="DAG Proposed Solution 4.png" />
 
 On-premise deployment assumes the use of a single computing node for installation.
 The **Database** component should be deployed first, as other components depend on it.
@@ -100,7 +100,7 @@ The **User Interface** component is presented as a web service, while the **Proc
 Reports plugins and integration points are designed as dynamic libraries that can be easily added, removed, and configured at runtime.
 
 ## Deployment View - Cloud
-<img src="./Images/DAGProposedSolution5.png" alt="DAGProposedSolution.png" />
+<img src="./Images/DAGProposedSolution5.png" alt="DAG Proposed Solution 5.png" />
 
 **Cloud deployment** involves the utilization of two computing nodes for installation.
 Due to the potentially high **CPU usage** of the Machine Learning process, it is recommended to allocate a dedicated machine for this purpose within the cloud pipeline.
@@ -119,7 +119,7 @@ Furthermore, the proposed solution should also integrate effectively with online
 - PlantUML
 - Gliffy.com
 
-<img src="./Images/DAGProposedSolution6.png" alt="DAGProposedSolution.png" />
+<img src="./Images/DAGProposedSolution6.png" alt="DAG Proposed Solution 6.png" />
 
 ### Integration with Offline UML Design Tools
 
@@ -171,7 +171,7 @@ As mentioned previously, one facet of the application involves integration withi
 **CI/CD** represents a multifaceted and composite process, encompassing numerous stages.
 Within a single **CI/CD** pipeline, a plethora of functionalities converge to facilitate a comprehensive workflow.
 
-<img src="./Images/DAGProposedSolution7.png" alt="DAGProposedSolution.png" />
+<img src="./Images/DAGProposedSolution7.png" alt="DAG Proposed Solution 7.png" />
 
 The diagram provided illustrates a standard **CI/CD** pipeline, depicted as the first pipeline.
 This pipeline encompasses multiple sequential stages, which include:
