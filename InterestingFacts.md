@@ -20,7 +20,7 @@ Are there other facts?
 
 Something else? please share in comments other facts.
 
-<img src="./Images/GL6Years.png" alt="GL6Years" />
+<img src="./Images/GL6Years.png" alt="GL 6 Years" />
 
 ## Interesting facts about number "11"
 
@@ -33,7 +33,7 @@ Are there other facts?
 
 Something else? please share in comments other facts.
 
-<img src="./Images/InterestingFactsAbout11.jpg" alt="InterestingFactsAbout11" />
+<img src="./Images/InterestingFactsAbout11.jpg" alt="Interesting Facts About 11" />
 
 ## Interesting facts about number "12"
 
@@ -45,7 +45,7 @@ Something else? please share in comments other facts.
 
 Something else? please share in comments other facts.
 
-<img src="./Images/InterestingFactsAbout12.jpg" alt="InterestingFactsAbout12" />
+<img src="./Images/InterestingFactsAbout12.jpg" alt="Interesting Facts About 12" />
 
 ## Interesting facts about number "13"
 Usually, the number 13 is considered unlucky in many cultures.
@@ -56,7 +56,7 @@ Here are some interesting facts about the number 13:
 - In Italian culture, this number is associated with good fortune.
 
 Are there other facts?
-<img src="./Images/InterestingFactsAbout13.jpg" alt="InterestingFactsAbout13" />
+<img src="./Images/InterestingFactsAbout13.jpg" alt="Interesting Facts About 13" />
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
