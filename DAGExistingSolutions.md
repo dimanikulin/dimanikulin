@@ -49,7 +49,7 @@ As a result, it generates comprehensive software **architecture** diagrams, enco
 - Detects new connections
 - Provides a prioritized list of risks once changes occur
 
-<img src="./Images/DAGExistingSolutions1.png" alt="DAGExistingSolution" />
+<img src="./Images/DAGExistingSolutions1.png" alt="DAG Existing Solution 1" />
 
 ## Castsoftware Highlight
 [Cast Highlight](https://www.castsoftware.com/products/highlight) is an application designed to automatically analyze the source code.
@@ -81,7 +81,7 @@ The tool enables users to manage dependencies through the creation of graphs and
 - Seamless integration into the CI/CD process, enabling real-time identification of code and architecture issues.
 - Provides insights into the cost and priority of fixing identified issues.
 
-<img src="./Images/DAGExistingSolutions2.png" alt="DAGExistingSolution2" />
+<img src="./Images/DAGExistingSolutions2.png" alt="DAG Existing Solution 2" />
 
 ## Axivion Suite
 [Axivion Suite](https://www.axivion.com/en/) is a powerful static code analysis tool that empowers users to thoroughly examine software **architecture**, ensuring prevention of **drifts** and **erosions**. 
