@@ -200,7 +200,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [ukr_leaks](https://t.me/ukr_leaks)                | 
 | [УКРОПИТЕКИ стримы](https://t.me/ucropitek)        |
 | [vadovskaya](https://t.me/vadovskaya)              |
-| [Дмитрий Василец](https://t.me/VasiletsDmitriy)    | comments closed | |
+| [Дмитрий Василец](https://t.me/VasiletsDmitriy)    | | |
 | [Новости Россия! Zа правду!](https://t.me/vchatz)  | 
 | [verysexydasha](https://t.me/verysexydasha)        | 
 | [vitteli](https://t.me/vitteli)                    |
