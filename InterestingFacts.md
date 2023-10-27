@@ -2,7 +2,7 @@
 Interesting facts
 
 # Article description
-TBD 
+Interesting facts about numbers and not only! 
 
 # Tags
 interestingfacts numbers
