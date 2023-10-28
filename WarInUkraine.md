@@ -62,7 +62,7 @@ Another example what rUSSIANS do when they loose the "GAME" on real battle field
 
 - Коли ми отримаємо Ф-16?
 
-<img src="./Images/QuestionsToTarasChmut.png" />
+<img src="./Images/QuestionsToTarasChmut.png" alt="Questions To Taras Chmut"/>
 
 ## Які питання ставили хлопці з GlobalLogic Тарасу Чмуту
 Місяць тому мене запитали, які питання ставили хлопці з GlobalLogic Тарасу Чмуту на зустрічі з ним.
@@ -71,7 +71,7 @@ Another example what rUSSIANS do when they loose the "GAME" on real battle field
 
 Якщо вам цікаво напишіть у коментах які питання цікаві та на які питання ви хотіли б дізнатися відповіді?
 
-<img src="./Images/QuestionsToTarasChmut2.png" />
+<img src="./Images/QuestionsToTarasChmut2.png" alt= "Questions To Taras Chmut 2"/>
 
 ## junior is trying to find a job in summer in Ukraine in war
 When junior is trying to find a job in summer... in Ukraine.... in war.
