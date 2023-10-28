@@ -43,7 +43,7 @@ work, punctuality, discipline, surnames, workplace anecdotes, humorous stories.
 
 ПС. История невыдуманная )
 
-<img src="./Images/YuriyNikulin.jpg" alt="TBD" />
+<img src="./Images/YuriyNikulin.jpg" alt="Yuriy Nikulin" />
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
