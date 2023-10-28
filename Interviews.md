@@ -46,7 +46,7 @@ So, some red flags to watch out for during an interview include:
 
 PS. Based on real interview.
 
-<img src="./Images/InterviewRedFlags.png" alt="InterviewRedFlags" />
+<img src="./Images/InterviewRedFlags.png" alt="Interview Red Flags" />
 
 ## AI tools for interview 
 Nowadays, people actively use AI to learn, grow, and engage in many other positive endeavors.
@@ -65,7 +65,7 @@ And here are some other tips for interviewers:
 What measures do you take to avoid the use of AI tools during interviews?
 Please share your thoughts in the comments.
 
-<img src="./Images/InterviewAITools.png" alt="InterviewAITools" />
+<img src="./Images/InterviewAITools.png" alt="Interview AI Tools" />
 
 ### Tags
 ai interviewtips cheating
