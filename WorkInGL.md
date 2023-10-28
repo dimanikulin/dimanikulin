@@ -1,5 +1,5 @@
 # Headline
-TBD
+Working in GL
 
 # Article description
 In this article, the author expresses gratitude to GlobalLogic for their thoughtful birthday presents over the years.
