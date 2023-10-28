@@ -12,7 +12,7 @@ LinkedIn Content
 ## Just Joined LinkedIn (На русском)
 Наболело...
 
-<img src="./Images/JustJoinedLinkedIn.jpg" alt="TBD" />
+<img src="./Images/JustJoinedLinkedIn.jpg" alt="Just Joined LinkedIn" />
 
 
 ## What do you think about content posted in LinkedIn?
