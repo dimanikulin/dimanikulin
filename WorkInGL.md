@@ -2,7 +2,11 @@
 TBD
 
 # Article description
-TBD 
+In this article, the author expresses gratitude to GlobalLogic for their thoughtful birthday presents over the years.
+The significance of these gifts is highlighted in the context of recent events related to war.
+The author also shares insights into interactions with notable individuals, including Olena Zelenska, and provides a link to a white paper discussing software architecture and design.
+Additionally, the article touches on the mental health program 'Ти як?', featuring Olena Zelenska.
+The content reflects the author's appreciation for GlobalLogic's support and their personal experiences. 
 
 # Tags
 GlobalLogic Work
