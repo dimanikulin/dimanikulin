@@ -5,7 +5,7 @@ TBD
 TBD 
 
 # Tags
-worklifebalance workload relax
+worklifebalance workload relax Chess MedicalInsurance
 
 # Content
 ## Playing chess
