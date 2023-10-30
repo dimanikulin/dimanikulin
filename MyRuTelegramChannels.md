@@ -85,7 +85,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [izolentalive](https://t.me/izolentalive)          | closed for DN3 | |
 | [NerV⚡️⚡️⚡️](https://t.me/KaskadNerv)              | closed comments | | 
 | [kalininrus](https://t.me/kalininrus)              | closed comments | | 
-| [karjakinchess](https://t.me/karjakinchess)        | WIP2 | |
+| [karjakinchess](https://t.me/karjakinchess)        | Closed for DN2 | |
 | [ХОХЛЫ, ШО С ЕБАЛОМ ?](https://t.me/KILL_BCY)      | not working channel | |
 | [Полина Кокс & CandyFlip](https://t.me/koksncandy) | closed for DN2 | |
 | [Константиновка ZOV Обстановка](https://t.me/konstantunovka_ZOV) | WIP3 | |
@@ -224,7 +224,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Vladimir Zelenskiy](https://t.me/vladimir_zelenskiy_official_page) | comments closed | |
 | [ZaRussia72rus](https://t.me/zarussia010)          |
 | [Za наших](https://t.me/za_army)                   |
-| [ЗАПОРОЖСКИЙ ФРОНТ](https://t.me/ZA_FROHT)         | comments closed | |
+| [ЗАПОРОЖСКИЙ ФРОНТ](https://t.me/ZA_FROHT)         | | |
 | [Za Наших новости](https://t.me/za_nashih_news)    | comments closed | |
 | [Vыше нас только Zвезды](https://t.me/ZaPobedy_uvo)|
 | [Владимир Зеленский](https://t.me/zelenckiy)       |
