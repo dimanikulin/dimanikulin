@@ -6,6 +6,7 @@ The channel was created and works to promote and publish fake news about the Rus
 
 **For spaming:**
 Этот бот рабочий?
+А какая информация Вас интересует?
 Интересует адрес сервера хаймарса?
 192.168.0.1
 
