@@ -1,5 +1,5 @@
 # Headline
-TBD
+Everything about the Software Development
 
 # Article description
 TBD 
@@ -75,6 +75,8 @@ So, when was the first time you heard that your language/technology X would die?
 - 10 years ago **21%**
 - 5 years ago  **20%**
 - never heard  **42%**
+
+71 Votes
 
 Please share in the comments your programming language/technology that was predicted to die but didn't.
 
