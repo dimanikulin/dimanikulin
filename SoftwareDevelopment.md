@@ -38,6 +38,8 @@ Which title describes better a real job?
 - IT Consultant **10%**
 - C++ Developer **90%**
 
+87 Votes
+
 ### Tags
 itconsulting cv
 
@@ -69,10 +71,10 @@ But that didn't happen, and those fast-approaching languages and technologies ar
 
 So, when was the first time you heard that your language/technology X would die?
 
-- 20 years ago
-- 10 years ago
-- 5 years ago
-- never heard
+- 20 years ago **17%**
+- 10 years ago **21%**
+- 5 years ago  **20%**
+- never heard  **42%**
 
 Please share in the comments your programming language/technology that was predicted to die but didn't.
 
