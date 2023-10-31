@@ -1,6 +1,5 @@
 # Headline
 This is when we say "Old, but Gold"
-TBD
 
 # Article description
 TBD 
