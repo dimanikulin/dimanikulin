@@ -153,7 +153,7 @@ There you can add article picture and title only.
 
 For more information on how to publish please go [to](https://www.linkedin.com/help/linkedin/answer/a522427#:~:text=Click%20Write%20article%20in%20the,you%20to%20the%20publishing%20tool.)
 
-## Comparison and Analyze
+## Comparison
 | #             |Hackernoon |hashnode|dev.to|medium|reddit|quora|linkedin|
 | -             |---------- |--------|------|------|------|-----|:------:|
 |Editor         |WordPad  |WordPad|MarkDown|WordPad|both|WordPad|WordPad |
@@ -180,6 +180,12 @@ For more information on how to publish please go [to](https://www.linkedin.com/h
 |Friend Link    | -         | -      | -    | +    | -    | -   | -      |
 |Content Licensing| -       | -      | -    | +    | -    | -   | -      |
 |Found issues   | +         | -      | -    | +    | -    | +   | -      |
+
+## Analyze
+As we can see from the **Comparison** table the most platforms have only a few functions to use.
+Still **Hackernoon**, **hashnode** and **medium** have wider variety of functions.
+As for me the very important functions are: **Tags**, **Human review**, **Syntax checking**, **Article stats** and **Series**.
+It worth to say that some platrorms have issue I found during use.
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
