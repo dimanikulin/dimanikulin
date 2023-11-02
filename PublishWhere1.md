@@ -186,7 +186,3 @@ As we can see from the **Comparison** table the most platforms have only a few f
 Still **Hackernoon**, **hashnode** and **medium** have wider variety of functions.
 As for me the very important functions are: **Tags**, **Human review**, **Syntax checking**, **Article stats** and **Series**.
 It worth to say that some platrorms have issue I found during use.
-
-# References
-| # | Name                 | Source                | Release date           |  Author                 | Description   |
-| - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
