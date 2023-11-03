@@ -12,21 +12,23 @@ TBD
 TL;DR
 
 # Content
-Here I will describe the expereince working with sites/platforms where I publish content
-The main question here is *Why do you publish content?* 
-It will help you to choose the right platform to publish. 
+Here, I will describe my experience working with sites and platforms where I publish content.
+The main question here is, *Why do you publish content?*.
+This will help you choose the right platform to publish on.
 
-For first I selected several *yeasy to go* platforms
-- hackernoon
-- hashnode
-- dev.to
-- medium
-- reddit
-- quora
-- linkedin 
+At first, I selected several *easy-to-use* platforms:
 
-There will be a question - how to manage with several platforms especialy if have a lot of materials to publish.
-That is not big deal really. I created separate table with columns **platforms** adn lines like **publications**.
+- Hacker Noon
+- Hashnode
+- Dev.to
+- Medium
+- Reddit
+- Quora
+- LinkedIn
+
+You might wonder how to manage multiple platforms, especially when you have a lot of materials to publish.
+The truth is, it's not a big deal.
+I've created a separate table with columns for each **platform** and rows for individual **publications**.
 
 ## hackernoon
 *[HackerNoon](https://hackernoon.com/) publishes technology stories and builds publishing software.*
