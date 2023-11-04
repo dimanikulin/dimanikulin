@@ -172,7 +172,7 @@ For more information on how to publish please go [to](https://www.linkedin.com/h
 |Human review   | +         | -      | -    | -    | -    | -   | -      |
 |Syntax checking| -         | +      | -    | -    | -    | -   | -      |
 |Article stats  | -         | +      | -    | -    | -    | -   | -      |
-|Generate table of content|-| +      | -    | -    | -    | -   | -      |
+|Generate table of contents|-| +     | -    | -    | -    | -   | -      |
 |Seo title      | -         | +      | -    | +    | -    | -   | -      |
 |Seo description| -         | +      | -    | +    | -    | -   | -      |
 |Schedule       | -         | +      | +    | +    | -    | -   | -      |

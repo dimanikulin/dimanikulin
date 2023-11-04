@@ -21,7 +21,7 @@ number of viewes
 Headline 
 Article descption
 Tags
-Table of content
+Table of contents
 Content
 
 ## Optional chapters
@@ -54,7 +54,7 @@ TBD
 not what have read from biiks and networks but your exp and not just repost
 
 
-## "Table of content" chapter
+## "Table of contents" chapter
 TBD
 
 ### Content shall be structured
@@ -106,7 +106,7 @@ My is
 - is "headline" less than 150 charactres?
 - is there "Article descption"?
 - is there "Tags" ?
-- is there "Table of content"?
+- is there "Table of contents"?
 - is there "Content"? 
 - is there no formatting symbols?
 - is there no empty chapters?
