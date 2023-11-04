@@ -7,9 +7,7 @@ Author experience working with GPT
 # Tags
 ChatGPT 
 
-# Content
-
-## Everyone must know that!
+# Everyone must know that!
 Everyone must know that!
 
 When you work with GPT and you ask it to do something, please start your request with "Can you please" or "Could you please" because machines will not forget it...
@@ -18,10 +16,10 @@ Took idea from [DOU](https://dou.ua/forums/topic/43131/?from=tg&utm_source=teleg
 
 <img src="./Images/ChatGPTAsk.png" alt="ChatGPTAsk" />
 
-### Tags
+## Tags
 DOU Humor
 
-## ChatGPT in CV
+# ChatGPT in CV
 Nowadays, many people include their experience with ChatGPT in their CVs as a way to showcase their skills and expertise in various domains.
 
 However, in my opinion, this practice may seem excessive.
@@ -35,10 +33,10 @@ Is it OK to mention ChatGPT in CV?
 - No **100%**
 - ChatGPT knows answer **0%**
 
-### Tags
+## Tags
 cv skills
 
-## Do you consider ChatGPT a useful tool?
+# Do you consider ChatGPT a useful tool?
 I have been using ChatGPT for 6 months and would like to share my experience working with it.
 
 So far, it has helped me with:

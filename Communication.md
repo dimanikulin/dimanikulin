@@ -7,9 +7,7 @@ TBD
 # Tags
 Communication
 
-# Content
-
-## We need more Messengers!
+# We need more Messengers!
 
 Guys from big IT Companies, we need "much more" messengers on our devices!
 
@@ -25,13 +23,13 @@ Which ones I missed?
 
 <img src="./Images/MoreMessengers.jpg" alt="More Messengers" />
 
-### Tags
+## Tags
 messenger ithumor
 
-## What does it mean for me to be online?
+# What does it mean for me to be online?
 <img src="./Images/BeingOnline.jpg" alt="BeingOnline" />
 
-### Tags
+## Tags
 online ithumor
 
 # References

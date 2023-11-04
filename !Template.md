@@ -11,10 +11,7 @@ TBD
 | # | Abbreviation or Acronym | Definition     |
 | - | ------------------------|:--------------:|
 | 1 |
-TBD
 
-# Content
-TBD
 <img src="./Images/TBD.jpg" alt="TBD" />
 
 # References
