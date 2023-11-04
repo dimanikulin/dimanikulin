@@ -23,12 +23,11 @@ Article descption
 Tags
 Table of content
 Content
-References
 
 ## Optional chapters
 Definitions, Acronyms, Abbreviations
 There's no need for a glossary. If there are terms the reader may not know, please explain them where and when they are mentioned.
-
+References
 
 Please notice order of chapters is important
 
@@ -103,18 +102,17 @@ not less not more
 ### Check list
 provide own check list
 My is 
-- if there is "headline"?
+- is there "headline"?
 - is "headline" less than 150 charactres?
-- if there is "Article descption"?
-- if there is "Tags" ?
+- is there "Article descption"?
+- is there "Tags" ?
 - is there "Table of content"?
-- if there is "Content"? 
-- if there is "References"? it might be no
-- if there is no formatting symbols?
-- if there is no empty chapters?
-- Are "Definitions, Acronyms, Abbreviations" sorted?
-- if there is no PII ?
-- if there is no TBD and TODO?
+- is there "Content"? 
+- is there no formatting symbols?
+- is there no empty chapters?
+- is "Definitions, Acronyms, Abbreviations" sorted?
+- is there no PII ?
+- is there no TBD and TODO?
 - Is it asking for an opinion?
 - Has it been proof read?
 - Are there any pictures?
