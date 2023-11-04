@@ -17,9 +17,7 @@ I published 6 puvlicateion on different sites before right this one
 
 number of viewes
 
-
 ## Must Have Chapters
-
 Headline 
 Article descption
 Tags
@@ -58,7 +56,7 @@ not what have read from biiks and networks but your exp and not just repost
 
 
 ## "Table of content" chapter
-
+TBD
 
 ### Content shall be structured
 really impornat for big text
@@ -109,6 +107,7 @@ My is
 - is "headline" less than 150 charactres?
 - if there is "Article descption"?
 - if there is "Tags" ?
+- is there "Table of content"?
 - if there is "Content"? 
 - if there is "References"? it might be no
 - if there is no formatting symbols?
@@ -129,3 +128,4 @@ My is
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
+                    5
