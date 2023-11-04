@@ -118,6 +118,7 @@ My is
 - Is there bold text used for key word?
 - is there italic used for conversation?
 - Are all references actual?
+- Is lenght under 2500 words?
 
 <img src="./Images/TBD.jpg" alt="TBD" />
 
