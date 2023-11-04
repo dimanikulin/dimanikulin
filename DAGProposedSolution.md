@@ -27,8 +27,7 @@ Software Architecture, Integration Strategies, Deployment Scenarios, Context Dia
 | 9 | Software Architecture | Software architecture refers to the fundamental structures of a software system and the discipline of creating such structures and systems. Each structure comprises software elements, relations among them, and properties of both elements and relations.|
 | 10| UML | The Unified Modeling Language (UML) is a general-purpose, developmental, modeling language in the field of software engineering that is intended to provide a standard way to visualize the design of a system.|
 
-# Content
-## The Context View for Standalone Application
+# The Context View for Standalone Application
 A **context diagram (view)** defines the solution's boundaries and connections with third parties, such as external systems, users, and data.
 
 As shown in the context diagram above, there is an interaction between **Users** and the **Proposed Solution**.
@@ -42,18 +41,18 @@ Finally, Report Storage is employed to save the outputs extracted from the **Arc
 
 <img src="./Images/DAGProposedSolution1.png" alt="DAG Proposed Solution 1.png" />
 
-## The Context View for a Separate Step in CI/CD
+# The Context View for a Separate Step in CI/CD
 The sole distinction between the previous view and the **Context View** for a **Separate Step** in **CI/CD** is the integration of the proposed solution with the existing **CI/CD** pipeline.
 
 <img src="./Images/DAGProposedSolution2.png" alt="DAG Proposed Solution 2.png" />
 
-## Functional View
+# Functional View
 The functional diagram below illustrates the high-level functional decomposition of the proposed solution.
 An agenda is provided below to explain the color coding used in the functional decomposition diagram.
 
 <img src="./Images/DAGProposedSolution3.png" alt="DAG Proposed Solution 3.png" />
 
-### Integration Layer
+## Integration Layer
 The function of the integration layer is to abstract and segregate the system from external components, enhancing system extensibility and modifiability.
 
 The following components are involved:
@@ -65,28 +64,28 @@ The following components are involved:
 - CI/CD Integration Point: This component integrates CI/CD tools (such as Jenkins, Bamboo) with the Processor.
 - Reports Plugins: An engine designed to generate reports in a flexible manner and store them in an external report storage.
 
-### User Interface
+## User Interface
 The user interface function interacts with users in two modes: **architects** and **administrator** mode. 
 It utilizes a web interface that is compatible with desktop browsers.
 
-### Data Layer
+## Data Layer
 The data layer function maintains the following types of data:
 
 - Architecture Baselines: This feature records the history of architecture changes, allowing users to track and view past changes. It is accessible for viewing from the architects' panel.
 - System Configuration: This aspect encompasses a set of check configurations for processing. It also keeps track of configurations for report plugins. Changes to these configurations can be made from the architects' panel.
 - User Configuration: This includes user profiles and access rights, which can be modified from the administrator panel.
 
-### Processing Layer
+## Processing Layer
 The processing layer serves as a fundamental function within systems, tasked with processing input data to identify architecture problems.
 Configuration of this layer takes place through the architect panel, where checks against the input are initiated.
 Additionally, it collaborates with the reports plugins engine for report storage. 
 Furthermore, the extracted architecture is preserved in **Architecture** baselines, enabling architects to review it at a later time.
 It is worth noting that **Machine Learning (ML)** might be employed during processing to enhance the quality of reports.
 
-## Deployment View
+# Deployment View
 The deployment view illustrates how a solution is intended to be deployed, encompassing its flows and the supporting components.
 
-### Deployment View - On-Premises
+## Deployment View - On-Premises
 
 <img src="./Images/DAGProposedSolution4.png" alt="DAG Proposed Solution 4.png" />
 
@@ -105,7 +104,7 @@ Reports plugins and integration points are designed as dynamic libraries that ca
 **Cloud deployment** involves the utilization of two computing nodes for installation.
 Due to the potentially high **CPU usage** of the Machine Learning process, it is recommended to allocate a dedicated machine for this purpose within the cloud pipeline.
 
-## Integration with UML Design Tools:
+# Integration with UML Design Tools:
 As previously mentioned, the proposed solution should seamlessly integrate with offline **UML design** tools, including:
 
 - Microsoft Visio
@@ -121,14 +120,14 @@ Furthermore, the proposed solution should also integrate effectively with online
 
 <img src="./Images/DAGProposedSolution6.png" alt="DAG Proposed Solution 6.png" />
 
-### Integration with Offline UML Design Tools
+## Integration with Offline UML Design Tools
 
 Due to the absence of **APIs** in offline tools, collaboration with them is established through import mechanisms.
 Consequently, architectural documents saved in **Microsoft Visio** format will be exported by a plugin (integration point) and subsequently analyzed by the **Processor**.
 The path for scanning input documents will be stored in the **System Configuration DB**.
 To support this form of integration, the ability to parse various input formats must be implemented.
 
-### Integration with Online UML Design Tools
+## Integration with Online UML Design Tools
 
 **Online UML** design tools typically offer **APIs** for integration purposes.
 The collaboration with such tools will make use of their respective **APIs**.
@@ -142,7 +141,7 @@ Each integration with a specific tool will require a distinct integration point.
 For instance, integration with **LucidChart** will be realized using the **HTTP** protocol with **GET** and **POST** verbs.
 On the other hand, integration with **Enterprise Architect** will involve the use of a **REST API** with **JSON** as the data format.
 
-## Integration with AWS, Azure, or GCP
+# Integration with AWS, Azure, or GCP
 
 This section outlines how the proposed solution can seamlessly integrate with **AWS**, **Azure**, or **GCP**.
 Given the potential enhancements **Machine Learning** can offer in terms of result quality, it is advisable to allocate a dedicated compute node for **ML** tasks. 
@@ -158,14 +157,14 @@ For instance, in the context of **AWS**:
 
 Similar mapping strategies can be applied for **Azure** and **GCP**, ensuring that each component seamlessly integrates with the suitable services provided by the respective cloud platforms.
 
-## Dependency Analysis Tool
+# Dependency Analysis Tool
 Dependency identification plays a crucial role in architecture analysis.
 It dissects the entire codebase into components and elucidates their interactions.
 Given that similar functions are already available in tools like **JDeps**, leveraging their output would logically bolster the implementation of the **proposed solution**.
 **JDeps**, for instance, is a command-line tool utilized for launching the **Java** class dependency analyzer.
 For systems built on the **.NET framework**, **Net Dependency Walker** serves as a suitable choice to ascertain dependencies.
 
-## Integration with Jenkins or Bamboo
+# Integration with Jenkins or Bamboo
 
 As mentioned previously, one facet of the application involves integration within a **CI/CD** pipeline.
 **CI/CD** represents a multifaceted and composite process, encompassing numerous stages.

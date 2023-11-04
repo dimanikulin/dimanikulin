@@ -42,8 +42,7 @@ Software architecture, architecture review, architecture drift, architecture ero
 | 26|UML | The Unified Modeling Language (UML) is a general-purpose, developmental, modeling language in the field of software engineering that is intended to provide a standard way to visualize the design of a system.|
 | 27|VPN | A virtual private network extends a private network across a public network and enables users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network.|
 
-# Content
-## Executive summary
+# Executive summary
 
 In today's rapidly changing software world, the ability to adapt and evolve the software architecture is **crucial** for success.
 The readiness for change is a **key** factor in ensuring a product can meet evolving business and product requirements in the high-tech industry.
@@ -65,7 +64,7 @@ The paper also provides use case scenarios to illustrate what automated architec
 
 By adopting **automated architecture review** solutions, organizations can improve their ability to identify and address architectural gaps, ensuring the stability, scalability, and maintainability of their software systems.
 
-## Detecting Architectural Gaps with Automation
+# Detecting Architectural Gaps with Automation
 
 Please read [this paper](https://www.globallogic.com/insights/white-papers/detecting-architectural-gaps-with-automation/) before proceeding to the next chapters.
 
@@ -81,12 +80,12 @@ By reading this paper, you will develop a deeper understanding of **architecture
 
 <img src="./Images/DAGBusinessContext1.jpg" alt="DAG Business Context 1" />
  
-## Solution requirements
+# Solution requirements
 This section outlines the requirements for implementing the solution.
 It is important to note that these requirements are not exhaustive and can be extended based on the specific needs of the project.
 The requirements are categorized into solution **modes and inputs**, solution **integration** and **user interaction**, and **solution output** with **quality attributes** like modifiability, extendibility, and configurability.
 
-### Solution modes
+## Solution modes
 The proposed solution should support the following modes:
 
 - **Standalone application**: The solution should be designed to run as a standalone application, allowing it to be executed on demand without any dependencies on the target environment. This mode provides flexibility for manual execution of the solution.
@@ -103,7 +102,7 @@ In the context of the **CI/CD** mode, the following features should be supported
 
 - **Integration with popular CI/CD tools**: The solution should be easily integrated with widely used CI/CD tools such as Jenkins, Bamboo, etc. This ensures compatibility and seamless integration into existing CI/CD workflows.
 
-### Solution inputs 
+## Solution inputs 
 The proposed solution can accept various inputs, including:
 
 - **Code from the solution under review**: The solution should be able to analyze and process code files from the software being reviewed.
@@ -116,7 +115,7 @@ The proposed solution can accept various inputs, including:
 
 These inputs collectively provide the necessary information for the solution to perform its analysis and evaluation of the software architecture.
 
-### Solution integration 
+## Solution integration 
 Integration of the proposed solution with various tools and systems allows for a comprehensive analysis of software architecture.
 Here are the **integration** possibilities mentioned:
 
@@ -136,7 +135,7 @@ Another example could be the **configuration of VPN networks** and **API gateway
 
 The example of input software design can be description of interfaces saved in **Enterprise Architect**.
 
-### User interaction
+## User interaction
 The proposed solution provides a web interface that allows users to **interact** with it from a desktop computer.
 The interface is designed to accommodate the content and functionality required for software architecture analysis, making it unsuitable for mobile devices such as smartphones or tablets due to their smaller screen size.
 
@@ -151,7 +150,7 @@ These dashboards offer a comprehensive overview of the software architecture and
 
 By catering to both **administrators** and **architects** and offering dedicated functionalities for each role, the solution ensures that users can effectively configure and utilize the system for software architecture analysis and evaluation.
 
-### Solution output
+## Solution output
 The proposed solution offers two formats for presenting the output: **text-based** (plain text or table) and **graphic**.
 
 The **text-based format**, particularly in a table structure, provides users with detailed information about identified issues.
@@ -201,7 +200,7 @@ Here's an example of a graphic output:
 In the **graphic** representation above, **four services** and **one database** are identified within the software architecture.
 The diagram clearly illustrates the relationships between these components and the direction of communication between them.
 
-### Modifiability and extendibility
+## Modifiability and extendibility
 **Modifiability and extendibility** are essential attributes for the proposed solution. 
 The solution should be designed in a way that allows for easy extension and the addition of new features, such as new checks or levels. 
 The scope of the solution should not restrict its ability to adapt to different project needs and requirements.
@@ -212,7 +211,7 @@ However, for projects that already have an established architecture governance p
 Given the existence of various Static Code tools like **Coverity** and **SonarQube** that handle low-level checks like indentation and formatting, it would be redundant to implement those checks in the proposed solution.
 Instead, the solution should focus on providing value through higher-level architectural checks and analysis.
 
-### Configurability
+## Configurability
 **Configurability** is a crucial aspect of the proposed solution, allowing users to tailor the system to their specific needs and environment. 
 The following configuration items can be supported:
 

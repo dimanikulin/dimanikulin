@@ -31,8 +31,7 @@ Bionic.ai Castsoftware Axivion NDepend softwarearchitecture applicationanalysis 
 | 17| SOA | In software engineering, service-oriented architecture is an architectural style that focuses on discrete services instead of a monolithic design|
 | 18| UML | The Unified Modeling Language (UML) is a general-purpose, developmental, modeling language in the field of software engineering that is intended to provide a standard way to visualize the design of a system.|
  
-# Content
-## Bionic.ai
+# Bionic.ai
 [Bionic](https://www.bionic.ai/) is a platform designed to analyze the **architecture** of applications and their dependencies in real-time.
 Initially, it creates a **baseline** of the architecture during the initial scan.
 Subsequently, whenever a **change occurs**, the **next scan** is triggered to detect any drift or erosion.
@@ -40,7 +39,7 @@ The platform supports regular scans by seamlessly integrating **Bionic.ai** into
 Upon detecting a change, Bionic.ai suggests the context and thoroughly analyzes the potential impact of the changes.
 As a result, it generates comprehensive software **architecture** diagrams, encompassing deployment, logical, and flow views.
 
-### Main features
+## Main features
 - Facilitates checking if architecture rules and standards are applied
 - Aids in identifying any structural or behavioral changes
 - Conducts code and document scans during the initial or scheduled stages
@@ -51,31 +50,30 @@ As a result, it generates comprehensive software **architecture** diagrams, enco
 
 <img src="./Images/DAGExistingSolutions1.png" alt="DAG Existing Solution 1" />
 
-## Castsoftware Highlight
+# Castsoftware Highlight
 [Cast Highlight](https://www.castsoftware.com/products/highlight) is an application designed to automatically analyze the source code.
 
-### Main features:
+## Main features:
 - Analyzes the code to identify processes/applications suitable for refactoring, retirement, or rebuilding.
 - Provides a readiness percentage for migrating to the cloud based on the analysis.
 
-## Castsoftware Cast Imaging 
+# Castsoftware Cast Imaging 
 [Cast Imaging](https://www.castsoftware.com/imaging) is an application that creates visualizations of **architecture**, offering several levels of detailed views ranging from services level up to code/classes level.
 It defines data flows from the high-level application perspective down to the database level.
 When changes occur, it provides the impact analysis, such as a list of components affected by the breaking of component communication.
 Additionally, it creates inventories of **databases**, **libraries/frameworks**, and **languages**.
 
-### Main features
+## Main features
 - Performs reverse engineering of code, databases, and application dependencies.
 - Generates holistic architecture views and blueprints.
 - Interactive mode for exploring architecture views.
 - Tagging feature to group components based on criteria, enabling easy component search and filtering after tagging is completed.
 
-## NDepend
+# NDepend
 [NDepend](https://www.workshell.co.uk/products/netdepends/) is an application designed to analyze **C#** code, checking it against best practices and rules created by developers and architects. 
 The tool enables users to manage dependencies through the creation of graphs and matrices.
 
-### Main features
-
+## Main features
 - Utilize built-in rules and customize them according to specific needs.
 - Investigate application structure and library linkages.
 - Seamless integration into the CI/CD process, enabling real-time identification of code and architecture issues.
@@ -83,7 +81,7 @@ The tool enables users to manage dependencies through the creation of graphs and
 
 <img src="./Images/DAGExistingSolutions2.png" alt="DAG Existing Solution 2" />
 
-## Axivion Suite
+# Axivion Suite
 [Axivion Suite](https://www.axivion.com/en/) is a powerful static code analysis tool that empowers users to thoroughly examine software **architecture**, ensuring prevention of **drifts** and **erosions**. 
 The platform offers customizable reporting with a reporting API, providing flexibility in generating reports.
 Axivion also includes an editor that allows users to create or customize rules for comprehensive code checking.
@@ -104,8 +102,7 @@ Supported Metrics:
 
 With Axivion Suite, users can proactively maintain the integrity and quality of their **software architecture** by adhering to industry-leading compliance standards and monitoring key metrics.
 
-### Main Features
-
+## Main Features
 - Code checks for clones, identifying duplicated code segments to ensure code efficiency.
 - Detection of unreachable code and cycles, improving code reliability and performance.
 - Supported on three major operating systems - MacOS, Windows, and Linux, for seamless usage across platforms.
@@ -115,7 +112,7 @@ With Axivion Suite, users can proactively maintain the integrity and quality of 
 - Analysis of delta changes against the baseline, enabling continuous tracking of code modifications and their impact on the architecture.
 - IDE (Integrated Development Environment) plugins support, allowing developers to seamlessly integrate Axivion Suite into their preferred development environment for streamlined code analysis and optimization
 
-## Comparison of existing solutions
+# Comparison of existing solutions
 | Function | Bionic | Cast Imaging and Highlight | Axivion  | NDepend               |
 | -------- | -------|--------------------------- |--------- |:---------------------:|
 |The initial scan to create a baseline of the holistic application architecture diagram involves capturing the comprehensive overview of all services, data flows, dependencies, APIs, technology stack, and application layers|+|+|+|+|
