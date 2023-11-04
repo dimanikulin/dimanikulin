@@ -20,11 +20,12 @@ number of viewes
 
 ## Must Have Chapters
 
-headline 
+Headline 
 Article descption
-tags
-content
-references
+Tags
+Table of content
+Content
+References
 
 ## Optional chapters
 Definitions, Acronyms, Abbreviations
@@ -54,6 +55,9 @@ TBD
 ## "Content" chapter
 
 not what have read from biiks and networks but your exp and not just repost
+
+
+## "Table of content" chapter
 
 
 ### Content shall be structured
