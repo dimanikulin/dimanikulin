@@ -7,8 +7,7 @@ TBD
 # Tags
 holidays
 
-# Content
-## What is the best gift for Ukrainian people for Christmas and New Year?
+# What is the best gift for Ukrainian people for Christmas and New Year?
 What is the best gift for Ukrainian people for Christmas and New Year?
 
 - Patriot defense system **8%**
@@ -17,7 +16,7 @@ What is the best gift for Ukrainian people for Christmas and New Year?
 
 Any other options I forgot to mention?
 
-## З Днем Вишиванки!
+# З Днем Вишиванки!
 
 З Днем Вишиванки!
 
@@ -31,7 +30,7 @@ Any other options I forgot to mention?
 
 <img src="./Images/Vishivanka.jpg" alt="Vishivanka" />
 
-### Tags
+## Tags
 globallogic ukraine nationalholiday
 
 # References

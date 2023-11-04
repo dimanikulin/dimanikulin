@@ -7,9 +7,7 @@ Interesting facts about numbers and not only!
 # Tags
 interestingfacts numbers
 
-# Content
-
-## Interesting facts about number "6"
+# Interesting facts about number "6"
 
 - In many cultures, 6 is considered to be a lucky number;
 - Six is the smallest perfect number, which means that the sum of its factors (1, 2, and 3) equals 6.;
@@ -22,7 +20,7 @@ Something else? please share in comments other facts.
 
 <img src="./Images/GL6Years.png" alt="GL 6 Years" />
 
-## Interesting facts about number "11"
+# Interesting facts about number "11"
 
 - 11 * 11 = 121, 11 * 111 = 1221, 1111 * 11 = 12221...;
 - Football team has 11 members;
@@ -35,7 +33,7 @@ Something else? please share in comments other facts.
 
 <img src="./Images/InterestingFactsAbout11.jpg" alt="Interesting Facts About 11" />
 
-## Interesting facts about number "12"
+# Interesting facts about number "12"
 
 - 12 months in a year;
 - 12 hours visible on a clock;
@@ -47,7 +45,7 @@ Something else? please share in comments other facts.
 
 <img src="./Images/InterestingFactsAbout12.jpg" alt="Interesting Facts About 12" />
 
-## Interesting facts about number "13"
+# Interesting facts about number "13"
 Usually, the number 13 is considered unlucky in many cultures.
 Here are some interesting facts about the number 13:
 - In some Western cultures, Friday the 13th is considered an especially unlucky day.
