@@ -7,8 +7,7 @@ TBD
 # Tags
 interviewer cplusplus cpp technicalinterview
 
-# Content
-## Interview number
+# Interview number
 
 Do you think 81 interviews per year is a lot?
 
@@ -20,7 +19,7 @@ In 2022 it was quite the same
 
 <img src="./Images/NumberOfInterviews.jpg" alt="Number Of Interviews" />
 
-## Interview Red Flags
+# Interview Red Flags
 
 Let me start with a small history about a technical interview I recently hosted. 
 The interviewee greeted me in Ukrainian, which was a pleasant surprise. 
@@ -48,7 +47,7 @@ PS. Based on real interview.
 
 <img src="./Images/InterviewRedFlags.png" alt="Interview Red Flags" />
 
-## AI tools for interview 
+# AI tools for interview 
 Nowadays, people actively use AI to learn, grow, and engage in many other positive endeavors.
 However, some individuals may employ AI to cheat, gaining an advantage during interviews.
 One such new AI tool is called Ecout, which can listen to an interviewer's questions in real-time and generate instant answers.
@@ -67,7 +66,7 @@ Please share your thoughts in the comments.
 
 <img src="./Images/InterviewAITools.png" alt="Interview AI Tools" />
 
-### Tags
+## Tags
 ai interviewtips cheating
 
 # References
