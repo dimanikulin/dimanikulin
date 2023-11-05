@@ -11,7 +11,6 @@ TBD
 TBD
 TL;DR
 
-# Content
 Here, I will describe my experience working with sites and platforms where I publish content.
 The main question here is, *Why do you publish content?*.
 This will help you choose the right platform to publish on.
