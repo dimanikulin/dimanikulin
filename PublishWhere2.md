@@ -11,8 +11,7 @@ TBD
 TBD
 TL;DR
 
-# Content
-########
+#######
 chatGPT said 
 can you provide me with top 10 sites to publish IT related content?
 
@@ -40,8 +39,7 @@ PCWorld - PCWorld is a website that provides news, reviews, and how-tos on every
 
 These websites have a large readership and can provide great exposure for your IT-related content. However, it's important to note that each website has its own editorial standards and guidelines, so be sure to familiarize yourself with them before submitting your content.
 
-
-#######
+#
 
 What about TOP 10 sites to publish content regarding programming ?
 
@@ -67,7 +65,7 @@ Reddit - Reddit has many subreddits dedicated to programming, where developers c
 
 These websites have a large community of programmers and can be a great platform to publish your programming content. However, make sure to follow their editorial guidelines and best practices for submitting content to ensure that your content is published successfully.
 
-###################
+##
 Can you provide other dev.to like sites?
 
 Sure! Here are some other websites like dev.to where you can publish your content on software development:

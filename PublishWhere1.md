@@ -29,7 +29,7 @@ You might wonder how to manage multiple platforms, especially when you have a lo
 The truth is, it's not a big deal.
 I've created a separate table with columns for each **platform** and rows for individual **publications**.
 
-## hackernoon
+# hackernoon
 *[HackerNoon](https://hackernoon.com/) publishes technology stories and builds publishing software.*
  
 It has content editor like a WordPad.
@@ -56,7 +56,7 @@ Also it is imposible to discuss the problem that editor found right on the platf
 
 For more information on how to publish please go [to](https://help.hackernoon.com/how-do-i-get-published)
 
-## hashnode
+# hashnode
 [Hashnode](https://hashnode.com/) is a one-stop platform to start blogging as a developer. Start a blog. Share knowledge, attain creator independence, and grow your career.
 
 It has content editor like a WordPad.
@@ -86,7 +86,7 @@ For each story it provides a possibility to
 
 For more information on how to publish please go [to](https://support.hashnode.com/en/articles/6420682-writing-a-blog-post)
 
-## dev.to
+# dev.to
 [dev.to](dev.to) - is a constructive and inclusive social network for software developers.
 
 It has content editor in Md format.
@@ -101,7 +101,7 @@ For each story it provides a possibility to
 
 For more information on how to publish please go [to](https://dev.to/devteam/writing-your-first-post-on-dev-3m13)
 
-## Medium 
+# Medium 
 [Medium](https://medium.com/) is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.
 
 It has content editor like Wordpad.
@@ -125,7 +125,7 @@ Please notice it removed bolding in text I copied from github
 
 For more information on how to publish please go [to](https://help.medium.com/hc/en-us/articles/213904978-Add-a-draft-or-post-to-publication)
 
-## Reddit
+# Reddit
 [Reddit](https://www.reddit.com/)  is a network of communities where people can dive into their interests, hobbies and passions.
 
 It has content editor for 2 modes as MarkDown and usual editor like Wordpad.
@@ -134,7 +134,7 @@ For each story it provides a possibility to add title and content.
 
 For more information on how to publish please go [to](https://support.reddithelp.com/hc/en-us/articles/360060422572-How-do-I-post-on-Reddit-)
 
-## Quora
+# Quora
 [Quora](https://www.quora.com/) -  is a place to gain and share knowledge. It's a platform to ask questions and connect with people who contribute unique insights and quality answers.
 
 It has content editor like Wordpad.
@@ -145,7 +145,7 @@ Please notice your post might be shown in draft even you already did post it - n
 
 For more information on how to publish please go [to](https://www.quora.com/How-do-I-create-a-%E2%80%98post%E2%80%99-on-Quora-Don%E2%80%99t-have-a-blog-or-website-but-want-to-add-some-of-my-own-posts-but-not-sure-how)
 
-## LinkedIn
+# LinkedIn
 [LinkedIn](https://www.linkedin.com/) - **LinkedIn** is a business and employment-focused social media platform that works through websites and mobile apps
 
 It has content editor like Wordpad.
@@ -154,7 +154,7 @@ There you can add article picture and title only.
 
 For more information on how to publish please go [to](https://www.linkedin.com/help/linkedin/answer/a522427#:~:text=Click%20Write%20article%20in%20the,you%20to%20the%20publishing%20tool.)
 
-## Comparison
+# Comparison
 | #             |Hackernoon |hashnode|dev.to|medium|reddit|quora|linkedin|
 | -             |---------- |--------|------|------|------|-----|:------:|
 |Editor         |WordPad  |WordPad|MarkDown|WordPad|both|WordPad|WordPad |
