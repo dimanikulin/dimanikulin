@@ -7,15 +7,13 @@ TBD
 # Tags
 LinkedIn Content
 
-# Content
-
-## Just Joined LinkedIn (На русском)
+# Just Joined LinkedIn
 Наболело...
 
 <img src="./Images/JustJoinedLinkedIn.jpg" alt="Just Joined LinkedIn" />
 
 
-## What do you think about content posted in LinkedIn?
+# What do you think about content posted in LinkedIn?
 
 About a year ago, I posted a picture about LI content and received a lot of responses.
 
