@@ -20,7 +20,6 @@ Multimedia Information Retrieval, Multimedia IR systems, Metadata, Search
 | 2 | Multimedia IR| Multimedia Information Retrieval (MIR) is an organic system made up of Text Retrieval (TR); Visual Retrieval (VR); Video Retrieval (VDR); and Audio Retrieval (AR) systems. So that each type of digital document may be analyzed and searched by the elements of language appropriate to its nature, search criteria must be extended.|
 | 3 | [metadata](https://en.wikipedia.org/wiki/Metadata)|Metadata is "data that provides [information](https://en.wikipedia.org/wiki/Information) about other data". In other words, it is "data about data." Many distinct types of metadata exist, including descriptive metadata, structural metadata, administrative metadata, reference metadata and statistical metadata. |
 
-# Content
 Let's make a brief overview of the **Multimedia IR systems**.
 **Information retrieval (IR)** is the process of finding information system resources from a collection of those resources that are pertinent to an information demand, according to [Wikipedia](https://en.wikipedia.org/wiki/Information_retrieval). 
 Furthermore, **Multimedia information retrieval** (MMIR or MIR) is a research area of computer science that aims to extract semantic information from **multimedia data** sources, according to [Wikipedia](https://en.wikipedia.org/wiki/Multimedia_information_retrieval) as well. 
@@ -40,7 +39,7 @@ The capacity to swiftly and simply search through the photo album is the essenti
 It will also provide cataloging and search result browsing in addition to search functionality. 
 Obviously, the search systems must deliver accurate and complete search results. 
 
-## User's needs in Multimedia IR Systems
+# User's needs in Multimedia IR Systems
 Considering **Multimedia IR** Systems, it is appropriate to bear in mind the potential users and their information needs. 
 Therefore, the **Multimedia IR** system should:
 
@@ -54,7 +53,7 @@ Therefore, the **Multimedia IR** system should:
 * provide the possibility to find information by image example;
 * include a function of browsing through search results. 
 
-## Professional's needs in Multimedia IR systems
+# Professional's needs in Multimedia IR systems
 Moreover, not ordinary people only, but also the businesses might find **Multimedia IR** systems useful due to their professional needs.
 For example, there might be different professions who access the photos or images often in their everyday work activity, such as:
 

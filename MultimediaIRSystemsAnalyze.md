@@ -21,7 +21,6 @@ Multimedia IR systems, Synology Moments, Mylio, Google Photos, digiKam, Apple ph
 | 7 | [metadata](https://en.wikipedia.org/wiki/Metadata)|Metadata is "data that provides [information](https://en.wikipedia.org/wiki/Information) about other data". In other words, it is "data about data." Many distinct types of metadata exist, including descriptive metadata, structural metadata, administrative metadata, reference metadata and statistical metadata. |
 | 8 | [Mylio](https://mylio.com/tour/)| Mylio has a suite of tools to help you locate and consolidate your images across a variety of locations, including external hard drives, online services.|
  
-# Content
 Let's compare several **multimedia IR** systems by going over the above-mentioned requirements and needs.
 The best approach here would be to choose one offline and one online system, since some users could feel free to use **multimedia IR** systems that are integrated with online storage (like Cloud ones), while others want to utilize offline **Multimedia IR** systems.
 Similarly, the proprietary and open systems should be included in the comparison.
@@ -35,7 +34,7 @@ Below is the list of them with brief descriptions:
 <img src="Images/ComparisonofprivateMultimediaIRsystems.png" alt="ComparisonofprivateMultimediaIRsystems.png" />
 <img src="Images/ComparisonofprivateMultimediaIRsystems2.png" alt="ComparisonofprivateMultimediaIRsystems2.png" />
 
-## Well implemented features
+# Well implemented features
 The comparison table demonstrates, how well the following features have been implemented: 
 
 * keeping/browsing functions for the multimedia content of private photo albums; 
@@ -48,7 +47,7 @@ The comparison table demonstrates, how well the following features have been imp
 
 From the user's perspective, all of the aforementioned features are well-developed and do not need to be improved upon or replaced by any other software.
 
-## To be developed features
+# To be developed features
 In order to meet user demands, the following set of searching features must be developed:
 
 * search by events (currently possible through tagging only);

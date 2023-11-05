@@ -24,9 +24,7 @@ Multimedia organizers, Photo management, Photo organizer software, Metadata, IR 
 | 6 | [Mylio](https://mylio.com/tour/)| Mylio has a suite of tools to help you locate and consolidate your images across a variety of locations, including external hard drives, online services.|
 | 7 | [Synology Moments](https://www.synology.com/en-global/dsm/feature/moments)|It gathers all your photos and videos in one private place and organize them in an entirely new way. Synology Moments is the brand-new photo solution for personal and home use, offering a modern browsing experience with the image recognition technique. |
 
-# Content
-
-## Multimedia Organizers functions
+# Multimedia Organizers functions
 A program that helps organizing photos is known as a **photo organizer**.
 There are a variety of **photo organizer** software programs available on the market, and each one provides various features and tools to assist in organizing photos.
 Thus, let’s consider main functions multimedia organizers perform:
@@ -44,7 +42,7 @@ More detailed comparison of photo organizers is provided by Wikipedia and is ava
 
 <img src="Images/MultimediaOrganizers.png" alt="MultimediaOrganizers.png"/>
 
-## Multimedia Organizer requirements
+# Multimedia Organizer requirements
 
 * a user will be working with a large number of items, so automated approach is recommended;
 * a toolset that is available for a typical user and not for enterprises shall be used;
@@ -52,7 +50,7 @@ More detailed comparison of photo organizers is provided by Wikipedia and is ava
 * they shall be able to identify inconsistent or nonexistent photo metadata;
 * they shall be able to suggest ways to solve inconsistency and absence.
 
-## Multimedia Organizer approaches to create folder structure
+# Multimedia Organizer approaches to create folder structure
 The goal is to prevent duplicate photos from being stored in the same folder.
 In order to construct subfolders based on the number of photographers or cameras, the folder name may be something like Date Shoot-Type Event Name; 
 it could also contain a location or any other information the user desires.
