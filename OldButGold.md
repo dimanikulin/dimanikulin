@@ -7,9 +7,7 @@ TBD
 # Tags
 oldschool old
 
-# Content
-
-## Windows 95
+# Windows 95
 
 Can you guess what is this without googling?
 
@@ -19,7 +17,7 @@ If you can guess, we are the same age
 
 <img src="./Images/windows95.jpg" alt="TBD" />
 
-## Miranda
+# Miranda
 Can you guess what it is?
 
 If you know what is this - we are the same age )
@@ -28,14 +26,14 @@ Based on https://www.linkedin.com/feed/update/urn:li:activity:694759953773355827
 
 <img src="./Images/Miranda.jpg" alt="Miranda.jpg" />
 
-## BSOD
+# BSOD
 Can you guess what is this without googling?
 
 I have seen that a lot.
 
 <img src="./Images/BSOD.jpg" alt="BSOD.jpg" />
 
-## First Mobile Phone
+# First Mobile Phone
 This is my first mobile phone.
 
 It had no:
@@ -54,7 +52,7 @@ Were you happy with it?
 
 <img src="./Images/firstMobilePhone.jpg" alt="firstMobilePhone" />
 
-## Windows NT 4.0
+# Windows NT 4.0
 
 Can you guess what is this without googling?
 

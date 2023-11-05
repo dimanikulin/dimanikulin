@@ -15,8 +15,9 @@ TODO GPT from connet
 | 2 | PII | TODO |
 | 2 | TL;DR | TODO |
 
-# Content
-### Plagiarism
+not what have read from biiks and networks but your exp and not just repost
+
+# Plagiarism
 TBD
 
 www.copyscape.com
@@ -27,21 +28,21 @@ When using a quote or definition from another source, it must be cited using an 
 
 However, we would prefer that these papers share a uniquely GL perspective and that the content is 100% original. 
 
-### Tell the story not just poor facts
+# Tell the story not just poor facts
 TBD
 
-### Engage people for a dialog
+# Engage people for a dialog
 Content shall ask for an opinion. Also please answer possible all questions in the comments 
 conttent has be our opinion not their and it might be provocative even to create a discussion and to have hate 
-2
-### languge 
+
+# languge 
 
 TBD
 
-### Actual for this platform connet
+# Actual for this platform connet
 Facebook not for programming, like pain point for your and for society, find info інфопривід
 
-### if you publish on different sites
+# if you publish on different sites
 
 first must hacker noon as they check your connetn a lot
 before publication please fill profiles
@@ -49,17 +50,17 @@ make all profiles be consistent
 
 Read sites requrements 
 
-### Choose day and time
+# Choose day and time
 Please select proper day and time for a publication. I publish usually on Monday and Thussday.
 It is usually 10AM - 3PM my local time, Ukrainian. Defintly not at morning and an night 
 please notice on holidays you will have less viewes
 for summer you mush less viewes/reactions 
 when there is also other importnat event in platform published you will loose the views but the will accuire them 
 
-### Choose frequency of publication
+# Choose frequency of publication
 I use 1-2 per week. 
 
-### Make proof read 
+# Make proof read 
 prof read by Grammarly on hashnode
 
 prof read by GPT

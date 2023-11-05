@@ -10,54 +10,47 @@ TBD
 # Definitions, Acronyms, Abbreviations
 TBD
 
-# Content
-
-## Critiear
+# Critiear
 I published 6 puvlicateion on different sites before right this one
 
 number of viewes
 
-## Must Have Chapters
+# Must Have Chapters
 Headline 
 Article descption
 Tags
 Table of contents
 Content
 
-## Optional chapters
+# Optional chapters
 Definitions, Acronyms, Abbreviations
 There's no need for a glossary. If there are terms the reader may not know, please explain them where and when they are mentioned.
 References
 
 Please notice order of chapters is important
 
-## "Headline" chapter
+# "Headline" chapter
 GPT helpes here
 
-## "Article Desription" chapter
+# "Article Desription" chapter
 
 we call it TL;DR
 
 GPT helpes here
 
-## "Tags" chapter
+# "Tags" chapter
 
 usse these tags to put in platform 
 
 GPT helpes here
 
-## "Definitions, Acronyms, Abbreviations" chapter
+# "Definitions, Acronyms, Abbreviations" chapter
 TBD
 
-## "Content" chapter
-
-not what have read from biiks and networks but your exp and not just repost
-
-
-## "Table of contents" chapter
+# "Table of contents" chapter
 TBD
 
-### Content shall be structured
+# Content shall be structured
 really impornat for big text
 
 
@@ -66,21 +59,21 @@ There should be paragraphs and proper indentation, subheadings, and bulleted or 
 not recomened more then 3 levels
 
 
-## "References" chapter
+# "References" chapter
 add links in place and into sepatated chapter 
 publish first the post you will refer to and then more global post. So first will published more detailed posts
 
 
-### No formatong symbols
+# No formatong symbols
 if you copy you content from spme format there should be any
 
 </br>
 &nbsp;&nbsp;
 
-### Citations 
+# Citations 
 Citations should be formatted as in-line links, with any recommended reading listed separately. 
 
-### Pictures 
+# Pictures 
 No pictures - less views. pictires shall be related to content
 
 picture orientation suggested to be album and not a book orienttaopn
@@ -88,10 +81,10 @@ picture orientation suggested to be album and not a book orienttaopn
 you would have at least featured image as a title image. it shhould be active like a gif
 
 
-### Tables 
+# Tables 
 if you provide tables please make sure that less filled columns are the end of table and wiseversa
 
-### Size
+# Size
 
 For a customer-facing piece, I think this needs to be pared down as much as possible – ideally under 2500 words. 
 It's a very dense read, and it's a big ask to expect an executive looking at their solution options to read a 40-page paper.
@@ -99,7 +92,7 @@ It's a very dense read, and it's a big ask to expect an executive looking at the
 
 not less not more
 
-### Check list
+# Check list
 provide own check list
 My is 
 - is there "headline"?
