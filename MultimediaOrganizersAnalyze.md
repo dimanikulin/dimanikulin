@@ -14,7 +14,6 @@ TBD
 | 1 |
 TBD
 
-# Content
 TBD
 <img src="./Images/TBD.jpg" alt="TBD" />
 
