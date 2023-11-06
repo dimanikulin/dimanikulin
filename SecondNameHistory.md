@@ -11,7 +11,6 @@
 # Tags
 work, punctuality, discipline, surnames, workplace anecdotes, humorous stories.
 
-# Content
 Был тут пост о фамилиях недавно, он и вдохновил меня на публикацию данного поста.
 
 О том, как плохо опаздывать на работу, и о том, как хорошо нам помогают фамилии иногда.
