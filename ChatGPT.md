@@ -8,13 +8,13 @@ Author experience working with GPT
 ChatGPT 
 
 # Table of contents
-[Headline](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#headline)
-[Article description](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#article-description)
-[Tags](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#tags)
-[Everyone must know that!](https://github.com/dimanikulin/dimanikulin/blob/main/ChatGPT.md#everyone-must-know-that)
-[ChatGPT in CV](https://github.com/dimanikulin/dimanikulin/blob/main/ChatGPT.md#chatgpt-in-cv)
-[Do you consider ChatGPT a useful tool?](https://github.com/dimanikulin/dimanikulin/blob/main/ChatGPT.md#do-you-consider-chatgpt-a-useful-tool)
-[References](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#references)
+- [Headline](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#headline)
+- [Article description](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#article-description)
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#tags)
+- [Everyone must know that!](https://github.com/dimanikulin/dimanikulin/blob/main/ChatGPT.md#everyone-must-know-that)
+- [ChatGPT in CV](https://github.com/dimanikulin/dimanikulin/blob/main/ChatGPT.md#chatgpt-in-cv)
+- [Do you consider ChatGPT a useful tool?](https://github.com/dimanikulin/dimanikulin/blob/main/ChatGPT.md#do-you-consider-chatgpt-a-useful-tool)
+- [References](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#references)
 
 # Everyone must know that!
 Everyone must know that!
