@@ -13,25 +13,24 @@ TBD
 # Tags
 armukrainenow staywithukraine stoprussia stopwar russiaterroriststate warinukraine ukrainewar ukraine
 
-# Content
-## Первый пост с 24 февраля
+## Первый пост с 24 февраля 2022 года
 Да, я говорил, что на Линкеде нет места для политоты.
 Но так-то было до 24 февраля
 
 <img src="./Images/RussansInUkraine.jpg" alt="UsualTalks" />
 
-## Usual talks in unsual time
+# Usual talks in unsual time
 Обычный разговор, в "необычное" время.
 
 <img src="./Images/UsualTalks.jpg" alt="UsualTalks" />
 
-## Summer time
+# Summer time
 Summer is definitely a time for vacation, relaxing ...
 But there are some "nuances"
 
 <img src="./Images/SummerTime.jpg" alt="SummerTime" />
 
-## How russians play chess?
+# How russians play chess?
 Yes, it is not really easy to resign.
 Even when you just play chess and when you have already lost.
 When I am loosing chess game I am saying "thank you, well played" and I am getting upset.
@@ -41,7 +40,7 @@ Another example what rUSSIANS do when they loose the "GAME" on real battle field
 
 <img src="./Images/RussansInGame.jpg" alt="Russans In Game" />
 
-## А на куди зибеться пУТЕНг?
+# А на куди зибеться пУТЕНг?
 Яник зибався на ростов.
 А на куди зибеться пУТЕНг?
 
@@ -50,14 +49,14 @@ Another example what rUSSIANS do when they loose the "GAME" on real battle field
 - На Марс з Маском **11%**
 - До жиріка **84%**
 
-## Яскрава місячна ніч
+# Яскрава місячна ніч
 Яскрава місячна ніч.
 Звичайна людина: Красива ніч. Романтика.
 Українець: Добре буде видно "Шахеди"
 
 <img src="./Images/shaheds.jpg" alt="shaheds.jpg" />
 
-## Якби у Вас була можливість, то що б Ви запитали у Тараса Чмута?
+# Якби у Вас була можливість, то що б Ви запитали у Тараса Чмута?
 
 П.С.
 Наступні питання не пропонувати:
@@ -70,7 +69,7 @@ Another example what rUSSIANS do when they loose the "GAME" on real battle field
 
 <img src="./Images/QuestionsToTarasChmut.png" alt="Questions To Taras Chmut"/>
 
-## Які питання ставили хлопці з GlobalLogic Тарасу Чмуту
+# Які питання ставили хлопці з GlobalLogic Тарасу Чмуту
 Місяць тому мене запитали, які питання ставили хлопці з GlobalLogic Тарасу Чмуту на зустрічі з ним.
 
 Ось вони.
@@ -79,7 +78,7 @@ Another example what rUSSIANS do when they loose the "GAME" on real battle field
 
 <img src="./Images/QuestionsToTarasChmut2.png" alt= "Questions To Taras Chmut 2"/>
 
-## junior is trying to find a job in summer in Ukraine in war
+# junior is trying to find a job in summer in Ukraine in war
 When junior is trying to find a job in summer... in Ukraine.... in war.
 Invest(hire) in them now and you will have nice ROI soon!
 

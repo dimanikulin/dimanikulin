@@ -7,9 +7,7 @@ TBD
 # Tags
 softskills
 
-# Content
-
-## Active Listening
+# Active Listening
 
 Is "talking a lot" a soft skill? Nope.
 
@@ -21,10 +19,10 @@ When you speak a lot you do not listen and so you don't receive information.
 
 <img src="./Images/ActiveListening.jpg" alt="ActiveListening.jpg" />
 
-### Tags
+## Tags
 communication activelistening
 
-## Who are toxic people
+# Who are toxic people
 Who are **toxic** people?
 People who..
 
@@ -33,7 +31,7 @@ People who..
 - say rude words **5%**
 - are rusnia **66%**
 
-### Tags
+## Tags
 toxicpeople
 
 # References

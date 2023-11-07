@@ -13,23 +13,21 @@ Software Development
 | 1 | CV | TBD
 | 2 | Scrum | TBD |
 
-# Content
-
-## Just joined a project with Scrum
+# Just joined a project with Scrum
 
 <img src="./Images/JoinedProjectWithScrum.jpg" alt="JoinedProjectWithScrum" />
 
-### Tags
+## Tags
 Scrum
 
-## Software Complexity
+# Software Complexity
 
 <img src="./Images/SoftwareComplexity.jpg" alt="Software Complexity" />
 
-### Tags
+## Tags
 Software Complexity
 
-## Which title describes better a real job?
+# Which title describes better a real job?
 I have seen a lot of different titles in CV, social networks like "Consultant", "Consulting" etc. 
 From my side it is difficult to understand what "IT Consultant" really does and knows.
 
@@ -40,10 +38,10 @@ Which title describes better a real job?
 
 87 Votes
 
-### Tags
+## Tags
 itconsulting cv
 
-## What do you usually do to provide accurate estimations?
+# What do you usually do to provide accurate estimations?
 I have had significant experience in software development, yet I still struggle with estimation.
 
 What I usually do is multiply my estimations by 2-3, but even that approach doesn't always work.
@@ -58,10 +56,10 @@ So what do you usually do to provide accurate estimations?
 
 Please share your opinions in the comments.
 
-### Tags
+## Tags
 experience softwaredevelopment estimation
 
-## C++ death
+# C++ death
 
 Do you have any programming language/technology that were predicted to die a long time ago but are still going strong?
 
@@ -80,7 +78,7 @@ So, when was the first time you heard that your language/technology X would die?
 
 Please share in the comments your programming language/technology that was predicted to die but didn't.
 
-### Tags
+## Tags
 programminglanguage technologytrends cpplus prediction
 
 # References
