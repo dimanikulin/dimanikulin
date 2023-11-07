@@ -7,7 +7,6 @@ TBD
 # Tags
 worklifebalance workload relax Chess MedicalInsurance
 
-# Content
 ## Playing chess
 What do I usually do to switch context and relax before engaging in the next brain activity?
 I play chess!
@@ -19,7 +18,7 @@ Now, I'm curious to know what you do to employ a similar approach?
 
 <img src="./Images/chess.jpg" alt="chess" />
 
-## Insurance case
+# Insurance case
 Про страхову медицину – бо наболіло.
 
 Спершу історія.
@@ -62,7 +61,7 @@ Now, I'm curious to know what you do to employ a similar approach?
 
 <img src="./Images/tabletki.jfif" alt="tabletki" />
 
-## What does work-life balance mean for you?
+# What does work-life balance mean for you?
 
 In the options, 'W&P' equals to 'Work And Personal'
 
@@ -73,7 +72,7 @@ In the options, 'W&P' equals to 'Work And Personal'
 
 28 votes
 
-### Tags
+## Tags
 wellbeing insurance medicalcare
 
 # References

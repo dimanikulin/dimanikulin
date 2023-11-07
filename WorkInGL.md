@@ -11,7 +11,6 @@ The content reflects the author's appreciation for GlobalLogic's support and the
 # Tags
 GlobalLogic Work
 
-# Content
 ## Presents in GlobalLogic for an employer 
 Each year in GlobalLogic an employer gets the present for birthday.
 I have got following 5:
@@ -29,28 +28,27 @@ P.S. Here I meant GL Ukraine.
 
 <img src="./Images/GLPresents.jpg" alt="PresentsInGL" />
 
-### Tags
+## Tags
 ukraine, war
 
-## Cool people create cool music!
+# Cool people create cool music!
 
 https://www.youtube.com/watch?v=KFLl5cD9zp0
 
-## Taras Chmut and GlobalLogic )))
+# Taras Chmut and GlobalLogic )))
 
-### Tags
+## Tags
 warinukraine
 
-##  Top Interviewer in Kyiv in C/C++
+#  Top Interviewer in Kyiv in C/C++
 I won't get frozen this winter because I have got this present from GlobalLogic as a Top Interviewer in Kyiv in C/C++
 
-## 7000 people in GL Ukraine
+# 7000 people in GL Ukraine
 
-### Tags
+## Tags
 GlobalLogicUkraine 
 
-
-## Люксембург, Люксембург
+# Люксембург, Люксембург
 Вгадайте, що за фільм.
 
 Якби у вас була можливість, то що б ви запитали режисера та акторів цього фільму?
@@ -62,13 +60,13 @@ GlobalLogicUkraine
 
 <img src="./Images/Luxemburg,Luxemburg.jpeg" alt="Luxemburg, Luxemburg" />
 
-## Олена Зеленська
+# Олена Зеленська
 
 Якби у вас була така можливість, то що б ви запитали у Олени Зеленської?
 
 <img src="./Images/OlenaZelenska.jfif" alt="Olena Zelenska" />
 
-## A white paper on GlobalLogic Insights
+# A white paper on GlobalLogic Insights
 I have just published a white paper on [Globallogic Insights](https://www.globallogic.com/insights/white-papers/detecting-architectural-gaps-with-automation/)
 
 In this paper, I delve into various manual architecture review methods and propose automated alternatives that not only reduce the time and resources required but also yield better outcomes.
@@ -85,10 +83,10 @@ I would like to extend my special thanks to Orkhan Gasimov for his valuable assi
 
 Enjoy your reading experience!
 
-### Tags
+## Tags
 whitepaper softwarearchitecture softwaredesign
 
-## Олена Зеленська 2
+# Олена Зеленська 2
 Нещодавно співробітники GlobalLogic Ukraine мали нагоду поспілкуватися з Першою Леді, Оленою Зеленською, Оксаною Збітнєвою та Олегом Романчуком, експертами Програми “Ти як?”
 
 Могли заздалегідь поставити запитання щодо програми “Ти як?”.
@@ -97,10 +95,10 @@ whitepaper softwarearchitecture softwaredesign
 
 https://www.facebook.com/olenazelenska.official/posts/pfbid025TUqBC1FcR1CnMt3eGDS8JHx9eXwJAnQDDRbrm9KomuZ3D62DLgdDbSHQMWh6ev4l
 
-### Tags
+## Tags
 mentalhealth mentalhealthsupport zelensky
 
-## Presents in GlobalLogic for an employer 2 
+# Presents in GlobalLogic for an employer 2 
 Each year in GlobalLogic an employer gets the present for birthday.
 
 I have got following 6:
@@ -117,10 +115,10 @@ P.S. Here I meant GL Ukraine.
 
 <img src="./Images/GLPresents.jfif" alt="PresentsInGL" />
 
-### Tags
+## Tags
 ukraine, war
 
-## Дмитро Антонов 
+# Дмитро Антонов 
 
 Якби у вас була така можливість, то що б ви запитали у Дмитра Антонова, пілота Авіаційно-наукового Технічного Комплексу АНТОНОВ?
 
