@@ -88,7 +88,7 @@ Thus, I learned:
 - how to build and release documentation using GitHub;
 - how to release product using GitHub.
 
-## Branch strategy
+# Branch strategy
 One more important point was a definition of [branch strategy](./BUILD_RELEASE.md#branchstrategy) 
 &nbsp;&nbsp;&nbsp; GitHub actions is used to implement the releasing of the product. 
 It is configured to call release flow to start the creation of release product artifacts on creation or update the release branch.

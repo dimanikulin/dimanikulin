@@ -28,9 +28,7 @@ Software development, code quality, code review, coding standards, documentation
 | 6 | [Qt](https://en.wikipedia.org/wiki/Qt_(software))|is a [widget toolkit](https://en.wikipedia.org/wiki/Widget_toolkit) for creating [graphical user interfaces](https://en.wikipedia.org/wiki/Graphical_user_interfaces) as well as [cross-platform applications](https://en.wikipedia.org/wiki/Cross-platform) that run on various software and hardware platforms such as [Linux](https://en.wikipedia.org/wiki/Linux), [Windows](https://en.wikipedia.org/wiki/Windows), [macOS](https://en.wikipedia.org/wiki/MacOS), [Android](https://en.wikipedia.org/wiki/Android_(operating_system)) or [embedded systems](https://en.wikipedia.org/wiki/Embedded_system) with little or no change in the underlying codebase while still being a native application with native capabilities and speed. |
 | 7 | [UI](https://en.wikipedia.org/wiki/User_interface)| is the space where interactions between humans and machines occur. The goal of this interaction is to allow effective operation and control of the machine from the human end, whilst the machine simultaneously feeds back information that aids the operators' [decision-making](https://en.wikipedia.org/wiki/Decision-making) process|
 
-# Content
-
-## Code quality
+# Code quality
 Before creating the code, it is crucial to prioritize its **quality**.
 It should be the foremost consideration in the development process.
 To ensure **code quality**, we can utilize automated tools that help with code analysis.
@@ -40,7 +38,7 @@ Personally, I have dedicated significant time to code reviewing and checking for
 Additionally, I have employed **Python** to create additional code checks. 
 It is worth mentioning that not all rules can be checked automatically, requiring manual effort in certain cases.
 
-## Code documentation
+# Code documentation
 "*Now, hold on!*" you might ask,
 "*Are we jumping straight into coding?*" 
 My answer is a resounding "*Nope*".
@@ -53,7 +51,7 @@ It's quite remarkable how confident I am now in configuring **Doxygen**.
 
 <img src="./Images/CodeDocumentation.png" alt="CodeDocumentation"/>
 
-## Implementation
+# Implementation
 Finally, we can proceed to the coding phase!
 For the development of **FVA Software**, I have chosen the versatile [QT](https://en.wikipedia.org/wiki/Qt_(software)) library, which supports multiple operating systems such as **Windows**, **macOS**, and **Linux Ubuntu**. 
 Since the software requires a user interface ([UI](https://en.wikipedia.org/wiki/User_interface)), I initially utilized **QWidgets**, including components like **QWizard** and **QWizardPage**.
@@ -79,7 +77,7 @@ As my project involves working with two programming [languages](https://github.c
 
 Last but not least, I acquired knowledge on how to create a [riff parser](https://github.com/dimanikulin/fva/blob/master/FVACommonLib/fvariffparser.h), adding another valuable capability to the project.
 
-## History of internal metadata formats
+# History of internal metadata formats
 The history of **internal metadata** formats in FVA Software reveals the evolution of how the software stored and managed metadata.
 Initially, the metadata was kept at the file system level inside the Photo Album.
 Each folder in the Photo Album had two files: **folderDescription.json** and **description.csv**.

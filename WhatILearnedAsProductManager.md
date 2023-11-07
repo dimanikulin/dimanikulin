@@ -20,9 +20,7 @@ Design-Thinking, User persona, Value proposition, Business model canvas, Product
 | 1 | [Google](https://en.wikipedia.org/wiki/Google)| Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include [online advertising technologies](https://en.wikipedia.org/wiki/Online_advertising), a [search engine](https://en.wikipedia.org/wiki/Search_engine), [cloud computing](https://en.wikipedia.org/wiki/Cloud_computing), software, and hardware.|
 | 2 | [User Journey](https://en.wikipedia.org/wiki/User_journey)|A user journey is the experiences a person has when interacting with something, typically [software](https://en.wikipedia.org/wiki/Software). |
 
-# Content
-
-## Design Thinking
+# Design Thinking
 The first product I was thinking about was "FVA Tool Set".
 Subsequently, another product came to my mind. As a result, a **Product Line** came about.
 
@@ -40,10 +38,10 @@ Design Thinking is a process of preparation, which consists of seven stages of c
 - **Ideate** Here you need to have a list of raw ideas to explore.
 There are also other stages not mentioned here.
 
-## High-level product documentation
+# High-level product documentation
 Once I came up with product ideas to implement, I realized that a set of documentation artifacts to keep high-level product knowledge had to be established.
 
-### Value Propositions
+## Value Propositions
 The first artifact to consider was **Value Proposition**.
 which has the following components:
 - **Mapper** for Products and Services to Customer Jobs;
@@ -53,7 +51,7 @@ which has the following components:
 
 <img src="Images/ValueProposition.png" alt="One Pager"/>
 
-### Business Model Canvas
+## Business Model Canvas
 The next artifact was **Business Model Canvas**. 
 I downloaded a template [here](https://www.strategyzer.com) and filled in the following fields:
 - **Key Partners** to answer the questions: **Who are the key partners? Who are the key suppliers?**
@@ -66,7 +64,7 @@ I downloaded a template [here](https://www.strategyzer.com) and filled in the fo
 - **Revenue Streams** to answer the questions: **What value are our customers willing to pay for? What do they currently pay for? How do they pay? How would they prefer to pay?**
 - **Cost Structure** to answer the questions: **Where do the costs come from?**
 
-### Product Vision Board
+## Product Vision Board
 The third artifact was **Product Vision Board.**
 I downloaded a template [here](https://www.romanpichler.com/) and filled in the following fields:
 - **VISION** to answer the questions: **What is your purpose for creating the product? Which positive change should it bring about?**
@@ -75,7 +73,7 @@ I downloaded a template [here](https://www.romanpichler.com/) and filled in the 
 - **PRODUCT** to answer the questions: **What kind of product is it? What makes it stand out? Is it feasible to develop the product?**
 - **BUSINESS GOALS** to answer the questions: **How is the product going to benefit the company? What are business goals?**
 
-### Competitive Analysis Matrix
+## Competitive Analysis Matrix
 The last artifact in High-level product documentation was the **Competitive Analysis Matrix**
 I filled in the following rows for several products:
 - **Vision** with **Goal and Target segment**;
@@ -83,10 +81,10 @@ I filled in the following rows for several products:
 - **End-user support** with **Trainings, User guide and Help desk**;
 - **Features**.
 
-## Product from a user perspective
+# Product from a user perspective
 As soon as high-level product documentation was ready, I decided to go deeper with more detail from the user's point of view.
 
-### Persona 
+## Persona 
 The first artifact I created was **Persona**
 I downloaded a template [here](https://www.romanpichler.com/) and filled in the following fields:
 - **PICTURE & NAME** to answer the questions: **What does the persona look like? What is his/her name?** I chose a realistic and plausible picture and name.
@@ -95,44 +93,44 @@ I downloaded a template [here](https://www.romanpichler.com/) and filled in the 
 
 <img src="Images/Persona.png" alt="Persona"/>
 
-### User Journey and User Scenarios
+## User Journey and User Scenarios
 Then I tried to restore the user's way to achieving the goals. 
 And I came up with **User Journey**.
 
 To show the value of the product, I created three user scenarios and posted them on YouTube. Please see the reference to watch them.
 
-### Stakeholders
+## Stakeholders
 Honestly, a bit later I realized that end users are not the only target audience for this product.
 And next artifact - Stakeholders - came into sight.
 It looks like a table with the following columns: **Group**, **Stakeholder Role**, **Concerns**, and **View**.
 Table rows contain as follows: **End users**, **Suppliers** and **Team members**.
 
-## Product requirements 
+# Product requirements 
 Having defined everything from the user's point of view, I started thinking about what exactly the product will implement.
 
-### Questionnaire
+## Questionnaire
 Having no clue what is important for the user and what is not, I created a [questionnaire to clarify user needs](https://docs.google.com/forms/d/1EI3oOumRnHxDjEYgV6PFB-AMfV5plLtuV2r5S8BYn_g/).
 It is a form to gather information on what **capabilities**, **functions** and **scenarios** are important. 
 
 <img src="Images/Questioner.png" alt="Questioner"/>
  
-### Capabilities
+## Capabilities
 Having gained an understanding of user needs, I started describing [Capabilities](https://github.com/dimanikulin/fva#capabilities)
 Literally, **Capabilities** describe key requirements.
 
-### Features
+## Features
 Having the capability list defined, I started preparing features.
 They represent significant, central functionality of the final system. 
 I put them into the table with the following columns: **Name**, **Clarification**, and **Business Value**.
 The feature set helped me to create a project plan and a road map. 
 
-### Functional Requirements
+## Functional Requirements
 Last but not least step in defining product behavior was a list of **Functional Requirements**, that define system detail behavior.
 I settled them into the table with the following columns: **Name**, **Architecture complexity**, **Business Value**, **Component**, **Phase**, and **Feature ID**.
 
-## Product development documents
+# Product development documents
 
-### Product Road Map
+## Product Road Map
 I believe **Product Road Map** is the most important document for a product at the development stage. 
 I downloaded a template [here](https://www.romanpichler.com/) and filled in the following fields and rows:
 - **DATE** with **Release date or timeframe**;
