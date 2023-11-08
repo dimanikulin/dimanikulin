@@ -68,6 +68,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Синяя Z Борода](https://t.me/cmiye)               | | too few subsribers |
 | [Сумасшедшая власть](https://t.me/crazypower1)     | not working | AntiPutin content |
 | [Крымская Z прачка 🧺🧼](https://t.me/Crimeanprachka)| Closed comments | |
+| [Сердитая Чувашия](https://t.me/ChuvashiaDream) | WIP2 | | 
 | [КРИСТАЛЛ РОСТА](https://t.me/crystal_book)        | closed for DN2 | |
 | [СВО 2023](https://t.me/cvo2022_5)                 | closed for DN2 | |
 | [Донецк ⚒  ЧП Макеевка](https://t.me/dark_donetskz)|Closed comments | |
@@ -106,7 +107,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Константиновка ZOV Обстановка](https://t.me/konstantunovka_ZOV) | WIP3 | |
 | [kommunist](https://t.me/kommunist)                | WIP3 | | 
 | [KotNaMirotvorze](https://t.me/KotNaMirotvorze)    | closed for DN3 | |
-| [KovaksClearSky](https://t.me/KovaksClearSky)      | WIP2 | |
+| [KovaksClearSky](https://t.me/KovaksClearSky)      | closed for DN2 | |
 | [КТО ПО ЖИЗНИ](https://t.me/KPZYoyTube)            |
 | [krasnovdmitri](https://t.me/krasnovdmitri)        | 
 | [kuzichev_chat](https://t.me/kuzichev_chat)        | 
