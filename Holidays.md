@@ -1,11 +1,10 @@
-# Headline
+# Holidays
 TBD
-
-# Article description
-TBD 
 
 # Tags
 holidays
+
+---
 
 # What is the best gift for Ukrainian people for Christmas and New Year?
 What is the best gift for Ukrainian people for Christmas and New Year?

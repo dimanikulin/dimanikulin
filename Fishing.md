@@ -1,12 +1,11 @@
-# Headline
-The Art of Phishing: How Scammers Are Trying to Reel You In
-
-# Article description
+# The Art of Phishing: How Scammers Are Trying to Reel You In
 The art of phishing is constantly evolving, and scammers are finding new ways to trick unsuspecting victims. 
 This article explores some of the latest tactics used in phishing attacks. 
 
 # Tags
 fishing staysafe emailsecurity internetsecurity
+
+---
 
 # Attempt 0
 Dear fishers, thank you!

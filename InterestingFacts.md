@@ -1,11 +1,10 @@
-# Headline
-Interesting facts
-
-# Article description
+# Interesting facts
 Interesting facts about numbers and not only! 
 
 # Tags
 interestingfacts numbers
+
+---
 
 # Interesting facts about number "6"
 
