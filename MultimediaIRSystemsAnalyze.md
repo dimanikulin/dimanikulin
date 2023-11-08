@@ -1,7 +1,4 @@
-# Headline
-The Comparison of Private Multimedia IR Systems
-
-# Article description
+# The Comparison of Private Multimedia IR Systems
 In this article, we compare several private multimedia information retrieval (IR) systems based on the requirements and needs of users.
 We recommend choosing one offline and one online system, as some users prefer multimedia IR systems integrated with online storage while others prefer offline ones.
 Similarly, we compare both proprietary and open systems. 
@@ -20,6 +17,8 @@ Multimedia IR systems, Synology Moments, Mylio, Google Photos, digiKam, Apple ph
 | 6 | Multimedia IR| Multimedia Information Retrieval (MIR) is an organic system made up of Text Retrieval (TR); Visual Retrieval (VR); Video Retrieval (VDR); and Audio Retrieval (AR) systems. So that each type of digital document may be analyzed and searched by the elements of language appropriate to its nature, search criteria must be extended.|
 | 7 | [metadata](https://en.wikipedia.org/wiki/Metadata)|Metadata is "data that provides [information](https://en.wikipedia.org/wiki/Information) about other data". In other words, it is "data about data." Many distinct types of metadata exist, including descriptive metadata, structural metadata, administrative metadata, reference metadata and statistical metadata. |
 | 8 | [Mylio](https://mylio.com/tour/)| Mylio has a suite of tools to help you locate and consolidate your images across a variety of locations, including external hard drives, online services.|
+
+---
  
 Let's compare several **multimedia IR** systems by going over the above-mentioned requirements and needs.
 The best approach here would be to choose one offline and one online system, since some users could feel free to use **multimedia IR** systems that are integrated with online storage (like Cloud ones), while others want to utilize offline **Multimedia IR** systems.

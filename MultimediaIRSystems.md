@@ -1,9 +1,4 @@
-# Headline
-What are Multimedia IR systems?
-
-Overview of Multimedia Information Retrieval (IR) Systems and User Needs
-
-# Article description
+# What are Multimedia IR systems?
 This article discusses the concept of Multimedia Information Retrieval (IR) systems and their potential uses for both ordinary users and professionals. 
 The article provides an overview of Multimedia IR systems, explaining how they extract semantic information from various sources, such as audio, image, and video.
 The article also highlights the importance of metadata, tags, and content in the search process, and how the indexing and storage functionality for multimedia information is implemented by these systems.
@@ -19,6 +14,8 @@ Multimedia Information Retrieval, Multimedia IR systems, Metadata, Search
 | 1 | [Multimedia data](https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-39940-9_1008)| Multimedia in principle means data of more than one medium. It usually refers to data representing multiple types of medium to capture information and experiences related to objects and events. Commonly used forms of data are numbers, alphanumeric, text, images, audio, and video. In common usage, people refer a data set as multimedia only when time-dependent data such as audio and video are involved.|
 | 2 | Multimedia IR| Multimedia Information Retrieval (MIR) is an organic system made up of Text Retrieval (TR); Visual Retrieval (VR); Video Retrieval (VDR); and Audio Retrieval (AR) systems. So that each type of digital document may be analyzed and searched by the elements of language appropriate to its nature, search criteria must be extended.|
 | 3 | [metadata](https://en.wikipedia.org/wiki/Metadata)|Metadata is "data that provides [information](https://en.wikipedia.org/wiki/Information) about other data". In other words, it is "data about data." Many distinct types of metadata exist, including descriptive metadata, structural metadata, administrative metadata, reference metadata and statistical metadata. |
+
+---
 
 Let's make a brief overview of the **Multimedia IR systems**.
 **Information retrieval (IR)** is the process of finding information system resources from a collection of those resources that are pertinent to an information demand, according to [Wikipedia](https://en.wikipedia.org/wiki/Information_retrieval). 
