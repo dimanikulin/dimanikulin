@@ -1,4 +1,4 @@
-# Comuunication 
+# Communication 
 TBD 
 
 # Table of contents
