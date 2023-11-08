@@ -1,11 +1,10 @@
-# Headline
-LinkedIn content
-
-# Article description
+# LinkedIn content
 TBD 
 
 # Tags
 LinkedIn Content
+
+---
 
 # Just Joined LinkedIn
 Наболело...
