@@ -1,5 +1,4 @@
-# Headline
-**Detecting Architectural Gaps** with Automation: Comprehensive Overview of Proposed Software Solution's Architecture and Integration
+# **Detecting Architectural Gaps** with Automation: Comprehensive Overview of Proposed Software Solution's Architecture and Integration
 
 # Article description
 In the ever-evolving landscape of software development, a robust and seamlessly integrated solution is a critical asset.
@@ -26,6 +25,8 @@ Software Architecture, Integration Strategies, Deployment Scenarios, Context Dia
 | 8 | SCA | Static Code Analysis - One of the capabilities of the CI/CD pipeline. Its purpose is to check the code using a predefined set of rules. SCA usually is performed between Build and Test stages.|
 | 9 | Software Architecture | Software architecture refers to the fundamental structures of a software system and the discipline of creating such structures and systems. Each structure comprises software elements, relations among them, and properties of both elements and relations.|
 | 10| UML | The Unified Modeling Language (UML) is a general-purpose, developmental, modeling language in the field of software engineering that is intended to provide a standard way to visualize the design of a system.|
+
+---
 
 # The Context View for Standalone Application
 A **context diagram (view)** defines the solution's boundaries and connections with third parties, such as external systems, users, and data.
