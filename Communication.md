@@ -1,20 +1,17 @@
-# Headline
-TBD
-
-# Article description
+# Comuunication 
 TBD 
 
-# Tags
-Communication
-
 # Table of contents
-- [Headline](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#headline)
-- [Article description](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#article-description)
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#tags)
 - [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#definitions-acronyms-abbreviations)
 - [We need more Messengers!](https://github.com/dimanikulin/dimanikulin/blob/main/Communication.md#we-need-more-messengers)
 - [What does it mean for me to be online?](https://github.com/dimanikulin/dimanikulin/blob/main/Communication.md#what-does-it-mean-for-me-to-be-online)
 - [References](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#references)
+
+# Tags
+Communication
+
+---
 
 # We need more Messengers!
 
