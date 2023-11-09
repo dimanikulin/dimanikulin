@@ -1,8 +1,4 @@
-# Headline
-TBD
-
-# Article description
-TBD 
+# Russian telegram channels
 
 # Tags
 TBD
@@ -12,6 +8,8 @@ TBD
 | - | ------------------------|:--------------:|
 | 1 |
 
+---
+ 
 # For channels
 **For reporting:**
 The channel was created and works to promote and publish fake news about the Russian invasion of Ukraine!
@@ -250,7 +248,3 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Башни Кремля](https://t.me/+dZK10QqBu0xiZjYy)     |
 | [Поколение Z](https://t.me/+EXrNv7j5LIQxNmNi)      |
 | [Спецоперация V](https://t.me/+vb5WJBLW0jo1ZGU6)   | comments closed | |
-
-# References
-| # | Name                 | Source                | Release date           |  Author                 | Description   |
-| - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|

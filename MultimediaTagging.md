@@ -1,8 +1,5 @@
-# Headline
+# Tagging for Multimedia
 TBD
-
-# Article description
-TBD 
 
 # Tags
 TBD
@@ -17,6 +14,8 @@ TBD
 | 5 | [metadata](https://en.wikipedia.org/wiki/Metadata)|Metadata is "data that provides [information](https://en.wikipedia.org/wiki/Information) about other data". In other words, it is "data about data." Many distinct types of metadata exist, including descriptive metadata, structural metadata, administrative metadata, reference metadata and statistical metadata. |
 | 6 | [Tagging](https://en.wikipedia.org/wiki/Tag_(metadata))| In [information systems](https://en.wikipedia.org/wiki/Information_system), a tag is a [keyword or term](https://en.wikipedia.org/wiki/Index_term) assigned to a piece of information (such as an [Internet bookmark](https://en.wikipedia.org/wiki/Bookmark_(World_Wide_Web)), [digital image](https://en.wikipedia.org/wiki/Digital_image), database [record](https://en.wikipedia.org/wiki/Record_(computer_science)), or [computer file](https://en.wikipedia.org/wiki/Computer_file)). This kind of [metadata](https://en.wikipedia.org/wiki/Metadata) helps describe an item and allows it to be found again by browsing or searching.|
 
+---
+ 
 <img src="./Images/TBD.jpg" alt="TBD" />
 
 # References
