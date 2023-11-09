@@ -186,7 +186,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Русская Весна СПЕЦОПЕРАЦ](https://t.me/russian_spring_zz) | Closed comments | |
 | [ТРОЙКА](https://t.me/rustroyka1945) | Closed comments | | 
 | [Крылатые](https://t.me/russian_airborne)          |
-| [АРХАНГЕЛ СПЕЦНАЗА Z](https://t.me/rusich_army)    | Closed comments | |
+| [АРХАНГЕЛ СПЕЦНАЗА Z](https://t.me/rusich_army)    |  | |
 | [Саня во Флориде](https://t.me/sanya_florida)      |
 | [sergeyvostrecov](https://t.me/sergeyvostrecov)    |
 | [Редакция ШМЕЛЬ](https://t.me/shmel_chik)          |
