@@ -1,11 +1,4 @@
-# Headline
-- Code Quality, Documentation, and Implementation: Building a Solid Foundation for Software Development
-
-- Prioritizing Code Quality and Documentation: Building a Robust and Maintainable FVA Software
-
-- What I learned as a Software Developer while creating my product
-
-# Article description
+# What I learned as a Software Developer while creating my product
 This article delves into the importance of code quality, documentation, and UI development in the creation of the FVA Software.
 It explores the use of automated tools, manual code review, and Python checks to ensure code adherence. 
 The significance of clear code documentation for both C++ and Python is emphasized.
@@ -27,6 +20,8 @@ Software development, code quality, code review, coding standards, documentation
 | 5 | [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)| An integrated development environment (IDE) is a [software application](https://en.wikipedia.org/wiki/Application_software) that provides comprehensive facilities to [computer programmers](https://en.wikipedia.org/wiki/Computer_programmer) for [software development](https://en.wikipedia.org/wiki/Software_development). An IDE normally consists of at least a [source code editor](https://en.wikipedia.org/wiki/Source_code_editor), build [automation tools](https://en.wikipedia.org/wiki/Build_automation) and a [debugger](https://en.wikipedia.org/wiki/Debugger).|
 | 6 | [Qt](https://en.wikipedia.org/wiki/Qt_(software))|is a [widget toolkit](https://en.wikipedia.org/wiki/Widget_toolkit) for creating [graphical user interfaces](https://en.wikipedia.org/wiki/Graphical_user_interfaces) as well as [cross-platform applications](https://en.wikipedia.org/wiki/Cross-platform) that run on various software and hardware platforms such as [Linux](https://en.wikipedia.org/wiki/Linux), [Windows](https://en.wikipedia.org/wiki/Windows), [macOS](https://en.wikipedia.org/wiki/MacOS), [Android](https://en.wikipedia.org/wiki/Android_(operating_system)) or [embedded systems](https://en.wikipedia.org/wiki/Embedded_system) with little or no change in the underlying codebase while still being a native application with native capabilities and speed. |
 | 7 | [UI](https://en.wikipedia.org/wiki/User_interface)| is the space where interactions between humans and machines occur. The goal of this interaction is to allow effective operation and control of the machine from the human end, whilst the machine simultaneously feeds back information that aids the operators' [decision-making](https://en.wikipedia.org/wiki/Decision-making) process|
+
+---
 
 # Code quality
 Before creating the code, it is crucial to prioritize its **quality**.

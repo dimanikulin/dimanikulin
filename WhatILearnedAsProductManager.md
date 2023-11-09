@@ -1,10 +1,4 @@
-# Headline
-
-What I learned as a Product Manager while creating my product
-
-Creating a High-Level Product Documentation and Requirements: A Journey from Design Thinking to Product Road Map.
-
-# Article description
+# What I learned as a Product Manager while creating my product
 It have described author's journey of creating a product line, which started with the idea of developing a single product, the FVA Tool Set, and ended up with the creation of a set of high-level product documentation, a detailed understanding of the product from the user's perspective, and product requirements. 
 Author mentioned that he started from coding but realized later that it would have been better to start from Design Thinking, a process that consists of seven stages for creating a product. 
 Author also mentioned that he established a set of documentation artifacts to keep high-level product knowledge, such as Value Propositions, Business Model Canvas, Product Vision Board, and Competitive Analysis Matrix. 
@@ -19,6 +13,8 @@ Design-Thinking, User persona, Value proposition, Business model canvas, Product
 | - | ------------------------|:--------------:|
 | 1 | [Google](https://en.wikipedia.org/wiki/Google)| Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include [online advertising technologies](https://en.wikipedia.org/wiki/Online_advertising), a [search engine](https://en.wikipedia.org/wiki/Search_engine), [cloud computing](https://en.wikipedia.org/wiki/Cloud_computing), software, and hardware.|
 | 2 | [User Journey](https://en.wikipedia.org/wiki/User_journey)|A user journey is the experiences a person has when interacting with something, typically [software](https://en.wikipedia.org/wiki/Software). |
+
+---
 
 # Design Thinking
 The first product I was thinking about was "FVA Tool Set".

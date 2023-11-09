@@ -1,9 +1,4 @@
-# Headline
-What I learned as a Subject Matter Expert while creating my product
-
-Maximizing the Efficiency of Multimedia Data Search: Analyzing Multimedia IR Systems and the Importance of Metadata
-
-# Article description
+# What I learned as a Subject Matter Expert while creating my product
 This article discusses the author's experience with Multimedia IR systems and the importance of metadata in maximizing the efficiency of multimedia data search. 
 The author describes their analysis and comparison of various Multimedia IR systems before selecting the most suitable one. 
 The article emphasizes the significance of metadata as a primary information source used by these systems for search following different criteria. 
@@ -28,6 +23,8 @@ Multimedia IR Systems, Metadata, Multimedia Organizers, digiKam, Google Photos, 
 | 9 | [metadata](https://en.wikipedia.org/wiki/Metadata)|Metadata is "data that provides [information](https://en.wikipedia.org/wiki/Information) about other data". In other words, it is "data about data." Many distinct types of metadata exist, including descriptive metadata, structural metadata, administrative metadata, reference metadata and statistical metadata. |
 | 10| [UI](https://en.wikipedia.org/wiki/User_interface)| is the space where interactions between humans and machines occur. The goal of this interaction is to allow effective operation and control of the machine from the human end, whilst the machine simultaneously feeds back information that aids the operators' [decision-making](https://en.wikipedia.org/wiki/Decision-making) process|
 | 11| [XMP](https://en.wikipedia.org/wiki/Extensible_Metadata_Platform)|The Extensible Metadata Platform (XMP) is an [ISO standard](https://en.wikipedia.org/wiki/List_of_International_Organization_for_Standardization_standards), originally created by [Adobe Systems Inc.](https://en.wikipedia.org/wiki/ADBE), for the creation, processing and interchange of standardized and custom metadata for digital documents and data sets. |
+
+---
 
 # Multimedia IR systems
 My first step in the role of an SME was getting to know what [Multimedia Data](./MultimediaData.md) is.
