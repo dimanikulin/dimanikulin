@@ -1,7 +1,4 @@
-# Headline
-TBD
-
-# Article description
+# What to publish
 TBD 
 
 # Tags
@@ -9,6 +6,8 @@ TBD
 
 # Definitions, Acronyms, Abbreviations
 TBD
+
+---
 
 # Critiear
 I published 6 puvlicateion on different sites before right this one

@@ -1,9 +1,5 @@
-# Headline
-How to publisk your content?
-TODO GPT from content
-
-# Article desription 
-TODO GPT from content 
+# How to publish your content?
+TBD 
 
 # Tags
 TODO GPT from connet
@@ -14,6 +10,8 @@ TODO GPT from connet
 | 1 | [Google](https://en.wikipedia.org/wiki/Google)| Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include [online advertising technologies](https://en.wikipedia.org/wiki/Online_advertising), a [search engine](https://en.wikipedia.org/wiki/Search_engine), [cloud computing](https://en.wikipedia.org/wiki/Cloud_computing), software, and hardware.|
 | 2 | PII | TODO |
 | 2 | TL;DR | TODO |
+
+---
 
 not what have read from biiks and networks but your exp and not just repost
 

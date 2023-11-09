@@ -1,11 +1,9 @@
-# Headline
-This is when we say "Old, but Gold"
-
-# Article description
-TBD 
+# This is when we say "Old, but Gold"
 
 # Tags
 oldschool old
+
+---
 
 # Windows 95
 
