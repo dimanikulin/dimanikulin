@@ -1,7 +1,4 @@
-# Headline
-TBD
-
-# Article description
+# Where to publish, part 2
 TBD 
 
 # Tags
@@ -10,6 +7,8 @@ TBD
 # Definitions, Acronyms, Abbreviations
 TBD
 TL;DR
+
+---
 
 #######
 chatGPT said 

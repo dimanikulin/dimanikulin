@@ -1,7 +1,4 @@
-# Headline
-TBD
-
-# Article description
+# Where to publish, part 1
 TBD 
 
 # Tags
@@ -10,6 +7,8 @@ TBD
 # Definitions, Acronyms, Abbreviations
 TBD
 TL;DR
+
+---
 
 Here, I will describe my experience working with sites and platforms where I publish content.
 The main question here is, *Why do you publish content?*.
