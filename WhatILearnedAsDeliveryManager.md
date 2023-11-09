@@ -1,12 +1,10 @@
-# Headline
-What I learned as a Delivery Manager while creating my product
-Crafting an Engaging Open-Source Project: A Guide to Elevating Developer Engagement and README Excellence
-
-# Article description
+# What I learned as a Delivery Manager while creating my product
 Unlocking Developer Engagement: A Comprehensive Guide to Enhancing Open-Source Projects and Creating Compelling READMEs 
 
 # Tags
 Open Source Development, Developer Engagement, README Best Practices, Project Documentation, GitHub Projects, ProjectLibre
+
+---
 
 First, I began contemplating how to increase engagement with my open-source project. **Why?** Because:
 
