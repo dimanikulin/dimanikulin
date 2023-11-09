@@ -1,13 +1,13 @@
-# Headline
-Soft skiils
-
-# Article description
+# Soft skiils
 TBD 
 
 # Tags
 softskills
 
+---
+
 # Active Listening
+
 
 Is "talking a lot" a soft skill? Nope.
 

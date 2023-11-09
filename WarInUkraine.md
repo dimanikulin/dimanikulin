@@ -1,19 +1,19 @@
-# Headline
-War in Ukraine!
-
-# Article description
+# War in Ukraine!
 Engaging in everyday conversations at unusual times.
 Exploring how Russians handle defeat in chess and their behavior in real-life conflicts.
 Options for Putin's future endeavors with humor and percentages.
 A set of questions for Taras Chmut, with some restrictions on topic areas.
 Listing questions posed to Taras Chmut by individuals from GlobalLogic during a recent meeting.
 A humorous take on junior job seekers in Ukraine during times of conflict.
+
 TBD 
 
 # Tags
 armukrainenow staywithukraine stoprussia stopwar russiaterroriststate warinukraine ukrainewar ukraine
 
-## Первый пост с 24 февраля 2022 года
+---
+
+# Первый пост с 24 февраля 2022 года
 Да, я говорил, что на Линкеде нет места для политоты.
 Но так-то было до 24 февраля
 

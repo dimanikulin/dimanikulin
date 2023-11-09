@@ -1,7 +1,4 @@
-# Headline
-Everything about the Software Development
-
-# Article description
+# Everything about the Software Development
 TBD 
 
 # Tags
@@ -12,6 +9,8 @@ Software Development
 | - | ------------------------|:--------------:|
 | 1 | CV | TBD
 | 2 | Scrum | TBD |
+
+---
 
 # Just joined a project with Scrum
 
