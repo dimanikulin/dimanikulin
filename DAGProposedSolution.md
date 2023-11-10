@@ -7,6 +7,27 @@ Explore the role of the user interface, data layer, processing layer, and the de
 Furthermore, learn about the integration with UML design tools, cloud services, and CI/CD pipelines, showcasing the solution's adaptability to industry best practices.
 Whether you're an architect, developer, or IT enthusiast, this article offers a comprehensive guide to understanding the inner workings of a forward-looking software solution. 
 
+# Table of contents
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#tags)
+- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#definitions-acronyms-abbreviations)
+- [The Context View for Standalone Application](https://github.com/dimanikulin/dimanikulin/blob/main/DAGProposedSolution.md#the-context-view-for-standalone-application)
+- [The Context View for a Separate Step in CI/CD](https://github.com/dimanikulin/dimanikulin/blob/main/DAGProposedSolution.md#the-context-view-for-a-separate-step-in-cicd)
+- [Functional View](https://github.com/dimanikulin/dimanikulin/blob/main/DAGProposedSolution.md#functional-view)
+- [Integration Layer](https://github.com/dimanikulin/dimanikulin/blob/main/DAGProposedSolution.md#integration-layer)
+- [User Interface](https://github.com/dimanikulin/dimanikulin/blob/main/DAGProposedSolution.md#user-interface)
+- [Data Layer](https://github.com/dimanikulin/dimanikulin/blob/main/DAGProposedSolution.md#data-layer)
+- [Processing Layer](https://github.com/dimanikulin/dimanikulin/blob/main/DAGProposedSolution.md#processing-layer)
+- [Deployment View](https://github.com/dimanikulin/dimanikulin/blob/main/DAGProposedSolution.md#deployment-view)
+- [Deployment View - On-Premises](https://github.com/dimanikulin/dimanikulin/blob/main/DAGProposedSolution.md#deployment-view---on-premises)
+- [Deployment View - Cloud](https://github.com/dimanikulin/dimanikulin/blob/main/DAGProposedSolution.md#deployment-view---cloud)
+- [Integration with UML Design Tools:](https://github.com/dimanikulin/dimanikulin/blob/main/DAGProposedSolution.md#integration-with-uml-design-tools)
+- [Integration with Offline UML Design Tools](https://github.com/dimanikulin/dimanikulin/blob/main/DAGProposedSolution.md#integration-with-offline-uml-design-tools)
+- [Integration with Online UML Design Tools](https://github.com/dimanikulin/dimanikulin/blob/main/DAGProposedSolution.md#integration-with-online-uml-design-tools)
+- [Integration with AWS, Azure, or GCP](https://github.com/dimanikulin/dimanikulin/blob/main/DAGProposedSolution.md#integration-with-aws-azure-or-gcp)
+- [Dependency Analysis Tool](https://github.com/dimanikulin/dimanikulin/blob/main/DAGProposedSolution.md#dependency-analysis-tool)
+- [Integration with Jenkins or Bamboo](https://github.com/dimanikulin/dimanikulin/blob/main/DAGProposedSolution.md#integration-with-jenkins-or-bamboo)
+- [References](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#references)
+
 # Tags
 Software Architecture, Integration Strategies, Deployment Scenarios, Context Diagrams, Functional Decomposition, CI/CD Pipelines
 
