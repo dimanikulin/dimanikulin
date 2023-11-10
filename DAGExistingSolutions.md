@@ -3,6 +3,22 @@ Discover how four cutting-edge tools—Bionic.ai, Castsoftware Highlight, Cast Ima
 From creating baseline architectures to detecting drifts, erosions, and security and compliance issues, these tools offer diverse features such as interactive architecture views, impact analysis, and integration with CI/CD pipelines. 
 Dive into the comparison of their functionalities and understand how they address different levels of architectural governance, ensuring optimal application performance and development. 
 
+# Table of contents
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#tags)
+- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#definitions-acronyms-abbreviations)
+- [Bionic.ai](https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#bionicai)
+- [Main features](https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#main-features)
+- [Castsoftware](Highlight https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#castsoftware-highlight)
+- [Main features](https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#main-features-1)
+- [Castsoftware Cast Imaging](https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#castsoftware-cast-imaging)
+- [Main features](https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#main-features-2)
+- [NDepend](https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#ndepend)
+- [Main features](https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#main-features-3)
+- [Axivion Suite](https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#axivion-suite)
+- [Main Features](https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#main-features-4)
+- [Comparison of existing solutions](https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#comparison-of-existing-solutions)
+- [References](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#references)
+
 # Tags
 Bionic.ai Castsoftware Axivion NDepend softwarearchitecture applicationanalysis impactanalysis codeanalysis staticcodeanalysis architecturemaintenance
 
