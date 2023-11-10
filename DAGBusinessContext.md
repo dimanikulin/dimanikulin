@@ -1,10 +1,24 @@
 # **Detecting Architectural Gaps** with Automation: Enhancing Software Architecture Maintenance and Efficiency
-
 This text discusses the implementation of a solution for detecting architectural gaps and drifts in software systems.
 It highlights the importance of maintaining a changeable software architecture in the rapidly evolving tech world.
 The paper explores the limitations of manual architecture reviews and proposes automated alternatives to improve efficiency and outcomes.
 The solution requirements include different modes of execution, inputs from code and configuration, integration with UML design tools and source control systems, user interaction through a web interface, and various output formats for issue reporting and graphic visualization of the architecture.
 The solution aims to enhance modifiability, extendibility, and configurability, allowing for flexibility in adapting to project needs. 
+
+# Table of contents
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#tags)
+- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#definitions-acronyms-abbreviations)
+- [Executive summary](https://github.com/dimanikulin/dimanikulin/blob/main/DAGBusinessContext.md#executive-summary)
+- [Detecting Architectural Gaps with Automation](https://github.com/dimanikulin/dimanikulin/blob/main/DAGBusinessContext.md#detecting-architectural-gaps-with-automation)
+- [Solution requirements](https://github.com/dimanikulin/dimanikulin/blob/main/DAGBusinessContext.md#solution-requirements)
+- [Solution modes](https://github.com/dimanikulin/dimanikulin/blob/main/DAGBusinessContext.md#solution-modes)
+- [Solution inputs](https://github.com/dimanikulin/dimanikulin/blob/main/DAGBusinessContext.md#solution-inputs)
+- [Solution integration](https://github.com/dimanikulin/dimanikulin/blob/main/DAGBusinessContext.md#solution-integration)
+- [User interaction](https://github.com/dimanikulin/dimanikulin/blob/main/DAGBusinessContext.md#user-interaction)
+- [Solution output](https://github.com/dimanikulin/dimanikulin/blob/main/DAGBusinessContext.md#solution-output)
+- [Modifiability and extendibility](https://github.com/dimanikulin/dimanikulin/blob/main/DAGBusinessContext.md#modifiability-and-extendibility)
+- [Configurability](https://github.com/dimanikulin/dimanikulin/blob/main/DAGBusinessContext.md#configurability)
+- [References](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#references)
 
 # Tags
 Software architecture, architecture review, architecture drift, architecture erosion, manual review, dependency analysis
