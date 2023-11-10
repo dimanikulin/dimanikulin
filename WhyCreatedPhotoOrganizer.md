@@ -1,9 +1,4 @@
-# Headline
-"Why I decided to create my photo organizer?"
-
-"How I Created My Own Multimedia Organizer to Tackle the Challenges of Managing a Growing Photo Album"
-
-# Article description
+# Why I decided to create my photo organizer?
 In this article, the author shares their personal experience of managing a growing photo album in the digital age.
 They highlight the challenges they faced in searching and organizing multimedia data and their quest to find a suitable multimedia information retrieval (IR) system.
 The author also discusses their journey of creating their own multimedia organizer to address their needs and the challenges they encountered along the way. 
@@ -19,6 +14,8 @@ Multimedia data, Photo album, Multimedia information retrieval (IR) systems, Mul
 | 3 | Multimedia IR| Multimedia Information Retrieval (MIR) is an organic system made up of Text Retrieval (TR); Visual Retrieval (VR); Video Retrieval (VDR); and Audio Retrieval (AR) systems. So that each type of digital document may be analyzed and searched by the elements of language appropriate to its nature, search criteria must be extended.|
 | 4 | [Multimedia data](https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-39940-9_1008)| Multimedia in principle means data of more than one medium. It usually refers to data representing multiple types of medium to capture information and experiences related to objects and events. Commonly used forms of data are numbers, alphanumeric, text, images, audio, and video. In common usage, people refer a data set as multimedia only when time-dependent data such as audio and video are involved.|
 | 5 | [digiKam](https://www.digikam.org/about/)|digiKam is an advanced open-source digital photo management application that runs on Linux, Windows, and MacOS. The application provides a comprehensive set of tools for importing, managing, editing, and sharing photos and raw files. |
+
+---
 
 As a child, I used to flip through a family photo album to see my relatives whom I had not seen in real life.
 At that time we had film cameras only, so the number of photos was not so large.

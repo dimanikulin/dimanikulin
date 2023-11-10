@@ -1,7 +1,4 @@
-# Headline
-Working in GL
-
-# Article description
+# Working in GL
 In this article, the author expresses gratitude to GlobalLogic for their thoughtful birthday presents over the years.
 The significance of these gifts is highlighted in the context of recent events related to war.
 The author also shares insights into interactions with notable individuals, including Olena Zelenska, and provides a link to a white paper discussing software architecture and design.
@@ -10,6 +7,8 @@ The content reflects the author's appreciation for GlobalLogic's support and the
 
 # Tags
 GlobalLogic Work
+
+---
 
 ## Presents in GlobalLogic for an employer 
 Each year in GlobalLogic an employer gets the present for birthday.

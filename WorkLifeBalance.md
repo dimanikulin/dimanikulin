@@ -1,11 +1,10 @@
-# Headline
-TBD
-
-# Article description
+# Work-life Balance
 TBD 
 
 # Tags
 worklifebalance workload relax Chess MedicalInsurance
+
+---
 
 ## Playing chess
 What do I usually do to switch context and relax before engaging in the next brain activity?

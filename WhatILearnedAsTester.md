@@ -1,7 +1,4 @@
-# Headline
-TBD
-
-# Article description
+# What I Learned As a Tester
 TBD 
 
 # Tags
@@ -11,6 +8,8 @@ TBD
 | # | Abbreviation or Acronym | Definition     |
 | - | ------------------------|:--------------:|
 | 1 |
+
+---
 
 <img src="./Images/TBD.jpg" alt="TBD" />
 
