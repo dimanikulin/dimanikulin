@@ -8,7 +8,7 @@ Dive into the comparison of their functionalities and understand how they addres
 - [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#definitions-acronyms-abbreviations)
 - [Bionic.ai](https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#bionicai)
 - [Main features](https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#main-features)
-- [Castsoftware](Highlight https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#castsoftware-highlight)
+- [Castsoftware Highlight](https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#castsoftware-highlight)
 - [Main features](https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#main-features-1)
 - [Castsoftware Cast Imaging](https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#castsoftware-cast-imaging)
 - [Main features](https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#main-features-2)
