@@ -5,6 +5,14 @@ Additionally, the article provides a list of photo organizers and online courses
 It also explores approaches for creating a folder structure and preventing the storage of duplicate photos in the same folder.
 Overall, this article is a useful guide for anyone looking to manage their photo collection more effectively. 
 
+# Table of contents
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#tags)
+- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#definitions-acronyms-abbreviations)
+- [Multimedia Organizers functions](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaOrganizers.md#multimedia-organizers-functions)
+- [Multimedia Organizer requirements](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaOrganizers.md#multimedia-organizer-requirements)
+- [Multimedia Organizer approaches to create folder structure](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaOrganizers.md#multimedia-organizer-approaches-to-create-folder-structure)
+- [References](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#references)
+
 # Tags
 Multimedia organizers, Photo management, Photo organizer software, Metadata, IR Multimedia Systems
 
