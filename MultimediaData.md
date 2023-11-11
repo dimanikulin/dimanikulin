@@ -5,6 +5,11 @@ It explains the different components of MIR systems, such as feature extraction,
 
 Overall, the article offers a helpful overview for those interested in learning about MIR systems. 
 
+# Table of contents
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#tags)
+- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#definitions-acronyms-abbreviations)
+- [References](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#references)
+
 # Tags
 Multimedia, Multimedia Information Retrieval, Media Formats, Search Engines
 
