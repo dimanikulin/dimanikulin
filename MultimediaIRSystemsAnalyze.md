@@ -4,11 +4,11 @@ We recommend choosing one offline and one online system, as some users prefer mu
 Similarly, we compare both proprietary and open systems. 
 
 # Table of contents
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#tags)
-- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#definitions-acronyms-abbreviations)
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaIRSystemsAnalyze.md#tags)
+- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaIRSystemsAnalyze.md#definitions-acronyms-abbreviations)
 - [Well implemented features](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaIRSystemsAnalyze.md#well-implemented-features)
 - [To be developed features](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaIRSystemsAnalyze.md#to-be-developed-features)
-- [References](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#references)
+- [References](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaIRSystemsAnalyze.md#references)
 
 # Tags
 Multimedia IR systems, Synology Moments, Mylio, Google Photos, digiKam, Apple photo

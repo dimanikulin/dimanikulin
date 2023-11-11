@@ -6,12 +6,12 @@ It also explores approaches for creating a folder structure and preventing the s
 Overall, this article is a useful guide for anyone looking to manage their photo collection more effectively. 
 
 # Table of contents
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#tags)
-- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#definitions-acronyms-abbreviations)
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaOrganizers.md#tags)
+- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaOrganizers.md#definitions-acronyms-abbreviations)
 - [Multimedia Organizers functions](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaOrganizers.md#multimedia-organizers-functions)
 - [Multimedia Organizer requirements](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaOrganizers.md#multimedia-organizer-requirements)
 - [Multimedia Organizer approaches to create folder structure](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaOrganizers.md#multimedia-organizer-approaches-to-create-folder-structure)
-- [References](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#references)
+- [References](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaOrganizers.md#references)
 
 # Tags
 Multimedia organizers, Photo management, Photo organizer software, Metadata, IR Multimedia Systems
