@@ -1,7 +1,7 @@
 # Russian telegram channels
 
 # Table of contents
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/MyRuTelegramChannels#tags)
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/MyRuTelegramChannels.md#tags)
 - [For channels](https://github.com/dimanikulin/dimanikulin/blob/main/MyRuTelegramChannels.md#for-channels)
 - [For bots](https://github.com/dimanikulin/dimanikulin/blob/main/MyRuTelegramChannels.md#for-bots)
 
