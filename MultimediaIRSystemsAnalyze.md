@@ -3,6 +3,13 @@ In this article, we compare several private multimedia information retrieval (IR
 We recommend choosing one offline and one online system, as some users prefer multimedia IR systems integrated with online storage while others prefer offline ones.
 Similarly, we compare both proprietary and open systems. 
 
+# Table of contents
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#tags)
+- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#definitions-acronyms-abbreviations)
+- [Well implemented features](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaIRSystemsAnalyze.md#well-implemented-features)
+- [To be developed features](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaIRSystemsAnalyze.md#to-be-developed-features)
+- [References](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#references)
+
 # Tags
 Multimedia IR systems, Synology Moments, Mylio, Google Photos, digiKam, Apple photo
 
