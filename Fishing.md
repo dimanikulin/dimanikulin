@@ -3,14 +3,14 @@ The art of phishing is constantly evolving, and scammers are finding new ways to
 This article explores some of the latest tactics used in phishing attacks. 
 
 # Table of contents
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#tags)
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/Fishing.md#tags)
 - [Attempt 0](https://github.com/dimanikulin/dimanikulin/blob/main/Fishing.md#attempt-0)
 - [Attempt 1](https://github.com/dimanikulin/dimanikulin/blob/main/Fishing.md#attempt-1)
 - [Attempt 2](https://github.com/dimanikulin/dimanikulin/blob/main/Fishing.md#attempt-2)
 - [Attempt 3](https://github.com/dimanikulin/dimanikulin/blob/main/Fishing.md#attempt-3)
 - [Attempt 4](https://github.com/dimanikulin/dimanikulin/blob/main/Fishing.md#attempt-4)
 - [Sensitive or confidential language](https://github.com/dimanikulin/dimanikulin/blob/main/Fishing.md#sensitive-or-confidential-language)
-- [References](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#references)
+- [References](https://github.com/dimanikulin/dimanikulin/blob/main/Fishing.md#references)
 
 # Tags
 fishing staysafe emailsecurity internetsecurity

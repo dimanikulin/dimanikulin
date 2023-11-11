@@ -4,8 +4,8 @@ From creating baseline architectures to detecting drifts, erosions, and security
 Dive into the comparison of their functionalities and understand how they address different levels of architectural governance, ensuring optimal application performance and development. 
 
 # Table of contents
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#tags)
-- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#definitions-acronyms-abbreviations)
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#tags)
+- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#definitions-acronyms-abbreviations)
 - [Bionic.ai](https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#bionicai)
 - [Main features](https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#main-features)
 - [Castsoftware Highlight](https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#castsoftware-highlight)
@@ -17,7 +17,7 @@ Dive into the comparison of their functionalities and understand how they addres
 - [Axivion Suite](https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#axivion-suite)
 - [Main Features](https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#main-features-4)
 - [Comparison of existing solutions](https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#comparison-of-existing-solutions)
-- [References](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#references)
+- [References](https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#references)
 
 # Tags
 Bionic.ai Castsoftware Axivion NDepend softwarearchitecture applicationanalysis impactanalysis codeanalysis staticcodeanalysis architecturemaintenance

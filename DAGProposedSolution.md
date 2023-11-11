@@ -8,8 +8,8 @@ Furthermore, learn about the integration with UML design tools, cloud services, 
 Whether you're an architect, developer, or IT enthusiast, this article offers a comprehensive guide to understanding the inner workings of a forward-looking software solution. 
 
 # Table of contents
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#tags)
-- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#definitions-acronyms-abbreviations)
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/DAGProposedSolution.md#tags)
+- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/DAGProposedSolution.md#definitions-acronyms-abbreviations)
 - [The Context View for Standalone Application](https://github.com/dimanikulin/dimanikulin/blob/main/DAGProposedSolution.md#the-context-view-for-standalone-application)
 - [The Context View for a Separate Step in CI/CD](https://github.com/dimanikulin/dimanikulin/blob/main/DAGProposedSolution.md#the-context-view-for-a-separate-step-in-cicd)
 - [Functional View](https://github.com/dimanikulin/dimanikulin/blob/main/DAGProposedSolution.md#functional-view)
@@ -26,7 +26,7 @@ Whether you're an architect, developer, or IT enthusiast, this article offers a 
 - [Integration with AWS, Azure, or GCP](https://github.com/dimanikulin/dimanikulin/blob/main/DAGProposedSolution.md#integration-with-aws-azure-or-gcp)
 - [Dependency Analysis Tool](https://github.com/dimanikulin/dimanikulin/blob/main/DAGProposedSolution.md#dependency-analysis-tool)
 - [Integration with Jenkins or Bamboo](https://github.com/dimanikulin/dimanikulin/blob/main/DAGProposedSolution.md#integration-with-jenkins-or-bamboo)
-- [References](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#references)
+- [References](https://github.com/dimanikulin/dimanikulin/blob/main/DAGProposedSolution.md#references)
 
 # Tags
 Software Architecture, Integration Strategies, Deployment Scenarios, Context Diagrams, Functional Decomposition, CI/CD Pipelines
