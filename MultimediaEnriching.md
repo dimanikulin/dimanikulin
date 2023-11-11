@@ -2,9 +2,9 @@
 TBD 
 
 # Table of contents
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#tags)
-- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#definitions-acronyms-abbreviations)
-- [References](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#references)
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaEnriching.md#tags)
+- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaEnriching.md#definitions-acronyms-abbreviations)
+- [References](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaEnriching.md#references)
 
 # Tags
 TBD
