@@ -1,12 +1,12 @@
 # Russian telegram channels
 
+# Table of contents
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/MyRuTelegramChannels#tags)
+- [For channels](https://github.com/dimanikulin/dimanikulin/blob/main/MyRuTelegramChannels.md#for-channels)
+- [For bots](https://github.com/dimanikulin/dimanikulin/blob/main/MyRuTelegramChannels.md#for-bots)
+
 # Tags
 TBD
-
-# Definitions, Acronyms, Abbreviations
-| # | Abbreviation or Acronym | Definition     |
-| - | ------------------------|:--------------:|
-| 1 |
 
 ---
  
