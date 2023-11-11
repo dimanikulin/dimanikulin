@@ -2,12 +2,12 @@
 TBD 
 
 # Table of contents
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#tags)
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/Interviews.md#tags)
 - [Interview number](https://github.com/dimanikulin/dimanikulin/blob/main/Interviews.md#interview-number)
 - [Interview Red Flags](https://github.com/dimanikulin/dimanikulin/blob/main/Interviews.md#interview-red-flags)
 - [AI tools for interview](https://github.com/dimanikulin/dimanikulin/blob/main/Interviews.md#ai-tools-for-interview)
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/Interviews.md#tags-1)
-- [References](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#references)
+- [References](https://github.com/dimanikulin/dimanikulin/blob/main/Interviews.md#references)
 
 # Tags
 interviewer cplusplus cpp technicalinterview
