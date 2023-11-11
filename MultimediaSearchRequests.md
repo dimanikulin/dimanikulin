@@ -2,9 +2,9 @@
 TBD
 
 # Table of contents
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaSearchRequests.md.md#tags)
-- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaSearchRequests.md.md#definitions-acronyms-abbreviations)
-- [References](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaSearchRequests.md.md#references)
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaSearchRequests.md#tags)
+- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaSearchRequests.md#definitions-acronyms-abbreviations)
+- [References](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaSearchRequests.md#references)
 
 # Tags
 TBD
