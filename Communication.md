@@ -2,11 +2,11 @@
 TBD 
 
 # Table of contents
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#tags)
-- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#definitions-acronyms-abbreviations)
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/Communication.md#tags)
+- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/Communication.md#definitions-acronyms-abbreviations)
 - [We need more Messengers!](https://github.com/dimanikulin/dimanikulin/blob/main/Communication.md#we-need-more-messengers)
 - [What does it mean for me to be online?](https://github.com/dimanikulin/dimanikulin/blob/main/Communication.md#what-does-it-mean-for-me-to-be-online)
-- [References](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#references)
+- [References](https://github.com/dimanikulin/dimanikulin/blob/main/Communication.md#references)
 
 # Tags
 Communication

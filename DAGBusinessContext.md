@@ -6,8 +6,8 @@ The solution requirements include different modes of execution, inputs from code
 The solution aims to enhance modifiability, extendibility, and configurability, allowing for flexibility in adapting to project needs. 
 
 # Table of contents
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#tags)
-- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#definitions-acronyms-abbreviations)
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/DAGBusinessContext.md#tags)
+- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/DAGBusinessContext.md#definitions-acronyms-abbreviations)
 - [Executive summary](https://github.com/dimanikulin/dimanikulin/blob/main/DAGBusinessContext.md#executive-summary)
 - [Detecting Architectural Gaps with Automation](https://github.com/dimanikulin/dimanikulin/blob/main/DAGBusinessContext.md#detecting-architectural-gaps-with-automation)
 - [Solution requirements](https://github.com/dimanikulin/dimanikulin/blob/main/DAGBusinessContext.md#solution-requirements)
@@ -18,7 +18,7 @@ The solution aims to enhance modifiability, extendibility, and configurability, 
 - [Solution output](https://github.com/dimanikulin/dimanikulin/blob/main/DAGBusinessContext.md#solution-output)
 - [Modifiability and extendibility](https://github.com/dimanikulin/dimanikulin/blob/main/DAGBusinessContext.md#modifiability-and-extendibility)
 - [Configurability](https://github.com/dimanikulin/dimanikulin/blob/main/DAGBusinessContext.md#configurability)
-- [References](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#references)
+- [References](https://github.com/dimanikulin/dimanikulin/blob/main/DAGBusinessContext.md#references)
 
 # Tags
 Software architecture, architecture review, architecture drift, architecture erosion, manual review, dependency analysis
