@@ -9,6 +9,10 @@
 
 В цілому, стаття стимулює читачів до пошуку правдивої інформації, активної участі в інформаційній боротьбі та усвідомленого ставлення до контенту, адже інформаційна війна є складним й динамічним процесом, і тільки зі знанням та розумінням його механізмів можна ефективно чинити опір маніпуляціям та впливати на інформаційне середовище.
 
+# Table of contents
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/MyTelegramChannel.md#tags)
+- [References](https://github.com/dimanikulin/dimanikulin/blob/main/MyTelegramChannel.md#references)
+
 # Tags
 TelegramChannels InformationManipulation DiscreditingTactics Ukraine
 
