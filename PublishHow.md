@@ -1,6 +1,12 @@
 # How to publish your content?
 TBD 
 
+# Table of contents
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/PublishHow.md#tags)
+- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/PublishHow.md#definitions-acronyms-abbreviations)
+- [References](https://github.com/dimanikulin/dimanikulin/blob/main/PublishHow.md#references)
+TBD 
+
 # Tags
 TODO GPT from connet
 
