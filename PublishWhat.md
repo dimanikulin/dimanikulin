@@ -1,6 +1,12 @@
 # What to publish
 TBD 
 
+# Table of contents
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhat.md.md#tags)
+- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhat.md.md#definitions-acronyms-abbreviations)
+- [References](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhat.md.md#references)
+TBD 
+
 # Tags
 TBD
 
