@@ -1,8 +1,3 @@
-https://www.youtube.com/watch?v=zC9RxLxammk
-
-RecursiveDrinking.jpg
-
-I don't jump from job to job just for salary
 С++ and guessing is on opposite sides
 
 выиргрывать то выигрывать макс, если проиграть то только одну, две что понять что не случайно была первая
@@ -18,10 +13,7 @@ And usual people
 уволить его значит уволить меня
 
 https://dou.eu/en/community/posts/what-are-multimedia-information-retrieval-systems 
-
-что помогло выжить это жзимой а может быть еще хуже 
-https://dou.ua/forums/topic/44453/?from=tg&utm_source=telegram&utm_medium=social
-
+ 
 portbable app
 archive
 essentiali epim 
@@ -55,3 +47,7 @@ metaprograms + social styles +
 ты потускнел в октябре 2022 - феврале 2023...
 ты притих в мае 2023..
 но ты не ослаб до сих пор!
+
+RecursiveDrinking.jpg
+
+I don't jump from job to job just for salary
