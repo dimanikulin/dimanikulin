@@ -84,6 +84,21 @@ Invest(hire) in them now and you will have nice ROI soon!
 
 <img src="./Images/FindJobInSummer.png" alt="FindJobInSummer.png" />
 
+# Що мені допомогло минулої зими під час blackout-ів
+- Запас питної та технічної води на 3 дні
+- Сухи пайки, консерви, сублімовані продукти (каші)
+- BLUETTI AC50S Blue
+- Лампи на акумуляторах
+- Запас свічок, сірників та батарейок
+- Теплі домашні речі, ковдри
+- 2 додаткових sim карти для мобільного інтернету (тобто маю карти Life, Vodafone та Kyivstar)
+
+Також придбав домашній вогнегасник.
+
+А що допомогло Вам чого немає у цьому чек-листі?
+
+<img src="./Images/BLUETTI AC50S.jfif" alt="BLUETTI AC50S"/>
+
 # References
 | # | Name                   | Source                | Release date           |  Author                 | Description   |
 | - | -----------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
@@ -96,3 +111,4 @@ Invest(hire) in them now and you will have nice ROI soon!
 | 7 |Якби у Вас була можливість, то що б Ви запитали у Тараса Чмута?|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_globallogic-savelife-staywithukraine-activity-7046022484441149441-Ium7?utm_source=share&utm_medium=member_desktop)|March, 2023| Dmytro Nikulin||
 | 8 |Які питання ставили хлопці з GlobalLogic Тарасу Чмуту|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_globallogic-armukrainenow-staywithukraine-activity-7058710292825874433-_gHi?utm_source=share&utm_medium=member_desktop)|May 1, 2023 | Dmytro Nikulin||
 | 9 |junior is trying to find a job in summer in Ukraine in war|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_ukrainewar-ukraine-summer-activity-6957738620485005312-kqEc?utm_source=share&utm_medium=member_desktop)|July, 2022 | Dmytro Nikulin||
+| 10|Що мені допомогло минулої зими під час blackout-ів|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_%D1%89%D0%BE-%D0%BC%D0%B5%D0%BD%D1%96-%D0%B4%D0%BE%D0%BF%D0%BE%D0%BC%D0%BE%D0%B3%D0%BB%D0%BE-%D0%BC%D0%B8%D0%BD%D1%83%D0%BB%D0%BE%D1%97-%D0%B7%D0%B8%D0%BC%D0%B8-%D0%BF%D1%96%D0%B4-%D1%87%D0%B0%D1%81-blackout-%D1%96%D0%B2-activity-7129735104486080512-MALD?utm_source=share&utm_medium=member_desktop)|13 November, 2023 | Dmytro Nikulin| |
