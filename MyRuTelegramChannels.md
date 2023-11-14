@@ -108,7 +108,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [KovaksClearSky](https://t.me/KovaksClearSky)      | closed for DN2 | |
 | [КТО ПО ЖИЗНИ](https://t.me/KPZYoyTube)            | WIP4 | |
 | [krasnovdmitri](https://t.me/krasnovdmitri)        | WIP4 | |
-| [kuzichev_chat](https://t.me/kuzichev_chat)        | 
+| [kuzichev_chat](https://t.me/kuzichev_chat)        | WIP4 | |
 | [labppsh](https://t.me/labppsh)                    |
 | [Военкор Белла Либерман](https://t.me/liberman_bella)| 
 | [Лера и булочка ❤️](https://t.me/leraBratsaaaa)    |
@@ -189,7 +189,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Саня во Флориде](https://t.me/sanya_florida)      |
 | [sergeyvostrecov](https://t.me/sergeyvostrecov)    |
 | [Редакция ШМЕЛЬ](https://t.me/shmel_chik)          |
-| [SHAMAN](https://t.me/shaman_channel)              | WIP4 | |
+| [SHAMAN](https://t.me/shaman_channel)              | Closed for DN4 | |
 | [Шейх Тамир](https://t.me/sheyhtamir1974)          |
 | [СИЛОВИКИ](https://t.me/SIL0VIKI)                  | Closed comments | |
 | [СОЛДАТ УДАЧИ](https://t.me/Soldieroffortune777)   | | | 
