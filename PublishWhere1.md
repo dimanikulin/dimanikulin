@@ -1,6 +1,19 @@
 # Where to publish, part 1
 TBD 
 
+# Table of contents
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhere1.md#tags)
+- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhere1.md#definitions-acronyms-abbreviations)
+- [hackernoon](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhere1.md#hackernoon)
+- [hashnode](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhere1.md#hashnode)
+- [dev.to](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhere1.md#devto)
+- [Medium](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhere1.md#medium)
+- [Reddit](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhere1.md#reddit)
+- [Quora](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhere1.md#quora)
+- [LinkedIn](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhere1.md#linkedin)
+- [Comparison](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhere1.md#comparison)
+- [Analyze](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhere1.md#analyze)
+
 # Tags
 TBD
 
@@ -16,7 +29,7 @@ This will help you choose the right platform to publish on.
 
 At first, I selected several *easy-to-use* platforms:
 
-- Hacker Noon
+- hackernoon
 - Hashnode
 - Dev.to
 - Medium
@@ -29,7 +42,7 @@ The truth is, it's not a big deal.
 I've created a separate table with columns for each **platform** and rows for individual **publications**.
 
 # hackernoon
-*[HackerNoon](https://hackernoon.com/) publishes technology stories and builds publishing software.*
+*[hackernoon](https://hackernoon.com/) publishes technology stories and builds publishing software.*
  
 It has content editor like a WordPad.
 
