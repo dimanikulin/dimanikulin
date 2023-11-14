@@ -177,6 +177,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Роза Шпатель❤️](https://t.me/rozashpatel2023)     |
 | [rsotmdivision](https://t.me/rsotmdivision)        |
 | [Роман Сапоньков](https://t.me/RSaponkov)          |
+| [Операция Z: Военкоры Русско](https://t.me/RVvoenkor) |
 | [Репортёр Руденко V🇷🇺](https://t.me/RtrDonetsk)  | Closed comments | | 
 | [RuFront](https://t.me/RuFront)                    | Closed comments | |
 | [russiaz](https://t.me/russiaz)                    |
