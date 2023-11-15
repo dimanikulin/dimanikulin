@@ -218,7 +218,8 @@ The bot was created and works to promote and publish fake news about the Russian
 | [vadovskaya](https://t.me/vadovskaya)              |
 | [Дмитрий Василец](https://t.me/VasiletsDmitriy)    | | |
 | [Новости Россия! Zа правду!](https://t.me/vchatz)  | 
-| [verysexydasha](https://t.me/verysexydasha)        | 
+| [verysexydasha](https://t.me/verysexydasha)        |
+| [Сводки ополчения](https://t.me/swodki)            | 
 | [vitteli](https://t.me/vitteli)                    |
 | [Воин DV](https://t.me/voin_dv)                    | comments closed | |
 | [Военкор Котенок](https://t.me/voenkorKotenok)     | comments closed | | 
