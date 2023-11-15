@@ -136,6 +136,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [mylandbelarus](https://t.me/mylandbelarus)        | 
 | [Настюшка на Войнушке](https://t.me/nastyadnr)     |
 | [Natalia2547](https://t.me/natalia2547)            | closed for DN2 | |
+| [Наука побеждать](https://t.me/naukapobezhdatZ)    |
 | [ncbs18](https://t.me/ncbs18)                      | 
 | [nemeZ1da_ru](https://t.me/nemeZ1da_ru)            |
 | [НгП раZVедка](https://t.me/negumanitarnaya_pomosch_Z)| 
@@ -219,7 +220,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Дмитрий Василец](https://t.me/VasiletsDmitriy)    | | |
 | [Новости Россия! Zа правду!](https://t.me/vchatz)  | 
 | [verysexydasha](https://t.me/verysexydasha)        |
-| [Сводки ополчения](https://t.me/swodki)            | 
+| [Сводки ополчения](https://t.me/swodki)            | comments closed | |
 | [vitteli](https://t.me/vitteli)                    |
 | [Воин DV](https://t.me/voin_dv)                    | comments closed | |
 | [Военкор Котенок](https://t.me/voenkorKotenok)     | comments closed | | 
