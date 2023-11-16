@@ -5,6 +5,11 @@
 Но благодаря тому, что охранник знал его фамилию как актера, автору удалось справиться с ситуацией, не дав свою фамилию на запись.
 В конце автор подчеркивает, что это реальная история. 
 
+# Table of contents
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/SecondNameHistory.md#tags)
+- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/SecondNameHistory.md#definitions-acronyms-abbreviations)
+- [References](https://github.com/dimanikulin/dimanikulin/blob/main/SecondNameHistory.md#references)
+
 # Tags
 work, punctuality, discipline, surnames, workplace anecdotes, humorous stories.
 
