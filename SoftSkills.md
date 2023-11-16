@@ -1,21 +1,18 @@
 # Soft skiils
 TBD 
 
+# Table of contents
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/SoftSkills.md#tags)
+- [Active Listening](https://github.com/dimanikulin/dimanikulin/blob/main/SoftSkills.md#active-listening)
+- [Who are toxic people](https://github.com/dimanikulin/dimanikulin/blob/main/SoftSkills.md#who-are-toxic-people)
+- [References](https://github.com/dimanikulin/dimanikulin/blob/main/SoftSkills.md#references)
+
 # Tags
 softskills
 
 ---
 
-# Table of contents
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/SoftSkills.md#tags)
-- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/SoftSkills.md#definitions-acronyms-abbreviations)
-- [Active Listening](https://github.com/dimanikulin/dimanikulin/blob/main/SoftSkills.md#active-listening)
-- [Who are toxic people](https://github.com/dimanikulin/dimanikulin/blob/main/SoftSkills.md#who-are-toxic-people)
-- [References](https://github.com/dimanikulin/dimanikulin/blob/main/SoftSkills.md#references)
-
 # Active Listening
-
-
 Is "talking a lot" a soft skill? Nope.
 
 I have seen a lot of people who think "talking a lot" is a soft skill.
