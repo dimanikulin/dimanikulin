@@ -7,7 +7,6 @@
 
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/SecondNameHistory.md#tags)
-- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/SecondNameHistory.md#definitions-acronyms-abbreviations)
 - [References](https://github.com/dimanikulin/dimanikulin/blob/main/SecondNameHistory.md#references)
 
 # Tags
