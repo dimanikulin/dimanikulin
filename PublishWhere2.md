@@ -1,6 +1,12 @@
 # Where to publish, part 2
 TBD 
 
+# Table of contents
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhere2.md#tags)
+- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhere2.md#definitions-acronyms-abbreviations)
+TBD
+- [References](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhere2.md#references)
+
 # Tags
 TBD
 
