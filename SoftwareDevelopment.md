@@ -1,6 +1,21 @@
 # Everything about the Software Development
 TBD 
 
+# Table of contents
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#tags)
+- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#definitions-acronyms-abbreviations)
+- [Just joined a project with Scrum](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#just-joined-a-project-with-scrum)
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#tags-1)
+- [Software Complexity](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#software-complexity)
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#tags-2)
+- [Which title describes better a real job?](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#which-title-describes-better-a-real-job)
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#tags-3)
+- [What do you usually do to provide accurate estimations?](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#what-do-you-usually-do-to-provide-accurate-estimations)
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#tags-4)
+- [C++ death](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#c-death)
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#tags-5)
+- [References](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#references)
+
 # Tags
 Software Development 
 
