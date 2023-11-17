@@ -66,7 +66,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Синяя Z Борода](https://t.me/cmiye)               | | too few subsribers |
 | [Сумасшедшая власть](https://t.me/crazypower1)     | not working | AntiPutin content |
 | [Крымская Z прачка 🧺🧼](https://t.me/Crimeanprachka)| Closed comments | |
-| [Сердитая Чувашия](https://t.me/ChuvashiaDream) | WIP2 | | 
+| [Сердитая Чувашия](https://t.me/ChuvashiaDream) | closed for DN2 | AntiPutin content | 
 | [КРИСТАЛЛ РОСТА](https://t.me/crystal_book)        | closed for DN2 | |
 | [СВО 2023](https://t.me/cvo2022_5)                 | closed for DN2 | |
 | [Донецк ⚒  ЧП Макеевка](https://t.me/dark_donetskz)|Closed comments | |
