@@ -1,6 +1,23 @@
 # What I learned as a Delivery Manager while creating my product
 Unlocking Developer Engagement: A Comprehensive Guide to Enhancing Open-Source Projects and Creating Compelling READMEs 
 
+# Table of contents
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#tags)
+- [Create a Good Readme](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsDeliveryManager.md#create-a-good-readme)
+- [Bages](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsDeliveryManager.md#bages)
+- [Quick Links](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsDeliveryManager.md#quick-links)
+- [Capabilities and Description](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsDeliveryManager.md#capabilities-and-description)
+- [Architecture Documentation](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsDeliveryManager.md#architecture-documentation)
+- [Code Style and Documentation](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsDeliveryManager.md#code-style-and-documentation)
+- [Implementation Status](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsDeliveryManager.md#implementation-status)
+- [Contributing and Stay in Touch](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsDeliveryManager.md#contributing-and-stay-in-touch)
+- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsDeliveryManager.md#definitions-acronyms-abbreviations)
+- [Project Status Tracking](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsDeliveryManager.md#project-status-tracking)
+- [GitHub Projects](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsDeliveryManager.md#github-projects)
+- [ProjectLibre](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsDeliveryManager.md#projectlibre)
+- [Releasing the Code and Documentation](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsDeliveryManager.md#releasing-the-code-and-documentation)
+- [References](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#references)
+
 # Tags
 Open Source Development, Developer Engagement, README Best Practices, Project Documentation, GitHub Projects, ProjectLibre
 
