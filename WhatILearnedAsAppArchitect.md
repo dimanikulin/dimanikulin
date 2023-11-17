@@ -3,6 +3,24 @@ In this article, we explore the importance of solution architecture in small app
 The author shares their experience in creating a solution architecture document, and how they decided to keep all notes and documents in the form of text files in MD format, providing insights on how to create attractive README.md files with a use of badges from shields, providing document structure and required chapters. 
 The article also covers topics such as defining requirements, managing development tools and libraries, and creating effective documentation for small applications. 
 
+# Table of contents
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsAppArchitect.md#tags)
+- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsAppArchitect.md#definitions-acronyms-abbreviations)
+- [Requirements](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsAppArchitect.md#requirements)
+- [Constraints](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsAppArchitect.md#constraints)
+- [Assumptions](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsAppArchitect.md#assumptions)
+- [Quality Attributes](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsAppArchitect.md#quality-attributes)
+- [Hardware requirements](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsAppArchitect.md#hardware-requirements)
+- [Software Architecture Views](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsAppArchitect.md#software-architecture-views)
+- [Context view](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsAppArchitect.md#context-view)
+- [Functional view](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsAppArchitect.md#functional-view) 
+- [Deployment view](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsAppArchitect.md#deployment-view)
+- [Tools, libraries and languages](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsAppArchitect.md#tools-libraries-and-languages)
+- [Tools and libraries](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsAppArchitect.md#tools-and-libraries)
+- [Languages](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsAppArchitect.md#languages)
+- [Licenses](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsAppArchitect.md#licenses)
+- [References](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsAppArchitect.md#references)
+
 # Tags
 Solution Architecture, Development Tools, Quality Attributes, Requirements, Branch Strategy, Licenses, Text-Based Documentation, Mermaid.js
 
