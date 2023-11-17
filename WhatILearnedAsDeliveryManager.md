@@ -2,7 +2,7 @@
 Unlocking Developer Engagement: A Comprehensive Guide to Enhancing Open-Source Projects and Creating Compelling READMEs 
 
 # Table of contents
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#tags)
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsDeliveryManager.md#tags)
 - [Create a Good Readme](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsDeliveryManager.md#create-a-good-readme)
 - [Bages](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsDeliveryManager.md#bages)
 - [Quick Links](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsDeliveryManager.md#quick-links)
@@ -16,7 +16,7 @@ Unlocking Developer Engagement: A Comprehensive Guide to Enhancing Open-Source P
 - [GitHub Projects](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsDeliveryManager.md#github-projects)
 - [ProjectLibre](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsDeliveryManager.md#projectlibre)
 - [Releasing the Code and Documentation](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsDeliveryManager.md#releasing-the-code-and-documentation)
-- [References](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#references)
+- [References](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsDeliveryManager.md#references)
 
 # Tags
 Open Source Development, Developer Engagement, README Best Practices, Project Documentation, GitHub Projects, ProjectLibre
