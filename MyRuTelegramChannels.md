@@ -106,11 +106,11 @@ The bot was created and works to promote and publish fake news about the Russian
 | [kommunist](https://t.me/kommunist)                | WIP3 | | 
 | [KotNaMirotvorze](https://t.me/KotNaMirotvorze)    | closed for DN3 | |
 | [KovaksClearSky](https://t.me/KovaksClearSky)      | closed for DN2 | |
-| [КТО ПО ЖИЗНИ](https://t.me/KPZYoyTube)            | WIP4 | |
+| [КТО ПО ЖИЗНИ](https://t.me/KPZYoyTube)            | closed for DN4 | |
 | [krasnovdmitri](https://t.me/krasnovdmitri)        | WIP4 | |
 | [kuzichev_chat](https://t.me/kuzichev_chat)        | WIP4 | |
-| [labppsh](https://t.me/labppsh)                    |
-| [Военкор Белла Либерман](https://t.me/liberman_bella)| 
+| [labppsh](https://t.me/labppsh)                    | WIP2 |
+| [Военкор Белла Либерман](https://t.me/liberman_bella)| WIP4 | | 
 | [Лера и булочка ❤️](https://t.me/leraBratsaaaa)    |
 | [longread2023](https://t.me/longread2023)          | Closed comments | |
 | [LIC_LPR](https://t.me/LIC_LPR)                    |
