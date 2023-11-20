@@ -8,7 +8,6 @@ The author also discusses their journey of creating their own multimedia organiz
 - [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/WhyCreatedPhotoOrganizer.md#definitions-acronyms-abbreviations)
 - [References](https://github.com/dimanikulin/dimanikulin/blob/main/WhyCreatedPhotoOrganizer.md#references)
 
-
 # Tags
 Multimedia data, Photo album, Multimedia information retrieval (IR) systems, Multimedia organizer, Metadata
 

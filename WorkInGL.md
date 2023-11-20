@@ -5,6 +5,27 @@ The author also shares insights into interactions with notable individuals, incl
 Additionally, the article touches on the mental health program 'Ти як?', featuring Olena Zelenska.
 The content reflects the author's appreciation for GlobalLogic's support and their personal experiences. 
 
+# Table of contents
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/WorkInGL.md#tags)
+- [Presents in GlobalLogic for an employer](https://github.com/dimanikulin/dimanikulin/blob/main/WorkInGL.md#presents-in-globallogic-for-an-employer)
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/WorkInGL.md#tags-1)
+- [Cool people create cool music!](https://github.com/dimanikulin/dimanikulin/blob/main/WorkInGL.md#cool-people-create-cool-music)
+- [Taras Chmut and GlobalLogic](https://github.com/dimanikulin/dimanikulin/blob/main/WorkInGL.md#taras-chmut-and-globallogic-)
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/WorkInGL.md#tags-2)
+- [Top Interviewer in Kyiv in C/C++](https://github.com/dimanikulin/dimanikulin/blob/main/WorkInGL.md#top-interviewer-in-kyiv-in-cc)
+- [7000 people in GL Ukraine](https://github.com/dimanikulin/dimanikulin/blob/main/WorkInGL.md#7000-people-in-gl-ukraine)
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/WorkInGL.md#tags-3)
+- [Люксембург, Люксембург](https://github.com/dimanikulin/dimanikulin/blob/main/WorkInGL.md#%D0%BB%D1%8E%D0%BA%D1%81%D0%B5%D0%BC%D0%B1%D1%83%D1%80%D0%B3-%D0%BB%D1%8E%D0%BA%D1%81%D0%B5%D0%BC%D0%B1%D1%83%D1%80%D0%B3)
+- [Олена Зеленська](https://github.com/dimanikulin/dimanikulin/blob/main/WorkInGL.md#%D0%BE%D0%BB%D0%B5%D0%BD%D0%B0-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D1%81%D1%8C%D0%BA%D0%B0)
+- [A white paper on GlobalLogic Insights](https://github.com/dimanikulin/dimanikulin/blob/main/WorkInGL.md#a-white-paper-on-globallogic-insights)
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/WorkInGL.md#tags-4)
+- [Олена Зеленська 2](https://github.com/dimanikulin/dimanikulin/blob/main/WorkInGL.md#%D0%BE%D0%BB%D0%B5%D0%BD%D0%B0-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D1%81%D1%8C%D0%BA%D0%B0-2)
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/WorkInGL.md#tags-5)
+- [Presents in GlobalLogic for an employer 2](https://github.com/dimanikulin/dimanikulin/blob/main/WorkInGL.md#presents-in-globallogic-for-an-employer-2)
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/WorkInGL.md#tags-6)
+- [Дмитро Антонов](https://github.com/dimanikulin/dimanikulin/blob/main/WorkInGL.md#%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%BE-%D0%B0%D0%BD%D1%82%D0%BE%D0%BD%D0%BE%D0%B2)
+- [References](https://github.com/dimanikulin/dimanikulin/blob/main/WorkInGL.md#references)
+
 # Tags
 GlobalLogic Work
 
