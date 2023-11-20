@@ -57,6 +57,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Болталка](https://t.me/boltalkarussi)             | | |
 | [Brееgе Timе ZÖZZ🇷🇺](https://t.me/breege_time_20zz)| WIP1 | |
 | [BISMARCK резерв](https://t.me/bismarckedit)       | | too few subsribers |
+| [Берлога (Z) 70 Гв. МСП](https://t.me/berloga_life)|
 | [Colonelcassad](https://t.me/boris_rozhin)         | 
 | [Брекотин](https://t.me/brekotins)                 | WIP1 | |
 | [Работайте, братья!](https://t.me/btr80)           | Closed comments | | 
@@ -170,6 +171,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Putin-today](https://t.me/putin_today)            |
 | [Рагуль из овощей](https://t.me/ragulinho)         |
 | [Сводки и Аналитика СВО](https://t.me/rezervsvo)   | Closed comments | |
+| [РИА Новости: ДНР](https://t.me/ria_dnr)           | Closed comments | |
 | [Режим Б](https://t.me/rezhimbe)                   |
 | [Romanov Лайт](https://t.me/romanov_92)            |
 | [Росич Rosich](https://t.me/rosich_ru)             | | | 
