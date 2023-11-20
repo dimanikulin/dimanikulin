@@ -5,6 +5,28 @@ Author also mentioned that he established a set of documentation artifacts to ke
 Additionally, author focused on the product from the user's perspective and created a Persona, a User Journey, and User Scenarios to show the value of the product. 
 Finally, author identified stakeholders and created a table with their roles, concerns, and views, and created a questionnaire to clarify user needs. 
 
+# Table of contents
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsProductManager.md#tags)
+- [Design Thinking](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsProductManager.md#design-thinking)
+- [High-level product documentation](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsProductManager.md#high-level-product-documentation)
+- [Value Propositions](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsProductManager.md#value-propositions)
+- [Business Model Canvas](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsProductManager.md#business-model-canvas)
+- [Product Vision Board](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsProductManager.md#product-vision-board)
+- [Competitive Analysis Matrix](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsProductManager.md#competitive-analysis-matrix)
+- [Product from a user perspective](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsProductManager.md#product-from-a-user-perspective)
+- [Persona](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsProductManager.md#persona)
+- [User Journey and User Scenarios](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsProductManager.md#user-journey-and-user-scenarios)
+- [Stakeholders](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsProductManager.md#stakeholders)
+- [Product requirements](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsProductManager.md#product-requirements)
+- [Questionnaire](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsProductManager.md#questionnaire)
+- [Capabilities](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsProductManager.md#capabilities)
+- [Features](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsProductManager.md#features)
+- [Functional Requirements](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsProductManager.md#functional-requirements)
+- [Product development documents](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsProductManager.md#product-development-documents)
+- [Product Road Map](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsProductManager.md#product-road-map)
+- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsProductManager.md#definitions-acronyms-abbreviations)
+- [References](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsProductManager.md#references)
+
 # Tags
 Design-Thinking, User persona, Value proposition, Business model canvas, Product vision, Requirements, Stakeholders, Competitor analysis
 
