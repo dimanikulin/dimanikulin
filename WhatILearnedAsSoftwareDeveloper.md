@@ -7,6 +7,15 @@ The evolution of internal metadata formats in the software is explored, highligh
 
 Overall, the article provides insights into building a robust and maintainable software product.
 
+# Table of contents
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#tags)
+- [Code quality](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsSoftwareDeveloper.md#code-quality)
+- [Code documentation](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsSoftwareDeveloper.md#code-documentation)
+- [Implementation](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsSoftwareDeveloper.md#implementation)
+- [History of internal metadata formats](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsSoftwareDeveloper.md#history-of-internal-metadata-formats)
+- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#definitions-acronyms-abbreviations)
+- [References](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#references)
+
 # Tags
 Software development, code quality, code review, coding standards, documentation practices, C++, Python, implementation status, UI development, QT library, QWidgets, QML, UI languages, SQLite, CSV, C++ and Python integration, riff parser, metadata formats, maintainability
 
