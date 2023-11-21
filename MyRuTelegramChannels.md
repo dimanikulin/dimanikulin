@@ -74,6 +74,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Депутат Елена Шишкина (ДНР)](https://t.me/dep_shishkina)| closed for DN2 | | 
 | [Дневник Десантника🇷🇺](https://t.me/DnevnikDesantnika)| closed for DN2 | |
 | [УКРОПСКИЙ ФРЕШ](https://t.me/dillfrash)           | closed for DN2 | |
+| [ZOV22rus](https://t.me/difmox_w)                  |
 | [ДОЛГАРЕVА 🇷🇺](https://t.me/dolgarevaanna)       | closed for DN2 | |
 | [donezkiy](https://t.me/donezkiy)                  | closed for DN1,2 | |
 | [Donbass Insider](https://t.me/donbassinsider)     | closed for DN2 | |
@@ -246,6 +247,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Za наших](https://t.me/za_army)                   |
 | [ЗАПОРОЖСКИЙ ФРОНТ](https://t.me/ZA_FROHT)         | | |
 | [Za Наших новости](https://t.me/za_nashih_news)    | comments closed | |
+| [Z - Новости Бывшей Украины](https://t.me/z_novosti) |
 | [Vыше нас только Zвезды](https://t.me/ZaPobedy_uvo)|
 | [Владимир Зеленский](https://t.me/zelenckiy)       |
 | [Владимир Зеленский](https://t.me/zelenskyi_vladimir)|
