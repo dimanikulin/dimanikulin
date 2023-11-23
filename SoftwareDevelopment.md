@@ -14,6 +14,7 @@ TBD
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#tags-4)
 - [C++ death](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#c-death)
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#tags-5)
+- [Programming Languages and Guessing!](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#programming-languages-and-guessing)
 - [References](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#references)
 
 # Tags
