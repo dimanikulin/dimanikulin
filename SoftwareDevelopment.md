@@ -95,6 +95,21 @@ Please share in the comments your programming language/technology that was predi
 ## Tags
 programminglanguage technologytrends cpplus prediction
 
+
+## Programming Languages and Guessing!
+
+In a broader sense, the relationship between programming languages and the role of guessing can depend on the nature of the language.
+It's not that guessing is universally opposed to programming; rather, different languages may encourage different approaches to problem-solving.
+
+For example, in languages like Python or JavaScript, often associated with scripting and rapid prototyping, developers might employ a more exploratory approach where they try out ideas, experiment, and make decisions on the fly.
+These languages are designed to be more flexible and expressive, allowing for a dynamic and iterative development process.
+
+On the contrary, a language like C++ is known for its precision, structure, and explicit coding, while guessing implies uncertainty and lack of precision.
+So, in the realm of programming, C++ and guessing can be considered on opposite sides.
+
+Do you agree with that?
+<img src="./Images/C++Guessing.jfif" alt="Programming Languages and Guessing!" />
+
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
@@ -103,3 +118,4 @@ programminglanguage technologytrends cpplus prediction
 | 3 |Which title describes better a real job?|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_itconsulting-itcompany-cv-activity-7000719821558411264-1dHl?utm_source=share&utm_medium=member_desktop)| November, 2022 | Dmytro Nikulin||
 | 4 |What do you usually do to provide accurate estimations?|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_experience-softwaredevelopment-estimation-activity-7069560555165876224-_Af3?utm_source=share&utm_medium=member_desktop)| 30 May, 2023 | Dmytro Nikulin| |
 | 5 |C++ death |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_programminglanguage-technologytrends-cpplus-activity-7076463361500098560-ucVw?utm_source=share&utm_medium=member_desktop)| 19 June, 2023 | Dmytro Nikulin| |
+| 6 |Programming Languages and Guessing! |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_languages-and-guessing-in-a-broader-sense-activity-7133365394043514880-WW4P?utm_source=share&utm_medium=member_desktop) | 23 November, 2023 | Dmytro Nikulin | |
