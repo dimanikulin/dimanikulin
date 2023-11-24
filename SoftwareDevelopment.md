@@ -109,6 +109,7 @@ On the contrary, a language like C++ is known for its precision, structure, and 
 So, in the realm of programming, C++ and guessing can be considered on opposite sides.
 
 Do you agree with that?
+
 <img src="./Images/C++Guessing.jfif" alt="Programming Languages and Guessing!" />
 
 # References

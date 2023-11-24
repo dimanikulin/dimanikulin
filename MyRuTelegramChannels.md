@@ -56,6 +56,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [🇷🇺БОБР🇷🇺](https://t.me/BOBRMORF)              | WIP1 | |
 | [Болталка](https://t.me/boltalkarussi)             | | |
 | [Brееgе Timе ZÖZZ🇷🇺](https://t.me/breege_time_20zz)| WIP1 | |
+| [Бердянск ZaVtra](https://t.me/brd_zavtra)         |
 | [BISMARCK резерв](https://t.me/bismarckedit)       | | too few subsribers |
 | [Берлога (Z) 70 Гв. МСП](https://t.me/berloga_life)|
 | [Colonelcassad](https://t.me/boris_rozhin)         | 
