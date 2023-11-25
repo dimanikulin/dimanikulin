@@ -42,31 +42,32 @@ The truth is, it's not a big deal.
 I've created a separate table with columns for each **platform** and rows for individual **publications**.
 
 # hackernoon
-*[hackernoon](https://hackernoon.com/) publishes technology stories and builds publishing software.*
- 
-It has content editor like a WordPad.
+*[hackernoon](https://hackernoon.com/) publishes technology stories and builds publishing software.
+It has a content editor similar to WordPad.
 
-For each story it provides a possibility to create 
+For each story, it provides the following options:
+
 - **Feature picture** - Title picture
-- **Tags** - the set of keywords to speed up the search
-- **Make Your Story Stand Out** -  up to 160 symbols description
-- **Emoji** - Credibility Indicator Guide 
-- **Give Shout Out to People on Twitter** - Send a link to Twitter
-- **Townhall Mode:** - Anyone Can Comment : *On* or *Off*
+- **Tags** - a set of keywords to speed up the search
+- **Make Your Story Stand Out** - up to a 160-symbol description
+- **Emoji** - Credibility Indicator Guide
+- **Give a Shout Out to People on Twitter** - Send a link to Twitter
+- **Townhall Mode**: - Anyone Can Comment: On or Off
 - **TL;DR** - Post Description
-- **First Seen At** a link to original story, only for republished stories
+- **First Seen At** - a link to the original story, only for republished stories
 
-It provides full review cicle with even human review - up to one week.
-I tried to publish 3 times without success, reason for rejection: too small, not actual, not worked links and spelling errors.
+It provides a full review cycle, including human review, which takes up to one week. I have tried to publish three times without success, and the reasons for rejection were: too small, not current, non-working links, and spelling errors.
 
-For other story it said *Promoting links in stories, @username? You would need to enter our brand as author program instead*.
-It meant too much links to one domain inside of a story
+For another story, it stated, *Promoting links in stories, @username? You would need to enter our brand as an author program instead.*
+This meant too many links to one domain inside a story.
 
-Please notice it might generate wrong **TL;DR**. In my case it generated **TL;DR** basing on part of text but not whole publication.
+Please note that it might generate the wrong **TL;DR.**
+In my case, it generated a **TL;DR** based on part of the text, not the whole publication.
 
-Also it is imposible to discuss the problem that editor found right on the platform. I recieved emails and could you reply back.
+Additionally, it is impossible to discuss the problems that the editor found right on the platform.
+I received emails and could reply back.
 
-For more information on how to publish please go [to](https://help.hackernoon.com/how-do-i-get-published)
+For more information on how to publish, please go [to](https://help.hackernoon.com/how-do-i-get-published).
 
 # hashnode
 [Hashnode](https://hashnode.com/) is a one-stop platform to start blogging as a developer. Start a blog. Share knowledge, attain creator independence, and grow your career.
