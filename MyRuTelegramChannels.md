@@ -114,9 +114,9 @@ The bot was created and works to promote and publish fake news about the Russian
 | [kuzichev_chat](https://t.me/kuzichev_chat)        | WIP4 | |
 | [labppsh](https://t.me/labppsh)                    | WIP2 |
 | [Военкор Белла Либерман](https://t.me/liberman_bella)| WIP4 | | 
-| [Лера и булочка ❤️](https://t.me/leraBratsaaaa)    | WIP4 | | 
+| [Лера и булочка ❤️](https://t.me/leraBratsaaaa)    | closed for DN4 | | 
 | [longread2023](https://t.me/longread2023)          | Closed comments | |
-| [LIC_LPR](https://t.me/LIC_LPR)                    |
+| [LIC_LPR](https://t.me/LIC_LPR)                    | WIP4 | |
 | [НОВОСТИ ЛНР](https://t.me/luganskallnews)         | Closed comments | |
 | [Мариуполь сейчас](https://t.me/mariupolz)         |
 | [Маша из Мариуполя 🇷🇺](https://t.me/mashainmarik)|
