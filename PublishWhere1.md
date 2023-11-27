@@ -70,34 +70,36 @@ I received emails and could reply back.
 For more information on how to publish, please go [to](https://help.hackernoon.com/how-do-i-get-published).
 
 # hashnode
-[Hashnode](https://hashnode.com/) is a one-stop platform to start blogging as a developer. Start a blog. Share knowledge, attain creator independence, and grow your career.
+[Hashnode](https://hashnode.com/) is a one-stop platform to start blogging as a developer.
+*Begin a blog, share knowledge, attain creator independence, and grow your career.*
 
-It has content editor like a WordPad.
+It has a content editor like WordPad.
 
-What I really liked in **hashnode** it has nice feature - checking for syntax in **Grammarly**
+What I really liked about **Hashnode** is its nice feature - checking for syntax in **Grammarly.**
 
-While editing it shows article stats: 
-**Word count**: 869 words
-**Paragraphs**: 27 paragraphs
-**Read time**: 4 minutes
+While editing, it shows article stats:
 
-For each story it provides a possibility to 
+**Word count:** 869 words
+**Paragraphs:** 27 paragraphs
+**Read time:** 4 minutes
 
-- add a **Cover** - Main picture
-- add a **Subtitle** - Description
-- select **A BLOG** and **ARTICLE SLUG**
-- add up to 5 tags
-- generate **TABLE OF CONTENTS**
-- add **CUSTOM OG IMAGE**  - Upload an image to display when your article is embedded online or on social network feeds
-- fill up **SEO TITLE** - The "SEO Title" will be shown in place of your Title on search engine results pages, such as a Google search. SEO titles between 40 and 50 characters with commonly searched words have the best click-through-rates.
-- fill up **SEO DESCRIPTION**, The SEO Description will be used in place of your Subtitle on search engine results pages. Good SEO descriptions utilize keywords, summarize the article and are between 140-156 characters long.
-- say if **ARE YOU REPUBLISHING?** Change the canonical URL of this article to the original article
-- schedule publication - Select a publishing date/time (Based on your local time zone)
-- select PUBLISH ON A BACKDATE
-- disable comments - This will hide the comments section below your article.
-- hide article from **HASHNODE FEED**, If you'd rather not have your article show up in Hashnode's feed that's displayed to our entire community
+For each story, it provides the possibility to:
 
-For more information on how to publish please go [to](https://support.hashnode.com/en/articles/6420682-writing-a-blog-post)
+- Add a **Cover** - Main picture
+- Add a **Subtitle** - Description
+- Select a **BLOG** and **ARTICLE SLUG**
+- Add up to 5 tags
+- Generate a **TABLE OF CONTENTS**
+- Add a **CUSTOM OG IMAGE** - Upload an image to display when your article is embedded online or on social network feeds
+- Fill up **SEO TITLE** - The "SEO Title" will be shown in place of your Title on search engine results pages, such as a Google search. SEO titles between 40 and 50 characters with commonly searched words have the best click-through rates.
+- Fill up **SEO DESCRIPTION** - The SEO Description will be used in place of your Subtitle on search engine results pages. Good SEO descriptions utilize keywords, summarize the article, and are between 140-156 characters long.
+- Indicate if **YOU ARE REPUBLISHING?** Change the canonical URL of this article to the original article.
+- Schedule publication - Select a publishing date/time (Based on your local time zone)
+- Select **PUBLISH ON A BACKDATE**
+- Disable comments - This will hide the comments section below your article.
+- Hide the article from **HASHNODE FEED** - If you'd rather not have your article show up in Hashnode's feed that's displayed to our entire community.
+
+For more information on how to publish, please go [to](https://support.hashnode.com/en/articles/6420682-writing-a-blog-post)
 
 # dev.to
 [dev.to](dev.to) - is a constructive and inclusive social network for software developers.
