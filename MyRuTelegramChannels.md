@@ -162,6 +162,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [oplnr](https://t.me/oplnr)                        | 
 | [opoveshenie](https://t.me/opoveshenie)            | 
 | [orsha_pereobutaya](https://t.me/orsha_pereobutaya)|
+| [OrengunTeam](https://t.me/orengunteam56)          |
 | [Позывной《OSETIN》](https://t.me/osetin20)          |
 | [Отряд "КЕРЧЬ"42-я гв.МСД](https://t.me/otryadkerch42) |
 | [petrlundstrem](https://t.me/petrlundstrem)        |
