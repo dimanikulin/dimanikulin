@@ -1,5 +1,5 @@
 # About Me
-My name is **Dmytro [Nikulin](./SecondNameHistory.md)** and I have **25** of years of expereince as a Software Developer/Lead.
+My name is **Dmytro [Nikulin](./SecondNameHistory.md)** and I have **25** of years of experience as a Software Developer/Lead.
 Please see [this link](./MyExperience.md) for more details.
 
 Currently, I hold 3 diplomas from **NaUKMA**, **EPAM SCHOOL of Digital Engineering** and **Kharkiv State Academy of Railway Transport**.   
