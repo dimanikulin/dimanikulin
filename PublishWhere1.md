@@ -102,19 +102,19 @@ For each story, it provides the possibility to:
 For more information on how to publish, please go [to](https://support.hashnode.com/en/articles/6420682-writing-a-blog-post)
 
 # dev.to
-[dev.to](dev.to) - is a constructive and inclusive social network for software developers.
+[dev.to](dev.to) is a constructive and inclusive social network for software developers. 
+It features a content editor in Markdown format.
 
-It has content editor in Md format.
+For each story, it provides the possibility to:
 
-For each story it provides a possibility to
-- add **tags**
-- add **cover image**
-- add **canonical URL**
-- change meta tag **canonical_url** if this post was first published elsewhere (like your own blog) - https://yoursite.com/post-title
-- schedule **publication** at date with format *mm/dd/yyyy --:-- --*
-- fill up series - will this post be part of a series? you can give the series a unique name. (Series visible once it has multiple posts)
+- Add **tags**
+- Add a **cover image**
+- Add a **canonical URL**
+- Change the meta tag **canonical_url** if this post was first published elsewhere (like your own blog) - https://yoursite.com/post-title
+- Schedule **publication** at a date with the format *mm/dd/yyyy --:--*
+- Fill up a series - Will this post be part of a series? You can give the series a unique name. (The series becomes visible once it has multiple posts)
 
-For more information on how to publish please go [to](https://dev.to/devteam/writing-your-first-post-on-dev-3m13)
+For more information on how to publish, please [visit](https://dev.to/devteam/writing-your-first-post-on-dev-3m13)
 
 # Medium 
 [Medium](https://medium.com/) is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.
