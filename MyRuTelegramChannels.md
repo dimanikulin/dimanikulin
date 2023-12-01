@@ -148,6 +148,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Найс!](https://t.me/n1ce_ch)                      |
 | [NIK1®](https://t.me/NIK1_99)                      | closed for DN2 | |
 | [nos_chanel](https://t.me/nos_chanel)              |
+| [ZАПИСКИ VЕТЕРАНА](https://t.me/notes_veterans)    | Closed comments | |
 | [Новая 🅉 Украина Live](https://t.me/novajaukraina)|
 | [Норд](https://t.me/nordof777)                     | closed for DN2 | |
 | [Типичная Одесса](https://t.me/odessa_typical)     |
@@ -188,6 +189,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [RuFront](https://t.me/RuFront)                    | Closed comments | |
 | [russiaz](https://t.me/russiaz)                    |
 | [RUSVARG](https://t.me/rusvarg)                    |
+| [Российский Рубеж Za нашу П](https://t.me/RubejRuZa)| | |
 | [Русская Весна СПЕЦОПЕРАЦ](https://t.me/russian_spring_zz) | Closed comments | |
 | [ТРОЙКА](https://t.me/rustroyka1945) | Closed comments | | 
 | [Крылатые](https://t.me/russian_airborne)          |
@@ -201,6 +203,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [СОЛДАТ УДАЧИ](https://t.me/Soldieroffortune777)   | | | 
 | [Скабеева](https://t.me/skabeeva)                  | Closed comments | |
 | [Дядя Слава](https://t.me/slavaded1337)            |
+| [Shalnyak](https://t.me/shalnyak)                  | 
 | [sharikovtime](https://t.me/sharikovtime)          | 
 | [smershmsk](https://t.me/smershmsk)                |
 | [СМОТРИ](https://t.me/smotri_media)                | Closed comments | |
