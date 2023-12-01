@@ -117,28 +117,29 @@ For each story, it provides the possibility to:
 For more information on how to publish, please [visit](https://dev.to/devteam/writing-your-first-post-on-dev-3m13)
 
 # Medium 
-[Medium](https://medium.com/) is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.
+[Medium](https://medium.com/) is an open platform where readers discover dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.
 
-It has content editor like Wordpad.
+It has a content editor similar to Wordpad.
 
-For each story it provides a possibility to
-- Make this story **unlisted?**, your public story will be available publicly to anyone and will not be eligible for payment. Your followers will be notified when you publish for the first time.
-- Change **featured image** - title image
-- Change **title and Subtitle**  - The title and subtitle are used on your publication homepage, in previews of your story on **Medium**, and on social media.
-- Change **topics (aka tags)** 
-- Pin **story** - Pinning a story keeps it at the top of the page until you specify otherwise. Pin this story to the top of your profile
-- Set **SEO Title** - The **SEO Title** is used in place of your Title on search engine results pages, such as a Google search. **SEO titles** over 60 characters will be truncated. **SEO titles** between 40 and 50 characters with commonly searched words have the best click-through-rates.
-- Set **SEO Description** - The **SEO Description** is used in place of your Subtitle on search engine results pages. Good **SEO descriptions** utilize keywords, summarize the story and are between 140-156 characters long.
-- Add **Friend Link** - This link guarantees anyone free access to your story, even if theyâ€™ve read all of their complimentary stories for this month. Learn more.
+For each story, it provides the following possibilities:
+
+- Make this story **unlisted?** Your public story will be available to anyone and will not be eligible for payment. Your followers will be notified when you publish for the first time.
+- Change **featured image:** Title image
+- Change **title and subtitle:** The title and subtitle are used on your publication homepage, in previews of your story on **Medium,** and on social media.
+- Change **topics (aka tags)**
+- Pin **story:** Pinning a story keeps it at the top of the page until you specify otherwise. Pin this story to the top of your profile.
+- Set **SEO Title:** The **SEO Title** is used in place of your Title on search engine results pages, such as a **Google** search. **SEO titles** over 60 characters will be truncated. **SEO titles** between 40 and 50 characters with commonly searched words have the best click-through rates.
+- Set **SEO Description:** The **SEO Description** is used in place of your Subtitle on search engine results pages. Good **SEO descriptions** utilize keywords, summarize the story, and are between 140-156 characters long.
+- Add **Friend Link:** This link guarantees anyone free access to your story, even if they’ve read all of their complimentary stories for this month. Learn more.
 - Set **Content Licensing**
 - Customize **Story Link**
-- Customize **Canonical Link**, to set URL to show if this story was originally published elsewhere
+- Customize **Canonical Link:** To set URL to show if this story was originally published elsewhere.
 
-You can schedule posting a story later 
+You can schedule posting a story later.
 
-Please notice it removed bolding in text I copied from github
+Please note that it removed bolding in the text I copied from GitHub.
 
-For more information on how to publish please go [to](https://help.medium.com/hc/en-us/articles/213904978-Add-a-draft-or-post-to-publication)
+For more information on how to publish, please go [to](https://help.medium.com/hc/en-us/articles/213904978-Add-a-draft-or-post-to-publication)
 
 # Reddit
 [Reddit](https://www.reddit.com/)  is a network of communities where people can dive into their interests, hobbies and passions.
