@@ -142,13 +142,13 @@ Please note that it removed bolding in the text I copied from GitHub.
 For more information on how to publish, please go [to](https://help.medium.com/hc/en-us/articles/213904978-Add-a-draft-or-post-to-publication)
 
 # Reddit
-[Reddit](https://www.reddit.com/)  is a network of communities where people can dive into their interests, hobbies and passions.
+[Reddit](https://www.reddit.com/) is a network of communities where people can delve into their interests, hobbies, and passions.
 
-It has content editor for 2 modes as MarkDown and usual editor like Wordpad.
+It has a content editor with two modes: MarkDown and a usual editor similar to Wordpad.
 
-For each story it provides a possibility to add title and content.
+For each story, it provides the option to add a title and content.
 
-For more information on how to publish please go [to](https://support.reddithelp.com/hc/en-us/articles/360060422572-How-do-I-post-on-Reddit-)
+For more information on how to publish, please go [to](https://support.reddithelp.com/hc/en-us/articles/360060422572-How-do-I-post-on-Reddit-)
 
 # Quora
 [Quora](https://www.quora.com/) -  is a place to gain and share knowledge. It's a platform to ask questions and connect with people who contribute unique insights and quality answers.
