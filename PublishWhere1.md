@@ -42,7 +42,7 @@ The truth is, it's not a big deal.
 I've created a separate table with columns for each **platform** and rows for individual **publications**.
 
 # hackernoon
-*[hackernoon](https://hackernoon.com/) publishes technology stories and builds publishing software.
+[hackernoon](https://hackernoon.com/) publishes technology stories and builds publishing software.
 It has a content editor similar to WordPad.
 
 For each story, it provides the following options:
@@ -125,18 +125,17 @@ For each story, it provides the following possibilities:
 
 - Make this story **unlisted?** Your public story will be available to anyone and will not be eligible for payment. Your followers will be notified when you publish for the first time.
 - Change **featured image:** Title image
-- Change **title and subtitle:** The title and subtitle are used on your publication homepage, in previews of your story on **Medium,** and on social media.
+- Change **title and subtitle:** The title and subtitle are used on your publication homepage, in previews of your story on Medium, and on social media.
 - Change **topics (aka tags)**
 - Pin **story:** Pinning a story keeps it at the top of the page until you specify otherwise. Pin this story to the top of your profile.
-- Set **SEO Title:** The **SEO Title** is used in place of your Title on search engine results pages, such as a **Google** search. **SEO titles** over 60 characters will be truncated. **SEO titles** between 40 and 50 characters with commonly searched words have the best click-through rates.
-- Set **SEO Description:** The **SEO Description** is used in place of your Subtitle on search engine results pages. Good **SEO descriptions** utilize keywords, summarize the story, and are between 140-156 characters long.
+- Set **SEO Title:** The SEO Title is used in place of your Title on search engine results pages, such as a Google search. SEO titles over 60 characters will be truncated. SEO titles between 40 and 50 characters with commonly searched words have the best click-through rates.
+- Set **SEO Description:** The SEO Description is used in place of your Subtitle on search engine results pages. Good SEO descriptions utilize keywords, summarize the story, and are between 140-156 characters long.
 - Add **Friend Link:** This link guarantees anyone free access to your story, even if they’ve read all of their complimentary stories for this month. Learn more.
 - Set **Content Licensing**
 - Customize **Story Link**
 - Customize **Canonical Link:** To set URL to show if this story was originally published elsewhere.
 
 You can schedule posting a story later.
-
 Please note that it removed bolding in the text I copied from GitHub.
 
 For more information on how to publish, please go [to](https://help.medium.com/hc/en-us/articles/213904978-Add-a-draft-or-post-to-publication)
