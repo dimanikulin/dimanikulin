@@ -110,8 +110,8 @@ The bot was created and works to promote and publish fake news about the Russian
 | [KotNaMirotvorze](https://t.me/KotNaMirotvorze)    | closed for DN3 | |
 | [KovaksClearSky](https://t.me/KovaksClearSky)      | closed for DN2 | |
 | [КТО ПО ЖИЗНИ](https://t.me/KPZYoyTube)            | closed for DN4 | |
-| [krasnovdmitri](https://t.me/krasnovdmitri)        | closes for DN4 | |
-| [kuzichev_chat](https://t.me/kuzichev_chat)        | WIP4 | |
+| [krasnovdmitri](https://t.me/krasnovdmitri)        | closed for DN4 | |
+| [kuzichev_chat](https://t.me/kuzichev_chat)        | closed for DN4 | |
 | [labppsh](https://t.me/labppsh)                    | WIP2 | not working channel | |
 | [Военкор Белла Либерман](https://t.me/liberman_bella)| WIP4 | | 
 | [Лера и булочка ❤️](https://t.me/leraBratsaaaa)    | closed for DN4 | | 
