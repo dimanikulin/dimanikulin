@@ -112,16 +112,16 @@ The bot was created and works to promote and publish fake news about the Russian
 | [КТО ПО ЖИЗНИ](https://t.me/KPZYoyTube)            | closed for DN4 | |
 | [krasnovdmitri](https://t.me/krasnovdmitri)        | closed for DN4 | |
 | [kuzichev_chat](https://t.me/kuzichev_chat)        | closed for DN4 | |
-| [labppsh](https://t.me/labppsh)                    |  | not working channel | |
+| [labppsh](https://t.me/labppsh)                    |  | not working channel | 
 | [Военкор Белла Либерман](https://t.me/liberman_bella)| WIP4 | | 
 | [Лера и булочка ❤️](https://t.me/leraBratsaaaa)    | closed for DN4 | | 
 | [longread2023](https://t.me/longread2023)          | Closed comments | |
 | [LIC_LPR](https://t.me/LIC_LPR)                    | WIP4 | |
 | [НОВОСТИ ЛНР](https://t.me/luganskallnews)         | Closed comments | |
 | [Мариуполь сейчас](https://t.me/mariupolz)         | closed for DN2 | |
-| [Маша из Мариуполя 🇷🇺](https://t.me/mashainmarik)|
-| [Министерство Логики](https://t.me/minlogiki)      |
-| [Мисливец LITE](https://t.me/mislivetslite)        |
+| [Маша из Мариуполя 🇷🇺](https://t.me/mashainmarik)| | not working channel | 
+| [Министерство Логики](https://t.me/minlogiki)      | WIP4 | 
+| [Мисливец LITE](https://t.me/mislivetslite)        | WIP2 | 
 | [m0sc0wcalling](https://t.me/m0sc0wcalling)        | | AntiPutin content |
 | [moscowmap](https://t.me/moscowmap)                | 
 | [mariabutina](https://t.me/mariabutina)            |
