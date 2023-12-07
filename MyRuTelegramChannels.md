@@ -63,6 +63,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Брекотин](https://t.me/brekotins)                 | WIP1 | |
 | [Работайте, братья!](https://t.me/btr80)           | Closed comments | | 
 | [Опознай хохла по чубу](https://t.me/chub_detection)| WIP1 | |
+| [Dambiev](https://t.me/ChDambiev)                  | Closed comments | | 
 | [Черноморский экспресс](https://t.me/chernmorskiiexpres) | WIP1 | |
 | [Российский Рубеж " Za нашу](https://t.me/compass83) | not working | |
 | [Синяя Z Борода](https://t.me/cmiye)               | | too few subsribers |
@@ -116,6 +117,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Военкор Белла Либерман](https://t.me/liberman_bella)| WIP4 | | 
 | [Лера и булочка ❤️](https://t.me/leraBratsaaaa)    | closed for DN4 | | 
 | [longread2023](https://t.me/longread2023)          | Closed comments | |
+| [LOSTARMOUR](https://t.me/lost_armour)             | Closed comments | |
 | [LIC_LPR](https://t.me/LIC_LPR)                    | WIP4 | |
 | [НОВОСТИ ЛНР](https://t.me/luganskallnews)         | Closed comments | |
 | [Мариуполь сейчас](https://t.me/mariupolz)         | closed for DN2 | |
@@ -253,6 +255,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [ЗАПОРОЖСКИЙ ФРОНТ](https://t.me/ZA_FROHT)         | | |
 | [Za Наших новости](https://t.me/za_nashih_news)    | comments closed | |
 | [Z - Новости Бывшей Украины](https://t.me/z_novosti) |
+| [ЖИВОВ Z 🇷🇺](https://t.me/zhivoff)               | comments closed | |
 | [Vыше нас только Zвезды](https://t.me/ZaPobedy_uvo)|
 | [Владимир Зеленский](https://t.me/zelenckiy)       |
 | [Владимир Зеленский](https://t.me/zelenskyi_vladimir)|
