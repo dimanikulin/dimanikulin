@@ -73,6 +73,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [КРИСТАЛЛ РОСТА](https://t.me/crystal_book)        | closed for DN2 | |
 | [СВО 2023](https://t.me/cvo2022_5)                 | closed for DN2 | |
 | [Донецк ⚒  ЧП Макеевка](https://t.me/dark_donetskz)|Closed comments | |
+| [Война на Украине. Ежедневны](https://t.me/DayNewsWar)|Closed comments | |
 | [Депутат Елена Шишкина (ДНР)](https://t.me/dep_shishkina)| closed for DN2 | | 
 | [Дневник Десантника🇷🇺](https://t.me/DnevnikDesantnika)| closed for DN2 | |
 | [УКРОПСКИЙ ФРЕШ](https://t.me/dillfrash)           | closed for DN2 | |
