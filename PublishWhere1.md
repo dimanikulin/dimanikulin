@@ -143,7 +143,7 @@ For more information on how to publish, please go [to](https://help.medium.com/h
 # Reddit
 [Reddit](https://www.reddit.com/) is a network of communities where people can delve into their interests, hobbies, and passions.
 
-It has a content editor with two modes: MarkDown and a usual editor similar to Wordpad.
+It has a content editor with two modes: Markdown and a usual editor similar to Wordpad.
 
 For each story, it provides the option to add a title and content.
 
