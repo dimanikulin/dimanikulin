@@ -150,15 +150,15 @@ For each story, it provides the option to add a title and content.
 For more information on how to publish, please go [to](https://support.reddithelp.com/hc/en-us/articles/360060422572-How-do-I-post-on-Reddit-)
 
 # Quora
-[Quora](https://www.quora.com/) -  is a place to gain and share knowledge. It's a platform to ask questions and connect with people who contribute unique insights and quality answers.
+[Quora](https://www.quora.com/) is a place to gain and share knowledge.
+It's a platform to ask questions and connect with people who contribute unique insights and quality answers.
+Quora features a content editor similar to Wordpad.
 
-It has content editor like Wordpad.
+For some reason, only H1 can be used as the header size.
+Please note that your post might be shown in draft even after you have already posted it.
+There is no need to press the **Post** button again, as it will duplicate the post.
 
-For some reason only H1 can bw used as header size.
-
-Please notice your post might be shown in draft even you already did post it - no need to press **Post** buttong again as it will duplicate the post.
-
-For more information on how to publish please go [to](https://www.quora.com/How-do-I-create-a-%E2%80%98post%E2%80%99-on-Quora-Don%E2%80%99t-have-a-blog-or-website-but-want-to-add-some-of-my-own-posts-but-not-sure-how)
+For more information on how to publish, please go [to](https://www.quora.com/How-do-I-create-a-%E2%80%98post%E2%80%99-on-Quora-Don%E2%80%99t-have-a-blog-or-website-but-want-to-add-some-of-my-own-posts-but-not-sure-how)
 
 # LinkedIn
 [LinkedIn](https://www.linkedin.com/) - **LinkedIn** is a business and employment-focused social media platform that works through websites and mobile apps
