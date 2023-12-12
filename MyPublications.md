@@ -39,7 +39,7 @@
 |quora      |[Feb 17](https://www.quora.com/profile/Dima-Nikulin-2/Why-I-decided-to-create-my-photo-organizer-As-a-child-I-used-to-flip-through-family-photo-album-to-see-my-relatives-w)|[Mar 14, 2023](https://www.quora.com/profile/Dima-Nikulin-2/What-I-learned-as-a-Product-Manager-while-creating-my-product-Design-Thinking-The-first-product-I-was-thinking-about-w-2)|[May 17, 2023](https://www.quora.com/profile/Dima-Nikulin-2/What-I-learned-as-a-Subject-Matter-Expert-while-creating-my-product)|[October 30, 2023](https://www.quora.com/profile/Dima-Nikulin-2/What-I-learned-as-an-Application-Architect-while-creating-my-product)| 
 
 # About own product, its history and what I learned - Part 2
-|Name       |[What I Learned As SW Developer](./WhatILearnedAsSoftwareDeveloper.md)|[What I Learned As DevOps](./WhatILearnedAsDevOps.md)|[What I Learned As Delivery Manager](./WhatILearnedAsDeliveryManager.md)|[What I Learned As Tester](./WhatILearnedAsTester.md)|
+|Name       |[What I Learned As SW Developer](./WhatILearnedAsSoftwareDeveloper.md)|[What I Learned As Delivery Manager](./WhatILearnedAsDeliveryManager.md)|[What I Learned As DevOps](./WhatILearnedAsDevOps.md)|[What I Learned As Tester](./WhatILearnedAsTester.md)|
 |-----------|---------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------|:----------------------------------------------------------------:|
 |hackernoon |TBD|TBD|TBD|TBD|
 |linkedin   |TBD|TBD|TBD|TBD|
