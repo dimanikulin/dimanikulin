@@ -161,13 +161,12 @@ There is no need to press the **Post** button again, as it will duplicate the po
 For more information on how to publish, please go [to](https://www.quora.com/How-do-I-create-a-%E2%80%98post%E2%80%99-on-Quora-Don%E2%80%99t-have-a-blog-or-website-but-want-to-add-some-of-my-own-posts-but-not-sure-how)
 
 # LinkedIn
-[LinkedIn](https://www.linkedin.com/) - **LinkedIn** is a business and employment-focused social media platform that works through websites and mobile apps
 
-It has content editor like Wordpad.
+[LinkedIn](https://www.linkedin.com/) is a business and employment-focused social media platform that operates through websites and mobile apps.
 
-There you can add article picture and title only.
+It features a content editor similar to Wordpad, allowing you to add an article, picture, and title only.
 
-For more information on how to publish please go [to](https://www.linkedin.com/help/linkedin/answer/a522427#:~:text=Click%20Write%20article%20in%20the,you%20to%20the%20publishing%20tool.)
+For more information on how to publish, please go [to](https://www.linkedin.com/help/linkedin/answer/a522427#:~:text=Click%20Write%20article%20in%20the,you%20to%20the%20publishing%20tool.).
 
 # Comparison
 | #             |Hackernoon |hashnode|dev.to|medium|reddit|quora|linkedin|
