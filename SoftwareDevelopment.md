@@ -112,6 +112,20 @@ Do you agree with that?
 
 <img src="./Images/C++Guessing.jfif" alt="Programming Languages and Guessing!" />
 
+## Tabs or Spaces
+
+"Tabs vs Spaces" - "Holy war" or settled matter?
+
+The "Tabs vs Spaces" holy war has been a long-standing debate among software developers regarding whether to use "tabs" or "spaces" for code indentation. 
+Some developers prefer tabs, while others favor spaces.
+
+The choice between them is largely a matter of personal preference.
+
+So, what is your preference and why?
+
+<img src="./Images/tabsvsspaces.jpg" alt="tabs vs spaces" />
+
+
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
