@@ -197,7 +197,7 @@ For more information on how to publish, please go [to](https://www.linkedin.com/
 |Found issues   | +         | -      | -    | +    | -    | +   | -      |
 
 ## Analyze
-As we can see from the **Comparison** table the most platforms have only a few functions to use.
-Still **Hackernoon**, **hashnode** and **medium** have wider variety of functions.
-As for me the very important functions are: **Tags**, **Human review**, **Syntax checking**, **Article stats** and **Series**.
-It worth to say that some platrorms have issue I found during use.
+As seen in the **comparison** table, most platforms offer only a limited set of functions.
+**However**, **Hackernoon**, **Hashnode**, and **Medium** stand out for providing a broader variety of functions.
+Personally, I find certain functions to be crucial, including **Tags**, **Human review**, **Syntax checking**, **Article stats**, and **Series.**
+It's worth noting that some platforms have issues, which I discovered during use."
