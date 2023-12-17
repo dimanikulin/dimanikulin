@@ -1,5 +1,5 @@
 # Where to publish, part 1
-TBD 
+Exploring Content Publishing Platforms: A Comprehensive Analysis of Features and Challenges for Hackernoon, Hashnode, Dev.to, Medium, Reddit, Quora, and LinkedIn 
 
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhere1.md#tags)
@@ -15,11 +15,7 @@ TBD
 - [Analyze](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhere1.md#analyze)
 
 # Tags
-TBD
-
-# Definitions, Acronyms, Abbreviations
-TBD
-TL;DR
+Content Publishing Platforms, Hackernoon, Hashnode, Dev.to, Medium, Reddit, Quora, LinkedIn, Comparative Analysis, Features, Tags, Challenges
 
 ---
 
