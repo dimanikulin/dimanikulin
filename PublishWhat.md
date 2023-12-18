@@ -102,7 +102,7 @@ provide own check list
 My is 
 - is there "headline"?
 - is "headline" less than 150 charactres?
-- is there "Article descption"?
+- is there "Overview" to start from?
 - is there "Tags" ?
 - is there "Table of contents"?
 - is there "Content"? 
