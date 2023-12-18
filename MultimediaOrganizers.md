@@ -1,3 +1,6 @@
+# Headline
+TBD
+
 # What are Multimedia Organizers?
 This article delves into the functions and requirements of multimedia organizers for efficient photo management. 
 It discusses the different features of photo organizers, such as searching, creating folder structures, and importing new photos, among others.
