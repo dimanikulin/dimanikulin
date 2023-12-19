@@ -1,3 +1,6 @@
+# Headline
+TBD
+
 # Working in GL
 In this article, the author expresses gratitude to GlobalLogic for their thoughtful birthday presents over the years.
 The significance of these gifts is highlighted in the context of recent events related to war.

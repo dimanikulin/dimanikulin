@@ -1,3 +1,6 @@
+# Headline
+TBD
+
 # Why I decided to create my photo organizer?
 In this article, the author shares their personal experience of managing a growing photo album in the digital age.
 They highlight the challenges they faced in searching and organizing multimedia data and their quest to find a suitable multimedia information retrieval (IR) system.
