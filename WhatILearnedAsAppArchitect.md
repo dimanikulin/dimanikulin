@@ -1,3 +1,7 @@
+# Headline
+TBD
+
+
 # What I learned as an Application Architect while creating my product
 In this article, we explore the importance of solution architecture in small applications, and why having an architect involved can make a significant difference. 
 The author shares their experience in creating a solution architecture document, and how they decided to keep all notes and documents in the form of text files in MD format, providing insights on how to create attractive README.md files with a use of badges from shields, providing document structure and required chapters. 
