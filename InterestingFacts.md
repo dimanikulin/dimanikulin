@@ -6,6 +6,7 @@ Interesting facts about numbers and not only!
 
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/InterestingFacts.md#tags)
+- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/InterestingFacts.md#overview)
 - [Interesting facts about number *6*](https://github.com/dimanikulin/dimanikulin/blob/main/InterestingFacts.md#interesting-facts-about-number-6)
 - [Interesting facts about number *11*](https://github.com/dimanikulin/dimanikulin/blob/main/InterestingFacts.md#interesting-facts-about-number-11)
 - [Interesting facts about number *12*](https://github.com/dimanikulin/dimanikulin/blob/main/InterestingFacts.md#interesting-facts-about-number-12)
