@@ -10,6 +10,7 @@ Overall, the article offers a helpful overview for those interested in learning 
 
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaData.md#tags)
+- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaData.md#overview)
 - [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaData.md#definitions-acronyms-abbreviations)
 - [References](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaData.md#references)
 
