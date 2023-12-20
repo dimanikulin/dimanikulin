@@ -29,6 +29,9 @@ Software Development
 | 1 | CV | TBD
 | 2 | Scrum | TBD |
 
+# Overview
+TBD 
+
 ---
 
 # Just joined a project with Scrum
