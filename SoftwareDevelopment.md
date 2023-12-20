@@ -18,6 +18,7 @@ TBD
 - [C++ death](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#c-death)
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#tags-5)
 - [Programming Languages and Guessing!](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#programming-languages-and-guessing)
+- [Tabs or Spaces](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#tabs-or-spaces)
 - [References](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#references)
 
 # Tags
@@ -131,7 +132,6 @@ So, what is your preference and why?
 
 <img src="./Images/tabsvsspaces.jpg" alt="tabs vs spaces" />
 
-
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
@@ -141,3 +141,4 @@ So, what is your preference and why?
 | 4 |What do you usually do to provide accurate estimations?|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_experience-softwaredevelopment-estimation-activity-7069560555165876224-_Af3?utm_source=share&utm_medium=member_desktop)| 30 May, 2023 | Dmytro Nikulin| |
 | 5 |C++ death |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_programminglanguage-technologytrends-cpplus-activity-7076463361500098560-ucVw?utm_source=share&utm_medium=member_desktop)| 19 June, 2023 | Dmytro Nikulin| |
 | 6 |Programming Languages and Guessing! |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_languages-and-guessing-in-a-broader-sense-activity-7133365394043514880-WW4P?utm_source=share&utm_medium=member_desktop) | 23 November, 2023 | Dmytro Nikulin | |
+| 7 |Tabs or Spaces|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_softwaredevelopment-activity-7141376776915660800-whXp?utm_source=share&utm_medium=member_desktop) | 15 December, 2023 | Dmytro Nikulin | |
