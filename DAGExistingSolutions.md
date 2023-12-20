@@ -9,6 +9,7 @@ Dive into the comparison of their functionalities and understand how they addres
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#tags)
 - [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#definitions-acronyms-abbreviations)
+- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#overview)
 - [Bionic.ai](https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#bionicai)
 - [Main features](https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#main-features)
 - [Castsoftware Highlight](https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#castsoftware-highlight)

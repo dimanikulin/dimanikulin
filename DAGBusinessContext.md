@@ -11,6 +11,7 @@ The solution aims to enhance modifiability, extendibility, and configurability, 
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/DAGBusinessContext.md#tags)
 - [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/DAGBusinessContext.md#definitions-acronyms-abbreviations)
+- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/DAGBusinessContext.md#overview)
 - [Executive summary](https://github.com/dimanikulin/dimanikulin/blob/main/DAGBusinessContext.md#executive-summary)
 - [Detecting Architectural Gaps with Automation](https://github.com/dimanikulin/dimanikulin/blob/main/DAGBusinessContext.md#detecting-architectural-gaps-with-automation)
 - [Solution requirements](https://github.com/dimanikulin/dimanikulin/blob/main/DAGBusinessContext.md#solution-requirements)

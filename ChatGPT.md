@@ -6,6 +6,7 @@ Author experience working with GPT
 
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/ChatGPT.md#tags)
+- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/ChatGPT.md#overview)
 - [Everyone must know that!](https://github.com/dimanikulin/dimanikulin/blob/main/ChatGPT.md#everyone-must-know-that)
 - [ChatGPT in CV](https://github.com/dimanikulin/dimanikulin/blob/main/ChatGPT.md#chatgpt-in-cv)
 - [Do you consider ChatGPT a useful tool?](https://github.com/dimanikulin/dimanikulin/blob/main/ChatGPT.md#do-you-consider-chatgpt-a-useful-tool)

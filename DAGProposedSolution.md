@@ -13,6 +13,7 @@ Whether you're an architect, developer, or IT enthusiast, this article offers a 
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/DAGProposedSolution.md#tags)
 - [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/DAGProposedSolution.md#definitions-acronyms-abbreviations)
+- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/DAGProposedSolution.md#overview)
 - [The Context View for Standalone Application](https://github.com/dimanikulin/dimanikulin/blob/main/DAGProposedSolution.md#the-context-view-for-standalone-application)
 - [The Context View for a Separate Step in CI/CD](https://github.com/dimanikulin/dimanikulin/blob/main/DAGProposedSolution.md#the-context-view-for-a-separate-step-in-cicd)
 - [Functional View](https://github.com/dimanikulin/dimanikulin/blob/main/DAGProposedSolution.md#functional-view)
