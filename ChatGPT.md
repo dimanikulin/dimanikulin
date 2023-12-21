@@ -1,9 +1,6 @@
 # Headline
-TBD
-
-# Working with GPT
-Author experience working with GPT 
-
+Working with GPT
+ 
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/ChatGPT.md#tags)
 - [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/ChatGPT.md#overview)
@@ -16,7 +13,7 @@ Author experience working with GPT
 ChatGPT 
 
 # Overview
-TBD 
+Author experience working with GPT
 
 ---
 

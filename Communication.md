@@ -1,8 +1,5 @@
 # Headline
-TBD
-
-# Communication 
-TBD 
+Communication
 
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/Communication.md#tags)
