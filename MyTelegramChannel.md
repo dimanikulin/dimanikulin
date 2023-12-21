@@ -14,6 +14,7 @@ TBD
 
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/MyTelegramChannel.md#tags)
+- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/MyTelegramChannel.md#overview)
 - [Початок](https://github.com/dimanikulin/dimanikulin/blob/main/MyTelegramChannel.md#%D0%BF%D0%BE%D1%87%D0%B0%D1%82%D0%BE%D0%BA)
 - [Навіщо все це?](https://github.com/dimanikulin/dimanikulin/blob/main/MyTelegramChannel.md#%D0%BD%D0%B0%D0%B2%D1%96%D1%89%D0%BE-%D0%B2%D1%81%D0%B5-%D1%86%D0%B5)
 - [Навіщо все це мені?](https://github.com/dimanikulin/dimanikulin/blob/main/MyTelegramChannel.md#%D0%BD%D0%B0%D0%B2%D1%96%D1%89%D0%BE-%D0%B2%D1%81%D0%B5-%D1%86%D0%B5-%D0%BC%D0%B5%D0%BD%D1%96)

@@ -7,6 +7,7 @@ Exploring Content Publishing Platforms: A Comprehensive Analysis of Features and
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhere1.md#tags)
 - [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhere1.md#definitions-acronyms-abbreviations)
+- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhere1.md#overview)
 - [hackernoon](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhere1.md#hackernoon)
 - [hashnode](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhere1.md#hashnode)
 - [dev.to](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhere1.md#devto)

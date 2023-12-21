@@ -7,6 +7,7 @@ TBD
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/PublishHow.md#tags)
 - [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/PublishHow.md#definitions-acronyms-abbreviations)
+- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/PublishHow.md#overview)
 - [References](https://github.com/dimanikulin/dimanikulin/blob/main/PublishHow.md#references)
 TBD 
 

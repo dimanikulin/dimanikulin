@@ -6,6 +6,7 @@ TBD
 
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/OldButGold.md#tags)
+- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/OldButGold.md#overview)
 - [Windows 95](https://github.com/dimanikulin/dimanikulin/blob/main/OldButGold.md#windows-95)
 - [Miranda](https://github.com/dimanikulin/dimanikulin/blob/main/OldButGold.md#miranda)
 - [BSOD](https://github.com/dimanikulin/dimanikulin/blob/main/OldButGold.md#bsod)
