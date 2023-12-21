@@ -12,6 +12,7 @@ Overall, the article provides insights into building a robust and maintainable s
 
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsSoftwareDeveloper.md#tags)
+- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsSoftwareDeveloper.md#overview)
 - [Code quality](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsSoftwareDeveloper.md#code-quality)
 - [Code documentation](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsSoftwareDeveloper.md#code-documentation)
 - [Implementation](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsSoftwareDeveloper.md#implementation)

@@ -10,6 +10,7 @@ Finally, author identified stakeholders and created a table with their roles, co
 
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsProductManager.md#tags)
+- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsProductManager.md#overview)
 - [Design Thinking](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsProductManager.md#design-thinking)
 - [High-level product documentation](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsProductManager.md#high-level-product-documentation)
 - [Value Propositions](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsProductManager.md#value-propositions)

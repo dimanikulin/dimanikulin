@@ -10,6 +10,7 @@ The article also covers topics such as defining requirements, managing developme
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsAppArchitect.md#tags)
 - [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsAppArchitect.md#definitions-acronyms-abbreviations)
+- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsAppArchitect.md#overview)
 - [Requirements](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsAppArchitect.md#requirements)
 - [Constraints](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsAppArchitect.md#constraints)
 - [Assumptions](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsAppArchitect.md#assumptions)
