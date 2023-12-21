@@ -9,6 +9,7 @@ The author also discusses their journey of creating their own multimedia organiz
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/WhyCreatedPhotoOrganizer.md#tags)
 - [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/WhyCreatedPhotoOrganizer.md#definitions-acronyms-abbreviations)
+- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/WhyCreatedPhotoOrganizer.md#overview)
 - [References](https://github.com/dimanikulin/dimanikulin/blob/main/WhyCreatedPhotoOrganizer.md#references)
 
 # Tags

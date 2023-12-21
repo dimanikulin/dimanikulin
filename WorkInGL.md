@@ -10,6 +10,7 @@ The content reflects the author's appreciation for GlobalLogic's support and the
 
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/WorkInGL.md#tags)
+- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/WorkInGL.md#overview)
 - [Presents in GlobalLogic for an employer](https://github.com/dimanikulin/dimanikulin/blob/main/WorkInGL.md#presents-in-globallogic-for-an-employer)
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/WorkInGL.md#tags-1)
 - [Cool people create cool music!](https://github.com/dimanikulin/dimanikulin/blob/main/WorkInGL.md#cool-people-create-cool-music)

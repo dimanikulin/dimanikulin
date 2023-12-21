@@ -12,6 +12,7 @@ Finally, the article discusses the FVA Tool Set's integration with offline Multi
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsSubjectMatterExpert.md#tags)
 - [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsSubjectMatterExpert.md#definitions-acronyms-abbreviations)
+- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsSubjectMatterExpert.md#overview)
 - [Multimedia IR systems](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsSubjectMatterExpert.md#multimedia-ir-systems)
 - [Metadata](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsSubjectMatterExpert.md#metadata)
 - [Examples of incorrect search results](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsSubjectMatterExpert.md#examples-of-incorrect-search-results)

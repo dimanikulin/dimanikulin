@@ -6,6 +6,7 @@ TBD
 
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/WorkLifeBalance.md#tags)
+- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/WorkLifeBalance.md#overview)
 - [Playing chess](https://github.com/dimanikulin/dimanikulin/blob/main/WorkLifeBalance.md#playing-chess)
 - [Insurance case](https://github.com/dimanikulin/dimanikulin/blob/main/WorkLifeBalance.md#insurance-case)
 - [What does work-life balance mean for you?](https://github.com/dimanikulin/dimanikulin/blob/main/WorkLifeBalance.md#what-does-work-life-balance-mean-for-you)
