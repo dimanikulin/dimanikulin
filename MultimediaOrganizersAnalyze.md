@@ -8,6 +8,7 @@ and from here https://habr.com/ru/post/374465/
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaOrganizersAnalyze.md#tags)
 - [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaOrganizersAnalyze.md#definitions-acronyms-abbreviations)
+- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaOrganizersAnalyze.md#overview)
 - [References](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaOrganizersAnalyze.md#references)
 
 # Tags

@@ -11,6 +11,7 @@ Overall, this article is a useful guide for anyone looking to manage their photo
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaOrganizers.md#tags)
 - [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaOrganizers.md#definitions-acronyms-abbreviations)
+- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaOrganizers.md#overview)
 - [Multimedia Organizers functions](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaOrganizers.md#multimedia-organizers-functions)
 - [Multimedia Organizer requirements](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaOrganizers.md#multimedia-organizer-requirements)
 - [Multimedia Organizer approaches to create folder structure](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaOrganizers.md#multimedia-organizer-approaches-to-create-folder-structure)
