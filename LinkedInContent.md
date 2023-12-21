@@ -1,8 +1,5 @@
 # Headline
-TBD
-
-# LinkedIn content
-TBD 
+LinkedIn content
 
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/LinkedInContent.md#tags)

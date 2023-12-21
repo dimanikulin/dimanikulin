@@ -1,9 +1,6 @@
 # Headline
-TBD
-
-# Interesting facts
-Interesting facts about numbers and not only! 
-
+Interesting facts
+ 
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/InterestingFacts.md#tags)
 - [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/InterestingFacts.md#overview)
@@ -17,7 +14,7 @@ Interesting facts about numbers and not only!
 interestingfacts numbers
 
 # Overview
-TBD 
+Interesting facts about numbers and not only!
 
 ---
 

@@ -1,8 +1,5 @@
 # Headline
-TBD
-
-# Holidays
-TBD
+Holidays
 
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/Holidays.md#tags)

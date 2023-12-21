@@ -1,8 +1,5 @@
 # Headline
-TBD
-
-# Everything about the interviews
-TBD 
+Everything about the interviews
 
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/Interviews.md#tags)

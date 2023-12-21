@@ -1,9 +1,5 @@
 # Headline
-TBD
-
-# The Art of Phishing: How Scammers Are Trying to Reel You In
-The art of phishing is constantly evolving, and scammers are finding new ways to trick unsuspecting victims. 
-This article explores some of the latest tactics used in phishing attacks. 
+The Art of Phishing: How Scammers Are Trying to Reel You In
 
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/Fishing.md#tags)
@@ -20,7 +16,8 @@ This article explores some of the latest tactics used in phishing attacks.
 fishing staysafe emailsecurity internetsecurity
 
 # Overview
-TBD 
+The art of phishing is constantly evolving, and scammers are finding new ways to trick unsuspecting victims. 
+This article explores some of the latest tactics used in phishing attacks. 
 
 ---
 
