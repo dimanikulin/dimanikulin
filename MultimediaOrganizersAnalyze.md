@@ -1,9 +1,5 @@
 # Headline
-TBD
-
-# Analyze of Multimedia organizers
-to make more full comparison and investigation, list of organizers got from here - https://habr.com/ru/post/537684/, 
-and from here https://habr.com/ru/post/374465/
+Analyze of Multimedia organizers
 
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaOrganizersAnalyze.md#tags)
@@ -23,6 +19,9 @@ TBD
 TBD 
 
 ---
+
+to make more full comparison and investigation, list of organizers got from here - https://habr.com/ru/post/537684/, 
+and from here https://habr.com/ru/post/374465/
  
 <img src="./Images/TBD.jpg" alt="TBD" />
 

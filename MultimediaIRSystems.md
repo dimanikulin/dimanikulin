@@ -1,12 +1,5 @@
 # Headline
-TBD
-
-# What are Multimedia IR systems?
-This article discusses the concept of Multimedia Information Retrieval (IR) systems and their potential uses for both ordinary users and professionals. 
-The article provides an overview of Multimedia IR systems, explaining how they extract semantic information from various sources, such as audio, image, and video.
-The article also highlights the importance of metadata, tags, and content in the search process, and how the indexing and storage functionality for multimedia information is implemented by these systems.
-Additionally, the article outlines the key needs of users when it comes to Multimedia IR systems, including the ability to store, represent, edit, and search multimedia data, as well as the provision of relevance feedback, indexing, and cataloging functions.
-Finally, the article examines how professionals in various industries can benefit from these systems, providing examples such as professional photographers, journalists, doctors, architects, and engineers. 
+What are Multimedia IR systems?
 
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaIRSystems.md#tags)
@@ -27,7 +20,11 @@ Multimedia Information Retrieval, Multimedia IR systems, Metadata, Search
 | 3 | [metadata](https://en.wikipedia.org/wiki/Metadata)|Metadata is "data that provides [information](https://en.wikipedia.org/wiki/Information) about other data". In other words, it is "data about data." Many distinct types of metadata exist, including descriptive metadata, structural metadata, administrative metadata, reference metadata and statistical metadata. |
 
 # Overview
-TBD 
+This article discusses the concept of Multimedia Information Retrieval (IR) systems and their potential uses for both ordinary users and professionals. 
+The article provides an overview of Multimedia IR systems, explaining how they extract semantic information from various sources, such as audio, image, and video.
+The article also highlights the importance of metadata, tags, and content in the search process, and how the indexing and storage functionality for multimedia information is implemented by these systems.
+Additionally, the article outlines the key needs of users when it comes to Multimedia IR systems, including the ability to store, represent, edit, and search multimedia data, as well as the provision of relevance feedback, indexing, and cataloging functions.
+Finally, the article examines how professionals in various industries can benefit from these systems, providing examples such as professional photographers, journalists, doctors, architects, and engineers. 
 
 ---
 

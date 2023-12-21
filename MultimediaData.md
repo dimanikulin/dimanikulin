@@ -1,12 +1,5 @@
 # Headline
-TBD
-
-# What is Multimedia?
-The article provides an introduction to Multimedia Information Retrieval (MIR) systems, which are designed to search and retrieve information from multimedia sources like images, audio, and video. 
-
-It explains the different components of MIR systems, such as feature extraction, indexing, and retrieval, and discusses some of the challenges associated with MIR, including the subjective nature of multimedia data and the need for efficient algorithms to handle large datasets. 
-
-Overall, the article offers a helpful overview for those interested in learning about MIR systems. 
+What is Multimedia?
 
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaData.md#tags)
@@ -26,7 +19,11 @@ Multimedia, Multimedia Information Retrieval, Media Formats, Search Engines
 | 4 | Multimedia IR| Multimedia Information Retrieval (MIR) is an organic system made up of Text Retrieval (TR); Visual Retrieval (VR); Video Retrieval (VDR); and Audio Retrieval (AR) systems. So that each type of digital document may be analyzed and searched by the elements of language appropriate to its nature, search criteria must be extended.|
 
 # Overview
-TBD 
+The article provides an introduction to Multimedia Information Retrieval (MIR) systems, which are designed to search and retrieve information from multimedia sources like images, audio, and video. 
+
+It explains the different components of MIR systems, such as feature extraction, indexing, and retrieval, and discusses some of the challenges associated with MIR, including the subjective nature of multimedia data and the need for efficient algorithms to handle large datasets. 
+
+Overall, the article offers a helpful overview for those interested in learning about MIR systems. 
 
 ---
 

@@ -1,9 +1,6 @@
 # Headline
-TBD
-
-# Enriching the Multimedia
-TBD 
-
+Enriching the Multimedia
+ 
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaEnriching.md#tags)
 - [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaEnriching.md#overview)

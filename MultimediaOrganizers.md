@@ -1,12 +1,5 @@
 # Headline
-TBD
-
-# What are Multimedia Organizers?
-This article delves into the functions and requirements of multimedia organizers for efficient photo management. 
-It discusses the different features of photo organizers, such as searching, creating folder structures, and importing new photos, among others.
-Additionally, the article provides a list of photo organizers and online courses that can help users with photo arrangement.
-It also explores approaches for creating a folder structure and preventing the storage of duplicate photos in the same folder.
-Overall, this article is a useful guide for anyone looking to manage their photo collection more effectively. 
+What are Multimedia Organizers?
 
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaOrganizers.md#tags)
@@ -32,7 +25,11 @@ Multimedia organizers, Photo management, Photo organizer software, Metadata, IR 
 | 7 | [Synology Moments](https://www.synology.com/en-global/dsm/feature/moments)|It gathers all your photos and videos in one private place and organize them in an entirely new way. Synology Moments is the brand-new photo solution for personal and home use, offering a modern browsing experience with the image recognition technique. |
 
 # Overview
-TBD 
+This article delves into the functions and requirements of multimedia organizers for efficient photo management. 
+It discusses the different features of photo organizers, such as searching, creating folder structures, and importing new photos, among others.
+Additionally, the article provides a list of photo organizers and online courses that can help users with photo arrangement.
+It also explores approaches for creating a folder structure and preventing the storage of duplicate photos in the same folder.
+Overall, this article is a useful guide for anyone looking to manage their photo collection more effectively. 
 
 ---
  
