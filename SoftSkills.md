@@ -6,6 +6,7 @@ TBD
 
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/SoftSkills.md#tags)
+- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/SoftSkills.md#overview)
 - [Active Listening](https://github.com/dimanikulin/dimanikulin/blob/main/SoftSkills.md#active-listening)
 - [Who are toxic people](https://github.com/dimanikulin/dimanikulin/blob/main/SoftSkills.md#who-are-toxic-people)
 - [References](https://github.com/dimanikulin/dimanikulin/blob/main/SoftSkills.md#references)

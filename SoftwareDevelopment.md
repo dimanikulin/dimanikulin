@@ -7,6 +7,7 @@ TBD
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#tags)
 - [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#definitions-acronyms-abbreviations)
+- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#overview)
 - [Just joined a project with Scrum](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#just-joined-a-project-with-scrum)
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#tags-1)
 - [Software Complexity](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#software-complexity)
