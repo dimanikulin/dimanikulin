@@ -1,9 +1,5 @@
 # Headline
-TBD
-
-
-# What I learned as a Delivery Manager while creating my product
-Unlocking Developer Engagement: A Comprehensive Guide to Enhancing Open-Source Projects and Creating Compelling READMEs 
+What I learned as a Delivery Manager while creating my product
 
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsDeliveryManager.md#tags)
@@ -27,7 +23,7 @@ Unlocking Developer Engagement: A Comprehensive Guide to Enhancing Open-Source P
 Open Source Development, Developer Engagement, README Best Practices, Project Documentation, GitHub Projects, ProjectLibre
 
 # Overview
-TBD 
+Unlocking Developer Engagement: A Comprehensive Guide to Enhancing Open-Source Projects and Creating Compelling READMEs 
 
 ---
 

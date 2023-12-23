@@ -1,8 +1,5 @@
 # Headline
-TBD
-
-# Where to publish, part 1
-Exploring Content Publishing Platforms: A Comprehensive Analysis of Features and Challenges for Hackernoon, Hashnode, Dev.to, Medium, Reddit, Quora, and LinkedIn 
+Where to publish, part 1
 
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhere1.md#tags)
@@ -22,7 +19,7 @@ Exploring Content Publishing Platforms: A Comprehensive Analysis of Features and
 Content Publishing Platforms, Hackernoon, Hashnode, Dev.to, Medium, Reddit, Quora, LinkedIn, Comparative Analysis, Features, Tags, Challenges
 
 # Overview
-TBD 
+Exploring Content Publishing Platforms: A Comprehensive Analysis of Features and Challenges for Hackernoon, Hashnode, Dev.to, Medium, Reddit, Quora, and LinkedIn.
 
 ---
 
