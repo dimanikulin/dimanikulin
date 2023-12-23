@@ -1,8 +1,5 @@
 # Headline
-TBD
-
-# What to publish
-TBD 
+What to publish
 
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhat.md#tags)

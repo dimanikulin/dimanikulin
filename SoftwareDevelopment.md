@@ -1,8 +1,5 @@
 # Headline
-TBD
-
-# Everything about the Software Development
-TBD 
+Everything about the Software Development
 
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#tags)

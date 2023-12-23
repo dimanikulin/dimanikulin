@@ -1,8 +1,5 @@
 # Headline
-TBD
-
-# Where to publish, part 2
-TBD 
+Where to publish, part 2
 
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhere2.md#tags)

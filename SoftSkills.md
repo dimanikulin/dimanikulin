@@ -1,9 +1,6 @@
 # Headline
-TBD
-
-# Soft skiils
-TBD 
-
+Soft skiils
+ 
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/SoftSkills.md#tags)
 - [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/SoftSkills.md#overview)

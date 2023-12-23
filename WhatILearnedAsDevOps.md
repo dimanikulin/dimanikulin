@@ -1,8 +1,6 @@
 # Headline
 TBD
 
-# TBD
-
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsDevOps.md#tags)
 - [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsDevOps.md#definitions-acronyms-abbreviations)
