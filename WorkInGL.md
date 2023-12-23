@@ -1,12 +1,5 @@
 # Headline
-TBD
-
-# Working in GL
-In this article, the author expresses gratitude to GlobalLogic for their thoughtful birthday presents over the years.
-The significance of these gifts is highlighted in the context of recent events related to war.
-The author also shares insights into interactions with notable individuals, including Olena Zelenska, and provides a link to a white paper discussing software architecture and design.
-Additionally, the article touches on the mental health program 'Ти як?', featuring Olena Zelenska.
-The content reflects the author's appreciation for GlobalLogic's support and their personal experiences. 
+Working in GL
 
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/WorkInGL.md#tags)
@@ -35,7 +28,11 @@ The content reflects the author's appreciation for GlobalLogic's support and the
 GlobalLogic Work
 
 # Overview
-TBD 
+In this article, the author expresses gratitude to GlobalLogic for their thoughtful birthday presents over the years.
+The significance of these gifts is highlighted in the context of recent events related to war.
+The author also shares insights into interactions with notable individuals, including Olena Zelenska, and provides a link to a white paper discussing software architecture and design.
+Additionally, the article touches on the mental health program 'Ти як?', featuring Olena Zelenska.
+The content reflects the author's appreciation for GlobalLogic's support and their personal experiences. 
 
 ---
 

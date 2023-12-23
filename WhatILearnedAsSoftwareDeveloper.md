@@ -1,14 +1,5 @@
 # Headline
-TBD
-
-# What I learned as a Software Developer while creating my product
-This article delves into the importance of code quality, documentation, and UI development in the creation of the FVA Software.
-It explores the use of automated tools, manual code review, and Python checks to ensure code adherence. 
-The significance of clear code documentation for both C++ and Python is emphasized.
-The transition from QWidgets to QML for UI implementation is discussed, along with the benefits of utilizing the QT library.
-The evolution of internal metadata formats in the software is explored, highlighting the challenges and decisions made along the way.
-
-Overall, the article provides insights into building a robust and maintainable software product.
+What I learned as a Software Developer while creating my product
 
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsSoftwareDeveloper.md#tags)
@@ -35,7 +26,12 @@ Software development, code quality, code review, coding standards, documentation
 | 7 | [UI](https://en.wikipedia.org/wiki/User_interface)| is the space where interactions between humans and machines occur. The goal of this interaction is to allow effective operation and control of the machine from the human end, whilst the machine simultaneously feeds back information that aids the operators' [decision-making](https://en.wikipedia.org/wiki/Decision-making) process|
 
 # Overview
-TBD 
+This article delves into the importance of code quality, documentation, and UI development in the creation of the FVA Software.
+It explores the use of automated tools, manual code review, and Python checks to ensure code adherence. 
+The significance of clear code documentation for both C++ and Python is emphasized.
+The transition from QWidgets to QML for UI implementation is discussed, along with the benefits of utilizing the QT library.
+The evolution of internal metadata formats in the software is explored, highlighting the challenges and decisions made along the way.
+Overall, the article provides insights into building a robust and maintainable software product. 
 
 ---
 

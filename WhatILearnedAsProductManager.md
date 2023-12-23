@@ -1,12 +1,5 @@
 # Headline
-TBD
-
-# What I learned as a Product Manager while creating my product
-It have described author's journey of creating a product line, which started with the idea of developing a single product, the FVA Tool Set, and ended up with the creation of a set of high-level product documentation, a detailed understanding of the product from the user's perspective, and product requirements. 
-Author mentioned that he started from coding but realized later that it would have been better to start from Design Thinking, a process that consists of seven stages for creating a product. 
-Author also mentioned that he established a set of documentation artifacts to keep high-level product knowledge, such as Value Propositions, Business Model Canvas, Product Vision Board, and Competitive Analysis Matrix. 
-Additionally, author focused on the product from the user's perspective and created a Persona, a User Journey, and User Scenarios to show the value of the product. 
-Finally, author identified stakeholders and created a table with their roles, concerns, and views, and created a questionnaire to clarify user needs. 
+What I learned as a Product Manager while creating my product
 
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsProductManager.md#tags)
@@ -41,8 +34,12 @@ Design-Thinking, User persona, Value proposition, Business model canvas, Product
 | 2 | [User Journey](https://en.wikipedia.org/wiki/User_journey)|A user journey is the experiences a person has when interacting with something, typically [software](https://en.wikipedia.org/wiki/Software). |
 
 # Overview
-TBD 
-
+It have described author's journey of creating a product line, which started with the idea of developing a single product, the FVA Tool Set, and ended up with the creation of a set of high-level product documentation, a detailed understanding of the product from the user's perspective, and product requirements. 
+Author mentioned that he started from coding but realized later that it would have been better to start from Design Thinking, a process that consists of seven stages for creating a product. 
+Author also mentioned that he established a set of documentation artifacts to keep high-level product knowledge, such as Value Propositions, Business Model Canvas, Product Vision Board, and Competitive Analysis Matrix. 
+Additionally, author focused on the product from the user's perspective and created a Persona, a User Journey, and User Scenarios to show the value of the product. 
+Finally, author identified stakeholders and created a table with their roles, concerns, and views, and created a questionnaire to clarify user needs. 
+ 
 ---
 
 # Design Thinking

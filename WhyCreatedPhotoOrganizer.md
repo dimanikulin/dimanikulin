@@ -1,10 +1,5 @@
 # Headline
-TBD
-
-# Why I decided to create my photo organizer?
-In this article, the author shares their personal experience of managing a growing photo album in the digital age.
-They highlight the challenges they faced in searching and organizing multimedia data and their quest to find a suitable multimedia information retrieval (IR) system.
-The author also discusses their journey of creating their own multimedia organizer to address their needs and the challenges they encountered along the way. 
+Why I decided to create my photo organizer?
 
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/WhyCreatedPhotoOrganizer.md#tags)
@@ -25,7 +20,9 @@ Multimedia data, Photo album, Multimedia information retrieval (IR) systems, Mul
 | 5 | [digiKam](https://www.digikam.org/about/)|digiKam is an advanced open-source digital photo management application that runs on Linux, Windows, and MacOS. The application provides a comprehensive set of tools for importing, managing, editing, and sharing photos and raw files. |
 
 # Overview
-TBD 
+In this article, the author shares their personal experience of managing a growing photo album in the digital age.
+They highlight the challenges they faced in searching and organizing multimedia data and their quest to find a suitable multimedia information retrieval (IR) system.
+The author also discusses their journey of creating their own multimedia organizer to address their needs and the challenges they encountered along the way. 
 
 ---
 

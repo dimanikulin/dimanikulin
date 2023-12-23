@@ -1,13 +1,5 @@
 # Headline
-TBD
-
-# What I learned as a Subject Matter Expert while creating my product
-This article discusses the author's experience with Multimedia IR systems and the importance of metadata in maximizing the efficiency of multimedia data search. 
-The author describes their analysis and comparison of various Multimedia IR systems before selecting the most suitable one. 
-The article emphasizes the significance of metadata as a primary information source used by these systems for search following different criteria. 
-The article provides examples of incorrect search results caused by inconsistent or non-existent metadata. 
-The author also highlights the role of Multimedia Organizers and their integration with Multimedia IR systems to provide automation for importing new photo sets into existing photo albums. 
-Finally, the article discusses the FVA Tool Set's integration with offline Multimedia IR systems through digiKam and online Multimedia IR systems through Google Photos. 
+What I learned as a Subject Matter Expert while creating my product
 
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsSubjectMatterExpert.md#tags)
@@ -41,8 +33,13 @@ Multimedia IR Systems, Metadata, Multimedia Organizers, digiKam, Google Photos, 
 | 11| [XMP](https://en.wikipedia.org/wiki/Extensible_Metadata_Platform)|The Extensible Metadata Platform (XMP) is an [ISO standard](https://en.wikipedia.org/wiki/List_of_International_Organization_for_Standardization_standards), originally created by [Adobe Systems Inc.](https://en.wikipedia.org/wiki/ADBE), for the creation, processing and interchange of standardized and custom metadata for digital documents and data sets. |
 
 # Overview
-TBD 
-
+This article discusses the author's experience with Multimedia IR systems and the importance of metadata in maximizing the efficiency of multimedia data search. 
+The author describes their analysis and comparison of various Multimedia IR systems before selecting the most suitable one. 
+The article emphasizes the significance of metadata as a primary information source used by these systems for search following different criteria. 
+The article provides examples of incorrect search results caused by inconsistent or non-existent metadata. 
+The author also highlights the role of Multimedia Organizers and their integration with Multimedia IR systems to provide automation for importing new photo sets into existing photo albums. 
+Finally, the article discusses the FVA Tool Set's integration with offline Multimedia IR systems through digiKam and online Multimedia IR systems through Google Photos. 
+ 
 ---
 
 # Multimedia IR systems
