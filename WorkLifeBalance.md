@@ -1,8 +1,5 @@
 # Headline
-TBD
-
-# Work-life Balance
-TBD 
+Work-life Balance
 
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/WorkLifeBalance.md#tags)
