@@ -1,7 +1,5 @@
 # Headline
-TBD
-
-# Russian telegram channels
+Russian telegram channels
 
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/MyRuTelegramChannels.md#tags)

@@ -1,8 +1,5 @@
 # Headline
-TBD
-
-# Tagging for Multimedia
-TBD
+Tagging for Multimedia
 
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaTagging.md#tags)

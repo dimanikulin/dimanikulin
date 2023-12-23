@@ -1,8 +1,5 @@
 # Headline
-TBD
-
-# How to publish your content?
-TBD 
+How to publish your content?
 
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/PublishHow.md#tags)

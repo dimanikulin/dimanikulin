@@ -1,8 +1,5 @@
 # Headline
-TBD
-
-# Search Requests in Multimedia
-TBD
+Search Requests in Multimedia
 
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaSearchRequests.md#tags)

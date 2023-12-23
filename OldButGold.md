@@ -1,8 +1,5 @@
 # Headline
-TBD
-
-# This is when we say "Old, but Gold"
-TBD 
+This is when we say "Old, but Gold"
 
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/OldButGold.md#tags)
