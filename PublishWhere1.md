@@ -41,6 +41,9 @@ The truth is, it's not a big deal.
 I've created a separate table with columns for each **platform** and rows for individual **publications**.
 
 # hackernoon
+
+<img src="./Images/wheretopublish11.png" alt="TBD" />
+
 [hackernoon](https://hackernoon.com/) publishes technology stories and builds publishing software.
 It has a content editor similar to WordPad.
 
@@ -122,6 +125,9 @@ For each story, it provides the possibility to:
 For more information on how to publish, please [visit](https://dev.to/devteam/writing-your-first-post-on-dev-3m13)
 
 # Medium 
+
+<img src="./Images/wheretopublish12.png" alt="TBD" />
+
 [Medium](https://medium.com/) is an open platform where readers discover dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.
 
 It has a content editor similar to Wordpad.
