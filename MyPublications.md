@@ -7,26 +7,6 @@
 |reddit     |[Jun 16, 2022](https://www.reddit.com/r/fva/comments/ve7188/what_is_multimedia_data/)|was deleted as spam. but why?|was deleted as spam. but why?|[Sep 20, 2022](https://www.reddit.com/r/fva/comments/xkum82/what_are_the_multimedia_organizers/)|
 |quora      |[Jun 19, 2022](https://www.quora.com/profile/Dima-Nikulin-2/What-is-Multimedia-Data-We-live-in-the-digital-data-era-and-growing-of-the-Internet-gives-us-a-possibility-to-find-th)|[Jul 3, 2022](https://www.quora.com/profile/Dima-Nikulin-2/What-are-Multimedia-IR-Systems-Lets-briefly-overview-the-Multimedia-IR-systems-According-to-the-Wikipedia-https)|[Jul 13, 2022](https://www.quora.com/profile/Dima-Nikulin-2/Multimedia-IR-Systems-analyze-Let-us-compare-several-multimedia-IR-systems-by-covering-requirements-and-needs-we-identi)|[Sep 22, 2022](https://www.quora.com/profile/Dima-Nikulin-2/What-are-the-Multimedia-Organizers-Multimedia-Organizers-functions-They-currently-perform-the-search-in-photo-set)|
 
-**Exploring the World of Multimedia Information Retrieval Systems**
-(it is a publication that keeps all publications from *Multimedia, Multimedia IR systems and Multimedia Organizers - Part 1*)
-|Name       | Where       |
-|-----------|:-----------:|
-|linkedin   |[January 27,2023](https://www.linkedin.com/posts/dimanikulin_activity-7024663781666349057-Hw3_/?utm_source=share&utm_medium=member_desktop) |
-|dou.eu     |[Feb 20, 2023](https://dou.eu/community/posts/what-are-multimedia-information-retrieval-systems)|
-|dou.ua     | TBD |
-|codeproject| TBD |
-
-# Publications about Multimedia, Multimedia IR systems and Multimedia Organizers - Part 2
-|Name       |[Analyze of Multimedia Organizers](./MultimediaOrganizersAnalyze.md)|[Search Requests for Multimedia](./MultimediaSearchRequests.md)|[Enriching the Multimedia](./MultimediaEnriching.md)|[Tagging Your Multimedia](./MultimediaTagging.md)|
-|-----------|---------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------|:----------------------------------------------------------------:|
-|hackernoon |TBD|TBD|TBD|TBD|
-|hashnode   |TBD|TBD|TBD|TBD|
-|linkedin   |TBD|TBD|TBD|TBD|
-|dev.to     |TBD|TBD|TBD|TBD|
-|medium     |TBD|TBD|TBD|TBD|
-|reddit     |TBD|TBD|TBD|TBD|
-|quora      |TBD|TBD|TBD|TBD| 
-
 # About own product, its history and what I learned - Part 1
 |Name       |[Why I created photo organizer?](./WhyCreatedPhotoOrganizer.md)|[What I Learned As Product Manager](./WhatILearnedAsProductManager.md)|[What I Learned As Subject Matter Expert](./WhatILearnedAsSubjectMatterExpert.md)|[What I Learned As App Architect](./WhatILearnedAsAppArchitect.md)|
 |-----------|---------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------|:----------------------------------------------------------------:|
@@ -38,6 +18,15 @@
 |reddit     |[Feb 12, 2023](https://www.reddit.com/r/fva/comments/112s9q1/why_i_decided_to_create_my_photo_organizer/)|[Mar 10, 2023](https://www.reddit.com/r/fva/comments/11nnrds/what_i_learned_as_a_product_manager_while/)|[May 15, 2023](https://www.reddit.com/r/fva/comments/13i0mr6/what_i_learned_as_a_subject_matter_expert_while/)|[30 September, 2023](https://www.reddit.com/r/fva/comments/16w0zr6/what_i_learned_as_an_application_architect_while/)|
 |quora      |[Feb 17](https://www.quora.com/profile/Dima-Nikulin-2/Why-I-decided-to-create-my-photo-organizer-As-a-child-I-used-to-flip-through-family-photo-album-to-see-my-relatives-w)|[Mar 14, 2023](https://www.quora.com/profile/Dima-Nikulin-2/What-I-learned-as-a-Product-Manager-while-creating-my-product-Design-Thinking-The-first-product-I-was-thinking-about-w-2)|[May 17, 2023](https://www.quora.com/profile/Dima-Nikulin-2/What-I-learned-as-a-Subject-Matter-Expert-while-creating-my-product)|[October 30, 2023](https://www.quora.com/profile/Dima-Nikulin-2/What-I-learned-as-an-Application-Architect-while-creating-my-product)| 
 
+**Exploring the World of Multimedia Information Retrieval Systems**
+(it is a publication that keeps all publications from *Multimedia, Multimedia IR systems and Multimedia Organizers - Part 1*)
+|Name       | Where       |
+|-----------|:-----------:|
+|linkedin   |[January 27,2023](https://www.linkedin.com/posts/dimanikulin_activity-7024663781666349057-Hw3_/?utm_source=share&utm_medium=member_desktop) |
+|dou.eu     |[Feb 20, 2023](https://dou.eu/community/posts/what-are-multimedia-information-retrieval-systems)|
+|dou.ua     | TBD |
+|codeproject| TBD |
+
 # About own product, its history and what I learned - Part 2
 |Name       |[What I Learned As SW Developer](./WhatILearnedAsSoftwareDeveloper.md)|[What I Learned As Delivery Manager](./WhatILearnedAsDeliveryManager.md)|[What I Learned As DevOps](./WhatILearnedAsDevOps.md)|[What I Learned As Tester](./WhatILearnedAsTester.md)|
 |-----------|---------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------|:----------------------------------------------------------------:|
@@ -45,6 +34,17 @@
 |hashnode   |[December 11, 2023](https://dimanikulin.hashnode.dev/what-i-learned-as-a-software-developer-while-creating-my-product)|TBD|TBD|TBD|
 |linkedin   |TBD|TBD|TBD|TBD|
 |dev.to     |[November 28, 2023](https://dev.to/dimanikulin/what-i-learned-as-a-software-developer-while-creating-my-product-5a99)|TBD|TBD|TBD|
+|medium     |TBD|TBD|TBD|TBD|
+|reddit     |TBD|TBD|TBD|TBD|
+|quora      |TBD|TBD|TBD|TBD| 
+
+# Publications about Multimedia, Multimedia IR systems and Multimedia Organizers - Part 2
+|Name       |[Analyze of Multimedia Organizers](./MultimediaOrganizersAnalyze.md)|[Search Requests for Multimedia](./MultimediaSearchRequests.md)|[Enriching the Multimedia](./MultimediaEnriching.md)|[Tagging Your Multimedia](./MultimediaTagging.md)|
+|-----------|---------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------|:----------------------------------------------------------------:|
+|hackernoon |TBD|TBD|TBD|TBD|
+|hashnode   |TBD|TBD|TBD|TBD|
+|linkedin   |TBD|TBD|TBD|TBD|
+|dev.to     |TBD|TBD|TBD|TBD|
 |medium     |TBD|TBD|TBD|TBD|
 |reddit     |TBD|TBD|TBD|TBD|
 |quora      |TBD|TBD|TBD|TBD| 
