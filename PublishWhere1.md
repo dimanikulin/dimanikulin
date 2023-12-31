@@ -75,6 +75,8 @@ In one more case, there was the following:
 They asked me to confirm that my article starts the way it should - *Your article appears to start abruptly. By that I mean, it seems like an introductory part of the article is missing.* 
 After 3 days, they rejected my article with *Unresponsive contributor.*
 
+Sometimes import works not well, it deletes space symbols, adds newline symbols, etc/
+
 For more information on how to publish, please go [to](https://help.hackernoon.com/how-do-i-get-published).
 
 # hashnode
