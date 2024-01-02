@@ -30,7 +30,7 @@
 # About own product, its history and what I learned - Part 2
 |Name       |[What I Learned As SW Developer](./WhatILearnedAsSoftwareDeveloper.md)|[What I Learned As Delivery Manager](./WhatILearnedAsDeliveryManager.md)|[What I Learned As DevOps](./WhatILearnedAsDevOps.md)|[What I Learned As Tester](./WhatILearnedAsTester.md)|
 |-----------|---------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------|:----------------------------------------------------------------:|
-|hackernoon |TBD|TBD|TBD|TBD|
+|hackernoon |[January 01, 2024](https://hackernoon.com/everything-i-learned-as-a-software-developer-while-creating-my-product)|TBD|TBD|TBD|
 |hashnode   |[December 11, 2023](https://dimanikulin.hashnode.dev/what-i-learned-as-a-software-developer-while-creating-my-product)|TBD|TBD|TBD|
 |linkedin   |TBD|TBD|TBD|TBD|
 |dev.to     |[November 28, 2023](https://dev.to/dimanikulin/what-i-learned-as-a-software-developer-while-creating-my-product-5a99)|TBD|TBD|TBD|
