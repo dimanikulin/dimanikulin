@@ -32,7 +32,7 @@
 |-----------|---------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------|:----------------------------------------------------------------:|
 |hackernoon |[January 01, 2024](https://hackernoon.com/everything-i-learned-as-a-software-developer-while-creating-my-product)|TBD|TBD|TBD|
 |hashnode   |[December 11, 2023](https://dimanikulin.hashnode.dev/what-i-learned-as-a-software-developer-while-creating-my-product)|TBD|TBD|TBD|
-|linkedin   |TBD|TBD|TBD|TBD|
+|linkedin   |[January 01, 2023](https://www.linkedin.com/posts/dimanikulin_softwaredevelopment-codequality-documentation-activity-7147854830793924608-rx6Q?utm_source=share&utm_medium=member_desktop)|TBD|TBD|TBD|
 |dev.to     |[November 28, 2023](https://dev.to/dimanikulin/what-i-learned-as-a-software-developer-while-creating-my-product-5a99)|TBD|TBD|TBD|
 |medium     |TBD|TBD|TBD|TBD|
 |reddit     |TBD|TBD|TBD|TBD|
