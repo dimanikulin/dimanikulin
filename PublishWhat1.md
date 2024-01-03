@@ -19,12 +19,17 @@ TBD
 
 ---
 
-# Critiear
-I published 6 puvlicateion on different sites before right this one
+# criterions
+So far I posted a lot of publicateion on 7 different sites. 
+As for me the main criteria to say if publication is succefull and interesting are 
 
-number of viewes
+- Number of viewes
+- Comments
+- Likes and reposts
+- Savings into bookmarks
 
 # Must Have Chapters
+
 Headline 
 Article descption
 Tags
