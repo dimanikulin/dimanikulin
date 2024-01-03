@@ -23,7 +23,9 @@ TBD
 
 ---
 
-not what have read from biiks and networks but your exp and not just repost
+# Common recomendation
+When you publish please notice it shaal sound like story and not just poor facts.
+It will be realy greate if describe your real expireince but not what have read from books and networks  and not just repost as well.
 
 # Plagiarism
 TBD
@@ -35,9 +37,6 @@ Please note we require 0% plagiarism/duplicate content and all sources must be c
 When using a quote or definition from another source, it must be cited using an in-line link so we are giving attribution and the reader can verify the information.
 
 However, we would prefer that these papers share a uniquely GL perspective and that the content is 100% original. 
-
-# Tell the story not just poor facts
-TBD
 
 # Engage people for a dialog
 Content shall ask for an opinion. Also please answer possible all questions in the comments 
