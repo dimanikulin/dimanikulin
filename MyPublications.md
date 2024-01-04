@@ -35,7 +35,7 @@
 |linkedin   |[January 02, 2023](https://www.linkedin.com/posts/dimanikulin_softwaredevelopment-codequality-documentation-activity-7147854830793924608-rx6Q?utm_source=share&utm_medium=member_desktop)|TBD|TBD|TBD|
 |dev.to     |[November 28, 2023](https://dev.to/dimanikulin/what-i-learned-as-a-software-developer-while-creating-my-product-5a99)|TBD|TBD|TBD|
 |medium     |[January 03, 2023](https://medium.com/@dimanikulin_43511/what-i-learned-as-a-software-developer-while-creating-my-product-fc7e3ac2534b)|TBD|TBD|TBD|
-|reddit     |TBD|TBD|TBD|TBD|
+|reddit     |[January 04, 2023](https://www.reddit.com/r/fva/comments/18y7jhe/what_i_learned_as_a_software_developer_while/)|TBD|TBD|TBD|
 |quora      |TBD|TBD|TBD|TBD| 
 
 # Publications about Multimedia, Multimedia IR systems and Multimedia Organizers - Part 2
