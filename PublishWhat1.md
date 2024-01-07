@@ -30,11 +30,13 @@ As for me the main criteria to say if publication is succefull and interesting a
 
 # Must Have Chapters
 let speak about Chapters to have any way
-Headline 
-Article descption
-Tags
-Table of contents
-Content
+I would call following chapters as must have:
+
+- Headline 
+- Article descption
+- Tags
+- Table of contents
+- Content
 
 # Optional chapters
 Definitions, Acronyms, Abbreviations
