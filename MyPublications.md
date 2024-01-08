@@ -36,7 +36,7 @@
 |dev.to     |[November 28, 2023](https://dev.to/dimanikulin/what-i-learned-as-a-software-developer-while-creating-my-product-5a99)|TBD|TBD|TBD|
 |medium     |[January 03, 2023](https://medium.com/@dimanikulin_43511/what-i-learned-as-a-software-developer-while-creating-my-product-fc7e3ac2534b)|TBD|TBD|TBD|
 |reddit     |[January 04, 2023](https://www.reddit.com/r/fva/comments/18y7jhe/what_i_learned_as_a_software_developer_while/)|TBD|TBD|TBD|
-|quora      |TBD|TBD|TBD|TBD| 
+|quora      |[January 08, 2023](https://www.quora.com/profile/Dima-Nikulin-2/What-I-learned-as-a-Software-Developer-while-creating-my-product-Overview-This-article-delves-into-the-importance-of-c)|TBD|TBD|TBD| 
 
 # Publications about Multimedia, Multimedia IR systems and Multimedia Organizers - Part 2
 |Name       |[Analyze of Multimedia Organizers](./MultimediaOrganizersAnalyze.md)|[Search Requests for Multimedia](./MultimediaSearchRequests.md)|[Enriching the Multimedia](./MultimediaEnriching.md)|[Tagging Your Multimedia](./MultimediaTagging.md)|
