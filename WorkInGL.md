@@ -23,7 +23,8 @@ Working in GL
 - [Дмитро Антонов](https://github.com/dimanikulin/dimanikulin/blob/main/WorkInGL.md#%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%BE-%D0%B0%D0%BD%D1%82%D0%BE%D0%BD%D0%BE%D0%B2)
 - [Сергій Жадан](https://github.com/dimanikulin/dimanikulin/blob/main/WorkInGL.md#%D1%81%D0%B5%D1%80%D0%B3%D1%96%D0%B9-%D0%B6%D0%B0%D0%B4%D0%B0%D0%BD)
 - [Interview number](https://github.com/dimanikulin/dimanikulin/blob/main/WorkInGL.md#interview-number)
-TBD
+- [Trusted Interviewers](https://github.com/dimanikulin/dimanikulin/blob/main/WorkInGL.md#top-interviewer-in-kyiv-in-cc-1)
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/WorkInGL.md#tags-7)
 - [References](https://github.com/dimanikulin/dimanikulin/blob/main/WorkInGL.md#references)
 
 # Tags
