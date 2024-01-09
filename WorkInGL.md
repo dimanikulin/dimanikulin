@@ -171,9 +171,12 @@ In 2022 it was quite the same
 <img src="./Images/NumberOfInterviews.jpg" alt="Number Of Interviews" />
 
 # Top Interviewer in Kyiv in C/C++
-Third time in row I was nomited as a Top Interviewer in Kyiv in C/C++.
+Third time in a row, I have been nominated as a Top Interviewer in Kyiv for C/C++.
 
-This time I have 56 interviews performed in 2023. And it is 1 interview in a week only.
+This year, I conducted 56 interviews in 2023, averaging one interview per week.
+
+## Tags
+interview award
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
@@ -192,3 +195,4 @@ This time I have 56 interviews performed in 2023. And it is 1 interview in a wee
 | 12| Дмитро Антонов | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_%D1%8F%D0%BA%D0%B1%D0%B8-%D1%83-%D0%B2%D0%B0%D1%81-%D0%B1%D1%83%D0%BB%D0%B0-%D1%82%D0%B0%D0%BA%D0%B0-%D0%BC%D0%BE%D0%B6%D0%BB%D0%B8%D0%B2%D1%96%D1%81%D1%82%D1%8C-%D1%82%D0%BE-%D1%89%D0%BE-%D0%B1-activity-7122467952146153472-vlmd?utm_source=share&utm_medium=member_desktop) | October 24, 2023 | Dmytro Nikulin | | 
 | 13| Сергій Жадан | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_warinukraine-activity-7138062207447138304-r2jI?utm_source=share&utm_medium=member_desktop) | December 6, 2023 | Dmytro Nikulin | |
 | 14| Top Interviewer in Kyiv in C/C++, 2022 | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_globallogic-interviewer-cplusplus-activity-7038422433585860608-Tr0W?utm_source=share&utm_medium=member_desktop) | March 2023 | Dmytro Nikulin | |
+| 15| Top Interviewer in Kyiv in C/C++, 2023 | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_globallogic-interview-award-activity-7150529520310087681-ya3A?utm_source=share&utm_medium=member_desktop) | January 2024 | Dmytro Nikulin | |
