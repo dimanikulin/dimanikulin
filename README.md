@@ -87,6 +87,7 @@ Given by Igor Odnovorov March 23, 2015(Founder, Chief Technology Officer at e-Sh
 # Honors & awards
 |Name                             |Issued by                                 |Date    | 
 |---------------------------------|------------------------------------------|:------:|
+|Top Interviewer in Kyiv for C/C++|GlobalLogic                               |Jan 2024| 
 |Top Interviewer in Kyiv for C/C++|GlobalLogic                               |Jan 2023| 
 |Top Interviewer in Kyiv for C/C++|GlobalLogic                               |Jan 2022| 
 |Top Student                      |EPAM Master's Degree Program              |Jun 2021|
