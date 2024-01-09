@@ -175,6 +175,8 @@ Third time in a row, I have been nominated as a Top Interviewer in Kyiv for C/C+
 
 This year, I conducted 56 interviews in 2023, averaging one interview per week.
 
+<img src="./Images/TrustedInterviewers.jpg" alt="Trusted Interviewers" />
+
 ## Tags
 interview award
 
