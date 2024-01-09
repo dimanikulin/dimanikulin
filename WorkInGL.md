@@ -22,6 +22,7 @@ Working in GL
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/WorkInGL.md#tags-6)
 - [Дмитро Антонов](https://github.com/dimanikulin/dimanikulin/blob/main/WorkInGL.md#%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%BE-%D0%B0%D0%BD%D1%82%D0%BE%D0%BD%D0%BE%D0%B2)
 - [Сергій Жадан](https://github.com/dimanikulin/dimanikulin/blob/main/WorkInGL.md#%D1%81%D0%B5%D1%80%D0%B3%D1%96%D0%B9-%D0%B6%D0%B0%D0%B4%D0%B0%D0%BD)
+- [Interview number](https://github.com/dimanikulin/dimanikulin/blob/main/WorkInGL.md#interview-number)
 - [References](https://github.com/dimanikulin/dimanikulin/blob/main/WorkInGL.md#references)
 
 # Tags
@@ -154,6 +155,18 @@ ukraine, war
 письменника, волонтера, музиканта, засновника благодійного фонду, популяризатора міста-сонця Харкова в цілому та району ХТЗ зокрема?
 
 <img src="./Images/gadan.jfif" alt="gadan" />
+
+# Interview number
+
+Do you think 81 interviews per year is a lot?
+
+I feel like no, it is about 1.5 interviews in a week only.
+
+And this year (the same as previous one) I was nominated as a Top Interviewer in Kyiv in C/C++ with 81 interviews.
+
+In 2022 it was quite the same
+
+<img src="./Images/NumberOfInterviews.jpg" alt="Number Of Interviews" />
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |

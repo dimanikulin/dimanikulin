@@ -4,7 +4,6 @@ Everything about the interviews
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/Interviews.md#tags)
 - [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/Interviews.md#overview)
-- [Interview number](https://github.com/dimanikulin/dimanikulin/blob/main/Interviews.md#interview-number)
 - [Interview Red Flags](https://github.com/dimanikulin/dimanikulin/blob/main/Interviews.md#interview-red-flags)
 - [AI tools for interview](https://github.com/dimanikulin/dimanikulin/blob/main/Interviews.md#ai-tools-for-interview)
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/Interviews.md#tags-1)
@@ -17,18 +16,6 @@ interviewer cplusplus cpp technicalinterview
 TBD 
 
 ---
-
-# Interview number
-
-Do you think 81 interviews per year is a lot?
-
-I feel like no, it is about 1.5 interviews in a week only.
-
-And this year (the same as previous one) I was nominated as a Top Interviewer in Kyiv in C/C++ with 81 interviews.
-
-In 2022 it was quite the same
-
-<img src="./Images/NumberOfInterviews.jpg" alt="Number Of Interviews" />
 
 # Interview Red Flags
 
