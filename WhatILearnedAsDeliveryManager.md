@@ -58,7 +58,7 @@ To avoid overloading the main **README**, there are several child files created 
 
 Furthermore, my **README starts with the product logo.
 
-## Bages
+## Badges
 The **README** then proceeds to badge chapters that prove helpful for developers. These sections include:
 
 - Common(Repository stars, contributors, followers, sponsors, and Twitter URL)
