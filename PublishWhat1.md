@@ -19,15 +19,6 @@ TBD
 
 ---
 
-# criterions
-So far I posted a lot of publicateion on 7 different sites. 
-As for me the main criteria to say if publication is succefull and interesting are 
-
-- Number of viewes
-- Comments
-- Likes and reposts
-- Savings into bookmarks
-
 # Must Have Chapters
 let speak about Chapters to have any way
 I would call following chapters as must have:
