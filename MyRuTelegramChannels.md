@@ -198,6 +198,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Репортёр Руденко V🇷🇺](https://t.me/RtrDonetsk)  | Closed comments | | 
 | [RuFront](https://t.me/RuFront)                    | Closed comments | |
 | [russiaz](https://t.me/russiaz)                    |
+| [Русская Душа](https://t.me/rusoul1                |
 | [Русская Душа](https://t.me/russoulchat)           | WIP4 | |
 | [RUSVARG](https://t.me/rusvarg)                    |
 | [Российский Рубеж Za нашу П](https://t.me/RubejRuZa)| | |
