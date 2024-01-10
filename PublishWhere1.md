@@ -85,7 +85,7 @@ For more information on how to publish, please go [to](https://help.hackernoon.c
 
 It has a content editor like WordPad.
 
-What I really liked about **Hashnode** is its nice feature - checking for syntax in **Grammarly.**
+What I really liked about **Hashnode** is its nice feature - checking for syntax using **AI**.
 
 While editing, it shows article stats:
 
