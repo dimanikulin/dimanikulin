@@ -23,7 +23,6 @@ TBD
 
 ---
 
-
 # Criterions
 So far I posted a lot of publicateion on 7 different sites. 
 As for me the main criteria to say if publication is succefull and interesting are 
@@ -87,6 +86,55 @@ prof read by person
 prof read by word or google docs
 
 no grammar and formatting issues
+
+# Size
+For a usual people-facing piece, I think this needs to be pared down as much as possible – ideally under 2500 words. 
+It's a very dense read, and it's a big ask to expect an executive looking at their solution options to read a 40-page paper.
+
+
+not less not more
+
+# No formatong symbols
+if you copy you content from spme format there should be any
+
+</br>
+&nbsp;&nbsp;
+
+# Citations 
+Citations should be formatted as in-line links, with any recommended reading listed separately. 
+
+# Pictures 
+No pictures - less views. pictires shall be related to content
+
+picture orientation suggested to be album and not a book orienttaopn
+
+you would have at least featured image as a title image. it shhould be active like a gif
+
+# Tables 
+if you provide tables please make sure that less filled columns are the end of table and wiseversa
+
+# Check list
+provide own check list
+My is 
+- is there "headline"?
+- is "headline" less than 150 charactres?
+- is there "Overview" to start from?
+- is there "Tags" ?
+- is there "Table of contents"?
+- is there "Content"? 
+- is there no formatting symbols?
+- is there no empty chapters?
+- is "Definitions, Acronyms, Abbreviations" sorted?
+- is there no PII ?
+- is there no TBD and TODO?
+- Is it asking for an opinion?
+- Has it been proof read?
+- Are there any pictures?
+- Is there bold text used for key word?
+- is there italic used for conversation?
+- Are all references actual?
+- Is lenght under 2500 words?
+
 
 # References 
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
