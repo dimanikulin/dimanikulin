@@ -96,6 +96,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Fighterbomber](https://t.me/fighter_bomber)       | closed for DN2 | |
 | [Скотомогильник](https://t.me/fiftnmls)            | closed for DN2 | |
 | [FridrihShow](https://t.me/FridrihShow)            | closed for DN2 | |
+| [Моисей](https://t.me/gefestwar)                   |	
 | [GREY ZONE](https://t.me/grey_zone)                | closed for DN2 | |
 | [Grigorjev](https://t.me/Grigorjev)                | closed comments | |
 | [ПриZрак Новороссии](https://t.me/ghost_of_novorossia) | closed for DN2 | |
@@ -127,6 +128,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [LIC_LPR](https://t.me/LIC_LPR)                    | WIP4 | |
 | [НОВОСТИ ЛНР](https://t.me/luganskallnews)         | Closed comments | |
 | [Мариуполь сейчас](https://t.me/mariupolz)         | closed for DN2 | |
+| [Призрак Мариуполя 🔥😈](https://t.me/mariupol_ghost)|
 | [Маша из Мариуполя 🇷🇺](https://t.me/mashainmarik)| | not working channel | 
 | [Министерство Логики](https://t.me/minlogiki)      | WIP4 | 
 | [Мисливец LITE](https://t.me/mislivetslite)        | WIP2 | 
