@@ -19,7 +19,16 @@ TBD
 
 ---
 
-# Must Have Chapters
+# Publication structure
+
+You shall remember content shall be structured!
+And it is extrimly impornat for big text.
+
+So there should be paragraphs with proper indentation, headings and subheadings, bulleted or numbered lists.
+
+Despite it shall structerd I would not recomened to have more then 3 levels.
+
+## Must Have Chapters
 let speak about Chapters to have any way
 I would call following chapters as must have:
 
@@ -29,47 +38,45 @@ I would call following chapters as must have:
 - Table of contents
 - Content
 
-# Optional chapters
+## Optional chapters
 Definitions, Acronyms, Abbreviations
 There's no need for a glossary. If there are terms the reader may not know, please explain them where and when they are mentioned.
 References
 
 Please notice order of chapters is important
 
-# "Headline" chapter
+# What I put into my chapters
+## "Headline" chapter
 GPT helpes here
 
-# "Article Desription" chapter
+## "Article Desription" chapter
 
 we call it TL;DR
 
 GPT helpes here
 
-# "Tags" chapter
+## "Tags" chapter
 
 usse these tags to put in platform 
 
 GPT helpes here
 
-# "Definitions, Acronyms, Abbreviations" chapter
+## "Definitions, Acronyms, Abbreviations" chapter
 TBD
 
-# "Table of contents" chapter
+## "Table of contents" chapter
 TBD
 
-# Content shall be structured
-really impornat for big text
-
-
-There should be paragraphs and proper indentation, subheadings, and bulleted or numbered lists
-
-not recomened more then 3 levels
-
-
-# "References" chapter
+## "References" chapter
 add links in place and into sepatated chapter 
 publish first the post you will refer to and then more global post. So first will published more detailed posts
 
+# Size
+For a usual people-facing piece, I think this needs to be pared down as much as possible – ideally under 2500 words. 
+It's a very dense read, and it's a big ask to expect an executive looking at their solution options to read a 40-page paper.
+
+
+not less not more
 
 # No formatong symbols
 if you copy you content from spme format there should be any
@@ -87,17 +94,8 @@ picture orientation suggested to be album and not a book orienttaopn
 
 you would have at least featured image as a title image. it shhould be active like a gif
 
-
 # Tables 
 if you provide tables please make sure that less filled columns are the end of table and wiseversa
-
-# Size
-
-For a customer-facing piece, I think this needs to be pared down as much as possible – ideally under 2500 words. 
-It's a very dense read, and it's a big ask to expect an executive looking at their solution options to read a 40-page paper.
-
-
-not less not more
 
 # Check list
 provide own check list
