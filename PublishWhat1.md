@@ -28,22 +28,22 @@ So there should be paragraphs with proper indentation, headings and subheadings,
 
 Despite it shall structerd I would not recomened to have more then 3 levels.
 
+Please notice order of chapters is important. I use order from science document. 
+
 ## Must Have Chapters
-let speak about Chapters to have any way
+Let speak about Chapters to have any way
 I would call following chapters as must have:
 
 - Headline 
-- Article descption
+- Overview
 - Tags
 - Table of contents
-- Content
 
 ## Optional chapters
-Definitions, Acronyms, Abbreviations
-There's no need for a glossary. If there are terms the reader may not know, please explain them where and when they are mentioned.
-References
+I would like to say **Definitions, Acronyms, Abbreviations** and **References** chapters are optional.
 
-Please notice order of chapters is important
+Generally there's no need for a glossary. 
+If there are terms the reader may not know, please explain them where and when they are mentioned.
 
 # What I put into my chapters
 ## "Headline" chapter
