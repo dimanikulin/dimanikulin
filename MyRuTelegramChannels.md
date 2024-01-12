@@ -195,10 +195,11 @@ The bot was created and works to promote and publish fake news about the Russian
 | [rsotmdivision](https://t.me/rsotmdivision)        |
 | [Роман Сапоньков](https://t.me/RSaponkov)          |
 | [Операция Z: Военкоры Русско](https://t.me/RVvoenkor) |
-| [Репортёр Руденко V🇷🇺](https://t.me/RtrDonetsk)  | Closed comments | | 
+| [Репортёр Руденко V🇷🇺](https://t.me/RtrDonetsk)  | Closed comments | |
+| [Российский Рубеж](https://t.me/RubejRuZanashy)    | | |
 | [RuFront](https://t.me/RuFront)                    | Closed comments | |
 | [russiaz](https://t.me/russiaz)                    |
-| [Русская Душа](https://t.me/rusoul1                |
+| [Русская Душа](https://t.me/rusoul1)                |
 | [Русская Душа](https://t.me/russoulchat)           | WIP4 | |
 | [RUSVARG](https://t.me/rusvarg)                    |
 | [Российский Рубеж Za нашу П](https://t.me/RubejRuZa)| | |
@@ -270,6 +271,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Владимир Зеленский](https://t.me/zelenckiy)       |
 | [Владимир Зеленский](https://t.me/zelenskyi_vladimir)|
 | [SU_Hunter_2_0](https://t.me/ZSU_Hunter_2_0)       |
+| [Тринадцатый.](https://t.me/Z13_Separ)             |
 | [Срочно Запорожье](https://t.me/zzzzzzzzzapp)      |
 | [Башни Кремля](https://t.me/+dZK10QqBu0xiZjYy)     |
 | [Поколение Z](https://t.me/+EXrNv7j5LIQxNmNi)      |
