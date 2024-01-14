@@ -43,11 +43,12 @@ I would call following chapters as must have:
 I would like to say **Definitions, Acronyms, Abbreviations** and **References** chapters are optional.
 
 Generally there's no need for a glossary. 
+
 If there are terms the reader may not know, please explain them where and when they are mentioned.
 
 # What I put into my chapters
 ## "Headline" chapter
-GPT helpes here
+I ause chat GPT to help me to generate headlie
 
 ## "Article Desription" chapter
 
