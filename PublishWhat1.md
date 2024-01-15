@@ -48,13 +48,13 @@ If there are terms the reader may not know, please explain them where and when t
 
 # What I put into my chapters
 ## "Headline" chapter
-I ause chat GPT to help me to generate headlie
+I ause chat GPT to help me to generate headline. But sometimes it requires a little correction.
 
 ## "Article Desription" chapter
 
-we call it TL;DR
+Usuall we call it **TL;DR** - too long; didn't read
 
-GPT helpes here
+And similar to previous GPT helpes here to generate
 
 ## "Tags" chapter
 
