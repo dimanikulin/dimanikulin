@@ -17,7 +17,8 @@ Everything about the Software Development
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#tags-5)
 - [Programming Languages and Guessing!](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#programming-languages-and-guessing)
 - [Tabs or Spaces](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#tabs-or-spaces)
-TBD
+- [UIQ](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#uiq)
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#tags-6)
 - [References](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#references)
 
 # Tags
