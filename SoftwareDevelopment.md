@@ -17,6 +17,7 @@ Everything about the Software Development
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#tags-5)
 - [Programming Languages and Guessing!](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#programming-languages-and-guessing)
 - [Tabs or Spaces](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#tabs-or-spaces)
+TBD
 - [References](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#references)
 
 # Tags
@@ -129,6 +130,18 @@ The choice between them is largely a matter of personal preference.
 So, what is your preference and why?
 
 <img src="./Images/tabsvsspaces.jpg" alt="tabs vs spaces" />
+
+## UIQ
+About 15 years ago, I used to program for a rare operating system called UIQ.
+It was used for Sony Ericsson smartphones with touchable screens.
+The C++ language was used to make UI programming possible, as well as backend programming.
+The biggest problem was the lack of programming documentation and support.
+
+Can you share your experience with old operating systems, libraries, languages, etc., that you will never forget due to issues working with them?
+
+### Tags
+
+
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
