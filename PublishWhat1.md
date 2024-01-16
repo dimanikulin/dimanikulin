@@ -19,16 +19,18 @@ TBD
 
 ---
 
-# Publication structure
+# Publication Structure
 
-You shall remember content shall be structured!
-And it is extrimly impornat for big text.
+When creating content, it is crucial to prioritize structure, especially for larger texts.
+The following guidelines should be adhered to:
 
-So there should be paragraphs with proper indentation, headings and subheadings, bulleted or numbered lists.
+- Paragraphs and Indentation: Ensure that paragraphs are used to maintain clear segmentation of ideas. Implement proper indentation to enhance readability.
+- Headings and Subheadings: Utilize headings and subheadings to organize content hierarchically. Limit heading levels to three for simplicity and clarity.
+- Lists: Integrate bulleted or numbered lists to present information concisely.
+- Chapter Order: Recognize the significance of the order of chapters, following the conventions of scientific documents.
 
-Despite it shall structerd I would not recomened to have more then 3 levels.
+By adhering to these guidelines, your content will not only be well-structured but also enhance the overall readability and comprehension of the larger text.
 
-Please notice order of chapters is important. I use order from science document. 
 
 ## Must Have Chapters
 Let speak about Chapters to have any way
