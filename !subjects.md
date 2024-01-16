@@ -17,8 +17,6 @@ archive
 essentiali epim 
 clearn up current app and environment
 
-peceace of code for old OS
-
 видучаывай
 
 Три випадкові факти про мене:
