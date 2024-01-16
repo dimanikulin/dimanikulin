@@ -30,8 +30,8 @@
 # About own product, its history and what I learned - Part 2
 |Name       |[What I Learned As SW Developer](./WhatILearnedAsSoftwareDeveloper.md)|[What I Learned As Delivery Manager](./WhatILearnedAsDeliveryManager.md)|[What I Learned As DevOps](./WhatILearnedAsDevOps.md)|[What I Learned As Tester](./WhatILearnedAsTester.md)|
 |-----------|---------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------|:----------------------------------------------------------------:|
-|hackernoon |[January 01, 2024](https://hackernoon.com/everything-i-learned-as-a-software-developer-while-creating-my-product)|TBD|TBD|TBD|
 |hashnode   |[December 11, 2023](https://dimanikulin.hashnode.dev/what-i-learned-as-a-software-developer-while-creating-my-product)|[10 January,2024](https://dimanikulin.hashnode.dev/what-i-learned-as-a-delivery-manager-while-creating-my-product)|TBD|TBD|
+|hackernoon |[January 01, 2024](https://hackernoon.com/everything-i-learned-as-a-software-developer-while-creating-my-product)|TBD|TBD|TBD|
 |linkedin   |[January 02, 2023](https://www.linkedin.com/posts/dimanikulin_softwaredevelopment-codequality-documentation-activity-7147854830793924608-rx6Q?utm_source=share&utm_medium=member_desktop)|TBD|TBD|TBD|
 |dev.to     |[November 28, 2023](https://dev.to/dimanikulin/what-i-learned-as-a-software-developer-while-creating-my-product-5a99)|TBD|TBD|TBD|
 |medium     |[January 03, 2023](https://medium.com/@dimanikulin_43511/what-i-learned-as-a-software-developer-while-creating-my-product-fc7e3ac2534b)|TBD|TBD|TBD|
@@ -41,8 +41,8 @@
 # Publications about Multimedia, Multimedia IR systems and Multimedia Organizers - Part 2
 |Name       |[Analyze of Multimedia Organizers](./MultimediaOrganizersAnalyze.md)|[Search Requests for Multimedia](./MultimediaSearchRequests.md)|[Enriching the Multimedia](./MultimediaEnriching.md)|[Tagging Your Multimedia](./MultimediaTagging.md)|
 |-----------|---------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------|:----------------------------------------------------------------:|
-|hackernoon |TBD|TBD|TBD|TBD|
 |hashnode   |TBD|TBD|TBD|TBD|
+|hackernoon |TBD|TBD|TBD|TBD|
 |linkedin   |TBD|TBD|TBD|TBD|
 |dev.to     |TBD|TBD|TBD|TBD|
 |medium     |TBD|TBD|TBD|TBD|
@@ -52,8 +52,8 @@
 # Detecting Architectural Gaps with Automation
 |Name       |[Business Context](./DAGBusinessContext.md)|[Existing Solutions](./DAGExistingSolutions.md)|[Proposed Solution](./DAGProposedSolution.md)|
 |-----------|---------------------------------------------------------------|----------------------------------------------------------------------|:---------------------------------------------------------------------------------:|
-|hackernoon |TBD|TBD|TBD|TBD|
 |hashnode   |TBD|TBD|TBD|TBD|
+|hackernoon |TBD|TBD|TBD|TBD|
 |linkedin   |TBD|TBD|TBD|TBD|
 |dev.to     |TBD|TBD|TBD|TBD|
 |medium     |TBD|TBD|TBD|TBD|
@@ -63,8 +63,8 @@
 # How, What and Where to publish
 |Name       |[What To Publish, 1](./PublishWhat1.md)|[What To Publish, 2](./PublishWhat2.md)|[Where To Publish 1](./PublishWhere1.md)|[Where To Publish 2](./PublishWhere2.md)|
 |-----------|---|---|---|:-----------:|
-|hackernoon |TBD|TBD|TBD|TBD|
 |hashnode   |TBD|TBD|TBD|TBD|
+|hackernoon |TBD|TBD|TBD|TBD|
 |linkedin   |TBD|TBD|TBD|TBD|
 |dev.to     |TBD|TBD|TBD|TBD|
 |medium     |TBD|TBD|TBD|TBD|
