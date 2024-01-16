@@ -139,8 +139,10 @@ The biggest problem was the lack of programming documentation and support.
 
 Can you share your experience with old operating systems, libraries, languages, etc., that you will never forget due to issues working with them?
 
-### Tags
+<img src="./Images/UIQ3.jpg" alt="UIQ" />
 
+### Tags
+old
 
 
 # References
