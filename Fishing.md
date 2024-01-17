@@ -87,9 +87,9 @@ Stay safe!
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
-| 1 | Attempt 0 | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_fishing-activity-6993092454992211969-Ucgz?utm_source=share&utm_medium=member_desktop)|December, 2022|Dmytro Nikulin||
-| 2 | Attempt 1 | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_fishing-activity-6939455519191404544-mWpp?utm_source=share&utm_medium=member_desktop)|June, 2022|Dmytro Nikulin||
-| 3 | Attempt 2 | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_it-is-so-easy-to-get-really-big-money-now-activity-6935298599983443968-1GRA?utm_source=share&utm_medium=member_desktop)|May, 2022|Dmytro Nikulin||
-| 4 | Attempt 3 | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_that-is-probably-first-time-when-i-reject-activity-6885883352952438784-CEq-?utm_source=share&utm_medium=member_desktop)|January, 2022|Dmytro Nikulin||
-| 5 | Attempt 4 | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_fishing-activity-7054716495364300801-_-1z?utm_source=share&utm_medium=member_desktop)|April 24, 2023|Dmytro Nikulin||
-| 6 | Sensitive or confidential language | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_staysafe-fishing-activity-7071738520201027584-TmuQ?utm_source=share&utm_medium=member_desktop)|June 6, 2023|Dmytro Nikulin||
+| 1 | Attempt 0 | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_fishing-activity-6993092454992211969-Ucgz?utm_source=share&utm_medium=member_desktop)|01/12/2022|Dmytro Nikulin||
+| 2 | Attempt 1 | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_fishing-activity-6939455519191404544-mWpp?utm_source=share&utm_medium=member_desktop)|01/06/2022|Dmytro Nikulin||
+| 3 | Attempt 2 | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_it-is-so-easy-to-get-really-big-money-now-activity-6935298599983443968-1GRA?utm_source=share&utm_medium=member_desktop)|01/05/2022|Dmytro Nikulin||
+| 4 | Attempt 3 | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_that-is-probably-first-time-when-i-reject-activity-6885883352952438784-CEq-?utm_source=share&utm_medium=member_desktop)|01/01/2022|Dmytro Nikulin||
+| 5 | Attempt 4 | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_fishing-activity-7054716495364300801-_-1z?utm_source=share&utm_medium=member_desktop)|24/04/2023|Dmytro Nikulin||
+| 6 | Sensitive or confidential language | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_staysafe-fishing-activity-7071738520201027584-TmuQ?utm_source=share&utm_medium=member_desktop)|06/06/2023|Dmytro Nikulin||
