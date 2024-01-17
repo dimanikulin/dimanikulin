@@ -218,10 +218,10 @@ Consequently, the augmented pipeline would resemble the second pipeline depicted
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
-| 1 | Why data drift detection is important and how do you automate it in 5 simple steps | [web](https://towardsdatascience.com/why-data-drift-detection-is-important-and-how-do-you-automate-it-in-5-simple-steps-96d611095d93)| Nov 1, 2021 | Srikanth Machiraju | |
-| 2 | Detecting data drift using Amazon SageMaker | [web](https://aws.amazon.com/blogs/architecture/detecting-data-drift-using-amazon-sagemaker/)| 03 MAY 2022 | Shibu Nair, Zorina Alliata, Péter Molnár, and Joe Pazak | |
+| 1 | Why data drift detection is important and how do you automate it in 5 simple steps | [web](https://towardsdatascience.com/why-data-drift-detection-is-important-and-how-do-you-automate-it-in-5-simple-steps-96d611095d93)| 1/11/2021 | Srikanth Machiraju | |
+| 2 | Detecting data drift using Amazon SageMaker | [web](https://aws.amazon.com/blogs/architecture/detecting-data-drift-using-amazon-sagemaker/)| 03/05/2022 | Shibu Nair, Zorina Alliata, Péter Molnár, and Joe Pazak | |
 | 3 | Manipulate the Visio file format programmatically | [web](https://learn.microsoft.com/en-us/office/client-developer/visio/how-to-manipulate-the-visio-file-format-programmatically)| 04/03/2023 | Microsoft | |
-| 4 | Enterprise Architect API | [Pdf document](https://sparxsystems.com/resources/user-guides/15.1/automation/automation.pdf)| 2020-01-20 | Sparx Systems | |
+| 4 | Enterprise Architect API | [Pdf document](https://sparxsystems.com/resources/user-guides/15.1/automation/automation.pdf)| 20/01/2020 | Sparx Systems | |
 | 5 | Java class dependency analyzer | [web](https://docs.oracle.com/javase/9/tools/jdeps.htm#JSWOR690)| | | |
 | 6 | Detecting Architectural Gaps with Automation : Business Context | [GitHub](./DAGBusinessContext.md) |  | Dmytro Nikulin | | 
 | 7 | Detecting Architectural Gaps with Automation : Existing Solutions | [GitHub](./DAGExistingSolutions.md) |  | Dmytro Nikulin | | 
