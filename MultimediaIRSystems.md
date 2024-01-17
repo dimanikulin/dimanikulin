@@ -74,11 +74,11 @@ For example, there might be different professions who access the photos or image
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
-| 1 | What is Multimedia Data?|[repo](./MultimediaData.md)| 2022            | Dmytro Nikulin | |
-| 2 | Multimedia IR systems Analyze|[repo](./MultimediaIRSystemsAnalyze.md)|2022| Dmytro Nikulin | |
-| 3 | What are MultimediaOrganizers?|[repo](./MultimediaOrganizers.md)|2022 | Dmytro Nikulin | |
+| 1 | What is Multimedia Data?|[repo](./MultimediaData.md)| 01/01/2022            | Dmytro Nikulin | |
+| 2 | Multimedia IR systems Analyze|[repo](./MultimediaIRSystemsAnalyze.md)|01/01/2022| Dmytro Nikulin | |
+| 3 | What are MultimediaOrganizers?|[repo](./MultimediaOrganizers.md)|01/01/2022 | Dmytro Nikulin | |
 | 4 | Information retrieval|[Web](https://en.wikipedia.org/wiki/Information_retrieval)| | Wikipedia      | |
 | 5 | Multimedia information retrieval |[Web](https://en.wikipedia.org/wiki/Multimedia_information_retrieval)|| Wikipedia | |
 | 6 | Image retrieval|[Web](https://en.wikipedia.org/wiki/Image_retrieval)|  | Wikipedia      | |
-| 7 | Unified concept-based multimedia information retrieval technique | book |  2012 | Kambau, Ridwan, Hasibuan, Zainal, 10.1109/EECSI.2017.8239086 |  |
+| 7 | Unified concept-based multimedia information retrieval technique | book | 01/01/2012 | Kambau, Ridwan, Hasibuan, Zainal, 10.1109/EECSI.2017.8239086 |  |
 | 8 | Multimedia Retrieval |[Slides](https://www.ccs.neu.edu/home/jaa/CSG339.06F/Lectures/multimedia.pdf) | | Jimmy Lin , University of Maryland, Dr. Ramesh R. Sarukkai, Yahoo! Search | |
