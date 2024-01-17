@@ -41,7 +41,6 @@ In any comprehensive document, the following chapters are essential:
 
 Ensuring the inclusion of these must-have chapters will contribute to the clarity, accessibility, and overall effectiveness of the document.
 
-
 ## Optional chapters
 I would like to say **Definitions, Acronyms, Abbreviations** and **References** chapters are optional.
 
