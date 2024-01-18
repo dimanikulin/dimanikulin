@@ -32,10 +32,10 @@ TBD
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 | 1 | Tag your media       | [Web](https://helpx.adobe.com/elements-organizer/using/tag-media.html) | |Adobe |Learn how tagging and using people, places, or events tags lets you easily organize your media by managing your files and making them more search friendly.|
 | 2 | Tagging Photos       | [Web](https://www.digital-photo-secrets.com/tip/63/tagging-photos/)| | digital-photo-secrets||
-| 3 | Three Cheers for Embedded Metadata| [Web](https://siarchives.si.edu/blog/three-cheers-embedded-metadata) | February 28, 2012|Lynda Schmitz Funrig | |
-| 4 | Best Practices and Tools to Create Archival Image Metadata|[Web](https://digitalarch.org/blog/2017/4/7/ykag6k2fvln7g1j02923n0c7zdrryg)|June 28, 2016 |Elena Toffalori | |
+| 3 | Three Cheers for Embedded Metadata| [Web](https://siarchives.si.edu/blog/three-cheers-embedded-metadata) | 28/02/2012|Lynda Schmitz Funrig | |
+| 4 | Best Practices and Tools to Create Archival Image Metadata|[Web](https://digitalarch.org/blog/2017/4/7/ykag6k2fvln7g1j02923n0c7zdrryg)|28/06/2016 |Elena Toffalori | |
 | 5 | Resolving and avoiding metadata conflicts|[Web](https://www.lynda.com/Lightroom-tutorials/Resolving-avoiding-metadata-conflicts/447237/485677-4.html) | | | Lynda is now LinkedIn |
-| 6 | Adding Descriptions to Digital Photos |[Web](https://blogs.loc.gov/thesignal/2011/10/mission-possible-an-easy-way-to-add-descriptions-to-digital-photos/) |October 28, 2011|Mike Ashenfelder | |
+| 6 | Adding Descriptions to Digital Photos |[Web](https://blogs.loc.gov/thesignal/2011/10/mission-possible-an-easy-way-to-add-descriptions-to-digital-photos/) |28/10/2011|Mike Ashenfelder | |
 | 7 | Metadata Templates |[Web](https://dpbestflow.org/metadata/metadata-templates) | |Peter Krogh | |
-| 8 | Metadata generation for image files | [Patent](https://patents.google.com/patent/US8473525) | 2013-06-25 |Google| |
-| 9 | Exif Jpeg header manipulation tool | [Web](https://www.sentex.ca/~mwandel/jhead/) | Nov 22 2019| | |
+| 8 | Metadata generation for image files | [Patent](https://patents.google.com/patent/US8473525) | 25/06/2013 |Google| |
+| 9 | Exif Jpeg header manipulation tool | [Web](https://www.sentex.ca/~mwandel/jhead/) | 22/11/2019| | |
