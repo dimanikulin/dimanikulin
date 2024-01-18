@@ -67,11 +67,11 @@ it could also contain a location or any other information the user desires.
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
-| 1 | What is multimedia data?|[repo](./MultimediaData.md)| 2022            | Dmytro Nikulin | |
-| 2 | What are Multimedia IR systems?|[repo](./MultimediaIRSystems.md)|2022 | Dmytro Nikulin | |
-| 3 | Multimedia IR systems Analyze|[repo](./MultimediaIRSystemsAnalyze.md)|2022| Dmytro Nikulin | |
-| 4 | 26 Best Photo Organizer Software and Apps of 2022 |[Web](https://www.pixpa.com/blog/photo-organiser)| Jun 25, 2021    | Anisha Singh   | |
-| 5 | Independent Course for Organizing Your Digital Photos |[Web](https://www.organizepictures.com/organize-digital-photos-course)| 2021        | organizepictures | |
+| 1 | What is multimedia data?|[repo](./MultimediaData.md)| 01/01/2022      | Dmytro Nikulin | |
+| 2 | What are Multimedia IR systems?|[repo](./MultimediaIRSystems.md)|01/01/2022 | Dmytro Nikulin | |
+| 3 | Multimedia IR systems Analyze|[repo](./MultimediaIRSystemsAnalyze.md)|01/01/2022| Dmytro Nikulin | |
+| 4 | 26 Best Photo Organizer Software and Apps of 2022 |[Web](https://www.pixpa.com/blog/photo-organiser)| 25/06/2021 | Anisha Singh   | |
+| 5 | Independent Course for Organizing Your Digital Photos |[Web](https://www.organizepictures.com/organize-digital-photos-course)| 01/01/2021 | organizepictures | |
 | 6 | Image organizer |[Web](https://en.wikipedia.org/wiki/Image_organizer) | | Wikipedia      | |
-| 7 | Best Photo Management Software to Organize Digital Photos in 2022 |[Web](https://wethegeek.com/best-photo-management-software-organize-photos/)| 2021-12-17 | Mansi Vijay ||
+| 7 | Best Photo Management Software to Organize Digital Photos in 2022 |[Web](https://wethegeek.com/best-photo-management-software-organize-photos/)| 17/12/2021 | Mansi Vijay ||
 | 8 | Photo organizer |[Web](https://github.com/topics/photo-organizer)| | GitHub ||
