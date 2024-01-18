@@ -22,21 +22,21 @@
 (it is a publication that keeps all publications from *Multimedia, Multimedia IR systems and Multimedia Organizers - Part 1*)
 |Name       | Where       |
 |-----------|:-----------:|
-|linkedin   |[January 27,2023](https://www.linkedin.com/posts/dimanikulin_activity-7024663781666349057-Hw3_/?utm_source=share&utm_medium=member_desktop) |
-|dou.eu     |[Feb 20, 2023](https://dou.eu/community/posts/what-are-multimedia-information-retrieval-systems)|
+|linkedin   |[27/01/2023](https://www.linkedin.com/posts/dimanikulin_activity-7024663781666349057-Hw3_/?utm_source=share&utm_medium=member_desktop) |
+|dou.eu     |[20/02/2023](https://dou.eu/community/posts/what-are-multimedia-information-retrieval-systems)|
 |dou.ua     | TBD |
 |codeproject| TBD |
 
 # About own product, its history and what I learned - Part 2
 |Name       |[What I Learned As SW Developer](./WhatILearnedAsSoftwareDeveloper.md)|[What I Learned As Delivery Manager](./WhatILearnedAsDeliveryManager.md)|[What I Learned As DevOps](./WhatILearnedAsDevOps.md)|[What I Learned As Tester](./WhatILearnedAsTester.md)|
 |-----------|---------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------|:----------------------------------------------------------------:|
-|hashnode   |[December 11, 2023](https://dimanikulin.hashnode.dev/what-i-learned-as-a-software-developer-while-creating-my-product)|[10 January,2024](https://dimanikulin.hashnode.dev/what-i-learned-as-a-delivery-manager-while-creating-my-product)|TBD|TBD|
-|hackernoon |[January 01, 2024](https://hackernoon.com/everything-i-learned-as-a-software-developer-while-creating-my-product)|[17 January,2024](https://hackernoon.com/everything-i-learned-as-a-delivery-manager-while-creating-my-product)|TBD|TBD|
-|linkedin   |[January 02, 2023](https://www.linkedin.com/posts/dimanikulin_softwaredevelopment-codequality-documentation-activity-7147854830793924608-rx6Q?utm_source=share&utm_medium=member_desktop)|TBD|TBD|TBD|
-|dev.to     |[November 28, 2023](https://dev.to/dimanikulin/what-i-learned-as-a-software-developer-while-creating-my-product-5a99)|TBD|TBD|TBD|
-|medium     |[January 03, 2023](https://medium.com/@dimanikulin_43511/what-i-learned-as-a-software-developer-while-creating-my-product-fc7e3ac2534b)|TBD|TBD|TBD|
-|reddit     |[January 04, 2023](https://www.reddit.com/r/fva/comments/18y7jhe/what_i_learned_as_a_software_developer_while/)|TBD|TBD|TBD|
-|quora      |[January 08, 2023](https://www.quora.com/profile/Dima-Nikulin-2/What-I-learned-as-a-Software-Developer-while-creating-my-product-Overview-This-article-delves-into-the-importance-of-c)|TBD|TBD|TBD| 
+|hashnode   |[11/12/2023](https://dimanikulin.hashnode.dev/what-i-learned-as-a-software-developer-while-creating-my-product)|[10/01/2024](https://dimanikulin.hashnode.dev/what-i-learned-as-a-delivery-manager-while-creating-my-product)|TBD|TBD|
+|hackernoon |[01/01/2024](https://hackernoon.com/everything-i-learned-as-a-software-developer-while-creating-my-product)|[17/01/2024](https://hackernoon.com/everything-i-learned-as-a-delivery-manager-while-creating-my-product)|TBD|TBD|
+|linkedin   |[02/01/2024](https://www.linkedin.com/posts/dimanikulin_softwaredevelopment-codequality-documentation-activity-7147854830793924608-rx6Q?utm_source=share&utm_medium=member_desktop)|TBD|TBD|TBD|
+|dev.to     |[28/11/2023](https://dev.to/dimanikulin/what-i-learned-as-a-software-developer-while-creating-my-product-5a99)|TBD|TBD|TBD|
+|medium     |[03/01/2023](https://medium.com/@dimanikulin_43511/what-i-learned-as-a-software-developer-while-creating-my-product-fc7e3ac2534b)|TBD|TBD|TBD|
+|reddit     |[04/01/2023](https://www.reddit.com/r/fva/comments/18y7jhe/what_i_learned_as_a_software_developer_while/)|TBD|TBD|TBD|
+|quora      |[08/01/2023](https://www.quora.com/profile/Dima-Nikulin-2/What-I-learned-as-a-Software-Developer-while-creating-my-product-Overview-This-article-delves-into-the-importance-of-c)|TBD|TBD|TBD| 
 
 # Publications about Multimedia, Multimedia IR systems and Multimedia Organizers - Part 2
 |Name       |[Analyze of Multimedia Organizers](./MultimediaOrganizersAnalyze.md)|[Search Requests for Multimedia](./MultimediaSearchRequests.md)|[Enriching the Multimedia](./MultimediaEnriching.md)|[Tagging Your Multimedia](./MultimediaTagging.md)|
