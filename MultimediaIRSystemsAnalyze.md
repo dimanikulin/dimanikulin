@@ -75,12 +75,12 @@ Although the most recent **multimedia IR** systems may provide search operations
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
-| 1 | What is Multimedia Data?|[repo](./MultimediaData.md)| 2022            | Dmytro Nikulin | |
-| 2 | What are Multimedia IR systems?|[repo](./MultimediaIRSystems.md)| 2022| Dmytro Nikulin | |
-| 3 | What are MultimediaOrganizers?|[repo](./MultimediaOrganizers.md)| 2022| Dmytro Nikulin | |
-| 4 | Synology Moments     |[Web](https://www.synology.com/en-global/dsm/feature/moments)| 2021 | Synology       | |
+| 1 | What is Multimedia Data?|[repo](./MultimediaData.md)| 01/01/2022            | Dmytro Nikulin | |
+| 2 | What are Multimedia IR systems?|[repo](./MultimediaIRSystems.md)| 01/01/2022| Dmytro Nikulin | |
+| 3 | What are MultimediaOrganizers?|[repo](./MultimediaOrganizers.md)| 01/012022| Dmytro Nikulin | |
+| 4 | Synology Moments     |[Web](https://www.synology.com/en-global/dsm/feature/moments)| 01/01/2021 | Synology       | |
 | 5 | Tour Mylio           |[Web](https://mylio.com/)|                      | Mylio          | |
 | 6 | Google Photos        |[Web](https://en.wikipedia.org/wiki/Google_Photos)| | Wikipedia   | |
-| 7 | A Beginner’s Guide To Google Photos |[Web](https://www.theedublogger.com/google-photos-guide/)| July 08, 2020| Sue Waters     | |
+| 7 | A Beginner’s Guide To Google Photos |[Web](https://www.theedublogger.com/google-photos-guide/)| 08/07/2020| Sue Waters     | |
 | 8 | The digiKam Handbook |[Web](https://www.digikam.org/documentation/)| | The digiKam developers team | |
 | 9 | Apple Photos         |[Web](https://en.wikipedia.org/wiki/Apple_Photos)|  | Wikipedia      | |
