@@ -126,4 +126,4 @@ The history of internal metadata formats in FVA Software demonstrates the import
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
-| 1 | FVA Tool Set features | [local resource](./FVADocX/FVAToolSetFeatures.pptx) | June 2022 | Dmytro Nikulin | | 
+| 1 | FVA Tool Set features | [local resource](./FVADocX/FVAToolSetFeatures.pptx) | 01/06/2022 | Dmytro Nikulin | | 
