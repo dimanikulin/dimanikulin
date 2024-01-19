@@ -148,11 +148,11 @@ old
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
-| 1 |Just joined a project with Scrum|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_activity-6937092837654081540-brUA?utm_source=share&utm_medium=member_desktop)| May, 2022 | Dmytro Nikulin||
-| 2 |Software Complexity|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_activity-6934186023509741568-9mZu?utm_source=share&utm_medium=member_desktop)| April, 2022 | Dmytro Nikulin||
-| 3 |Which title describes better a real job?|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_itconsulting-itcompany-cv-activity-7000719821558411264-1dHl?utm_source=share&utm_medium=member_desktop)| November, 2022 | Dmytro Nikulin||
-| 4 |What do you usually do to provide accurate estimations?|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_experience-softwaredevelopment-estimation-activity-7069560555165876224-_Af3?utm_source=share&utm_medium=member_desktop)| 30 May, 2023 | Dmytro Nikulin| |
-| 5 |C++ death |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_programminglanguage-technologytrends-cpplus-activity-7076463361500098560-ucVw?utm_source=share&utm_medium=member_desktop)| 19 June, 2023 | Dmytro Nikulin| |
-| 6 |Programming Languages and Guessing! |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_languages-and-guessing-in-a-broader-sense-activity-7133365394043514880-WW4P?utm_source=share&utm_medium=member_desktop) | 23 November, 2023 | Dmytro Nikulin | |
-| 7 |Tabs or Spaces|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_softwaredevelopment-activity-7141376776915660800-whXp?utm_source=share&utm_medium=member_desktop) | 15 December, 2023 | Dmytro Nikulin | |
-| 8 |UIQ|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_old-activity-7152938805359001601-vGeW?utm_source=share&utm_medium=member_desktop) | 16 January, 2024 | Dmytro Nikulin | |
+| 1 |Just joined a project with Scrum|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_activity-6937092837654081540-brUA?utm_source=share&utm_medium=member_desktop)| 01/05/2022 | Dmytro Nikulin||
+| 2 |Software Complexity|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_activity-6934186023509741568-9mZu?utm_source=share&utm_medium=member_desktop)| 01/04/2022 | Dmytro Nikulin||
+| 3 |Which title describes better a real job?|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_itconsulting-itcompany-cv-activity-7000719821558411264-1dHl?utm_source=share&utm_medium=member_desktop)| 01/11/2022 | Dmytro Nikulin||
+| 4 |What do you usually do to provide accurate estimations?|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_experience-softwaredevelopment-estimation-activity-7069560555165876224-_Af3?utm_source=share&utm_medium=member_desktop)| 30/05/2023 | Dmytro Nikulin| |
+| 5 |C++ death |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_programminglanguage-technologytrends-cpplus-activity-7076463361500098560-ucVw?utm_source=share&utm_medium=member_desktop)| 19/06/2023 | Dmytro Nikulin| |
+| 6 |Programming Languages and Guessing! |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_languages-and-guessing-in-a-broader-sense-activity-7133365394043514880-WW4P?utm_source=share&utm_medium=member_desktop) | 23/11/2023 | Dmytro Nikulin | |
+| 7 |Tabs or Spaces|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_softwaredevelopment-activity-7141376776915660800-whXp?utm_source=share&utm_medium=member_desktop) | 15/12/2023 | Dmytro Nikulin | |
+| 8 |UIQ|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_old-activity-7152938805359001601-vGeW?utm_source=share&utm_medium=member_desktop) | 16/01/2024 | Dmytro Nikulin | |
