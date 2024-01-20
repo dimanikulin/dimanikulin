@@ -1,5 +1,3 @@
-[![Dima Nikulin profile views](https://u8views.com/api/v1/github/profiles/4226351/views/day-week-month-total-count.svg)](https://u8views.com/github/dimanikulin)
-
 # About Me
 My name is **Dmytro [Nikulin](./SecondNameHistory.md)** and I have **25** of years of experience as a Software Developer/Lead.
 Please see [this link](./MyExperience.md) for more details.
@@ -125,3 +123,5 @@ USA, B-1/B-2, 11-Apr-2028
 - [About Multimedia, Multimedia IR systems and Multimedia Organizers **Part 1**](https://github.com/dimanikulin/dimanikulin/blob/main/MyPublications.md#publications-about-multimedia-multimedia-ir-systems-and-multimedia-organizers---part-1)
 - [About own product, its history and what I learned **Part 1**](https://github.com/dimanikulin/dimanikulin/blob/main/MyPublications.md#about-own-product-its-history-and-what-i-learned---part-1)
 - [Other publications](https://github.com/dimanikulin/dimanikulin/blob/main/MyPublications.md#other-publications)
+
+[[Profile views](https://u8views.com/api/v1/github/profiles/4226351/views/day-week-month-total-count.svg)](https://u8views.com/github/dimanikulin)
