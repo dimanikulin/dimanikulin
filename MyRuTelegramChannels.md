@@ -130,7 +130,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Мариуполь сейчас](https://t.me/mariupolz)         | closed for DN2 | |
 | [Призрак Мариуполя 🔥😈](https://t.me/mariupol_ghost)|
 | [Маша из Мариуполя 🇷🇺](https://t.me/mashainmarik)| | not working channel | 
-| [Министерство Логики](https://t.me/minlogiki)      | WIP4 | 
+| [Министерство Логики](https://t.me/minlogiki)      | closed for DN4 | 
 | [Мисливец LITE](https://t.me/mislivetslite)        | WIP2 | 
 | [m0sc0wcalling](https://t.me/m0sc0wcalling)        | | AntiPutin content |
 | [moscowmap](https://t.me/moscowmap)                | 
@@ -216,6 +216,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [СОЛДАТ УДАЧИ](https://t.me/Soldieroffortune777)   | | | 
 | [Скабеева](https://t.me/skabeeva)                  | Closed comments | |
 | [Дядя Слава](https://t.me/slavaded1337)            |
+| [Сладков +](https://t.me/Sladkov_plus)             | Closed comments | |
 | [Shalnyak](https://t.me/shalnyak)                  | 
 | [sharikovtime](https://t.me/sharikovtime)          | 
 | [smershmsk](https://t.me/smershmsk)                |
@@ -229,6 +230,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Судоплатов](https://t.me/sudoplatov_official)     | comments closed | |
 | [stringer_donetsk](https://t.me/stringer_donetsk)  | 
 | [tactical_13](https://t.me/tactical_13)            |
+| [Танкисты ЮВО](https://t.me/tankistrossii100)      |
 | [Шепот Фронта](https://t.me/Tatarinov_R)           |
 | [Новости: «Русский фронт»](https://t.me/the_russki_front)| 
 | [Ты охуеешь, но это ДНР!](https://t.me/TOneDNR)    |
@@ -263,7 +265,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Vladimir Zelenskiy](https://t.me/vladimir_zelenskiy_official_page) | comments closed | |
 | [ZaRussia72rus](https://t.me/zarussia010)          |
 | [Za наших](https://t.me/za_army)                   |
-| [ЗАПОРОЖСКИЙ ФРОНТ](https://t.me/ZA_FROHT)         | | |
+| [ЗАПОРОЖСКИЙ ФРОНТ](https://t.me/ZA_FROHT)         | comments closed | |
 | [Za Наших новости](https://t.me/za_nashih_news)    | comments closed | |
 | [Z - Новости Бывшей Украины](https://t.me/z_novosti) |
 | [ЖИВОВ Z 🇷🇺](https://t.me/zhivoff)               | comments closed | |
