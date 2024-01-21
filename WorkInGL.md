@@ -39,7 +39,7 @@ The content reflects the author's appreciation for GlobalLogic's support and the
 
 ---
 
-## Presents in GlobalLogic for an employer 
+# Presents in GlobalLogic for an employer 
 Each year in GlobalLogic an employer gets the present for birthday.
 I have got following 5:
 - Backpack;

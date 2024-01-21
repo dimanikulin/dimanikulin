@@ -19,7 +19,7 @@ TBD
 
 ---
 
-## Playing chess
+# Playing chess
 What do I usually do to switch context and relax before engaging in the next brain activity?
 I play chess!
 You might wonder, but moving the chess pieces from one cell to another helps me relax.

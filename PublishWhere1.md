@@ -209,7 +209,7 @@ For more information on how to publish, please go [to](https://www.linkedin.com/
 |Content Licensing| -       | -      | -    | +    | -    | -   | -      |
 |Found issues   | +         | -      | -    | +    | -    | +   | -      |
 
-## Analyze
+# Analyze
 As seen in the **comparison** table, most platforms offer only a limited set of functions.
 **However**, **Hackernoon**, **Hashnode**, and **Medium** stand out for providing a broader variety of functions.
 Personally, I find certain functions to be crucial, including **Tags**, **Human review**, **Syntax checking**, **Article stats**, and **Series.**

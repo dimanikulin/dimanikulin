@@ -104,7 +104,7 @@ Please share in the comments your programming language/technology that was predi
 programminglanguage technologytrends cpplus prediction
 
 
-## Programming Languages and Guessing!
+# Programming Languages and Guessing!
 
 In a broader sense, the relationship between programming languages and the role of guessing can depend on the nature of the language.
 It's not that guessing is universally opposed to programming; rather, different languages may encourage different approaches to problem-solving.
@@ -132,7 +132,7 @@ So, what is your preference and why?
 
 <img src="./Images/tabsvsspaces.jpg" alt="tabs vs spaces" />
 
-## UIQ
+# UIQ
 About 15 years ago, I used to program for a rare operating system called UIQ.
 It was used for Sony Ericsson smartphones with touchable screens.
 The C++ language was used to make UI programming possible, as well as backend programming.
@@ -142,7 +142,7 @@ Can you share your experience with old operating systems, libraries, languages, 
 
 <img src="./Images/UIQ3.jpg" alt="UIQ" />
 
-### Tags
+## Tags
 old
 
 # References
