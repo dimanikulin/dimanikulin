@@ -1,11 +1,14 @@
 My name is **Dmytro [Nikulin](./SecondNameHistory.md)** and I have **25** of years of experience as a Software Developer/Lead.
 Please see [this link](./MyExperience.md) for more details.
 
-Currently, I hold 3 diplomas from **NaUKMA**, **EPAM SCHOOL of Digital Engineering** and **Kharkiv State Academy of Railway Transport**.   
-Please find more details about them on [this link](https://github.com/dimanikulin#education).   
-During my studies at NAUKMA, we were given free access to www.coursera.org and allowing us to choose from over 5,000 courses.   
+Currently, I hold 3 diplomas from **NaUKMA**, **EPAM SCHOOL of Digital Engineering** and **Kharkiv State Academy of Railway Transport**. 
+
+Please find more details about them on [this link](https://github.com/dimanikulin#education).
+
+During my studies at NAUKMA, we were given free access to www.coursera.org and allowing us to choose from over 5,000 courses.
+
 Additionally, we were granted free access to the Cisco Learning Platform.
-Please find my certificates [here](./MyCertificates.md) and the cources [here](https://github.com/dimanikulin#courses).   
+Please find my certificates [here](./MyCertificates.md) and the cources [here](https://github.com/dimanikulin#courses). 
 
 I was [nominated](https://github.com/dimanikulin#honors--awards) as the best student at **EPAM SCHOOL of Digital Engineering** and **Kharkiv State Academy of Railway Transport**.
 
@@ -21,7 +24,7 @@ My interests include **Automotive**, **Manufacturing**, **Logistic** and **Secur
 My areas of interest in technology include **Cloud**, **IoT**, **Data Platforms**, **Devops**, and **Architecture**.
 
 # I can help you with
-I can help with **Software Verification Testing** (Unit and Integration testing) of medical devices with **GTest** and **Squish**.    
+I can help with **Software Verification Testing** (Unit and Integration testing) of medical devices with **GTest** and **Squish**. 
 I can also use **QT** to create **Cross-platform** and **Multi-language UIs**,customize **MS OS**, perform **Win32 API hooking**, and make **MS OS** more secure.
 
 In addition, I can help create systems to **collect data** from **mobile** devices. 
@@ -84,7 +87,7 @@ Given by Igor Odnovorov March 23, 2015(Founder, Chief Technology Officer at e-Sh
 "Dmitry is a skilled and dedicated developer. He will be a good asset to any company he decided to be part of."
 
 # Honors & awards
-|Name                                  |Issued by                                 |Date    | 
+|Nam                                  |Issued by                                 |Date    | 
 |--------------------------------------|------------------------------------------|:------:|
 |Top Interviewer in Kyiv for C/C++,2023|GlobalLogic                               |Jan 2024| 
 |Top Interviewer in Kyiv for C/C++,2022|GlobalLogic                               |Jan 2023| 
