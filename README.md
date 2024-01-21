@@ -110,10 +110,5 @@ USA, B-1/B-2, 11-Apr-2028
 |Jerusalem|June 2017, 1 month  |R&D               |
 |Malta    |March 2007, 1 month |System implementation and technical support  |
 
-# Not science publications:
-- [About Multimedia, Multimedia IR systems and Multimedia Organizers **Part 1**](https://github.com/dimanikulin/dimanikulin/blob/main/MyPublications.md#publications-about-multimedia-multimedia-ir-systems-and-multimedia-organizers---part-1)
-- [About own product, its history and what I learned **Part 1**](https://github.com/dimanikulin/dimanikulin/blob/main/MyPublications.md#about-own-product-its-history-and-what-i-learned---part-1)
-- [Other publications](https://github.com/dimanikulin/dimanikulin/blob/main/MyPublications.md#other-publications)
-
 # Profile views:
 [![Dima Nikulin profile views](https://u8views.com/api/v1/github/profiles/4226351/views/day-week-month-total-count.svg)](https://u8views.com/github/dimanikulin)
