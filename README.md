@@ -11,7 +11,7 @@ I was [nominated](https://github.com/dimanikulin#honors--awards) as the best stu
 
 I am fluent in three [languages](https://github.com/dimanikulin#languages).
 
-I have several scientific [publications](https://github.com/dimanikulin#science-publications) and numerous other [publications](./MyPublications.md).
+I have several scientific [publications](./MySciencePublications.md) and numerous other [publications](./MyPublications.md).
 
 I have expertise in the following domains: **Billing systems**, **Embedded systems**, **Mobile applications**, **Media**, **Healthcare**, **Communication**, **Geoinformatics**, **Railways**.
 I have a deep understanding of **Microsoft OS** programming and extensive experience with cross-platform programming.
