@@ -18,15 +18,6 @@
 |reddit     |[12/02/2023](https://www.reddit.com/r/fva/comments/112s9q1/why_i_decided_to_create_my_photo_organizer/)|[10/03/2023](https://www.reddit.com/r/fva/comments/11nnrds/what_i_learned_as_a_product_manager_while/)|[15/05/2023](https://www.reddit.com/r/fva/comments/13i0mr6/what_i_learned_as_a_subject_matter_expert_while/)|[30/09/2023](https://www.reddit.com/r/fva/comments/16w0zr6/what_i_learned_as_an_application_architect_while/)|
 |quora      |[17/02/2023](https://www.quora.com/profile/Dima-Nikulin-2/Why-I-decided-to-create-my-photo-organizer-As-a-child-I-used-to-flip-through-family-photo-album-to-see-my-relatives-w)|[14/03/2023](https://www.quora.com/profile/Dima-Nikulin-2/What-I-learned-as-a-Product-Manager-while-creating-my-product-Design-Thinking-The-first-product-I-was-thinking-about-w-2)|[17/05/2023](https://www.quora.com/profile/Dima-Nikulin-2/What-I-learned-as-a-Subject-Matter-Expert-while-creating-my-product)|[30/10/2023](https://www.quora.com/profile/Dima-Nikulin-2/What-I-learned-as-an-Application-Architect-while-creating-my-product)| 
 
-**Exploring the World of Multimedia Information Retrieval Systems**
-(it is a publication that keeps all publications from *Multimedia, Multimedia IR systems and Multimedia Organizers - Part 1*)
-|Name       | Where       |
-|-----------|:-----------:|
-|linkedin   |[27/01/2023](https://www.linkedin.com/posts/dimanikulin_activity-7024663781666349057-Hw3_/?utm_source=share&utm_medium=member_desktop) |
-|dou.eu     |[20/02/2023](https://dou.eu/community/posts/what-are-multimedia-information-retrieval-systems)|
-|dou.ua     | TBD |
-|codeproject| TBD |
-
 # About own product, its history and what I learned - Part 2
 |Name       |[What I Learned As SW Developer](./WhatILearnedAsSoftwareDeveloper.md)|[What I Learned As Delivery Manager](./WhatILearnedAsDeliveryManager.md)|[What I Learned As DevOps](./WhatILearnedAsDevOps.md)|[What I Learned As Tester](./WhatILearnedAsTester.md)|
 |-----------|---------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------|:----------------------------------------------------------------:|
