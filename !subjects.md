@@ -29,6 +29,7 @@ clearn up current app and environment
 CV as a code
 how to create your profile be independed on any pltform
 single source of truth for linked in profile, all prof networks anf glo, keep the code apart from profile info
+https://dou.ua/forums/topic/47115/?from=tg&utm_source=telegram&utm_medium=social
 
 healthcare мониторинг
 
