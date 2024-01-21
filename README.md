@@ -102,13 +102,5 @@ Given by Igor Odnovorov March 23, 2015(Founder, Chief Technology Officer at e-Sh
 # Visa
 USA, B-1/B-2, 11-Apr-2028
 
-# Business Trips
-|Place    |Duration            |  Purpose         | 
-|---------|--------------------|:----------------:|
-|Boston   |August 2019, 1 month|R&D               | 
-|Boston   |April 2018, 1 week  |New project start | 
-|Jerusalem|June 2017, 1 month  |R&D               |
-|Malta    |March 2007, 1 month |System implementation and technical support  |
-
 # Profile views:
 [![Dima Nikulin profile views](https://u8views.com/api/v1/github/profiles/4226351/views/day-week-month-total-count.svg)](https://u8views.com/github/dimanikulin)

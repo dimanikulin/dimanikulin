@@ -14,6 +14,14 @@
 |Railway Institute|Donetsk|1998-Apr 2007    |SW Developer|Testing knowledge systems|Development and maintenance|MS Windows NT/2000/XP            |Pascal; C++03; XML; HTML; Jscript    |VCL; WinAPI; MFC; STL; Xerces; log4cpp                 |       |               |Delphi, MSVS 6|ActiveX; IPC; Doxygen|
 |Trubnikov Enterprise|Donetsk|1999–2005     |IT guy      ||Technical support of OS and SW                    |MS DOS; Windows 9x; NTTSE4.0; 2000 server|Visual Basic                   |                                                       |MS Access|             |                         |Active Directory|
 
+# Business Trips
+|Place    |Duration            |  Purpose         | 
+|---------|--------------------|:----------------:|
+|Boston   |August 2019, 1 month|R&D               | 
+|Boston   |April 2018, 1 week  |New project start | 
+|Jerusalem|June 2017, 1 month  |R&D               |
+|Malta    |March 2007, 1 month |System implementation and technical support  |
+
 ## SDLC: 
 - Scrum;
 - Kan Ban;
