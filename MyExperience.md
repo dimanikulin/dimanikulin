@@ -14,6 +14,18 @@
 |Railway Institute|Donetsk|1998-Apr 2007    |SW Developer|Testing knowledge systems|Development and maintenance|MS Windows NT/2000/XP            |Pascal; C++03; XML; HTML; Jscript    |VCL; WinAPI; MFC; STL; Xerces; log4cpp                 |       |               |Delphi, MSVS 6|ActiveX; IPC; Doxygen|
 |Trubnikov Enterprise|Donetsk|1999–2005     |IT guy      ||Technical support of OS and SW                    |MS DOS; Windows 9x; NTTSE4.0; 2000 server|Visual Basic                   |                                                       |MS Access|             |                         |Active Directory|
 
+**SDLC:** Scrum, Kan Ban, Scaled Agile Framework, Waterfall.
+
+**Testing:** Black box testing, Conditions testing and coverage, Decision tables testing, GUI/Usability testing, Regression testing, Requirements testing, Sanity testing, Performance testing, Embedded testing, State transaition testing, A/B testing, Acceptance testing, Compatibility testing, Load testing, Mobile testing, Mutation testing, Network Testing, Security testing, Technical reviews, Test Design, Test Plan, Unit Testing, Whitebox testing.
+
+**Architectural Style:** Microservice, Serverless Architecture, Component Based Architecture.
+
+**Business Analysis:** Requirement management, Requirements elicitation (gathering), Requirements specification, Requirements validation.
+
+**Functional Area:** Architecture, Project Management, People Development, Quality Assurance, Software Development, Solution Architecture, Customer Support, Application Lifecycle Management, Software Detail Design, Team Leading.
+
+**Collaboration & Ticketing:** JIRA, RedMine, Trac, Slack, Trello.
+
 # Business Trips
 |Place    |Duration            |  Purpose         | 
 |---------|--------------------|:----------------:|
@@ -21,60 +33,3 @@
 |Boston   |April 2018, 1 week  |New project start | 
 |Jerusalem|June 2017, 1 month  |R&D               |
 |Malta    |March 2007, 1 month |System implementation and technical support  |
-
-**SDLC:** Scrum, Kan Ban, Scaled Agile Framework, Waterfall.
-
-**Testing**
-- Black box testing;
-- Conditions testing and coverage;
-- Decision tables testing;
-- GUI/Usability testing;
-- Regression testing;
-- Requirements testing;
-- Sanity testing;
-- Performance testing;
-- Embedded testing;
-- State transaition testing;
-- A/B testing;
-- Acceptance testing; 
-- Compatibility testing; 
-- Load testing;
-- Mobile testing;
-- Mutation testing;
-- Network Testing;
-- Security testing; 
-- Technical reviews;
-- Test Design; 
-- Test plan;
-- Unit Testing; 
-- Whitebox testing.
-
-# Architectural Style: 
-- Microservice; 
-- Serverless Architecture;
-- Component Based Architecture.
-
-# Business Analysis:
-- Requirement management;
-- Requirements elicitation (gathering);
-- Requirements specification;
-- Requirements validation.
-
-# Functional Area: 
-- Architecture;
-- Project Management;
-- People Development;
-- Quality Assurance;
-- Software Development;
-- Solution Architecture;
-- Customer Support;
-- Application Lifecycle Management;
-- Software Detail Design;
-- Team Leading.
-
-# Collaboration & Ticketing:
-- JIRA;
-- RedMine; 
-- Trac;
-- Slack; 
-- Trello.
