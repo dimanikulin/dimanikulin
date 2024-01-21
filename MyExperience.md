@@ -22,13 +22,9 @@
 |Jerusalem|June 2017, 1 month  |R&D               |
 |Malta    |March 2007, 1 month |System implementation and technical support  |
 
-# SDLC: 
-- Scrum;
-- Kan Ban;
-- Scaled Agile Framework;
-- Waterfall.
+**SDLC:** Scrum, Kan Ban, Scaled Agile Framework, Waterfall.
 
-# Testing:
+**Testing**
 - Black box testing;
 - Conditions testing and coverage;
 - Decision tables testing;
