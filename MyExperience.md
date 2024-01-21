@@ -22,13 +22,13 @@
 |Jerusalem|June 2017, 1 month  |R&D               |
 |Malta    |March 2007, 1 month |System implementation and technical support  |
 
-## SDLC: 
+# SDLC: 
 - Scrum;
 - Kan Ban;
 - Scaled Agile Framework;
 - Waterfall.
 
-## Testing:
+# Testing:
 - Black box testing;
 - Conditions testing and coverage;
 - Decision tables testing;
@@ -53,18 +53,18 @@
 - Unit Testing; 
 - Whitebox testing.
 
-## Architectural Style: 
+# Architectural Style: 
 - Microservice; 
 - Serverless Architecture;
 - Component Based Architecture.
 
-## Business Analysis:
+# Business Analysis:
 - Requirement management;
 - Requirements elicitation (gathering);
 - Requirements specification;
 - Requirements validation.
 
-## Functional Area: 
+# Functional Area: 
 - Architecture;
 - Project Management;
 - People Development;
@@ -76,7 +76,7 @@
 - Software Detail Design;
 - Team Leading.
 
-## Collaboration & Ticketing:
+# Collaboration & Ticketing:
 - JIRA;
 - RedMine; 
 - Trac;
