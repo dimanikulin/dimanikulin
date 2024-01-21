@@ -2,11 +2,8 @@ My name is **Dmytro [Nikulin](./SecondNameHistory.md)** and I have **25** of ye
 Please see [this link](./MyExperience.md) for more details.
 
 Currently, I hold 3 diplomas from **NaUKMA**, **EPAM SCHOOL of Digital Engineering** and **Kharkiv State Academy of Railway Transport**. 
-
 Please find more details about them on [this link](https://github.com/dimanikulin#education).
-
 During my studies at NAUKMA, we were given free access to www.coursera.org and allowing us to choose from over 5,000 courses.
-
 Additionally, we were granted free access to the Cisco Learning Platform.
 Please find my certificates [here](./MyCertificates.md) and the cources [here](https://github.com/dimanikulin#courses). 
 
