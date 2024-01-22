@@ -20,6 +20,8 @@ My interests include **Automotive**, **Manufacturing**, **Logistic** and **Secur
 
 My areas of interest in technology include **Cloud**, **IoT**, **Data Platforms**, **Devops**, and **Architecture**.
 
+**Visa** - USA, B-1/B-2, 11-Apr-2028
+
 # I can help you with
 I can help with **Software Verification Testing** (Unit and Integration testing) of medical devices with **GTest** and **Squish**. 
 I can also use **QT** to create **Cross-platform** and **Multi-language UIs**,customize **MS OS**, perform **Win32 API hooking**, and make **MS OS** more secure.
@@ -98,9 +100,6 @@ Given by Igor Odnovorov March 23, 2015(Founder, Chief Technology Officer at e-Sh
 |English  |Expert       |Advanced    | 
 |Russian  |Advanced     |Advanced    | 
 |Ukrainian|Advanced     |Advanced    |
-
-# Visa
-USA, B-1/B-2, 11-Apr-2028
 
 # Profile views:
 [![Dima Nikulin profile views](https://u8views.com/api/v1/github/profiles/4226351/views/day-week-month-total-count.svg)](https://u8views.com/github/dimanikulin)
