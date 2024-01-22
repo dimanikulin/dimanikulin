@@ -1,5 +1,6 @@
 My name is **Dmytro [Nikulin](./SecondNameHistory.md)** and I have **25** of years of experience as a Software Developer/Lead.
 Please see [this link](./MyExperience.md) for more details regarding experience.
+Please see [this link](./MyEducation.md) for details regarding education.
 
 I was [nominated](https://github.com/dimanikulin#honors--awards) as the best student at **EPAM SCHOOL of Digital Engineering** and **Kharkiv State Academy of Railway Transport**.
 
