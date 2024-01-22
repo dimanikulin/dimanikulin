@@ -1,11 +1,5 @@
 My name is **Dmytro [Nikulin](./SecondNameHistory.md)** and I have **25** of years of experience as a Software Developer/Lead.
-Please see [this link](./MyExperience.md) for more details.
-
-Currently, I hold 3 diplomas from **NaUKMA**, **EPAM SCHOOL of Digital Engineering** and **Kharkiv State Academy of Railway Transport**. 
-Please find more details about them on [this link](https://github.com/dimanikulin#education).
-During my studies at NAUKMA, we were given free access to www.coursera.org and allowing us to choose from over 5,000 courses.
-Additionally, we were granted free access to the Cisco Learning Platform.
-Please find my certificates [here](./MyCertificates.md) and the cources [here](https://github.com/dimanikulin#courses). 
+Please see [this link](./MyExperience.md) for more details regarding experience.
 
 I was [nominated](https://github.com/dimanikulin#honors--awards) as the best student at **EPAM SCHOOL of Digital Engineering** and **Kharkiv State Academy of Railway Transport**.
 
@@ -55,27 +49,6 @@ Everyone can try themselves in different roles to learn something new and to hel
 - [Software Developer](./WhatILearnedAsSoftwareDeveloper.md)
 - [DevOps](./WhatILearnedAsDevOps.md) and
 - [Subject Matter Expert](./WhatILearnedAsSubjectMatterExpert.md). 
-
-# Education: 
-| Name                                      | Place  | Duration            |  Major Subjects      | Marks Obtained | Degree                 |
-| ------------------------------------------| -------|---------------------| ---------------------|----------------|:----------------------:|
-| [NaUKMA](https://www.ukma.edu.ua/)        | Kyiv   | Oct 2019-June 2021  | Software Engineering | 90 out 100    | [MSDP in Software Engineering](./Images/NaukmaDiploma.jpg)|
-| EPAM SCHOOL of Digital Engineering        | Kyiv   | Oct 2019-June 2021  | [Software Engineering](./Images/CertsEPAM1.jpg) | 90 out 100    | [MSDP in Software Engineering](./Images/CertsEPAM2.jpg) |
-| Kharkiv State Academy of Railway Transport| Donetsk| Sept 1996-June 2001 | Math, electrics      | 4.75 out 5    | Electrical engineer in Railway Transport |
-
-# Courses:
-## From Cisco
-- Connecting Networks (CCNA) 
-- Routing and Switching Essentials (CCNA) 
-- Routing and Switching-Introduction to Networks (CCNA) 
-- Scaling Networks (CCNA) 
-## From Google
-- Elastic Cloud Infrastructure-Scaling and Automation
-- Essential Google Cloud Infrastructure-Core Services
-- Essential Google Cloud Infrastructure-Foundation
-- GCP Fundamentals-Core Infrastructure
-## From Coursera
-- Data Structures and Algorithms-Algorithmic Toolbox 
 
 # Contribution 
 - [POCO](https://github.com/dimanikulin/poco)
