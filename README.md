@@ -9,7 +9,7 @@ Please find my certificates [here](./MyCertificates.md) and the cources [here](h
 
 I was [nominated](https://github.com/dimanikulin#honors--awards) as the best student at **EPAM SCHOOL of Digital Engineering** and **Kharkiv State Academy of Railway Transport**.
 
-I am fluent in three [languages](https://github.com/dimanikulin#languages).
+I am fluent in three **languages**: Ukrainian, English, Russian.
 
 I have several scientific [publications](./MySciencePublications.md) and numerous other [publications](./MyPublications.md).
 
@@ -93,13 +93,6 @@ Given by Igor Odnovorov March 23, 2015(Founder, Chief Technology Officer at e-Sh
 |Top Interviewer in Kyiv for C/C++,2021|GlobalLogic                               |Jan 2022| 
 |Top Student                           |EPAM Master's Degree Program              |Jun 2021|
 |Top Student                           |Kharkiv State Academy of Railway Transport|Jul 2001|
-
-# Languages 
-|Language |Level Written|Spoken Level| 
-|---------|-------------|:----------:|
-|English  |Expert       |Advanced    | 
-|Russian  |Advanced     |Advanced    | 
-|Ukrainian|Advanced     |Advanced    |
 
 # Profile views:
 [![Dima Nikulin profile views](https://u8views.com/api/v1/github/profiles/4226351/views/day-week-month-total-count.svg)](https://u8views.com/github/dimanikulin)
