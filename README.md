@@ -1,5 +1,5 @@
 My name is **Dmytro [Nikulin](./SecondNameHistory.md)** and I have **25** of years of experience as a Software Developer/Lead.
-Please see [this link](./MyExperience.md) for more details regarding experience.
+Please see [this link](./MyExperience.md) for more details regarding experience, contribution and business trips.
 Please see [this link](./MyEducation.md) for details regarding education.
 
 I was [nominated](https://github.com/dimanikulin#honors--awards) as the best student at **EPAM SCHOOL of Digital Engineering** and **Kharkiv State Academy of Railway Transport**.
@@ -50,9 +50,6 @@ Everyone can try themselves in different roles to learn something new and to hel
 - [Software Developer](./WhatILearnedAsSoftwareDeveloper.md)
 - [DevOps](./WhatILearnedAsDevOps.md) and
 - [Subject Matter Expert](./WhatILearnedAsSubjectMatterExpert.md). 
-
-# Contribution 
-- [POCO](https://github.com/dimanikulin/poco)
 
 # Recommendations:
 Given by Igor Odnovorov March 23, 2015(Founder, Chief Technology Officer at e-Share (aka nCrypted Cloud, LLC)):
