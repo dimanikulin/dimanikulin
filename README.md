@@ -86,7 +86,7 @@ Given by Igor Odnovorov March 23, 2015(Founder, Chief Technology Officer at e-Sh
 "Dmitry is a skilled and dedicated developer. He will be a good asset to any company he decided to be part of."
 
 # Honors & awards
-|Nam                                  |Issued by                                 |Date    | 
+|Name                                  |Issued by                                 |Date    | 
 |--------------------------------------|------------------------------------------|:------:|
 |Top Interviewer in Kyiv for C/C++,2023|GlobalLogic                               |Jan 2024| 
 |Top Interviewer in Kyiv for C/C++,2022|GlobalLogic                               |Jan 2023| 
