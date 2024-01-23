@@ -11,10 +11,13 @@ Please see [this link](./MyEducation.md) for details regarding education.
 
 <p align="center">
 
+<a> 
 <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=dimanikulin&show_icons=true&theme=transparent"/>
+</a>
 
+<a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimanikulin)](https://github.com/anuraghazra/github-readme-stats)
-
+</a>
 </p>
 
 I was nominated as the *best student* at **EPAM SCHOOL of Digital Engineering** in 2021 and at **Kharkiv State Academy of Railway Transport** in 2001.
