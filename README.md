@@ -51,11 +51,6 @@ Everyone can try themselves in different roles to learn something new and to hel
 - [DevOps](./WhatILearnedAsDevOps.md) and
 - [Subject Matter Expert](./WhatILearnedAsSubjectMatterExpert.md). 
 
-# Recommendations:
-Given by Igor Odnovorov March 23, 2015(Founder, Chief Technology Officer at e-Share (aka nCrypted Cloud, LLC)):
-
-"Dmitry is a skilled and dedicated developer. He will be a good asset to any company he decided to be part of."
-
 # Honors & awards
 |Name                                  |Issued by                                 |Date    | 
 |--------------------------------------|------------------------------------------|:------:|
