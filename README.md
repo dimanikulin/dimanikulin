@@ -48,27 +48,24 @@ Everyone can try themselves in different roles to learn something new and to hel
 [Application Architect](./WhatILearnedAsAppArchitect.md), [Software Developer](./WhatILearnedAsSoftwareDeveloper.md), [DevOps](./WhatILearnedAsDevOps.md) and [Subject Matter Expert](./WhatILearnedAsSubjectMatterExpert.md). 
 
 # Stay in touch:
-<p align="center">
 <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FDmytroNikulin" href="https%3A%2F%2Ftwitter.com%2FDmytroNikulin">
 TBD
-</p>
 
 # Repos stats:
-<div align="center">
+<div>
 <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=dimanikulin&show_icons=true&theme=transparent"/>
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimanikulin&layout=compact&&langs_count=5"/>
 </div>
 
 </br>
 
-<p align="center">
+<p>
   <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/dimanikulin/fva">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/dimanikulin?style=social">
   <img alt="Profile commit activity" src="https://img.shields.io/github/commit-activity/m/dimanikulin/dimanikulin">
   <img alt="FVA commit activity" src="https://img.shields.io/github/commit-activity/m/dimanikulin/fva">
   <img alt="Profile last commit" src="https://img.shields.io/github/last-commit/dimanikulin/dimanikulin"> 
   <img alt="FVA last commit" src="https://img.shields.io/github/last-commit/dimanikulin/fva"> 
-
 </p>
 
 # Profile views:
