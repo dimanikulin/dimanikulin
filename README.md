@@ -9,6 +9,9 @@ Please see [this link](./MyEducation.md) for details regarding education.
   <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FDmytroNikulin" href="https%3A%2F%2Ftwitter.com%2FDmytroNikulin">
 </p>
 
+
+<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=dimanikulin&show_icons=true&theme=transparent"/>
+
 I was nominated as the *best student* at **EPAM SCHOOL of Digital Engineering** in 2021 and at **Kharkiv State Academy of Railway Transport** in 2001.
 Also I was nominated as the *Top Interviewer in Kyiv for C/C++* at **GlobalLogic** in 2021, 2022 and 2023.
 
