@@ -2,24 +2,6 @@ My name is **Dmytro [Nikulin](./SecondNameHistory.md)** and I have **25** of ye
 Please see [this link](./MyExperience.md) for more details regarding experience, contribution and business trips.
 Please see [this link](./MyEducation.md) for details regarding education.
 
-<p align="center">
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/dimanikulin/fva?style=social">
-  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/dimanikulin/fva">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/dimanikulin?style=social">
-  <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FDmytroNikulin" href="https%3A%2F%2Ftwitter.com%2FDmytroNikulin">
-</p>
-
-<p align="center">
-
-<a> 
-<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=dimanikulin&show_icons=true&theme=transparent"/>
-</a>
-
-<a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimanikulin)](https://github.com/anuraghazra/github-readme-stats)
-</a>
-</p>
-
 I was nominated as the *best student* at **EPAM SCHOOL of Digital Engineering** in 2021 and at **Kharkiv State Academy of Railway Transport** in 2001.
 Also I was nominated as the *Top Interviewer in Kyiv for C/C++* at **GlobalLogic** in 2021, 2022 and 2023.
 
@@ -64,6 +46,25 @@ If you were to ask me what projects are currently occupying most of my time, my 
 
 Everyone can try themselves in different roles to learn something new and to help me, such as: [Product Manager](./WhatILearnedAsProductManager.md), [Delivery Manager](./WhatILearnedAsDeliveryManager.md),
 [Application Architect](./WhatILearnedAsAppArchitect.md), [Software Developer](./WhatILearnedAsSoftwareDeveloper.md), [DevOps](./WhatILearnedAsDevOps.md) and [Subject Matter Expert](./WhatILearnedAsSubjectMatterExpert.md). 
+
+<p align="center">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/dimanikulin/fva?style=social">
+  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/dimanikulin/fva">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/dimanikulin?style=social">
+  <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FDmytroNikulin" href="https%3A%2F%2Ftwitter.com%2FDmytroNikulin">
+</p>
+
+<p align="center">
+
+<a> 
+<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=dimanikulin&show_icons=true&theme=transparent"/>
+</a>
+
+<a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimanikulin)](https://github.com/anuraghazra/github-readme-stats)
+</a>
+</p>
+
 
 # Profile views:
 [![Dima Nikulin profile views](https://u8views.com/api/v1/github/profiles/4226351/views/day-week-month-total-count.svg)](https://u8views.com/github/dimanikulin)
