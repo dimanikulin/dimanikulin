@@ -2,11 +2,12 @@ My name is **Dmytro [Nikulin](./SecondNameHistory.md)** and I have **25** of ye
 Please see [this link](./MyExperience.md) for more details regarding experience, contribution and business trips.
 Please see [this link](./MyEducation.md) for details regarding education.
 
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/dimanikulin/fva?style=social">
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/dimanikulin/fva">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/dimanikulin?style=social">
-<img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/dimanikulin">
-<img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FDmytroNikulin" href="https%3A%2F%2Ftwitter.com%2FDmytroNikulin">
+<p align="center">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/dimanikulin/fva?style=social">
+  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/dimanikulin/fva">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/dimanikulin?style=social">
+  <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FDmytroNikulin" href="https%3A%2F%2Ftwitter.com%2FDmytroNikulin">
+</p>
 
 I was nominated as the *best student* at **EPAM SCHOOL of Digital Engineering** in 2021 and at **Kharkiv State Academy of Railway Transport** in 2001.
 Also I was nominated as the *Top Interviewer in Kyiv for C/C++* at **GlobalLogic** in 2021, 2022 and 2023.
