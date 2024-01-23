@@ -2,7 +2,8 @@ My name is **Dmytro [Nikulin](./SecondNameHistory.md)** and I have **25** of ye
 Please see [this link](./MyExperience.md) for more details regarding experience, contribution and business trips.
 Please see [this link](./MyEducation.md) for details regarding education.
 
-I was [nominated](https://github.com/dimanikulin#honors--awards) as the best student at **EPAM SCHOOL of Digital Engineering** and **Kharkiv State Academy of Railway Transport**.
+I was nominated as the *best student* at **EPAM SCHOOL of Digital Engineering**(2021) and **Kharkiv State Academy of Railway Transport**(2001).
+Also I was nominated as the *Top Interviewer in Kyiv for C/C++* at **GlobalLogic** in 2021, 2022 and 2023.
 
 I am fluent in three **languages**: Ukrainian, English, Russian.
 
@@ -50,15 +51,6 @@ Everyone can try themselves in different roles to learn something new and to hel
 - [Software Developer](./WhatILearnedAsSoftwareDeveloper.md)
 - [DevOps](./WhatILearnedAsDevOps.md) and
 - [Subject Matter Expert](./WhatILearnedAsSubjectMatterExpert.md). 
-
-# Honors & awards
-|Name                                  |Issued by                                 |Date    | 
-|--------------------------------------|------------------------------------------|:------:|
-|Top Interviewer in Kyiv for C/C++,2023|GlobalLogic                               |Jan 2024| 
-|Top Interviewer in Kyiv for C/C++,2022|GlobalLogic                               |Jan 2023| 
-|Top Interviewer in Kyiv for C/C++,2021|GlobalLogic                               |Jan 2022| 
-|Top Student                           |EPAM Master's Degree Program              |Jun 2021|
-|Top Student                           |Kharkiv State Academy of Railway Transport|Jul 2001|
 
 # Profile views:
 [![Dima Nikulin profile views](https://u8views.com/api/v1/github/profiles/4226351/views/day-week-month-total-count.svg)](https://u8views.com/github/dimanikulin)
