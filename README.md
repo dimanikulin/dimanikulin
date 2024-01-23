@@ -53,18 +53,17 @@ Everyone can try themselves in different roles to learn something new and to hel
 TBD
 </p>
 
-# Repo stats:
+# Repos stats:
 <div align="center">
 <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=dimanikulin&show_icons=true&theme=transparent"/>
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimanikulin&layout=compact&&langs_count=5"/>
 </div>
 
 <p align="center">
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/dimanikulin/fva?style=social">
   <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/dimanikulin/fva">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/dimanikulin?style=social">
-  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/dimanikulin/fva">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dimanikulin/fva"> 
+  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/dimanikulin">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dimanikulin"> 
 </p>
 
 # Profile views:
