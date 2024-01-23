@@ -44,13 +44,7 @@ If you were to ask me what projects are currently occupying most of my time, my 
 - I am currently learning software architecture.
 - I am looking to collaborate on developing [my product](https://github.com/dimanikulin/fva) because the development is in a hot stage.
 
-Everyone can try themselves in different roles to learn something new and to help me, such as:
-- [Product Manager](./WhatILearnedAsProductManager.md)
-- [Delivery Manager](./WhatILearnedAsDeliveryManager.md) 
-- [Application Architect](./WhatILearnedAsAppArchitect.md) 
-- [Software Developer](./WhatILearnedAsSoftwareDeveloper.md)
-- [DevOps](./WhatILearnedAsDevOps.md) and
-- [Subject Matter Expert](./WhatILearnedAsSubjectMatterExpert.md). 
+Everyone can try themselves in different roles to learn something new and to help me, such as: [Product Manager](./WhatILearnedAsProductManager.md), [Delivery Manager](./WhatILearnedAsDeliveryManager.md), [Application Architect](./WhatILearnedAsAppArchitect.md), [Software Developer](./WhatILearnedAsSoftwareDeveloper.md), [DevOps](./WhatILearnedAsDevOps.md) and [Subject Matter Expert](./WhatILearnedAsSubjectMatterExpert.md). 
 
 # Profile views:
 [![Dima Nikulin profile views](https://u8views.com/api/v1/github/profiles/4226351/views/day-week-month-total-count.svg)](https://u8views.com/github/dimanikulin)
