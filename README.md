@@ -59,11 +59,16 @@ TBD
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimanikulin&layout=compact&&langs_count=5"/>
 </div>
 
+<br/>
+
 <p align="center">
   <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/dimanikulin/fva">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/dimanikulin?style=social">
-  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/dimanikulin">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dimanikulin"> 
+  <img alt="Profile commit activity" src="https://img.shields.io/github/commit-activity/m/dimanikulin">
+  <img alt="FVA commit activity" src="https://img.shields.io/github/commit-activity/m/fva">
+  <img alt="Profile last commit" src="https://img.shields.io/github/last-commit/dimanikulin/dimanikulin"> 
+  <img alt="FVA last commit" src="https://img.shields.io/github/last-commit/dimanikulin/fva"> 
+
 </p>
 
 # Profile views:
