@@ -2,7 +2,7 @@ My name is **Dmytro [Nikulin](./SecondNameHistory.md)** and I have **25** of ye
 Please see [this link](./MyExperience.md) for more details regarding experience, contribution and business trips.
 Please see [this link](./MyEducation.md) for details regarding education.
 
-I was nominated as the *best student* at **EPAM SCHOOL of Digital Engineering**(2021) and **Kharkiv State Academy of Railway Transport**(2001).
+I was nominated as the *best student* at **EPAM SCHOOL of Digital Engineering** in 2021 and at **Kharkiv State Academy of Railway Transport** in 2001.
 Also I was nominated as the *Top Interviewer in Kyiv for C/C++* at **GlobalLogic** in 2021, 2022 and 2023.
 
 I am fluent in three **languages**: Ukrainian, English, Russian.
@@ -44,7 +44,8 @@ If you were to ask me what projects are currently occupying most of my time, my 
 - I am currently learning software architecture.
 - I am looking to collaborate on developing [my product](https://github.com/dimanikulin/fva) because the development is in a hot stage.
 
-Everyone can try themselves in different roles to learn something new and to help me, such as: [Product Manager](./WhatILearnedAsProductManager.md), [Delivery Manager](./WhatILearnedAsDeliveryManager.md), [Application Architect](./WhatILearnedAsAppArchitect.md), [Software Developer](./WhatILearnedAsSoftwareDeveloper.md), [DevOps](./WhatILearnedAsDevOps.md) and [Subject Matter Expert](./WhatILearnedAsSubjectMatterExpert.md). 
+Everyone can try themselves in different roles to learn something new and to help me, such as: [Product Manager](./WhatILearnedAsProductManager.md), [Delivery Manager](./WhatILearnedAsDeliveryManager.md),
+[Application Architect](./WhatILearnedAsAppArchitect.md), [Software Developer](./WhatILearnedAsSoftwareDeveloper.md), [DevOps](./WhatILearnedAsDevOps.md) and [Subject Matter Expert](./WhatILearnedAsSubjectMatterExpert.md). 
 
 # Profile views:
 [![Dima Nikulin profile views](https://u8views.com/api/v1/github/profiles/4226351/views/day-week-month-total-count.svg)](https://u8views.com/github/dimanikulin)
