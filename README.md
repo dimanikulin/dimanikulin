@@ -12,6 +12,9 @@ Please see [this link](./MyEducation.md) for details regarding education.
 
 <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=dimanikulin&show_icons=true&theme=transparent"/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimanikulin)](https://github.com/anuraghazra/github-readme-stats)
+
+
 I was nominated as the *best student* at **EPAM SCHOOL of Digital Engineering** in 2021 and at **Kharkiv State Academy of Railway Transport** in 2001.
 Also I was nominated as the *Top Interviewer in Kyiv for C/C++* at **GlobalLogic** in 2021, 2022 and 2023.
 
