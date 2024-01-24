@@ -3,8 +3,8 @@ Please see [this link](./MyExperience.md) for more details regarding experience,
 Please see [this link](./MyEducation.md) for details regarding education.
 
 <div>
-<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/gist?id=7b934804caafe1bdb5f50bc1240ef41a"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/gist?id=67fd1012dd1c668aeb6c88ba98ffc7af"/>
+<img alt="Education" src="https://github-readme-stats.vercel.app/api/gist?id=1ce3421ecd4b81519d6f080a3260bcaa"/>
+<img alt="Awards" src="https://github-readme-stats.vercel.app/api/gist?id=67fd1012dd1c668aeb6c88ba98ffc7af"/>
 </div>
 
 I was nominated as the *best student* at **EPAM SCHOOL of Digital Engineering** in 2021 and at **Kharkiv State Academy of Railway Transport** in 2001.
