@@ -6,11 +6,10 @@ Please see [this link](./MyEducation.md) for details regarding education.
 <p>
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=7b934804caafe1bdb5f50bc1240ef41a)](https://gist.github.com/dimanikulin/7b934804caafe1bdb5f50bc1240ef41a/)
 </p>
-
 <p>
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=67fd1012dd1c668aeb6c88ba98ffc7af)](https://gist.github.com/dimanikulin/67fd1012dd1c668aeb6c88ba98ffc7af/)
 </p>
-<p>
+</p>
 
 I was nominated as the *best student* at **EPAM SCHOOL of Digital Engineering** in 2021 and at **Kharkiv State Academy of Railway Transport** in 2001.
 Also I was nominated as the *Top Interviewer in Kyiv for C/C++* at **GlobalLogic** in 2021, 2022 and 2023.
