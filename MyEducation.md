@@ -9,6 +9,8 @@ Currently, I hold 3 diplomas from **NaUKMA**, **EPAM SCHOOL of Digital Engineeri
 During my studies at NAUKMA, we were given free access to www.coursera.org and allowing us to choose from over 5,000 courses.
 Additionally, we were granted free access to the Cisco Learning Platform.
 
+---
+
 Generally I have about 20 certificates and please find my certificates here:
 
 |# |Issuer  |Name                                                                                         |Issued  |Credential ID|
@@ -44,3 +46,11 @@ Also please find here the list of passed cources without a certificate:
 - **Google** Essential Google Cloud Infrastructure-Foundation
 - **Google** GCP Fundamentals-Core Infrastructure
 - **Coursera** Data Structures and Algorithms-Algorithmic Toolbox 
+
+---
+
+I took part in the following conferences (not as a speaker):
+- [Embedded Fest 2021](https://embeddedfest.com/)
+- [Root Linux Conference 2018](https://www.globallogic.com/about/news/root-linux-conference-2018-recap/)
+- [Software Engineering 2017](https://startup.ua/events/software-engineering-2017.html)
+- [Microsoft SWIT 2010](https://andriybuday.com/2010/12/microsoft-swit-2010.html)
