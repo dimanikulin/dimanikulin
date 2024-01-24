@@ -2,24 +2,9 @@ My name is **Dmytro [Nikulin](./SecondNameHistory.md)** and I have **25** of ye
 Please see [this link](./MyExperience.md) for more details regarding experience, contribution and business trips.
 Please see [this link](./MyEducation.md) for details regarding education.
 
-<p>
-<p>
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=7b934804caafe1bdb5f50bc1240ef41a)](https://gist.github.com/dimanikulin/7b934804caafe1bdb5f50bc1240ef41a/)
-</p>
-<p>
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=67fd1012dd1c668aeb6c88ba98ffc7af)](https://gist.github.com/dimanikulin/67fd1012dd1c668aeb6c88ba98ffc7af/)
-</p>
-</p>
-
 <div>
 <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/gist?id=7b934804caafe1bdb5f50bc1240ef41a"/>
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/gist?id=67fd1012dd1c668aeb6c88ba98ffc7af"/>
-</div>
-
-
-<div>
-<img alt="GitHub stats" src="https://gist.github.com/dimanikulin/7b934804caafe1bdb5f50bc1240ef41a/"/>
-<img alt="Top langs" src="https://gist.github.com/dimanikulin/67fd1012dd1c668aeb6c88ba98ffc7af/"/>
 </div>
 
 I was nominated as the *best student* at **EPAM SCHOOL of Digital Engineering** in 2021 and at **Kharkiv State Academy of Railway Transport** in 2001.
