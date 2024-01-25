@@ -243,6 +243,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Дмитрий Василец](https://t.me/VasiletsDmitriy)    | | |
 | [Новости Россия! Zа правду!](https://t.me/vchatz)  | 
 | [verysexydasha](https://t.me/verysexydasha)        |
+| [Разведотряд 106](https://t.me/VDV106Moskva)       | comments closed | |
 | [Сводки ополчения](https://t.me/swodki)            | comments closed | |
 | [vitteli](https://t.me/vitteli)                    |
 | [Воин DV](https://t.me/voin_dv)                    | comments closed | |
