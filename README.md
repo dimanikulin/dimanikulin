@@ -29,11 +29,14 @@ Everyone can try themselves in different roles to learn something new and to hel
 # Stay in touch:
 
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/DmytroNikulin)
-[![Linkedin Badge](https://img.shields.io/badge/-Maksym_Rudnyi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-rudnyi/)
+[![Linkedin Badge](https://img.shields.io/badge/-Dmytro_Nikulin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimanikulin/)
 ![Static Badge](https://img.shields.io/badge/:badgeContent?style=flat&logo=linkedin&logoColor=white&labelColor=0e76a8)
+<img alt="GitHub stats" src="https://img.shields.io/badge/dimanikulin-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 * [LinkedIn](https://www.linkedin.com/in/dimanikulin/)
 * [Author Telegram](https://t.me/dimanikulin79) 
 * [Community Telegram](https://t.me/+XqWdomi90-00Yzgy) 
+
 
 # Repos stats:
 <div>
