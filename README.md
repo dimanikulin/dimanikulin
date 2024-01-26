@@ -32,7 +32,7 @@ Everyone can try themselves in different roles to learn something new and to hel
 <img alt="Gmail" src="https://img.shields.io/badge/dimanikulin-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 <img alt="TG" src="https://img.shields.io/badge/dimanikulin79-00AFF0?style=for-the-badge&logo=skype&logoColor=white"/>
 <img alt="Medium" src="https://img.shields.io/badge/dimanikulin_43511-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-<img alt="Dev.to" src="https://img.shields.io/badge/dimanikulin-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white
+<img alt="Dev.to" src="https://img.shields.io/badge/dimanikulin-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
 
 </div>
 
