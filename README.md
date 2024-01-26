@@ -30,7 +30,7 @@ Everyone can try themselves in different roles to learn something new and to hel
 
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/DmytroNikulin)
 [![Linkedin Badge](https://img.shields.io/badge/-Maksym_Rudnyi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-rudnyi/)
-![Static Badge](https://img.shields.io/badge/:badgeContent?style=flat&logo=linkedin&logoColor=white&labelColor=0e76a8&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdimanikulin%2F)
+![Static Badge](https://img.shields.io/badge/:badgeContent?style=flat&logo=linkedin&logoColor=white&labelColor=0e76a8)
 * [LinkedIn](https://www.linkedin.com/in/dimanikulin/)
 * [Author Telegram](https://t.me/dimanikulin79) 
 * [Community Telegram](https://t.me/+XqWdomi90-00Yzgy) 
