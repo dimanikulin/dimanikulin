@@ -26,12 +26,12 @@ I am looking to collaborate on developing [my product](https://github.com/dimani
 Everyone can try themselves in different roles to learn something new and to help me, such as: [Product Manager](./WhatILearnedAsProductManager.md), [Delivery Manager](./WhatILearnedAsDeliveryManager.md),
 [Application Architect](./WhatILearnedAsAppArchitect.md), [Software Developer](./WhatILearnedAsSoftwareDeveloper.md), [DevOps](./WhatILearnedAsDevOps.md) and [Subject Matter Expert](./WhatILearnedAsSubjectMatterExpert.md). 
 
-# Stay in touch:
-
+<div>
 <img alt="X" src="https://img.shields.io/badge/DmytroNikulin-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 <img alt="X" src="https://img.shields.io/badge/dimanikulin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <img alt="Gmail" src="https://img.shields.io/badge/dimanikulin-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 <img alt="TG" src="https://img.shields.io/badge/dimanikulin79-00AFF0?style=for-the-badge&logo=skype&logoColor=white"/>
+</div>
 
 # Repos stats:
 <div>
