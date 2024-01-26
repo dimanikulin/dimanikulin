@@ -28,7 +28,13 @@ Everyone can try themselves in different roles to learn something new and to hel
 
 # Stay in touch:
 <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FDmytroNikulin" href="https%3A%2F%2Ftwitter.com%2FDmytroNikulin">
-TBD
+
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/DmytroNikulin)
+
+* [Twitter](https://twitter.com/DmytroNikulin)
+* [LinkedIn](https://www.linkedin.com/in/dimanikulin/)
+* [Author Telegram](https://t.me/dimanikulin79) 
+* [Community Telegram](https://t.me/+XqWdomi90-00Yzgy) 
 
 # Repos stats:
 <div>
