@@ -1,10 +1,10 @@
 My name is **Dmytro [Nikulin](./SecondNameHistory.md)** and I have **25** of years of experience as a Software Developer/Lead.
 Please see [this link](./MyExperience.md) for more details regarding experience, contribution and business trips.
-Please see [this link](./MyEducation.md) for details regarding education.
+Please see [this link](./MyEducation.md) for details regarding education, cources, certificates etc.
 
 <div>
-<img alt="Education" src="https://github-readme-stats.vercel.app/api/gist?id=1ce3421ecd4b81519d6f080a3260bcaa"/>
 <img alt="Awards" src="https://github-readme-stats.vercel.app/api/gist?id=67fd1012dd1c668aeb6c88ba98ffc7af"/>
+<img alt="Education" src="https://github-readme-stats.vercel.app/api/gist?id=1ce3421ecd4b81519d6f080a3260bcaa"/>
 </div>
 
 I am fluent in three **languages**: Ukrainian, English, Russian.
