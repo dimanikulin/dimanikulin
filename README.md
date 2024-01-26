@@ -13,10 +13,8 @@ I have several scientific [publications](./MySciencePublications.md) and numerou
 
 <div>
 <img alt="Domains" src="https://github-readme-stats.vercel.app/api/gist?id=a7e18d8123709bc2645a742a1dbc232e"/>
-<img alt="Technologies" src="https://github-readme-stats.vercel.app/api/gist?id=67fd1012dd1c668aeb6c88ba98ffc7af"/>
+<img alt="Technologies" src="https://github-readme-stats.vercel.app/api/gist?id=7ff91d7c5a029de32a04b40bba890998"/>
 </div>
-
-I have expertise in the following domains: **Billing systems**, **Embedded systems**, **Mobile applications**, **Media**, **Healthcare**, **Communication**, **Geoinformatics**, **Railways**.
 
 My interests include **Automotive**, **Manufacturing**, **Logistic** and **Security**.
 
@@ -25,12 +23,6 @@ My areas of interest in technology include **Cloud**, **IoT**, **Data Platforms*
 **Visa** - USA, B-1/B-2, 11-Apr-2028
 
 # I can help you with
-I have a deep understanding of **Microsoft OS** programming and extensive experience with cross-platform programming.
-Mobile applications
-I can help with **Software Verification Testing** (Unit and Integration testing) of medical devices with **GTest** and **Squish**. 
-I can also use **QT** to create **Cross-platform** and **Multi-language UIs**,customize **MS OS**, perform **Win32 API hooking**, and make **MS OS** more secure.
-
-In addition, I can help create systems to **collect data** from **mobile** devices. 
 
 I can also help with **BigData** tools such as **Spark**, **Kafka**, **Hive** and **MongoDB** including choosing tools and configuration them.
 
