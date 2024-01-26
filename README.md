@@ -27,11 +27,10 @@ Everyone can try themselves in different roles to learn something new and to hel
 [Application Architect](./WhatILearnedAsAppArchitect.md), [Software Developer](./WhatILearnedAsSoftwareDeveloper.md), [DevOps](./WhatILearnedAsDevOps.md) and [Subject Matter Expert](./WhatILearnedAsSubjectMatterExpert.md). 
 
 # Stay in touch:
-<img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FDmytroNikulin" href="https%3A%2F%2Ftwitter.com%2FDmytroNikulin">
 
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/DmytroNikulin)
-
-* [Twitter](https://twitter.com/DmytroNikulin)
+[![Linkedin Badge](https://img.shields.io/badge/-Maksym_Rudnyi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-rudnyi/)
+![Static Badge](https://img.shields.io/badge/:badgeContent?style=flat&logo=linkedin&logoColor=white&labelColor=0e76a8&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdimanikulin%2F)
 * [LinkedIn](https://www.linkedin.com/in/dimanikulin/)
 * [Author Telegram](https://t.me/dimanikulin79) 
 * [Community Telegram](https://t.me/+XqWdomi90-00Yzgy) 
