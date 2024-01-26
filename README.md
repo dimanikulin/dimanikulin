@@ -12,8 +12,8 @@ I am fluent in three **languages**: Ukrainian, English, Russian.
 I have several scientific [publications](./MySciencePublications.md) and numerous other [publications](./MyPublications.md).
 
 <div>
-<img alt="Domains" src="https://github-readme-stats.vercel.app/api/gist?id=a7e18d8123709bc2645a742a1dbc232e"/>
 <img alt="Technologies" src="https://github-readme-stats.vercel.app/api/gist?id=7ff91d7c5a029de32a04b40bba890998"/>
+<img alt="Domains" src="https://github-readme-stats.vercel.app/api/gist?id=a7e18d8123709bc2645a742a1dbc232e"/>
 </div>
 
 My interests include **Automotive**, **Manufacturing**, **Logistic** and **Security**.
