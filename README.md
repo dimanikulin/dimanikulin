@@ -7,15 +7,11 @@ Please see [this link](./MyEducation.md) for details regarding education.
 <img alt="Awards" src="https://github-readme-stats.vercel.app/api/gist?id=67fd1012dd1c668aeb6c88ba98ffc7af"/>
 </div>
 
-I was nominated as the *best student* at **EPAM SCHOOL of Digital Engineering** in 2021 and at **Kharkiv State Academy of Railway Transport** in 2001.
-Also I was nominated as the *Top Interviewer in Kyiv for C/C++* at **GlobalLogic** in 2021, 2022 and 2023.
-
 I am fluent in three **languages**: Ukrainian, English, Russian.
 
 I have several scientific [publications](./MySciencePublications.md) and numerous other [publications](./MyPublications.md).
 
 I have expertise in the following domains: **Billing systems**, **Embedded systems**, **Mobile applications**, **Media**, **Healthcare**, **Communication**, **Geoinformatics**, **Railways**.
-I have a deep understanding of **Microsoft OS** programming and extensive experience with cross-platform programming.
 
 My interests include **Automotive**, **Manufacturing**, **Logistic** and **Security**.
 
@@ -24,6 +20,8 @@ My areas of interest in technology include **Cloud**, **IoT**, **Data Platforms*
 **Visa** - USA, B-1/B-2, 11-Apr-2028
 
 # I can help you with
+I have a deep understanding of **Microsoft OS** programming and extensive experience with cross-platform programming.
+
 I can help with **Software Verification Testing** (Unit and Integration testing) of medical devices with **GTest** and **Squish**. 
 I can also use **QT** to create **Cross-platform** and **Multi-language UIs**,customize **MS OS**, perform **Win32 API hooking**, and make **MS OS** more secure.
 
