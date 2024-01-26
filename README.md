@@ -22,12 +22,7 @@ My areas of interest in technology include **Cloud**, **IoT**, **Data Platforms*
 
 **Visa** - USA, B-1/B-2, 11-Apr-2028
 
-# Projects are currently occupying most of my time
-
-If you were to ask me what projects are currently occupying most of my time, my answer would be:
-- I am currently learning software architecture.
-- I am looking to collaborate on developing [my product](https://github.com/dimanikulin/fva) because the development is in a hot stage.
-
+I am looking to collaborate on developing [my product](https://github.com/dimanikulin/fva) because the development is in a hot stage.
 Everyone can try themselves in different roles to learn something new and to help me, such as: [Product Manager](./WhatILearnedAsProductManager.md), [Delivery Manager](./WhatILearnedAsDeliveryManager.md),
 [Application Architect](./WhatILearnedAsAppArchitect.md), [Software Developer](./WhatILearnedAsSoftwareDeveloper.md), [DevOps](./WhatILearnedAsDevOps.md) and [Subject Matter Expert](./WhatILearnedAsSubjectMatterExpert.md). 
 
