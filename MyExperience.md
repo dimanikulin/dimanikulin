@@ -36,3 +36,19 @@
 |Boston   |April 2018, 1 week  |New project start | 
 |Jerusalem|June 2017, 1 month  |R&D               |
 |Malta    |March 2007, 1 month |System implementation and technical support  |
+
+# I can help you with
+
+I can help with **BigData** tools such as **Spark**, **Kafka**, **Hive** and **MongoDB** including choosing tools and configuration them.
+
+Furthermore, I can assist with **Software Architecture** aspects, such as:
+- working with **Stakeholders**, **Business Requirements** and **Functional decomposition**;
+- participation in **Presales**, **Estimation**, **Discovery**, **Design and Review stages**;
+- working with **[Quality attributes](./QualityAttributes.md)** and their **Tactics**;
+- creating the **Software Architecture Document**;
+- choosing the **NoSQL DB**;
+- designing the **Search system**;
+- securing the system on the **cloud** to keep **private** data;
+- choosing **style**, **design patterns** and **development technologies** for **web application** to support the desktop and mobile requirements;
+- choosing the **cloud services** for **MOM**; and
+- choosing the **caches**.
