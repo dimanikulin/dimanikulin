@@ -5,9 +5,8 @@
 <img alt="Gmail" src="https://img.shields.io/badge/dimanikulin-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 <img alt="Medium" src="https://img.shields.io/badge/dimanikulin_43511-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 <img alt="Dev.to" src="https://img.shields.io/badge/dimanikulin-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
-<img alt="Quora" src="https://img.shields.io/badge/Dima-Nikulin-2-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"/>
 <img alt="Reddit" src="https://img.shields.io/badge/dimanikulin-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
-
+<img alt="Hashnode" src="https://img.shields.io/badge/dimanikulin-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
 </div>
 
 My name is **Dmytro [Nikulin](./SecondNameHistory.md)** and I have **25** of years of experience as a Software Developer/Lead.
@@ -20,6 +19,7 @@ Please see [this link](./MyExperience.md) for more details regarding experience,
 <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
 My interests include **Automotive**, **Manufacturing**, **Logistic** and **Security**.
