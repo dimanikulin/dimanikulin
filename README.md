@@ -33,10 +33,10 @@ I have several scientific [publications](./MySciencePublications.md) and numerou
 </div>
 
 I am looking to collaborate on developing [my product](https://github.com/dimanikulin/fva) because the development is in a hot stage.
+
 Everyone can try themselves in different roles to learn something new and to help me, such as: [Product Manager](./WhatILearnedAsProductManager.md), [Delivery Manager](./WhatILearnedAsDeliveryManager.md),
 [Application Architect](./WhatILearnedAsAppArchitect.md), [Software Developer](./WhatILearnedAsSoftwareDeveloper.md), [DevOps](./WhatILearnedAsDevOps.md) and [Subject Matter Expert](./WhatILearnedAsSubjectMatterExpert.md). 
 
-# Repos stats:
 <div>
 <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=dimanikulin&show_icons=true&theme=transparent"/>
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimanikulin&layout=compact&&langs_count=5"/>
@@ -53,5 +53,6 @@ Everyone can try themselves in different roles to learn something new and to hel
   <img alt="FVA last commit" src="https://img.shields.io/github/last-commit/dimanikulin/fva"> 
 </p>
 
-# Profile views:
+---
+
 [![Dima Nikulin profile views](https://u8views.com/api/v1/github/profiles/4226351/views/day-week-month-total-count.svg)](https://u8views.com/github/dimanikulin)
