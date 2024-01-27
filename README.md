@@ -9,20 +9,20 @@
 My name is **Dmytro [Nikulin](./SecondNameHistory.md)** and I have **25** of years of experience as a Software Developer/Lead.
 Please see [this link](./MyExperience.md) for more details regarding experience, contribution and business trips.
 
-Please see [this link](./MyEducation.md) for details regarding education, cources, certificates etc.
-
 <div>
-<img alt="Awards" src="https://github-readme-stats.vercel.app/api/gist?id=67fd1012dd1c668aeb6c88ba98ffc7af"/>
-<img alt="Education" src="https://github-readme-stats.vercel.app/api/gist?id=1ce3421ecd4b81519d6f080a3260bcaa"/>
+<img alt="Technologies" src="https://github-readme-stats.vercel.app/api/gist?id=7ff91d7c5a029de32a04b40bba890998"/>
+<img alt="Domains" src="https://github-readme-stats.vercel.app/api/gist?id=a7e18d8123709bc2645a742a1dbc232e"/>
 </div>
+
+Please see [this link](./MyEducation.md) for details regarding education, cources, certificates etc.
 
 I am fluent in three **languages**: Ukrainian, English, Russian.
 
 I have several scientific [publications](./MySciencePublications.md) and numerous other [publications](./MyPublications.md).
 
 <div>
-<img alt="Technologies" src="https://github-readme-stats.vercel.app/api/gist?id=7ff91d7c5a029de32a04b40bba890998"/>
-<img alt="Domains" src="https://github-readme-stats.vercel.app/api/gist?id=a7e18d8123709bc2645a742a1dbc232e"/>
+<img alt="Awards" src="https://github-readme-stats.vercel.app/api/gist?id=67fd1012dd1c668aeb6c88ba98ffc7af"/>
+<img alt="Education" src="https://github-readme-stats.vercel.app/api/gist?id=1ce3421ecd4b81519d6f080a3260bcaa"/>
 </div>
 
 My interests include **Automotive**, **Manufacturing**, **Logistic** and **Security**.
