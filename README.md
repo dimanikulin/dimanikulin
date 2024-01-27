@@ -5,7 +5,9 @@
 <img alt="Gmail" src="https://img.shields.io/badge/dimanikulin-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 <img alt="Medium" src="https://img.shields.io/badge/dimanikulin_43511-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 <img alt="Dev.to" src="https://img.shields.io/badge/dimanikulin-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
-<img alt="Quara" src="https://img.shields.io/badge/Dima-Nikulin-2-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"/>
+<img alt="Quora" src="https://img.shields.io/badge/Dima-Nikulin-2-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"/>
+<img alt="Reddit" src="https://img.shields.io/badge/dimanikulin-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
+
 </div>
 
 My name is **Dmytro [Nikulin](./SecondNameHistory.md)** and I have **25** of years of experience as a Software Developer/Lead.
