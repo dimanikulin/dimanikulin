@@ -7,7 +7,14 @@
 </div>
 
 My name is **Dmytro [Nikulin](./SecondNameHistory.md)** and I have **25** of years of experience as a Software Developer/Lead.
+
 Please see [this link](./MyExperience.md) for more details regarding experience, contribution and business trips.
+
+My interests include **Automotive**, **Manufacturing**, **Logistic** and **Security**.
+
+My areas of interest in technology include **Cloud**, **IoT**, **Data Platforms**, **Devops**, and **Architecture**.
+
+**Visa** - USA, B-1/B-2, 11-Apr-2028
 
 <div>
 <img alt="Technologies" src="https://github-readme-stats.vercel.app/api/gist?id=7ff91d7c5a029de32a04b40bba890998"/>
@@ -24,12 +31,6 @@ I have several scientific [publications](./MySciencePublications.md) and numerou
 <img alt="Awards" src="https://github-readme-stats.vercel.app/api/gist?id=67fd1012dd1c668aeb6c88ba98ffc7af"/>
 <img alt="Education" src="https://github-readme-stats.vercel.app/api/gist?id=1ce3421ecd4b81519d6f080a3260bcaa"/>
 </div>
-
-My interests include **Automotive**, **Manufacturing**, **Logistic** and **Security**.
-
-My areas of interest in technology include **Cloud**, **IoT**, **Data Platforms**, **Devops**, and **Architecture**.
-
-**Visa** - USA, B-1/B-2, 11-Apr-2028
 
 I am looking to collaborate on developing [my product](https://github.com/dimanikulin/fva) because the development is in a hot stage.
 Everyone can try themselves in different roles to learn something new and to help me, such as: [Product Manager](./WhatILearnedAsProductManager.md), [Delivery Manager](./WhatILearnedAsDeliveryManager.md),
