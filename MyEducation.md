@@ -6,7 +6,7 @@ Currently, I hold 3 diplomas from **NaUKMA**, **EPAM SCHOOL of Digital Engineeri
 | EPAM SCHOOL of Digital Engineering        | Kyiv   | Oct 2019-June 2021  | [Software Engineering](./Images/CertsEPAM1.jpg) | 90 out 100    | [MSDP in Software Engineering](./Images/CertsEPAM2.jpg) |
 | Kharkiv State Academy of Railway Transport| Donetsk| Sept 1996-June 2001 | Math, electrics      | 4.75 out 5    | Electrical engineer in Railway Transport |
 
-During my studies at NAUKMA, we were given free access to <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"/> www.coursera.org and allowing us to choose from over 5,000 courses.
+During my studies at NAUKMA, we were given free access to www.coursera.org and allowing us to choose from over 5,000 courses.
 Additionally, we were granted free access to the Cisco Learning Platform.
 
 ---
@@ -15,8 +15,8 @@ Generally I have about 20 certificates and please find my certificates here:
 
 |# |Issuer  |Name                                                                                         |Issued  |Credential ID|
 |- |--------|---------------------------------------------------------------------------------------------|--------|:-----------:|
-|1 |Coursera|[Embedded Software and Hardware Architecture](./Images/CourseraCertificate9.jpg)             |Jun 2020|[VTMJWCL8KW7N](https://www.coursera.org/account/accomplishments/certificate/VTMJWCL8KW7N)| 
-|2 |Coursera|[Enterprise Architecture](./Images/CourseraCertificate8.jpg)                                 |Jul 2020|[NJSWYS74R3XZ](https://www.coursera.org/account/accomplishments/certificate/NJSWYS74R3XZ)| 
+|1 |<img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"/>|[Embedded Software and Hardware Architecture](./Images/CourseraCertificate9.jpg)             |Jun 2020|[VTMJWCL8KW7N](https://www.coursera.org/account/accomplishments/certificate/VTMJWCL8KW7N)| 
+|2 |<img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"/>|[Enterprise Architecture](./Images/CourseraCertificate8.jpg)                                 |Jul 2020|[NJSWYS74R3XZ](https://www.coursera.org/account/accomplishments/certificate/NJSWYS74R3XZ)| 
 |3 |Coursera|[Identifying Security Vulnerabilities in C-C++Programming](./Images/CourseraCertificate7.jpg)|Jul 2020|[MY46ASSABL9T](https://www.coursera.org/account/accomplishments/certificate/MY46ASSABL9T)| 
 |4 |Coursera|[I/O-efficient algorithms](./Images/CourseraCertificate6.jpg)                                |Jul 2020|[6ZV294TY7Q29](https://www.coursera.org/account/accomplishments/certificate/6ZV294TY7Q29)| 
 |5 |Coursera|[Linux for Developers](./Images/CourseraCertificate5.jpg)                                    |Jul 2020|[E8898ZRGEGTE](https://www.coursera.org/account/accomplishments/certificate/E8898ZRGEGTE)|
