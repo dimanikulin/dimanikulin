@@ -34,6 +34,7 @@ single source of truth for linked in profile, all prof networks anf glo, keep th
 https://dou.ua/forums/topic/47115/?from=tg&utm_source=telegram&utm_medium=social
 https://hendrasob.github.io/badges/
 https://shields.io/badges
+https://dev.to/envoy_/150-badges-for-github-pnk
 
 healthcare мониторинг
 
