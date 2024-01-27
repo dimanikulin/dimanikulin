@@ -1,5 +1,14 @@
+<div>
+<img alt="X" src="https://img.shields.io/badge/DmytroNikulin-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+<img alt="LI" src="https://img.shields.io/badge/dimanikulin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img alt="Gmail" src="https://img.shields.io/badge/dimanikulin-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img alt="Medium" src="https://img.shields.io/badge/dimanikulin_43511-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+<img alt="Dev.to" src="https://img.shields.io/badge/dimanikulin-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+</div>
+
 My name is **Dmytro [Nikulin](./SecondNameHistory.md)** and I have **25** of years of experience as a Software Developer/Lead.
 Please see [this link](./MyExperience.md) for more details regarding experience, contribution and business trips.
+
 Please see [this link](./MyEducation.md) for details regarding education, cources, certificates etc.
 
 <div>
@@ -25,14 +34,6 @@ My areas of interest in technology include **Cloud**, **IoT**, **Data Platforms*
 I am looking to collaborate on developing [my product](https://github.com/dimanikulin/fva) because the development is in a hot stage.
 Everyone can try themselves in different roles to learn something new and to help me, such as: [Product Manager](./WhatILearnedAsProductManager.md), [Delivery Manager](./WhatILearnedAsDeliveryManager.md),
 [Application Architect](./WhatILearnedAsAppArchitect.md), [Software Developer](./WhatILearnedAsSoftwareDeveloper.md), [DevOps](./WhatILearnedAsDevOps.md) and [Subject Matter Expert](./WhatILearnedAsSubjectMatterExpert.md). 
-
-<div>
-<img alt="X" src="https://img.shields.io/badge/DmytroNikulin-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-<img alt="LI" src="https://img.shields.io/badge/dimanikulin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-<img alt="Gmail" src="https://img.shields.io/badge/dimanikulin-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-<img alt="Medium" src="https://img.shields.io/badge/dimanikulin_43511-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-<img alt="Dev.to" src="https://img.shields.io/badge/dimanikulin-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
-</div>
 
 # Repos stats:
 <div>
