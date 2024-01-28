@@ -24,7 +24,7 @@
 
 **Functional Area:** Architecture, Project Management, People Development, Quality Assurance, Software Development, Solution Architecture, Customer Support, Application Lifecycle Management, Software Detail Design, Team Leading.
 
-**Collaboration & Ticketing:** JIRA, RedMine, Trac, Slack, Trello.
+**Collaboration & Ticketing:** <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/> <img alt="Jira" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>, RedMine, Trac, Slack.
 
 # Contribution 
 - [POCO](https://github.com/dimanikulin/poco)
@@ -80,15 +80,8 @@ https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notep
 https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white
 https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
 https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white
-https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white
 https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
 https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white
 https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white
 
-https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white
-
 https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white
-
-https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white
-
-https://aleen42.github.io/badges/src/photoshop.svg
