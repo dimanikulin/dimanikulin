@@ -70,5 +70,9 @@ Everyone can try themselves in different roles to learn something new and to hel
 
 [![Dima Nikulin profile views](https://u8views.com/api/v1/github/profiles/4226351/views/day-week-month-total-count.svg)](https://u8views.com/github/dimanikulin)
 
-https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg
-http://ForTheBadge.com/images/badges/built-with-science.svg
+---
+
+<div>
+<img alt="Made with Markdown" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg"/>
+<img alt="built with science" src="http://ForTheBadge.com/images/badges/built-with-science.svg"/>
+</div>
