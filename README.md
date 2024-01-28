@@ -34,6 +34,8 @@ My areas of interest in technology include **Cloud**, **IoT**, **Data Platforms*
 <img alt="Power_Script" src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white"/>
 </div>
 
+---
+
 I am fluent in three **languages**: Ukrainian, English, Russian. **Visas**: USA, B-1/B-2, 11-Apr-2028
 
 I have several scientific [publications](./MySciencePublications.md) and numerous other [publications](./MyPublications.md).
@@ -44,6 +46,8 @@ Please see [this link](./MyEducation.md) for details regarding education, cource
 <img alt="Awards" src="https://github-readme-stats.vercel.app/api/gist?id=67fd1012dd1c668aeb6c88ba98ffc7af"/>
 <img alt="Education" src="https://github-readme-stats.vercel.app/api/gist?id=1ce3421ecd4b81519d6f080a3260bcaa"/>
 </div>
+
+---
 
 I am looking to collaborate on developing [my product](https://github.com/dimanikulin/fva) because the development is in a hot stage.
 
