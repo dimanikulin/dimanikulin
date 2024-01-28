@@ -74,5 +74,4 @@ Everyone can try themselves in different roles to learn something new and to hel
 
 <div>
 <img alt="Made with Markdown" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg"/>
-<img alt="built with science" src="http://ForTheBadge.com/images/badges/built-with-science.svg"/>
 </div>
