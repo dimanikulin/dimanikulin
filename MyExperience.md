@@ -1,18 +1,18 @@
 # Experience with details
-|Company          |Place  |Duration       |Role     |Project Description   |Operation Systems              |Languages                        |Libraries & FrameWorks                                 |RDBMS  |Version control|Technologies|
-|-----------------|-------|---------------|---------|--------------------  |------------------------------ |---------------------------------|-------------------------------------------------------|-------|---------------|:----------:|
-|GlobalLogic      |Kyiv   |05/2018-Present|Tech Lead|Huge medical product  |Win 10; Ubuntu 16,20; QNX 6.6,7.1|C++11-17; Python 3; SQL; PowerShell; Bash; QML; Gherkin; UML|QT 5.8; GTest; Boost; CMake; RTI DDS; flatbuf; Libcurl; Squish|SQLlite|BitBucket|IPC; RTOS; Doxygen; DHCP; FTP; LAN; QoS; Bamboo; Fisheye-Crusible; JAMA; SonarCube; Coverity; BDD; Docker|
-|GlobalLogic      |Kyiv   |03/2017-05/2018|SW Dev   |TV network company prj|Win 10                         |C++03; PLSQL                     |Corba; STL; ATL                                        |Oracle |SVN            |ETL|
-|Mobisoft Ltd     |Kyiv   |04/2015-09/2016|SW Dev   |Data gathering system |Win XP,7-10                    |C++11; C; SQL; Java; Python      |STL; Poco; Boost; MadCodHook; Komodia; Wix; WinAPI     |SQLlite|Git            |Win32 API hooks; Signing; Win login customization; IPC; OpenSSL; Certificate Authorities; Digital Certificates; Public and Private Keys; Hashing; VisualAssist |
-|Metacom Company  |Lviv   |04/2013-03/2015|SW Dev   |Cloud data security system|Win XP,7,8                 |C++03; XML                       |WinAPI; STL; QT 4.8                                    |       |GitHub         |MSI; WiX; DropBox; Google; OneDrive; Jenkins|
-|LogNet Systems   |Donetsk|04/2012-04/2013|SW Dev   |Billing systems       |Win XP; CentOs                 |C++03, XML; PL-SQL; makefile     |STL; ACE                                               |Oracle |SVN            |RADIUS|
-|Biruza Software  |Donetsk|01/2012-04/2012|SW Dev   |Tpips adviser         |Mac Lion; iOS 4,5              |Objective-C                      |Objective-C CoreData; Objective-C Foundation; RestKit  |SQLlite|SVN            |JSON; HTTP|
-|Biruza Software  |Donetsk|06/2008-01/2012|SW Dev   |Devices management    |Win XP,7; MS 2003 Server; Symbian 9x; UIQ 3; Win Mobile 4-7|C++03; Symbian C++; C; XML; MS SQL; C#|WinAPI; ATL; STL; MFC; ACE; libsyncml; CMake; ASP.NET; Phonegap; Win Phone SDK|MS SQL|SVN|Networking; SyncML; GPS; MsBuild; Doxygen; IIS; Bluetooth|
+|Company          |Place  |Duration       |Role     |Project Description   |Operation Systems              |Languages                        |Libraries & FrameWorks                                 |RDBMS  |Technologies|
+|-----------------|-------|---------------|---------|--------------------  |------------------------------ |---------------------------------|-------------------------------------------------------|-------|:----------:|
+|GlobalLogic      |Kyiv   |05/2018-Present|Tech Lead|Huge medical product  |Win 10; Ubuntu 16,20; QNX 6.6,7.1|C++11-17; Python 3; SQL; PowerShell; Bash; QML; Gherkin; UML|QT 5.8; GTest; Boost; CMake; RTI DDS; flatbuf; Libcurl; Squish|SQLlite|IPC; RTOS; Doxygen; DHCP; FTP; LAN; QoS; Bamboo; Fisheye-Crusible; JAMA; SonarCube; Coverity; BDD; Docker|
+|GlobalLogic      |Kyiv   |03/2017-05/2018|SW Dev   |TV network company prj|Win 10                         |C++03; PLSQL                     |Corba; STL; ATL                                        |Oracle |ETL|
+|Mobisoft Ltd     |Kyiv   |04/2015-09/2016|SW Dev   |Data gathering system |Win XP,7-10                    |C++11; C; SQL; Java; Python      |STL; Poco; Boost; MadCodHook; Komodia; Wix; WinAPI     |SQLlite|Win32 API hooks; Signing; Win login customization; IPC; OpenSSL; Certificate Authorities; Digital Certificates; Public and Private Keys; Hashing; VisualAssist |
+|Metacom Company  |Lviv   |04/2013-03/2015|SW Dev   |Cloud data security system|Win XP,7,8                 |C++03; XML                       |WinAPI; STL; QT 4.8                                    |       |MSI; WiX; DropBox; Google; OneDrive; Jenkins|
+|LogNet Systems   |Donetsk|04/2012-04/2013|SW Dev   |Billing systems       |Win XP; CentOs                 |C++03, XML; PL-SQL; makefile     |STL; ACE                                               |Oracle |RADIUS|
+|Biruza Software  |Donetsk|01/2012-04/2012|SW Dev   |Tpips adviser         |Mac Lion; iOS 4,5              |Objective-C                      |Objective-C CoreData; Objective-C Foundation; RestKit  |SQLlite|JSON; HTTP|
+|Biruza Software  |Donetsk|06/2008-01/2012|SW Dev   |Devices management    |Win XP,7; MS 2003 Server; Symbian 9x; UIQ 3; Win Mobile 4-7|C++03; Symbian C++; C; XML; MS SQL; C#|WinAPI; ATL; STL; MFC; ACE; libsyncml; CMake; ASP.NET; Phonegap; Win Phone SDK|MS SQL|Networking; SyncML; GPS; MsBuild; Doxygen; IIS; Bluetooth|
 |Kvisot           |Donetsk|05/2008-07/2008|SW Dev   |Commodity directory   |Win XP; MS 2003 Server         |Pascal; SQL; Jscript; HTML; XML  |                                                     |MS Access|               | |
-|MaxBill          |Donetsk|04/2006-05/2008|SW Dev   |Billing systems       |Win XP; MS 2003 Server; AIX 6  |C++03; XML; PL-SQL; bash         |STL; ACE; GSOAP                               |Oracle, SQL lite|SVN; CVS       |RTOS; Doxygen; DB optimization; Tomcat; VoIP-SIP, Billing Mediation|
-|Railway ISC      |Donetsk|08/2001-04/2006|SW Dev   |Railway systems products|Win 2000, XP, NTTSE4.0, 2000 Server|C++03; XML; XSLT; SQL; Jscript; Xpath; DHTMLX|WinAPI; ATL; MFC; STL; Stingray Objective Studio|Oracle|SourceSafe|COM objects; COM-port|
-|Railway Institute|Donetsk|1998-04/2007   |SW Dev   |Testing knowledge systems|Win NT, 2000, XP            |Pascal; C++03; XML; HTML; Jscript|VCL; WinAPI; MFC; STL; Xerces; log4cpp                 |       |               |ActiveX; IPC; Doxygen|
-|Trubnikov Enterpr|Donetsk|1999–2005      |IT       |                       |MS DOS; Win 9x, NTTSE4.0, 2000 server|Visual Basic               |                                                    |MS Access|               |Active Directory|
+|MaxBill          |Donetsk|04/2006-05/2008|SW Dev   |Billing systems       |Win XP; MS 2003 Server; AIX 6  |C++03; XML; PL-SQL; bash         |STL; ACE; GSOAP                               |Oracle, SQL lite|RTOS; Doxygen; DB optimization; Tomcat; VoIP-SIP, Billing Mediation|
+|Railway ISC      |Donetsk|08/2001-04/2006|SW Dev   |Railway systems products|Win 2000, XP, NTTSE4.0, 2000 Server|C++03; XML; XSLT; SQL; Jscript; Xpath; DHTMLX|WinAPI; ATL; MFC; STL; Stingray Objective Studio|Oracle|COM objects; COM-port|
+|Railway Institute|Donetsk|1998-04/2007   |SW Dev   |Testing knowledge systems|Win NT, 2000, XP            |Pascal; C++03; XML; HTML; Jscript|VCL; WinAPI; MFC; STL; Xerces; log4cpp                 |       |ActiveX; IPC; Doxygen|
+|Trubnikov Enterpr|Donetsk|1999–2005      |IT       |                       |MS DOS; Win 9x, NTTSE4.0, 2000 server|Visual Basic               |                                                    |MS Access|Active Directory|
 
 **SDLC:** Scrum, Kan Ban, Scaled Agile Framework, Waterfall.
 
@@ -37,7 +37,10 @@ RedMine, Trac, Slack.
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
 <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/> 
 QT Creator, Carbide, C++ Builder, GDB, Profiling. 
- 
+
+**Version control:** <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+SVN, CVS, SourceSafe 
+
 # Contribution 
 - [POCO](https://github.com/dimanikulin/poco)
 
@@ -84,7 +87,6 @@ https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=mic
 https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white
 https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=InVision&logoColor=white
 https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white
-https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
 https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white
 https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white
 
