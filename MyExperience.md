@@ -3,7 +3,7 @@
 |-----------------|-------|---------------|---------|--------------------  |------------------------------ |---------------------------------|-------------------------------------------------------|-------|---------------|:----------:|
 |GlobalLogic      |Kyiv   |05/2018-Present|Tech Lead|Huge medical product  |Win 10; Ubuntu 16,20; QNX 6.6,7.1|C++11-17; Python 3; SQL; PowerShell; Bash; QML; Gherkin; UML|QT 5.8; GTest; Boost; CMake; RTI DDS; flatbuf; Libcurl; Squish|SQLlite|BitBucket|IPC; RTOS; Doxygen; DHCP; FTP; LAN; QoS; Bamboo; Fisheye-Crusible; JAMA; SonarCube; Coverity; BDD; Docker|
 |GlobalLogic      |Kyiv   |03/2017-05/2018|SW Dev   |TV network company prj|Win 10                         |C++03; PLSQL                     |Corba; STL; ATL                                        |Oracle |SVN            |ETL|
-|Mobisoft Ltd     |Kyiv   |04/2015-09/2016|SW Dev   |Data gathering system |Win XP,7-10                    |C++11; C; SQL; Java; Python      |STL; Poco; Boost; MadCodHook; Komodia; Wix; WinAPI     |SQLlite|Git            |Win32 API hooks; Signing; Win login customization; IPC; OpenSSL; Certificate Authorities; Digital Certificates; Public and Private Keys; Hashing|
+|Mobisoft Ltd     |Kyiv   |04/2015-09/2016|SW Dev   |Data gathering system |Win XP,7-10                    |C++11; C; SQL; Java; Python      |STL; Poco; Boost; MadCodHook; Komodia; Wix; WinAPI     |SQLlite|Git            |Win32 API hooks; Signing; Win login customization; IPC; OpenSSL; Certificate Authorities; Digital Certificates; Public and Private Keys; Hashing; VisualAssist |
 |Metacom Company  |Lviv   |04/2013-03/2015|SW Dev   |Cloud data security system|Win XP,7,8                 |C++03; XML                       |WinAPI; STL; QT 4.8                                    |       |GitHub         |MSI; WiX; DropBox; Google; OneDrive; Jenkins|
 |LogNet Systems   |Donetsk|04/2012-04/2013|SW Dev   |Billing systems       |Win XP; CentOs                 |C++03, XML; PL-SQL; makefile     |STL; ACE                                               |Oracle |SVN            |RADIUS|
 |Biruza Software  |Donetsk|01/2012-04/2012|SW Dev   |Tpips adviser         |Mac Lion; iOS 4,5              |Objective-C                      |Objective-C CoreData; Objective-C Foundation; RestKit  |SQLlite|SVN            |JSON; HTTP|
@@ -26,16 +26,21 @@
 
 **Collaboration & Ticketing:** <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>, <img alt="Jira" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>, RedMine, Trac, Slack.
 
-**IDE & debugging:** |QT Creator; MS Studio Code Embarcadero RAD Studio   |
-MSVS 2010, 2013; Eclipse; Profiling; VisualAssist
-MSVS 2010                |
-MSVS 2010; GDB; Profiling|
-|XCode 4                  
-|MSVS 2005,2008; Carbide
-Delphi Code Gear RAD Studio 2007|
-MSVS 2005|
-|MSVS 6,7; C++ Builder; Profiling
-Delphi, MSVS 6           |
+**IDE & debugging:** <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
+QT Creator; <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
+<img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/> 
+Carbide, C++ Builder, GDB, Profiling. 
+ 
+
+<img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white"/>
+
+
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"/>
+
+
 
 # Contribution 
 - [POCO](https://github.com/dimanikulin/poco)
@@ -83,14 +88,6 @@ https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=mic
 https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white
 https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=InVision&logoColor=white
 https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white
-https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white
-https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white
-https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white
-https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white
-https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black
-https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white
-https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
-https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white
 https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
 https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white
 https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white
