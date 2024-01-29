@@ -9,6 +9,8 @@
 <img alt="Hashnode" src="https://img.shields.io/badge/dimanikulin-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
 </div>
 
+---
+
 My name is **Dmytro [Nikulin](./SecondNameHistory.md)** and I have **25** of years of experience as a Software Developer/Lead.
 
 Please see [this link](./MyExperience.md) for more details regarding experience, contribution and business trips.
