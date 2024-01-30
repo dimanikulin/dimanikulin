@@ -145,6 +145,21 @@ Can you share your experience with old operating systems, libraries, languages, 
 ## Tags
 old
 
+# Gmail
+About 20 years ago, I created an email account on Gmail. At that time, it was quite simple in terms of the number of functions, but it was exceptionally fast and stable. Over the years, Gmail has added new features, and surprisingly, I have faced no issues. This means it has maintained a Service Level Agreement (SLA) of 99.9999% since I first got it.
+
+For me, it stands as a great example of wide functional software with high performance and stability. 
+I want to express my gratitude to Google for providing such a reliable service!
+
+Can you provide other examples of functional software known for high performance and stability?
+
+PS. No, I am not an advertiser for Google.
+
+<img src="./Images/gmail.jpg" alt="gmail" />
+
+## Tags
+gmail sla email goodservice
+
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
