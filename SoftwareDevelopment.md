@@ -171,3 +171,4 @@ gmail sla email goodservice
 | 6 |Programming Languages and Guessing! |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_languages-and-guessing-in-a-broader-sense-activity-7133365394043514880-WW4P?utm_source=share&utm_medium=member_desktop) | 23/11/2023 | Dmytro Nikulin | |
 | 7 |Tabs or Spaces|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_softwaredevelopment-activity-7141376776915660800-whXp?utm_source=share&utm_medium=member_desktop) | 15/12/2023 | Dmytro Nikulin | |
 | 8 |UIQ|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_old-activity-7152938805359001601-vGeW?utm_source=share&utm_medium=member_desktop) | 16/01/2024 | Dmytro Nikulin | |
+| 9 |gmail|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_gmail-sla-email-activity-7158023530251530240-DNUk?utm_source=share&utm_medium=member_desktop)  | 30/01/2024 | Dmytro Nikulin | |
