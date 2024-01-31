@@ -25,7 +25,7 @@
 |hackernoon |[01/01/2024](https://hackernoon.com/everything-i-learned-as-a-software-developer-while-creating-my-product)|[17/01/2024](https://hackernoon.com/everything-i-learned-as-a-delivery-manager-while-creating-my-product)|TBD|TBD|
 |linkedin   |[02/01/2024](https://www.linkedin.com/posts/dimanikulin_softwaredevelopment-codequality-documentation-activity-7147854830793924608-rx6Q?utm_source=share&utm_medium=member_desktop)|[23/01/2024](https://www.linkedin.com/posts/dimanikulin_readme-projectmanagement-projectcontrol-activity-7155467818996506624-1bmH?utm_source=share&utm_medium=member_desktop)|TBD|TBD|
 |dev.to     |[28/11/2023](https://dev.to/dimanikulin/what-i-learned-as-a-software-developer-while-creating-my-product-5a99)|[29/01/2024](https://dev.to/dimanikulin/what-i-learned-as-a-delivery-manager-while-creating-my-product-55o1)|TBD|TBD|
-|medium     |[03/01/2023](https://medium.com/@dimanikulin_43511/what-i-learned-as-a-software-developer-while-creating-my-product-fc7e3ac2534b)|TBD|TBD|TBD|
+|medium     |[03/01/2023](https://medium.com/@dimanikulin_43511/what-i-learned-as-a-software-developer-while-creating-my-product-fc7e3ac2534b)|[31/01/2024](https://medium.com/@dimanikulin_43511/what-i-learned-as-a-delivery-manager-while-creating-my-product-b466f0eb59a9)|TBD|TBD|
 |reddit     |[04/01/2023](https://www.reddit.com/r/fva/comments/18y7jhe/what_i_learned_as_a_software_developer_while/)|TBD|TBD|TBD|
 |quora      |[08/01/2023](https://www.quora.com/profile/Dima-Nikulin-2/What-I-learned-as-a-Software-Developer-while-creating-my-product-Overview-This-article-delves-into-the-importance-of-c)|TBD|TBD|TBD| 
 
