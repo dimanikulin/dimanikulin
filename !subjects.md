@@ -1,5 +1,3 @@
-!GMail.htm
-
 выиргрывать то выигрывать макс, если проиграть то только одну, две что понять что не случайно была первая
 When you start fighting, please be prepared before how to loose just in case.
 
@@ -35,6 +33,7 @@ https://dou.ua/forums/topic/47115/?from=tg&utm_source=telegram&utm_medium=social
 https://hendrasob.github.io/badges/
 https://shields.io/badges
 https://dev.to/envoy_/150-badges-for-github-pnk
+https://github.com/devicons/devicon
 
 healthcare мониторинг
 
