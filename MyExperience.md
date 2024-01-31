@@ -15,7 +15,7 @@
 
 **SDLC:** Scrum, Kan Ban, Scaled Agile Framework, Waterfall.
 
-**Testing:** Black box testing, Conditions testing and coverage, Decision tables testing, GUI/Usability testing, Regression testing, Requirements testing, Sanity testing, Performance testing, Embedded testing, State transaition testing, A/B testing, Acceptance testing, Compatibility testing, Load testing, Mobile testing, Mutation testing, Network Testing, Security testing, Technical reviews, Test Design, Test Plan, Unit Testing, Whitebox testing.
+**Testing:** Black box, Conditions, Decision tables, GUI/Usability, Regression, Requirements, Sanity, Performance, Embedded, State transaition, A/B, Acceptance, Compatibility, Load, Mobile, Mutation, Network, Security, Unit, Whitebox testin, Technical reviews, Test Design, Test Plan.
 
 **Architectural Style:** Microservice, Serverless Architecture, Component Based Architecture.
 
