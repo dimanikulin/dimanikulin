@@ -1,7 +1,7 @@
 |Company, Place            |Duration       |Role     |Project Description   |Operation Systems              |Languages                        |Libraries & FrameWorks                                 |RDBMS  |Technologies|
 |--------------------------|---------------|---------|--------------------  |------------------------------ |---------------------------------|-------------------------------------------------------|-------|:----------:|
 |GlobalLogic, Kyiv         |05/2018-Present|Tech Lead|Huge medical product  |Win 10; Ubuntu 16,20; QNX 6.6,7.1|C++11-17; Python 3; SQL; PowerShell; Bash; QML; Gherkin; UML|QT 5.8; GTest; Boost; CMake; RTI DDS; flatbuf; Libcurl; Squish|SQLlite|IPC; RTOS; Doxygen; DHCP; FTP; LAN; QoS; Bamboo; Fisheye-Crusible; JAMA; SonarCube; Coverity; BDD; Docker|
-|GlobalLogic, Kyiv         |03/2017-05/2018|SW Dev   |TV network company prj|Win 10                         |C++03; PLSQL                     |Corba; STL; ATL                                        |Oracle |ETL|
+|GlobalLogic, Kyiv         |03/2017-05/2018|SW Dev   |TV network company prj|Win 10                         |C++03; PLSQL                     |Corba; STL; ATL                                        |<img alt="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/> |ETL|
 |Mobisoft Ltd, Kyiv        |04/2015-09/2016|SW Dev   |Data gathering system |Win XP,7-10                    |C++11; C; SQL; Java; Python      |STL; Poco; Boost; MadCodHook; Komodia; Wix; WinAPI     |SQLlite|Win32 API hooks; Signing; Win login customization; IPC; OpenSSL; Certificate Authorities; Digital Certificates; Public and Private Keys; Hashing; VisualAssist |
 |Metacom Company, Lviv     |04/2013-03/2015|SW Dev   |Cloud data security system|Win XP,7,8                 |C++03; XML                       |WinAPI; STL; QT 4.8                                    |       |MSI; WiX; DropBox; Google; OneDrive; Jenkins|
 |LogNet Systems            |04/2012-04/2013|SW Dev   |Billing systems       |Win XP; CentOs                 |C++03, XML; PL-SQL; makefile     |STL; ACE                                               |Oracle |RADIUS|
@@ -79,16 +79,15 @@ Furthermore, I can assist with **Software Architecture** aspects, such as:
 - choosing the **cloud services** for **MOM**; and
 - choosing the **caches**.
 
-https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white
-https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
+<img alt="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
-https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white
-https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white
-https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=InVision&logoColor=white
-https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white
-https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white
-https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white
+<img alt="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white"/>
+<img alt="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
+<img alt="https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=InVision&logoColor=white"/>
+<img alt="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white"/>
+<img alt="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/>
+<img alt="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"/>
 
 <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
