@@ -128,6 +128,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [LOSTARMOUR](https://t.me/lost_armour)             | Closed comments | |
 | [LIC_LPR](https://t.me/LIC_LPR)                    | WIP4 | |
 | [НОВОСТИ ЛНР](https://t.me/luganskallnews)         | Closed comments | |
+| [Лыня🇷🇺](https://t.me/Lunay14)                   |
 | [Мариуполь сейчас](https://t.me/mariupolz)         | closed for DN2 | |
 | [Призрак Мариуполя 🔥😈](https://t.me/mariupol_ghost)|
 | [Маша из Мариуполя 🇷🇺](https://t.me/mashainmarik)| | not working channel | 
@@ -251,6 +252,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Военкор Котенок](https://t.me/voenkorKotenok)     | comments closed | | 
 | [voytenkos](https://t.me/voytenkos)                | 
 | [vv_volodin](https://t.me/vv_volodin)              |
+| [Дальневосточный гастролер](https://t.me/Vmsd127)  |
 | [ЧВК «Вагнер» Республика Б](https://t.me/wagnerrb) |
 | [WAGNER GROUP](https://t.me/wagnernew)             |
 | [war_ukr_russ](https://t.me/war_ukr_russ)          | 
