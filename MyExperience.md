@@ -1,7 +1,7 @@
 |Company, Place            |Duration       |Role     |Project Description   |Operation Systems              |Languages                        |Libraries & FrameWorks                                 |RDBMS  |Technologies|
 |--------------------------|---------------|---------|--------------------  |------------------------------ |---------------------------------|-------------------------------------------------------|-------|:----------:|
 |GlobalLogic, Kyiv         |05/2018-Present|Tech Lead|Huge medical product  |Win 10; Ubuntu 16,20; QNX 6.6,7.1|C++11-17; Python 3; SQL; PowerShell; Bash; QML; Gherkin; UML|QT 5.8; GTest; Boost; CMake; RTI DDS; flatbuf; Libcurl; Squish|SQLlite|IPC; RTOS; Doxygen; DHCP; FTP; LAN; QoS; Bamboo; Fisheye-Crusible; JAMA; SonarCube; Coverity; BDD; Docker|
-|GlobalLogic, Kyiv         |03/2017-05/2018|SW Dev   |TV network company prj|Win 10                         |C++03; PLSQL                     |Corba; STL; ATL                                        | <img alt="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/> |ETL|
+|GlobalLogic, Kyiv         |03/2017-05/2018|SW Dev   |TV network company prj|Win 10                         |C++03; PLSQL                     |Corba; STL; ATL                                        |Oracle |ETL|
 |Mobisoft Ltd, Kyiv        |04/2015-09/2016|SW Dev   |Data gathering system |Win XP,7-10                    |C++11; C; SQL; Java; Python      |STL; Poco; Boost; MadCodHook; Komodia; Wix; WinAPI     |SQLlite|Win32 API hooks; Signing; Win login customization; IPC; OpenSSL; Certificate Authorities; Digital Certificates; Public and Private Keys; Hashing; VisualAssist |
 |Metacom Company, Lviv     |04/2013-03/2015|SW Dev   |Cloud data security system|Win XP,7,8                 |C++03; XML                       |WinAPI; STL; QT 4.8                                    |       |MSI; WiX; DropBox; Google; OneDrive; Jenkins|
 |LogNet Systems            |04/2012-04/2013|SW Dev   |Billing systems       |Win XP; CentOs                 |C++03, XML; PL-SQL; makefile     |STL; ACE                                               |Oracle |RADIUS|
@@ -12,6 +12,8 @@
 |Railway ISC, Donetsk      |08/2001-04/2006|SW Dev   |Railway systems products|Win 2000, XP, NTTSE4.0, 2000 Server|C++03; XML; XSLT; SQL; Jscript; Xpath; DHTMLX|WinAPI; ATL; MFC; STL; Stingray Objective Studio|Oracle|COM objects; COM-port|
 |Railway Institute, Donetsk|1998-04/2007   |SW Dev   |Testing knowledge systems|Win NT, 2000, XP            |Pascal; C++03; XML; HTML; Jscript|VCL; WinAPI; MFC; STL; Xerces; log4cpp                 |       |ActiveX; IPC; Doxygen|
 |Trubnikov Enterpr, Donetsk|1999–2005      |IT       |                       |MS DOS; Win 9x, NTTSE4.0, 2000 server|Visual Basic               |                                                    |MS Access|Active Directory|
+
+<img alt="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
 
 **SDLC:** Scrum, Kan Ban, Scaled Agile Framework, Waterfall.
 
