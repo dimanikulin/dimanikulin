@@ -6,7 +6,7 @@
 |Metacom Company, Lviv     |04/2013-03/2015|SW Dev   |Cloud data security system|Win XP,7,8                 |C++03; XML                       |WinAPI; STL; QT 4.8                                    |       |MSI; WiX; DropBox; Google; OneDrive; Jenkins|
 |LogNet Systems            |04/2012-04/2013|SW Dev   |Billing systems       |Win XP; CentOs                 |C++03, XML; PL-SQL; makefile     |STL; ACE                                               |<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>|RADIUS|
 |Biruza Software           |01/2012-04/2012|SW Dev   |Tpips adviser         |Mac Lion; iOS 4,5              |Objective-C                      |Objective-C CoreData; Objective-C Foundation; RestKit  |<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>|JSON; HTTP|
-|Biruza Software           |06/2008-01/2012|SW Dev   |Devices management    |Win XP,7; MS 2003 Server; Symbian 9x; UIQ 3; Win Mobile 4-7|C++03; Symbian C++; C; XML; MS SQL; C#|WinAPI; ATL; STL; MFC; ACE; libsyncml; CMake; ASP.NET; Phonegap; Win Phone SDK|MS SQL|Networking; SyncML; GPS; MsBuild; Doxygen; IIS; Bluetooth|
+|Biruza Software           |06/2008-01/2012|SW Dev   |Devices management    |Win XP,7; MS 2003 Server; Symbian 9x; UIQ 3; Win Mobile 4-7|C++03; Symbian C++; C; XML; MS SQL; C#|WinAPI; ATL; STL; MFC; ACE; libsyncml; CMake; ASP.NET; Phonegap; Win Phone SDK|<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>|Networking; SyncML; GPS; MsBuild; Doxygen; IIS; Bluetooth|
 |Kvisot, Donetsk           |05/2008-07/2008|SW Dev   |Commodity directory   |Win XP; MS 2003 Server         |Pascal; SQL; Jscript; HTML; XML  |                                                     |<img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white"/>|               | |
 |MaxBill, Donetsk          |04/2006-05/2008|SW Dev   |Billing systems       |Win XP; MS 2003 Server; AIX 6  |C++03; XML; PL-SQL; bash         |STL; ACE; GSOAP                               |<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>|RTOS; Doxygen; DB optimization; Tomcat; VoIP-SIP, Billing Mediation|
 |Railway ISC, Donetsk      |08/2001-04/2006|SW Dev   |Railway systems products|Win 2000, XP, NTTSE4.0, 2000 Server|C++03; XML; XSLT; SQL; Jscript; Xpath; DHTMLX|WinAPI; ATL; MFC; STL; Stingray Objective Studio|<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>|COM objects; COM-port|
@@ -80,7 +80,8 @@ Furthermore, I can assist with **Software Architecture** aspects, such as:
 - choosing the **cloud services** for **MOM**; and
 - choosing the **caches**.
 
-<img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
 <img src="https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=InVision&logoColor=white"/>
