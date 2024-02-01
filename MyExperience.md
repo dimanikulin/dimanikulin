@@ -7,11 +7,11 @@
 |LogNet Systems            |04/2012-04/2013|SW Dev   |Billing systems       |Win XP; CentOs                 |C++03, XML; PL-SQL; makefile     |STL; ACE                                               |<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>|RADIUS|
 |Biruza Software           |01/2012-04/2012|SW Dev   |Tpips adviser         |Mac Lion; iOS 4,5              |Objective-C                      |Objective-C CoreData; Objective-C Foundation; RestKit  |<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>|JSON; HTTP|
 |Biruza Software           |06/2008-01/2012|SW Dev   |Devices management    |Win XP,7; MS 2003 Server; Symbian 9x; UIQ 3; Win Mobile 4-7|C++03; Symbian C++; C; XML; MS SQL; C#|WinAPI; ATL; STL; MFC; ACE; libsyncml; CMake; ASP.NET; Phonegap; Win Phone SDK|MS SQL|Networking; SyncML; GPS; MsBuild; Doxygen; IIS; Bluetooth|
-|Kvisot, Donetsk           |05/2008-07/2008|SW Dev   |Commodity directory   |Win XP; MS 2003 Server         |Pascal; SQL; Jscript; HTML; XML  |                                                     |MS Access|               | |
+|Kvisot, Donetsk           |05/2008-07/2008|SW Dev   |Commodity directory   |Win XP; MS 2003 Server         |Pascal; SQL; Jscript; HTML; XML  |                                                     |<img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white"/>|               | |
 |MaxBill, Donetsk          |04/2006-05/2008|SW Dev   |Billing systems       |Win XP; MS 2003 Server; AIX 6  |C++03; XML; PL-SQL; bash         |STL; ACE; GSOAP                               |<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>|RTOS; Doxygen; DB optimization; Tomcat; VoIP-SIP, Billing Mediation|
 |Railway ISC, Donetsk      |08/2001-04/2006|SW Dev   |Railway systems products|Win 2000, XP, NTTSE4.0, 2000 Server|C++03; XML; XSLT; SQL; Jscript; Xpath; DHTMLX|WinAPI; ATL; MFC; STL; Stingray Objective Studio|<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>|COM objects; COM-port|
 |Railway Institute, Donetsk|1998-04/2007   |SW Dev   |Testing knowledge systems|Win NT, 2000, XP            |Pascal; C++03; XML; HTML; Jscript|VCL; WinAPI; MFC; STL; Xerces; log4cpp                 |       |ActiveX; IPC; Doxygen|
-|Trubnikov Enterpr, Donetsk|1999–2005      |IT       |                       |MS DOS; Win 9x, NTTSE4.0, 2000 server|Visual Basic               |                                                    |MS Access|Active Directory|
+|Trubnikov Enterpr, Donetsk|1999–2005      |IT       |                       |MS DOS; Win 9x, NTTSE4.0, 2000 server|Visual Basic               |                                                    |<img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white"/>|Active Directory|
 
 **SDLC:** Scrum, Kan Ban, Scaled Agile Framework, Waterfall.
 
@@ -96,3 +96,11 @@ Furthermore, I can assist with **Software Architecture** aspects, such as:
 
 https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white
 https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white
+https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white
+https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
+https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+https://img.shields.io/badge/Windows_95-008080?style=for-the-badge&logo=windows-95&logoColor=white
+https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white
+https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
+https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
