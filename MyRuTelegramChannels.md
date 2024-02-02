@@ -96,6 +96,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Fighterbomber](https://t.me/fighter_bomber)       | closed for DN2 | |
 | [Скотомогильник](https://t.me/fiftnmls)            | closed for DN2 | |
 | [FridrihShow](https://t.me/FridrihShow)            | closed for DN2 | |
+| [Рядовой на передовой](https://t.me/frontline_pvt) |
 | [G.A.M.A.](https://t.me/gama_war)                  | closed comments | |
 | [Моисей](https://t.me/gefestwar)                   |	
 | [GREY ZONE](https://t.me/grey_zone)                | closed for DN2 | |
@@ -230,6 +231,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [sskarnaukhov](https://t.me/sskarnaukhov)          | 
 | [strazh_1](https://t.me/strazh_1)                  |
 | [Судоплатов](https://t.me/sudoplatov_official)     | comments closed | |
+| [Степной ветер](https://t.me/stepnoy_veter)        |
 | [stringer_donetsk](https://t.me/stringer_donetsk)  | 
 | [tactical_13](https://t.me/tactical_13)            |
 | [Танкисты ЮВО](https://t.me/tankistrossii100)      |
