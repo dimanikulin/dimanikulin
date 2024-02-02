@@ -1,6 +1,6 @@
 |Company, Place            |Duration       |Role     |Project Description   |Operation Systems              |Languages                        |Libraries & FrameWorks                                 |RDBMS  |Technologies|
 |--------------------------|---------------|---------|--------------------  |------------------------------ |---------------------------------|-------------------------------------------------------|-------|:----------:|
-|GlobalLogic, Kyiv         |05/2018-Present|Tech Lead|Huge medical product  |Win 10; Ubuntu 16,20; QNX 6.6,7.1|C++11-17; <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> SQL; PowerShell; <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/> QML; Gherkin; UML|QT 5.8; GTest; Boost; CMake; RTI DDS; flatbuf; Libcurl; Squish|<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>|IPC; RTOS; Doxygen; DHCP; FTP; LAN; QoS; Bamboo; Fisheye-Crusible; JAMA; SonarCube; Coverity; BDD; Docker|
+|GlobalLogic, Kyiv         |05/2018-Present|Tech Lead|Huge medical product  |Win 10; Ubuntu 16,20; QNX 6.6,7.1|C++11-17; <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img alt="Power_Script" src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white"/> <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/> SQL; QML; Gherkin; UML|QT 5.8; GTest; Boost; CMake; RTI DDS; flatbuf; Libcurl; Squish|<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>|IPC; RTOS; Doxygen; DHCP; FTP; LAN; QoS; Fisheye-Cruceible; JAMA; SonarCube; Coverity; BDD; Docker|
 |GlobalLogic, Kyiv         |03/2017-05/2018|SW Dev   |TV network company prj|Win 10                         |C++03; PLSQL                     |Corba; STL; ATL                                        |<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>|ETL|
 |Mobisoft Ltd, Kyiv        |04/2015-09/2016|SW Dev   |Data gathering system |Win XP,7-10                    |C++11; C; SQL; Java; <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>      |STL; Poco; Boost; MadCodHook; Komodia; Wix; WinAPI     |<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>|Win32 API hooks; Signing; Win login customization; IPC; OpenSSL; Certificate Authorities; Digital Certificates; Public and Private Keys; Hashing; VisualAssist |
 |Metacom Company, Lviv     |04/2013-03/2015|SW Dev   |Cloud data security system|Win XP,7,8                 |C++03; XML                       |WinAPI; STL; QT 4.8                                    | |MSI; WiX; DropBox; Google; OneDrive|
@@ -43,6 +43,7 @@ SVN, CVS, SourceSafe
 
 **CI/CD:** <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
+Bamboo
 
 **Office and design:**
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
@@ -88,7 +89,6 @@ Furthermore, I can assist with **Software Architecture** aspects, such as:
 - choosing the **caches**.
 
 <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
-<img alt="Power_Script" src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white"/>
 
 https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white
 https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
