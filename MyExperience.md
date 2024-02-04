@@ -15,16 +15,6 @@
 |Trubnikov Enterpr, Donetsk|1999–2005      |IT       |  |<img src="https://img.shields.io/badge/Windows_95-008080?style=for-the-badge&logo=windows-95&logoColor=white"/> MS DOS; NTTSE4.0, 2000 server|Visual Basic               |                                                    |<img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white"/>|Active Directory|
 
 # Skills
-**SDLC:** Scrum, Kan Ban, Scaled Agile Framework, Waterfall.
-
-**Testing:** Black box, Conditions, Decision tables, GUI/Usability, Regression, Requirements, Sanity, Performance, Embedded, State transaition, A/B, Acceptance, Compatibility, Load, Mobile, Mutation, Network, Security, Unit, Whitebox testin, Technical reviews, Test Design, Test Plan.
-
-**Architectural Style:** Microservice, Serverless Architecture, Component Based Architecture.
-
-**Business Analysis:** Requirement management, Requirements elicitation (gathering), Requirements specification, Requirements validation.
-
-**Functional Area:** Architecture, Project Management, People Development, Quality Assurance, Software Development and Maintenance, Solution Architecture, Customer Support, Application Lifecycle Management, Software Detail Design, Team Leading.
-
 **Collaboration & Ticketing:** <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
@@ -53,6 +43,16 @@ Bamboo
 <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
 <img src="https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=InVision&logoColor=white"/>
 <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white"/>
+
+**SDLC:** Scrum, Kan Ban, Scaled Agile Framework, Waterfall.
+
+**Testing:** Black box, Conditions, Decision tables, GUI/Usability, Regression, Requirements, Sanity, Performance, Embedded, State transaition, A/B, Acceptance, Compatibility, Load, Mobile, Mutation, Network, Security, Unit, Whitebox testin, Technical reviews, Test Design, Test Plan.
+
+**Architectural Style:** Microservice, Serverless Architecture, Component Based Architecture.
+
+**Business Analysis:** Requirement management, Requirements elicitation (gathering), Requirements specification, Requirements validation.
+
+**Functional Area:** Architecture, Project Management, People Development, Quality Assurance, Software Development and Maintenance, Solution Architecture, Customer Support, Application Lifecycle Management, Software Detail Design, Team Leading.
 
 # Contribution 
 - [POCO](https://github.com/dimanikulin/poco)
