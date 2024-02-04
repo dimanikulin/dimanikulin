@@ -34,6 +34,7 @@ https://hendrasob.github.io/badges/
 https://shields.io/badges
 https://dev.to/envoy_/150-badges-for-github-pnk
 https://github.com/devicons/devicon
+https://simpleicons.org/uk/
 
 healthcare мониторинг
 
