@@ -6,7 +6,7 @@
 |Metacom Company, Lviv     |04/2013-03/2015|SW Dev   |Cloud data security system|Win XP,7,8                 |<img alt="CPP" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> XML                       |WinAPI; STL; QT 4.8                                    | |MSI; WiX; DropBox; Google; OneDrive|
 |LogNet Systems            |04/2012-04/2013|SW Dev   |Billing systems       |Win XP; CentOs                 |<img alt="CPP" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> XML; PL-SQL; makefile     |STL; ACE                                               |<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>|RADIUS|
 |Biruza Software           |01/2012-04/2012|SW Dev   |Tpips adviser         |Mac Lion; iOS 4,5              |Objective-C                      |Objective-C CoreData; Objective-C Foundation; RestKit  |<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>|JSON; HTTP|
-|Biruza Software           |06/2008-01/2012|SW Dev   |Devices management    |Win XP,7; MS 2003 Server; Symbian 9x; UIQ 3; Win Mobile 4-7|<img alt="CPP" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> Symbian C++; <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> XML; MS SQL; <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>|WinAPI; ATL; STL; MFC; ACE; libsyncml; CMake; ASP.NET; Phonegap; Win Phone SDK|<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>|Networking; SyncML; GPS; MsBuild; Doxygen; IIS; Bluetooth|
+|Biruza Software           |06/2008-01/2012|SW Dev   |Devices management    |Win XP,7; MS 2003 Server; Symbian 9x; UIQ 3; Win Mobile 4-7|<img alt="CPP" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> Symbian C++; <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> XML; MS SQL; <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>|WinAPI; ATL; STL; MFC; ACE; libsyncml; CMake; ASP.NET; Phonegap; Win Phone SDK|<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>|<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/> Networking; SyncML; GPS; MsBuild; Doxygen; IIS; Bluetooth|
 |Kvisot, Donetsk           |05/2008-07/2008|SW Dev   |Commodity directory   |Win XP; MS 2003 Server         |Pascal; SQL; Jscript; HTML; XML  |                                                     |<img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white"/>|               | |
 |MaxBill, Donetsk          |04/2006-05/2008|SW Dev   |Billing systems       |Win XP; MS 2003 Server; AIX 6  |<img alt="CPP" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> XML; PL-SQL; <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/> |STL; ACE; GSOAP                               |<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>|RTOS; Doxygen; DB optimization; Tomcat; VoIP-SIP, Billing Mediation|
 |Railway ISC, Donetsk      |08/2001-04/2006|SW Dev   |Railway systems products|Win 2000, XP, NTTSE4.0, 2000 Server|<img alt="CPP" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> XML; XSLT; SQL; Jscript; Xpath; DHTMLX|WinAPI; ATL; MFC; STL; Stingray Objective Studio|<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>|COM objects; COM-port|
@@ -90,14 +90,12 @@ Furthermore, I can assist with **Software Architecture** aspects, such as:
 
 <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 
-https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white
-https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white
-https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white
-https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
-https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
-https://img.shields.io/badge/Windows_95-008080?style=for-the-badge&logo=windows-95&logoColor=white
-https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white
-https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
-
-https://img.shields.io/badge/Maintained%3F-yes-green.svg
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white"/>
+<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows_95-008080?style=for-the-badge&logo=windows-95&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"/>
 <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"/>
