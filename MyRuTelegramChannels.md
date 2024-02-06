@@ -251,7 +251,8 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Сводки ополчения](https://t.me/swodki)            | comments closed | |
 | [vitteli](https://t.me/vitteli)                    |
 | [Воин DV](https://t.me/voin_dv)                    | comments closed | |
-| [Военкор Котенок](https://t.me/voenkorKotenok)     | comments closed | | 
+| [Военкор Котенок](https://t.me/voenkorKotenok)     | comments closed | |
+| [VORON🇷🇺FPV](https://t.me/voron_zov)             |
 | [voytenkos](https://t.me/voytenkos)                | 
 | [vv_volodin](https://t.me/vv_volodin)              |
 | [Дальневосточный гастролер](https://t.me/Vmsd127)  |
