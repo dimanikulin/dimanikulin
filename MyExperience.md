@@ -89,5 +89,3 @@ Furthermore, I can assist with **Software Architecture** aspects, such as:
 - choosing **style**, **design patterns** and **development technologies** for **web application** to support the desktop and mobile requirements;
 - choosing the **cloud services** for **MOM**; and
 - choosing the **caches**.
-
-<img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"/>
