@@ -1,3 +1,4 @@
+# Diplomas
 Currently, I hold 3 diplomas from **NaUKMA**, **EPAM SCHOOL of Digital Engineering** and **Kharkiv State Academy of Railway Transport**. 
 
 | Name                                      | Place  | Duration            |  Major Subjects      | Marks Obtained | Degree                 |
@@ -9,8 +10,7 @@ Currently, I hold 3 diplomas from **NaUKMA**, **EPAM SCHOOL of Digital Engineeri
 During my studies at NAUKMA, we were given free access to www.coursera.org and allowing us to choose from over 5,000 courses.
 Additionally, we were granted free access to the Cisco Learning Platform.
 
----
-
+# Certificates
 Generally I have about 20 certificates and please find my certificates here:
 
 |# |Issuer  |Name                                                                                         |Issued  |Credential ID|
@@ -35,7 +35,9 @@ Generally I have about 20 certificates and please find my certificates here:
 |18|Prometheus|[English for STEM](./Images/certStem.jpg)                                                  |Apr 2020|[4d46d985b02647d0b457f0c8d183ab99](https://courses.prometheus.org.ua:18090/cert/4d46d985b02647d0b457f0c8d183ab99)|
 |19|Scaled Agile, Inc.|[Certified SAFe® 5 Agilist](./Images/certSAFe.jpg)                                 |Jul 2021/Expired Jul 2022|[IEORZNDr](https://www.credly.com/go/IEORZNDr) |
 
-Also please find here the list of passed cources without a certificate:
+# Cources
+
+Also please find here the list of passed cources bub did not get a certificate:
 
 - **Cisco** Connecting Networks (CCNA) 
 - **Cisco** Routing and Switching Essentials (CCNA) 
@@ -47,7 +49,7 @@ Also please find here the list of passed cources without a certificate:
 - **Google** GCP Fundamentals-Core Infrastructure
 - **Coursera** Data Structures and Algorithms-Algorithmic Toolbox 
 
----
+# Conferences
 
 I took part in the following conferences (not as a speaker):
 - [Embedded Fest 2021](https://embeddedfest.com/)
