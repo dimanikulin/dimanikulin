@@ -1,11 +1,11 @@
 выиргрывать то выигрывать макс, если проиграть то только одну, две что понять что не случайно была первая
-When you start fighting, please be prepared before how to loose just in case.
 
+When you start fighting, please be prepared before how to loose just in case.
 People are created to make mistakes but great people can learn from mistakes. 
 And usual people 
 есть тольео один в мире который верит в тебя по настоящему это ты
 но те кто в тебя не верит делают тебе лучше чем ты
-для тех легко вошел в айти легко с него и выйти, все зависит от порога входа.
+для тех легко вошел в айти легко с него яи выйти, все зависит от порога входа.
 лучше не обещай ничего, тем более если не уверен. просто делай
 говорить много не значит говорить хорошо
 уволить его значит уволить меня
@@ -35,6 +35,8 @@ https://shields.io/badges
 https://dev.to/envoy_/150-badges-for-github-pnk
 https://github.com/devicons/devicon
 https://simpleicons.org/uk/
+2. There is a site that tracks layoffs https://lnkd.in/eUX7Mvpu. So you can see that In Jan there were a lot of tech layoffs, so the market is competitive.
+3. Your linked in Profile & Resume need to updated to have all the correct keywords in it because most companies use Applicant Tracking Systems (ATS) and they specifically look for keywords and rate your resume against the job description. There is a site called https://www.jobscan.co/ that will help evaluate your resume against a job description. (Not suggesting you pay for it, they give you 5 for free).
 
 healthcare мониторинг
 
