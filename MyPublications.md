@@ -29,17 +29,6 @@
 |reddit     |[04/01/2023](https://www.reddit.com/r/fva/comments/18y7jhe/what_i_learned_as_a_software_developer_while/)|[05/02/2024](https://www.reddit.com/user/dimanikulin/comments/1ajaq6r/what_i_learned_as_a_delivery_manager_while/)|TBD|TBD|
 |quora      |[08/01/2023](https://www.quora.com/profile/Dima-Nikulin-2/What-I-learned-as-a-Software-Developer-while-creating-my-product-Overview-This-article-delves-into-the-importance-of-c)|[07/02/2024](https://www.quora.com/profile/Dima-Nikulin-2/What-I-learned-as-a-Delivery-Manager-while-creating-my-product)|TBD|TBD| 
 
-# Publications about Multimedia, Multimedia IR systems and Multimedia Organizers - Part 2
-|Name       |[Analyze of Multimedia Organizers](./MultimediaOrganizersAnalyze.md)|[Search Requests for Multimedia](./MultimediaSearchRequests.md)|[Enriching the Multimedia](./MultimediaEnriching.md)|[Tagging Your Multimedia](./MultimediaTagging.md)|
-|-----------|---------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------|:----------------------------------------------------------------:|
-|hashnode   |TBD|TBD|TBD|TBD|
-|hackernoon |TBD|TBD|TBD|TBD|
-|linkedin   |TBD|TBD|TBD|TBD|
-|dev.to     |TBD|TBD|TBD|TBD|
-|medium     |TBD|TBD|TBD|TBD|
-|reddit     |TBD|TBD|TBD|TBD|
-|quora      |TBD|TBD|TBD|TBD| 
-
 # Detecting Architectural Gaps with Automation
 |Name       |[Business Context](./DAGBusinessContext.md)|[Existing Solutions](./DAGExistingSolutions.md)|[Proposed Solution](./DAGProposedSolution.md)|
 |-----------|---------------------------------------------------------------|----------------------------------------------------------------------|:---------------------------------------------------------------------------------:|
@@ -54,6 +43,17 @@
 # How, What and Where to publish
 |Name       |[What To Publish, 1](./PublishWhat1.md)|[What To Publish, 2](./PublishWhat2.md)|[Where To Publish 1](./PublishWhere1.md)|[Where To Publish 2](./PublishWhere2.md)|
 |-----------|---|---|---|:-----------:|
+|hashnode   |TBD|TBD|TBD|TBD|
+|hackernoon |TBD|TBD|TBD|TBD|
+|linkedin   |TBD|TBD|TBD|TBD|
+|dev.to     |TBD|TBD|TBD|TBD|
+|medium     |TBD|TBD|TBD|TBD|
+|reddit     |TBD|TBD|TBD|TBD|
+|quora      |TBD|TBD|TBD|TBD| 
+
+# Publications about Multimedia, Multimedia IR systems and Multimedia Organizers - Part 2
+|Name       |[Analyze of Multimedia Organizers](./MultimediaOrganizersAnalyze.md)|[Search Requests for Multimedia](./MultimediaSearchRequests.md)|[Enriching the Multimedia](./MultimediaEnriching.md)|[Tagging Your Multimedia](./MultimediaTagging.md)|
+|-----------|---------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------|:----------------------------------------------------------------:|
 |hashnode   |TBD|TBD|TBD|TBD|
 |hackernoon |TBD|TBD|TBD|TBD|
 |linkedin   |TBD|TBD|TBD|TBD|
