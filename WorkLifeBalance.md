@@ -12,7 +12,7 @@ Work-life Balance
 - [References](https://github.com/dimanikulin/dimanikulin/blob/main/WorkLifeBalance.md#references)
 
 # Tags
-worklifebalance workload relax Chess MedicalInsurance
+worklifebalance workload relaxation Chess MedicalInsurance
 
 # Overview
 TBD 
