@@ -12,7 +12,7 @@ Work-life Balance
 - [References](https://github.com/dimanikulin/dimanikulin/blob/main/WorkLifeBalance.md#references)
 
 # Tags
-worklifebalance workload relaxation Chess MedicalInsurance
+wellbeing worklifebalance workload relaxation Chess MedicalInsurance
 
 # Overview
 TBD 
@@ -87,9 +87,20 @@ In the options, 'W&P' equals to 'Work And Personal'
 ## Tags
 wellbeing insurance medicalcare
 
+# Playing chess 2
+
+How do you know when to stop fighting in a game or sport with an opponent to avoid wasting time if you keep losing?
+
+If I start winning, I keep going until I lose. If I lose once, I propose a rematch just to check if the loss was not just random.
+And yes, when I start competing, I am prepared beforehand to lose, just in case.
+
+<img src="./Images/chess.jpg" alt="chess" />
+
+
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 | 1 | Playing chess        |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_worklifebalance-workload-relax-activity-7084787080802836480-jGcU?utm_source=share&utm_medium=member_desktop) | 12/07/2023 | Dmytro Nikulin | |
 | 2 | Insurance case       |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_wellbeing-insurance-medicalcare-activity-7106889450810449920-rtpf?utm_source=share&utm_medium=member_desktop) | 11/09/2023 | Dmytro Nikulin |
 | 3 | What does work-life balance mean for you? | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_activity-7117415823085907968-RXT3?utm_source=share&utm_medium=member_desktop) | 10/10/2023 | Dmytro Nikulin |
+| 4 | Playing chess 2      |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_wellbeing-chess-relaxation-activity-7163062724321558528-w9IV?utm_source=share&utm_medium=member_desktop)  | 13/02/2024 | Dmytro Nikulin |
