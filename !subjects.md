@@ -1,6 +1,3 @@
-выиргрывать то выигрывать макс, если проиграть то только одну, две что понять что не случайно была первая
-
-When you start fighting, please be prepared before how to loose just in case.
 People are created to make mistakes but great people can learn from mistakes. 
 And usual people 
 есть тольео один в мире который верит в тебя по настоящему это ты
