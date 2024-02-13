@@ -43,7 +43,7 @@
 # Detecting Architectural Gaps with Automation
 |Name       |[Business Context](./DAGBusinessContext.md)|[Existing Solutions](./DAGExistingSolutions.md)|[Proposed Solution](./DAGProposedSolution.md)|
 |-----------|---------------------------------------------------------------|----------------------------------------------------------------------|:---------------------------------------------------------------------------------:|
-|hashnode   |TBD|TBD|TBD|TBD|
+|hashnode   |[13/02/2024](https://dimanikulin.hashnode.dev/detecting-architectural-gaps-with-automation-business-context)|TBD|TBD|TBD|
 |hackernoon |TBD|TBD|TBD|TBD|
 |linkedin   |TBD|TBD|TBD|TBD|
 |dev.to     |TBD|TBD|TBD|TBD|
