@@ -44,12 +44,12 @@
 |Name       |[Business Context](./DAGBusinessContext.md)|[Existing Solutions](./DAGExistingSolutions.md)|[Proposed Solution](./DAGProposedSolution.md)|
 |-----------|---------------------------------------------------------------|----------------------------------------------------------------------|:---------------------------------------------------------------------------------:|
 |hashnode   |[13/02/2024](https://dimanikulin.hashnode.dev/detecting-architectural-gaps-with-automation-business-context)|TBD|TBD|TBD|
-|hackernoon |TBD|TBD|TBD|TBD|
-|linkedin   |TBD|TBD|TBD|TBD|
-|dev.to     |TBD|TBD|TBD|TBD|
-|medium     |TBD|TBD|TBD|TBD|
-|reddit     |TBD|TBD|TBD|TBD|
-|quora      |TBD|TBD|TBD|TBD| 
+|hackernoon |TBD|TBD|TBD|
+|linkedin   |TBD|TBD|TBD|
+|dev.to     |TBD|TBD|TBD|
+|medium     |TBD|TBD|TBD|
+|reddit     |TBD|TBD|TBD|
+|quora      |TBD|TBD|TBD| 
 
 # How, What and Where to publish
 |Name       |[What To Publish, 1](./PublishWhat1.md)|[What To Publish, 2](./PublishWhat2.md)|[Where To Publish 1](./PublishWhere1.md)|[Where To Publish 2](./PublishWhere2.md)|
