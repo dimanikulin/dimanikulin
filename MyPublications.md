@@ -62,8 +62,6 @@
 |reddit     |TBD|TBD|TBD|TBD|
 |quora      |TBD|TBD|TBD|TBD| 
 
-[Profile and CV as a code](./ProfileAsCode.md)
-
 # Other publications
 - [ChatGPT](./ChatGPT.md)
 - [Communication](./Communication.md)
@@ -80,3 +78,6 @@
 - [War in Ukraine](./WarInUkraine.md)
 - [Work in GlobalLogic](./WorkInGL.md)
 - [Work Life Balance](WorkLifeBalance.md)
+
+# Not ready yet
+[Profile and CV as a code](./ProfileAsCode.md)
