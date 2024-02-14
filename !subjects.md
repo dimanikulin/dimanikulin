@@ -1,4 +1,3 @@
-
 !гы.png
 
 People are created to make mistakes but great people can learn from mistakes. 
@@ -25,18 +24,6 @@ clearn up current app and environment
 3. В дитинстві мене вкусив собака. За голову. З тих пір я боюсь усіх собак, що більші за кота.
 Розкажеш щось про себе?
 меня звали пухом
-
-CV as a code
-how to create your profile be independed on any pltform
-single source of truth for linked in profile, all prof networks anf glo, keep the code apart from profile info
-https://dou.ua/forums/topic/47115/?from=tg&utm_source=telegram&utm_medium=social
-https://hendrasob.github.io/badges/
-https://shields.io/badges
-https://dev.to/envoy_/150-badges-for-github-pnk
-https://github.com/devicons/devicon
-https://simpleicons.org/uk/
-2. There is a site that tracks layoffs https://lnkd.in/eUX7Mvpu. So you can see that In Jan there were a lot of tech layoffs, so the market is competitive.
-3. Your linked in Profile & Resume need to updated to have all the correct keywords in it because most companies use Applicant Tracking Systems (ATS) and they specifically look for keywords and rate your resume against the job description. There is a site called https://www.jobscan.co/ that will help evaluate your resume against a job description. (Not suggesting you pay for it, they give you 5 for free).
 
 healthcare мониторинг
 
