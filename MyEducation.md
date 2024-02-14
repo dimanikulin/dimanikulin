@@ -56,5 +56,3 @@ I took part in the following conferences (not as a speaker):
 - [Root Linux Conference 2018](https://www.globallogic.com/about/news/root-linux-conference-2018-recap/)
 - [Software Engineering 2017](https://startup.ua/events/software-engineering-2017.html)
 - [Microsoft SWIT 2010](https://andriybuday.com/2010/12/microsoft-swit-2010.html)
-
-<img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"/>
