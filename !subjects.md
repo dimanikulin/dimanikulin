@@ -1,3 +1,6 @@
+
+!гы.png
+
 People are created to make mistakes but great people can learn from mistakes. 
 And usual people 
 есть тольео один в мире который верит в тебя по настоящему это ты
