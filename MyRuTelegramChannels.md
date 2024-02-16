@@ -34,6 +34,10 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 
 **Message for reporting:**
 The bot was created and works to promote and publish fake news about the Russian invasion of Ukraine!
+
+Closed comments
+
+Not working
  
 | Link                                               | Status                | Description            |
 | ---------------------------------------------------|---------------------- |:----------------------:|
