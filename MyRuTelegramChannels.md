@@ -50,6 +50,11 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Чёрные гусары](https://t.me/blackhussars)         | closed for DN1 | 
 | [Сердитая Чувашия](https://t.me/ChuvashiaDream)    | closed for DN2, AntiPutin content | 
 | [КРИСТАЛЛ РОСТА](https://t.me/crystal_book)        | closed for DN2 |
+| [Депутат Елена Шишкина (ДНР)](https://t.me/dep_shishkina)| closed for DN2 |
+| [Дневник Десантника🇷🇺](https://t.me/DnevnikDesantnika)| closed for DN2 |
+| [УКРОПСКИЙ ФРЕШ](https://t.me/dillfrash)           | closed for DN2 |
+| [ДОЛГАРЕVА 🇷🇺](https://t.me/dolgarevaanna)       | closed for DN2 |
+| [donezkiy](https://t.me/donezkiy)                  | closed for DN1,2 | |
 
 # Wip 
 | Link                                               | Status                 |
@@ -67,6 +72,8 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Брекотин](https://t.me/brekotins)                 | WIP1 |
 | [Опознай хохла по чубу](https://t.me/chub_detection)| WIP1 |
 | [Черноморский экспресс](https://t.me/chernmorskiiexpres) | WIP1 |
+| [Донецк ⚒  ЧП Макеевка](https://t.me/dark_donetskz)| |
+| [ZOV22rus](https://t.me/difmox_w)                  |
 
 # AntiWar
 | Link                                               | Status                 |
@@ -83,6 +90,8 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Работайте, братья!](https://t.me/btr80)           | | 
 | [Dambiev](https://t.me/ChDambiev)                  | | 
 | [Крымская Z прачка 🧺🧼](https://t.me/Crimeanprachka)||
+| [Война на Украине. Ежедневны](https://t.me/DayNewsWar)||
+| [Донбасс решает](https://t.me/donbassr)            | |
 
 # Not working
 | Link                                               | Status                 |
@@ -95,21 +104,12 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Российский Рубеж " Za нашу](https://t.me/compass83)||
 | [Синяя Z Борода](https://t.me/cmiye)               | too few subsribers |
 | [Сумасшедшая власть](https://t.me/crazypower1)     | AntiWar |
-| [СВО 2023](https://t.me/cvo2022_5)                 |  |
-
+| [СВО 2023](https://t.me/cvo2022_5)                 | |
+| [Donbass Insider](https://t.me/donbassinsider)     | |
+ 
  
 | Link                                               | Status                | Description            |
 | ---------------------------------------------------|---------------------- |:----------------------:|
-| [Донецк ⚒  ЧП Макеевка](https://t.me/dark_donetskz)|Closed comments | |
-| [Война на Украине. Ежедневны](https://t.me/DayNewsWar)|Closed comments | |
-| [Депутат Елена Шишкина (ДНР)](https://t.me/dep_shishkina)| closed for DN2 | | 
-| [Дневник Десантника🇷🇺](https://t.me/DnevnikDesantnika)| closed for DN2 | |
-| [УКРОПСКИЙ ФРЕШ](https://t.me/dillfrash)           | closed for DN2 | |
-| [ZOV22rus](https://t.me/difmox_w)                  |
-| [ДОЛГАРЕVА 🇷🇺](https://t.me/dolgarevaanna)       | closed for DN2 | |
-| [donezkiy](https://t.me/donezkiy)                  | closed for DN1,2 | |
-| [Donbass Insider](https://t.me/donbassinsider)     | closed for DN2 | |
-| [Донбасс решает](https://t.me/donbassr)            | Closed comments | |
 | [Donrf](https://t.me/donrf22)                      | closed for DN2 | |
 | [DOZOR](https://t.me/dozorwar)                     | closed for DN2 | |
 | [dva_majors](https://t.me/dva_majors)              | closed for DN2 | |
