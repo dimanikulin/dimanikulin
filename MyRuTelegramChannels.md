@@ -44,8 +44,9 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Краля Даля](https://t.me/alyonamakk)              | closed for DN1 |
 | [ANONYMOUS RUSSIA](https://t.me/anon_russ)         | closed for DN1 |
 | [Astory](https://t.me/Astory_Z)                    | closed for DN2 |
-| [АРТподдержка](https://t.me/ARTpodderjka)          | closed for DN1 | |
-| [A.V.C. Group](https://t.me/avcgroup)              | closed for DN1 | |
+| [АРТподдержка](https://t.me/ARTpodderjka)          | closed for DN1 | 
+| [A.V.C. Group](https://t.me/avcgroup)              | closed for DN1 | 
+| [Чёрные гусары](https://t.me/blackhussars)         | closed for DN1 | 
 
 | Link                                               | Status                 |
 | ---------------------------------------------------|:----------------------:|
@@ -55,6 +56,11 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Арбалет Z Говорит](https://t.me/arbaletgovorit)   | WIP1 |
 | [Battle_🅉 _Sailor](https://t.me/BattleSailor13)   |  |
 | [БелВПО](https://t.me/Belarus_VPO)                 | WIP1 |
+| [🇷🇺БОБР🇷🇺](https://t.me/BOBRMORF)              | WIP1 | 
+| [Brееgе Timе ZÖZZ🇷🇺](https://t.me/breege_time_20zz)| WIP1 |
+| [Бердянск ZaVtra](https://t.me/brd_zavtra)         |
+| [Colonelcassad](https://t.me/boris_rozhin)         | 
+| [Брекотин](https://t.me/brekotins)                 | WIP1 |
 
 # AntiWar
 | Link                                               | Status                 |
@@ -64,30 +70,24 @@ The bot was created and works to promote and publish fake news about the Russian
 # Closed comments
 | Link                                               | Status                 |
 | ---------------------------------------------------|:----------------------:|
-| [Абзац медиа](https://t.me/absatzmedia)            |  |
-| [Тицкий_на_Юге 🇷🇺](https://t.me/AntonTitski)     |  |
-| [Азарёнок. СТВ. Беларусь](https://t.me/AzarenokCTV)|  |
-| [Батальон Восток](https://t.me/batalyon_vostok)    |  | 
+| [Абзац медиа](https://t.me/absatzmedia)            | |
+| [Тицкий_на_Юге 🇷🇺](https://t.me/AntonTitski)     | |
+| [Азарёнок. СТВ. Беларусь](https://t.me/AzarenokCTV)| |
+| [Батальон Восток](https://t.me/batalyon_vostok)    | | 
+| [Работайте, братья!](https://t.me/btr80)           | | 
 
 # Not working
 | Link                                               | Status                 |
 | ---------------------------------------------------|:----------------------:|
 | [ANSHLAK](https://t.me/ANSNLAK)                    | | 
 | [Battle_🅉 _Sailor](https://t.me/BattleSailor_13)  | |
+| [Болталка](https://t.me/boltalkarussi)             | |
+| [BISMARCK резерв](https://t.me/bismarckedit)       | |
+| [Берлога (Z) 70 Гв. МСП](https://t.me/berloga_life)| |
 
  
 | Link                                               | Status                | Description            |
 | ---------------------------------------------------|---------------------- |:----------------------:|
-| [Чёрные гусары](https://t.me/blackhussars)         | closed for DN1 | |
-| [🇷🇺БОБР🇷🇺](https://t.me/BOBRMORF)              | WIP1 | |
-| [Болталка](https://t.me/boltalkarussi)             | | |
-| [Brееgе Timе ZÖZZ🇷🇺](https://t.me/breege_time_20zz)| WIP1 | |
-| [Бердянск ZaVtra](https://t.me/brd_zavtra)         |
-| [BISMARCK резерв](https://t.me/bismarckedit)       | | too few subsribers |
-| [Берлога (Z) 70 Гв. МСП](https://t.me/berloga_life)|
-| [Colonelcassad](https://t.me/boris_rozhin)         | 
-| [Брекотин](https://t.me/brekotins)                 | WIP1 | |
-| [Работайте, братья!](https://t.me/btr80)           | Closed comments | | 
 | [Опознай хохла по чубу](https://t.me/chub_detection)| WIP1 | |
 | [Dambiev](https://t.me/ChDambiev)                  | Closed comments | | 
 | [Черноморский экспресс](https://t.me/chernmorskiiexpres) | WIP1 | |
