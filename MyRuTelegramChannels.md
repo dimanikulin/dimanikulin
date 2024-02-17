@@ -40,6 +40,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | Link                                               | Status                 |
 | ---------------------------------------------------|:----------------------:|
 | [Бладсикер 2.0](https://t.me/+TjGTywz1xPRjNzg6)    | closed for DN1 and DN2 | 
+| [Алексей Поддубный Джанго Z](https://t.me/alexeypoddubny_jango)| closed for DN1 |
 | [Кузичев](https://t.me/a_kuzichev)                 | closed for DN1 | 
 | [АГС_Z_Донбасса](https://t.me/Ags_Donbass)         | closed for DN1 | 
 | [Андрей Гурулев депутат Госу](https://t.me/agurulev)| closed for DN1 | 
@@ -55,12 +56,18 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Дневник Десантника🇷🇺](https://t.me/DnevnikDesantnika)| closed for DN2 |
 | [УКРОПСКИЙ ФРЕШ](https://t.me/dillfrash)           | closed for DN2 |
 | [ДОЛГАРЕVА 🇷🇺](https://t.me/dolgarevaanna)       | closed for DN2 |
-| [donezkiy](https://t.me/donezkiy)                  | closed for DN1,2 | |
+| [donezkiy](https://t.me/donezkiy)                  | closed for DN1,2 |
+| [Donrf](https://t.me/donrf22)                      | closed for DN2 |
+| [DOZOR](https://t.me/dozorwar)                     | closed for DN2 | |
+| [dva_majors](https://t.me/dva_majors)              | closed for DN2 | |
+| [Лик Войны](https://t.me/faceofwar)                | closed for DN2 | |
+| [Fighterbomber](https://t.me/fighter_bomber)       | closed for DN2 | |
+| [Скотомогильник](https://t.me/fiftnmls)            | closed for DN2 | |
+| [FridrihShow](https://t.me/FridrihShow)            | closed for DN2 | |
 
 # Wip 
 | Link                                               | Status                 |
 | ---------------------------------------------------|:----------------------:|
-| [Алексей Поддубный Джанго Z](https://t.me/alexeypoddubny_jango)|  |
 | [Анна Ревякина Донбасс](https://t.me/annarevyakina)| WIP1  |
 | [Alex Parker Returns](https://t.me/apwagner)       | WIP1 |
 | [Арбалет Z Говорит](https://t.me/arbaletgovorit)   | WIP1 |
@@ -75,6 +82,8 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Черноморский экспресс](https://t.me/chernmorskiiexpres) | WIP1 |
 | [Донецк ⚒  ЧП Макеевка](https://t.me/dark_donetskz)| |
 | [ZOV22rus](https://t.me/difmox_w)                  |
+| [eternoff](https://t.me/eternoff)                  | WIP2 | |
+| [FPV-выZOV](https://t.me/FPV_vyZOV)                |
 
 # AntiWar
 | Link                                               | Status                 |
@@ -93,6 +102,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Крымская Z прачка 🧺🧼](https://t.me/Crimeanprachka)||
 | [Война на Украине. Ежедневны](https://t.me/DayNewsWar)||
 | [Донбасс решает](https://t.me/donbassr)            | |
+| [Поддубный ZОV](https://t.me/epoddubny)            | |
 
 # Not working
 | Link                                               | Status                 |
@@ -111,16 +121,6 @@ The bot was created and works to promote and publish fake news about the Russian
  
 | Link                                               | Status                | Description            |
 | ---------------------------------------------------|---------------------- |:----------------------:|
-| [Donrf](https://t.me/donrf22)                      | closed for DN2 | |
-| [DOZOR](https://t.me/dozorwar)                     | closed for DN2 | |
-| [dva_majors](https://t.me/dva_majors)              | closed for DN2 | |
-| [eternoff](https://t.me/eternoff)                  | WIP2 | |
-| [Поддубный ZОV](https://t.me/epoddubny)            | Closed comments | |
-| [Лик Войны](https://t.me/faceofwar)                | closed for DN2 | |
-| [Fighterbomber](https://t.me/fighter_bomber)       | closed for DN2 | |
-| [Скотомогильник](https://t.me/fiftnmls)            | closed for DN2 | |
-| [FridrihShow](https://t.me/FridrihShow)            | closed for DN2 | |
-| [FPV-выZOV](https://t.me/FPV_vyZOV)                |
 | [Рядовой на передовой](https://t.me/frontline_pvt) |
 | [G.A.M.A.](https://t.me/gama_war)                  | closed comments | |
 | [Моисей](https://t.me/gefestwar)                   |	
