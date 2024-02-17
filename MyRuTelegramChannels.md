@@ -35,6 +35,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 **Message for reporting:**
 The bot was created and works to promote and publish fake news about the Russian invasion of Ukraine!
 
+# Closed
 | Link                                               | Status                 |
 | ---------------------------------------------------|:----------------------:|
 | [Бладсикер 2.0](https://t.me/+TjGTywz1xPRjNzg6)    | closed for DN1 and DN2 | 
@@ -47,7 +48,10 @@ The bot was created and works to promote and publish fake news about the Russian
 | [АРТподдержка](https://t.me/ARTpodderjka)          | closed for DN1 | 
 | [A.V.C. Group](https://t.me/avcgroup)              | closed for DN1 | 
 | [Чёрные гусары](https://t.me/blackhussars)         | closed for DN1 | 
+| [Сердитая Чувашия](https://t.me/ChuvashiaDream)    | closed for DN2, AntiPutin content | 
+| [КРИСТАЛЛ РОСТА](https://t.me/crystal_book)        | closed for DN2 |
 
+# Wip 
 | Link                                               | Status                 |
 | ---------------------------------------------------|:----------------------:|
 | [Алексей Поддубный Джанго Z](https://t.me/alexeypoddubny_jango)|  |
@@ -61,6 +65,8 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Бердянск ZaVtra](https://t.me/brd_zavtra)         |
 | [Colonelcassad](https://t.me/boris_rozhin)         | 
 | [Брекотин](https://t.me/brekotins)                 | WIP1 |
+| [Опознай хохла по чубу](https://t.me/chub_detection)| WIP1 |
+| [Черноморский экспресс](https://t.me/chernmorskiiexpres) | WIP1 |
 
 # AntiWar
 | Link                                               | Status                 |
@@ -75,6 +81,8 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Азарёнок. СТВ. Беларусь](https://t.me/AzarenokCTV)| |
 | [Батальон Восток](https://t.me/batalyon_vostok)    | | 
 | [Работайте, братья!](https://t.me/btr80)           | | 
+| [Dambiev](https://t.me/ChDambiev)                  | | 
+| [Крымская Z прачка 🧺🧼](https://t.me/Crimeanprachka)||
 
 # Not working
 | Link                                               | Status                 |
@@ -84,20 +92,14 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Болталка](https://t.me/boltalkarussi)             | |
 | [BISMARCK резерв](https://t.me/bismarckedit)       | |
 | [Берлога (Z) 70 Гв. МСП](https://t.me/berloga_life)| |
+| [Российский Рубеж " Za нашу](https://t.me/compass83)||
+| [Синяя Z Борода](https://t.me/cmiye)               | too few subsribers |
+| [Сумасшедшая власть](https://t.me/crazypower1)     | AntiWar |
+| [СВО 2023](https://t.me/cvo2022_5)                 |  |
 
  
 | Link                                               | Status                | Description            |
 | ---------------------------------------------------|---------------------- |:----------------------:|
-| [Опознай хохла по чубу](https://t.me/chub_detection)| WIP1 | |
-| [Dambiev](https://t.me/ChDambiev)                  | Closed comments | | 
-| [Черноморский экспресс](https://t.me/chernmorskiiexpres) | WIP1 | |
-| [Российский Рубеж " Za нашу](https://t.me/compass83) | not working | |
-| [Синяя Z Борода](https://t.me/cmiye)               | | too few subsribers |
-| [Сумасшедшая власть](https://t.me/crazypower1)     | not working | AntiPutin content |
-| [Крымская Z прачка 🧺🧼](https://t.me/Crimeanprachka)| Closed comments | |
-| [Сердитая Чувашия](https://t.me/ChuvashiaDream) | closed for DN2 | AntiPutin content | 
-| [КРИСТАЛЛ РОСТА](https://t.me/crystal_book)        | closed for DN2 | |
-| [СВО 2023](https://t.me/cvo2022_5)                 | closed for DN2 | |
 | [Донецк ⚒  ЧП Макеевка](https://t.me/dark_donetskz)|Closed comments | |
 | [Война на Украине. Ежедневны](https://t.me/DayNewsWar)|Closed comments | |
 | [Депутат Елена Шишкина (ДНР)](https://t.me/dep_shishkina)| closed for DN2 | | 
