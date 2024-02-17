@@ -39,28 +39,35 @@ The bot was created and works to promote and publish fake news about the Russian
 | ---------------------------------------------------|:----------------------:|
 | [Бладсикер 2.0](https://t.me/+TjGTywz1xPRjNzg6)    | closed for DN1 and DN2 | 
 | [Кузичев](https://t.me/a_kuzichev)                 | closed for DN1 | 
+| [АГС_Z_Донбасса](https://t.me/Ags_Donbass)         | closed for DN1 | 
+| [Андрей Гурулев депутат Госу](https://t.me/agurulev)| closed for DN1 | 
+| [Краля Даля](https://t.me/alyonamakk)              | closed for DN1 |
+| [ANONYMOUS RUSSIA](https://t.me/anon_russ)         | closed for DN1 |
 
-
-AntiWar
 | Link                                               | Status                 |
 | ---------------------------------------------------|:----------------------:|
+| [Алексей Поддубный Джанго Z](https://t.me/alexeypoddubny_jango)|  |
+| [Анна Ревякина Донбасс](https://t.me/annarevyakina)| WIP1  |
 
-Closed comments
+# AntiWar
+| Link                                               | Status                 |
+| ---------------------------------------------------|:----------------------:|
+| [Лонгрид (Несмиян)](https://t.me/a_nesmijan_longread)|   | 
 
-Not working
+# Closed comments
+| Link                                               | Status                 |
+| ---------------------------------------------------|:----------------------:|
+| [Абзац медиа](https://t.me/absatzmedia)            |  |
+| [Тицкий_на_Юге 🇷🇺](https://t.me/AntonTitski)     |  |
+
+# Not working
+| Link                                               | Status                 |
+| ---------------------------------------------------|:----------------------:|
+| [ANSHLAK](https://t.me/ANSNLAK)                    |  | 
+
  
 | Link                                               | Status                | Description            |
 | ---------------------------------------------------|---------------------- |:----------------------:|
-| [Лонгрид (Несмиян)](https://t.me/a_nesmijan_longread)|  | AntiPutin content | 
-| [Абзац медиа](https://t.me/absatzmedia)            | Closed comments | |
-| [АГС_Z_Донбасса](https://t.me/Ags_Donbass)         | closed for DN1 | |
-| [Андрей Гурулев депутат Госу](https://t.me/agurulev) | closed for DN1 | | 
-| [Алексей Поддубный Джанго Z](https://t.me/alexeypoddubny_jango)| Closed comments | |
-| [Краля Даля](https://t.me/alyonamakk)              | closed for DN1 | |
-| [Тицкий_на_Юге 🇷🇺](https://t.me/AntonTitski)     | Closed comments | |
-| [Анна Ревякина Донбасс](https://t.me/annarevyakina)| WIP1 | |
-| [ANSHLAK](https://t.me/ANSNLAK)                    | not working channel | | 
-| [ANONYMOUS RUSSIA](https://t.me/anon_russ)         | closed for DN1 |
 | [Alex Parker Returns](https://t.me/apwagner)       | WIP1 |
 | [Арбалет Z Говорит](https://t.me/arbaletgovorit)   | WIP1 |
 | [Astory](https://t.me/Astory_Z)                    | closed for DN2 |
