@@ -43,11 +43,18 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Андрей Гурулев депутат Госу](https://t.me/agurulev)| closed for DN1 | 
 | [Краля Даля](https://t.me/alyonamakk)              | closed for DN1 |
 | [ANONYMOUS RUSSIA](https://t.me/anon_russ)         | closed for DN1 |
+| [Astory](https://t.me/Astory_Z)                    | closed for DN2 |
+| [АРТподдержка](https://t.me/ARTpodderjka)          | closed for DN1 | |
+| [A.V.C. Group](https://t.me/avcgroup)              | closed for DN1 | |
 
 | Link                                               | Status                 |
 | ---------------------------------------------------|:----------------------:|
 | [Алексей Поддубный Джанго Z](https://t.me/alexeypoddubny_jango)|  |
 | [Анна Ревякина Донбасс](https://t.me/annarevyakina)| WIP1  |
+| [Alex Parker Returns](https://t.me/apwagner)       | WIP1 |
+| [Арбалет Z Говорит](https://t.me/arbaletgovorit)   | WIP1 |
+| [Battle_🅉 _Sailor](https://t.me/BattleSailor13)   |  |
+| [БелВПО](https://t.me/Belarus_VPO)                 | WIP1 |
 
 # AntiWar
 | Link                                               | Status                 |
@@ -59,25 +66,18 @@ The bot was created and works to promote and publish fake news about the Russian
 | ---------------------------------------------------|:----------------------:|
 | [Абзац медиа](https://t.me/absatzmedia)            |  |
 | [Тицкий_на_Юге 🇷🇺](https://t.me/AntonTitski)     |  |
+| [Азарёнок. СТВ. Беларусь](https://t.me/AzarenokCTV)|  |
+| [Батальон Восток](https://t.me/batalyon_vostok)    |  | 
 
 # Not working
 | Link                                               | Status                 |
 | ---------------------------------------------------|:----------------------:|
-| [ANSHLAK](https://t.me/ANSNLAK)                    |  | 
+| [ANSHLAK](https://t.me/ANSNLAK)                    | | 
+| [Battle_🅉 _Sailor](https://t.me/BattleSailor_13)  | |
 
  
 | Link                                               | Status                | Description            |
 | ---------------------------------------------------|---------------------- |:----------------------:|
-| [Alex Parker Returns](https://t.me/apwagner)       | WIP1 |
-| [Арбалет Z Говорит](https://t.me/arbaletgovorit)   | WIP1 |
-| [Astory](https://t.me/Astory_Z)                    | closed for DN2 |
-| [АРТподдержка](https://t.me/ARTpodderjka)          | closed for DN1 | |
-| [A.V.C. Group](https://t.me/avcgroup)              | closed for DN1 | |
-| [Азарёнок. СТВ. Беларусь](https://t.me/AzarenokCTV)| Closed comments | |
-| [Батальон Восток](https://t.me/batalyon_vostok)    | Closed comments | | 
-| [Battle_🅉 _Sailor](https://t.me/BattleSailor_13)  | | too few subsribers |
-| [Battle_🅉 _Sailor](https://t.me/BattleSailor13)   | Closed comments | |
-| [БелВПО](https://t.me/Belarus_VPO)                 | WIP1 | |
 | [Чёрные гусары](https://t.me/blackhussars)         | closed for DN1 | |
 | [🇷🇺БОБР🇷🇺](https://t.me/BOBRMORF)              | WIP1 | |
 | [Болталка](https://t.me/boltalkarussi)             | | |
