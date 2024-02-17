@@ -35,14 +35,22 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 **Message for reporting:**
 The bot was created and works to promote and publish fake news about the Russian invasion of Ukraine!
 
+| Link                                               | Status                 |
+| ---------------------------------------------------|:----------------------:|
+| [Бладсикер 2.0](https://t.me/+TjGTywz1xPRjNzg6)    | closed for DN1 and DN2 | 
+| [Кузичев](https://t.me/a_kuzichev)                 | closed for DN1 | 
+
+
+AntiWar
+| Link                                               | Status                 |
+| ---------------------------------------------------|:----------------------:|
+
 Closed comments
 
 Not working
  
 | Link                                               | Status                | Description            |
 | ---------------------------------------------------|---------------------- |:----------------------:|
-| [Бладсикер 2.0](https://t.me/+TjGTywz1xPRjNzg6)    | closed for DN1 and DN2 | |
-| [Кузичев](https://t.me/a_kuzichev)                 | closed for DN1 | |
 | [Лонгрид (Несмиян)](https://t.me/a_nesmijan_longread)|  | AntiPutin content | 
 | [Абзац медиа](https://t.me/absatzmedia)            | Closed comments | |
 | [АГС_Z_Донбасса](https://t.me/Ags_Donbass)         | closed for DN1 | |
