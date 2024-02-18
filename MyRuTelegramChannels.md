@@ -58,20 +58,24 @@ The bot was created and works to promote and publish fake news about the Russian
 | [ДОЛГАРЕVА 🇷🇺](https://t.me/dolgarevaanna)       | closed for DN2 |
 | [donezkiy](https://t.me/donezkiy)                  | closed for DN1,2 |
 | [Donrf](https://t.me/donrf22)                      | closed for DN2 |
-| [DOZOR](https://t.me/dozorwar)                     | closed for DN2 | |
-| [dva_majors](https://t.me/dva_majors)              | closed for DN2 | |
-| [Лик Войны](https://t.me/faceofwar)                | closed for DN2 | |
-| [Fighterbomber](https://t.me/fighter_bomber)       | closed for DN2 | |
-| [Скотомогильник](https://t.me/fiftnmls)            | closed for DN2 | |
-| [FridrihShow](https://t.me/FridrihShow)            | closed for DN2 | |
+| [DOZOR](https://t.me/dozorwar)                     | closed for DN2 | 
+| [dva_majors](https://t.me/dva_majors)              | closed for DN2 | 
+| [Лик Войны](https://t.me/faceofwar)                | closed for DN2 | 
+| [Fighterbomber](https://t.me/fighter_bomber)       | closed for DN2 | 
+| [Скотомогильник](https://t.me/fiftnmls)            | closed for DN2 | 
+| [FridrihShow](https://t.me/FridrihShow)            | closed for DN2 | 
+| [GREY ZONE](https://t.me/grey_zone)                | closed for DN2 | 
+| [ПриZрак Новороссии](https://t.me/ghost_of_novorossia) | closed for DN2 |
+| [harry_homolsky](https://t.me/harry_homolsky)      | closed for DN2 |
+| [iikhu](https://t.me/iikhu)                        | closed for DN2 |
 
 # Wip 
 | Link                                               | Status                 |
 | ---------------------------------------------------|:----------------------:|
-| [Анна Ревякина Донбасс](https://t.me/annarevyakina)| WIP1  |
+| [Анна Ревякина Донбасс](https://t.me/annarevyakina)| WIP1 |
 | [Alex Parker Returns](https://t.me/apwagner)       | WIP1 |
 | [Арбалет Z Говорит](https://t.me/arbaletgovorit)   | WIP1 |
-| [Battle_🅉 _Sailor](https://t.me/BattleSailor13)   |  |
+| [Battle_🅉 _Sailor](https://t.me/BattleSailor13)   |
 | [БелВПО](https://t.me/Belarus_VPO)                 | WIP1 |
 | [🇷🇺БОБР🇷🇺](https://t.me/BOBRMORF)              | WIP1 | 
 | [Brееgе Timе ZÖZZ🇷🇺](https://t.me/breege_time_20zz)| WIP1 |
@@ -80,10 +84,14 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Брекотин](https://t.me/brekotins)                 | WIP1 |
 | [Опознай хохла по чубу](https://t.me/chub_detection)| WIP1 |
 | [Черноморский экспресс](https://t.me/chernmorskiiexpres) | WIP1 |
-| [Донецк ⚒  ЧП Макеевка](https://t.me/dark_donetskz)| |
+| [Донецк ⚒  ЧП Макеевка](https://t.me/dark_donetskz)| 
 | [ZOV22rus](https://t.me/difmox_w)                  |
-| [eternoff](https://t.me/eternoff)                  | WIP2 | |
+| [eternoff](https://t.me/eternoff)                  | WIP2 | 
 | [FPV-выZOV](https://t.me/FPV_vyZOV)                |
+| [Рядовой на передовой](https://t.me/frontline_pvt) |
+| [G.A.M.A.](https://t.me/gama_war)                  |
+| [Моисей](https://t.me/gefestwar)                   | 
+| [Grigorjev](https://t.me/Grigorjev)                | 
 
 # AntiWar
 | Link                                               | Status                 |
@@ -103,6 +111,8 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Война на Украине. Ежедневны](https://t.me/DayNewsWar)||
 | [Донбасс решает](https://t.me/donbassr)            | |
 | [Поддубный ZОV](https://t.me/epoddubny)            | |
+| [HersonVestnik](https://t.me/HersonVestnik)        | |
+| [Художник Z патриот](https://t.me/hudojnikZ)       | |
 
 # Not working
 | Link                                               | Status                 |
@@ -117,20 +127,10 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Сумасшедшая власть](https://t.me/crazypower1)     | AntiWar |
 | [СВО 2023](https://t.me/cvo2022_5)                 | |
 | [Donbass Insider](https://t.me/donbassinsider)     | |
- 
+
  
 | Link                                               | Status                | Description            |
 | ---------------------------------------------------|---------------------- |:----------------------:|
-| [Рядовой на передовой](https://t.me/frontline_pvt) |
-| [G.A.M.A.](https://t.me/gama_war)                  | closed comments | |
-| [Моисей](https://t.me/gefestwar)                   |	
-| [GREY ZONE](https://t.me/grey_zone)                | closed for DN2 | |
-| [Grigorjev](https://t.me/Grigorjev)                | closed comments | |
-| [ПриZрак Новороссии](https://t.me/ghost_of_novorossia) | closed for DN2 | |
-| [harry_homolsky](https://t.me/harry_homolsky)      | closed for DN2 | |
-| [HersonVestnik](https://t.me/HersonVestnik)        | closed comments | |
-| [Художник Z патриот](https://t.me/hudojnikZ)       | closed comments |
-| [iikhu](https://t.me/iikhu)                        | closed for DN2 | |
 | [imnotbozhena](https://t.me/imnotbozhena)          | WIP3 | |
 | [IronHelmets](https://t.me/IronHelmets)            | Closed for DN3 | |
 | [istoricprovincial](https://t.me/istoricprovincial)| WIP2 | |
