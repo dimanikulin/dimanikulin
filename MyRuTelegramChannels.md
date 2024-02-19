@@ -68,6 +68,10 @@ The bot was created and works to promote and publish fake news about the Russian
 | [ПриZрак Новороссии](https://t.me/ghost_of_novorossia) | closed for DN2 |
 | [harry_homolsky](https://t.me/harry_homolsky)      | closed for DN2 |
 | [iikhu](https://t.me/iikhu)                        | closed for DN2 |
+| [IronHelmets](https://t.me/IronHelmets)            | Closed for DN3 | 
+| [izolentalive](https://t.me/izolentalive)          | closed for DN3 | 
+| [karjakinchess](https://t.me/karjakinchess)        | Closed for DN2 | 
+| [Полина Кокс & CandyFlip](https://t.me/koksncandy) | closed for DN2 | 
 
 # Wip 
 | Link                                               | Status                 |
@@ -92,6 +96,9 @@ The bot was created and works to promote and publish fake news about the Russian
 | [G.A.M.A.](https://t.me/gama_war)                  |
 | [Моисей](https://t.me/gefestwar)                   | 
 | [Grigorjev](https://t.me/Grigorjev)                | 
+| [imnotbozhena](https://t.me/imnotbozhena)          | WIP3 | 
+| [istoricprovincial](https://t.me/istoricprovincial)| WIP2 | |
+| [Константиновка ZOV Обстановка](https://t.me/konstantunovka_ZOV) | WIP3 | |
 
 # AntiWar
 | Link                                               | Status                 |
@@ -113,6 +120,8 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Поддубный ZОV](https://t.me/epoddubny)            | |
 | [HersonVestnik](https://t.me/HersonVestnik)        | |
 | [Художник Z патриот](https://t.me/hudojnikZ)       | |
+| [NerV⚡️⚡️⚡️](https://t.me/KaskadNerv)              | | 
+| [kalininrus](https://t.me/kalininrus)              | | 
 
 # Not working
 | Link                                               | Status                 |
@@ -127,20 +136,11 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Сумасшедшая власть](https://t.me/crazypower1)     | AntiWar |
 | [СВО 2023](https://t.me/cvo2022_5)                 | |
 | [Donbass Insider](https://t.me/donbassinsider)     | |
+| [ХОХЛЫ, ШО С ЕБАЛОМ ?](https://t.me/KILL_BCY)      | |
 
  
 | Link                                               | Status                | Description            |
 | ---------------------------------------------------|---------------------- |:----------------------:|
-| [imnotbozhena](https://t.me/imnotbozhena)          | WIP3 | |
-| [IronHelmets](https://t.me/IronHelmets)            | Closed for DN3 | |
-| [istoricprovincial](https://t.me/istoricprovincial)| WIP2 | |
-| [izolentalive](https://t.me/izolentalive)          | closed for DN3 | |
-| [NerV⚡️⚡️⚡️](https://t.me/KaskadNerv)              | closed comments | | 
-| [kalininrus](https://t.me/kalininrus)              | closed comments | | 
-| [karjakinchess](https://t.me/karjakinchess)        | Closed for DN2 | |
-| [ХОХЛЫ, ШО С ЕБАЛОМ ?](https://t.me/KILL_BCY)      | not working channel | |
-| [Полина Кокс & CandyFlip](https://t.me/koksncandy) | closed for DN2 | |
-| [Константиновка ZOV Обстановка](https://t.me/konstantunovka_ZOV) | WIP3 | |
 | [kommunist](https://t.me/kommunist)                | WIP3 | | 
 | [KotNaMirotvorze](https://t.me/KotNaMirotvorze)    | closed for DN3 | |
 | [KovaksClearSky](https://t.me/KovaksClearSky)      | closed for DN2 | |
