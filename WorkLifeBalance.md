@@ -96,6 +96,9 @@ And yes, when I start competing, I am prepared beforehand to lose, just in case.
 
 <img src="./Images/chess.jpg" alt="chess" />
 
+# Cleanup
+
+<img src="./Images/cleanup.jpg" alt="cleanup" />
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
