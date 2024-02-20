@@ -11,9 +11,6 @@ Work-life Balance
 - [Playing chess 2](https://github.com/dimanikulin/dimanikulin/blob/main/WorkLifeBalance.md#playing-chess-2)
 - [Cleanup](https://github.com/dimanikulin/dimanikulin/blob/main/WorkLifeBalance.md#cleanup)
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/WorkLifeBalance.md#tags-2)
-
-Cleanup
-
 - [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/WorkLifeBalance.md#definitions-acronyms-abbreviations)
 - [References](https://github.com/dimanikulin/dimanikulin/blob/main/WorkLifeBalance.md#references)
 
