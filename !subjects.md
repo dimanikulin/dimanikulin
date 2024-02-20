@@ -14,7 +14,6 @@ https://dou.eu/en/community/posts/what-are-multimedia-information-retrieval-syst
 portbable app
 archive
 essentiali epim 
-clearn up current app and environment
 
 видучаывай
 
