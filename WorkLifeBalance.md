@@ -97,8 +97,17 @@ And yes, when I start competing, I am prepared beforehand to lose, just in case.
 <img src="./Images/chess.jpg" alt="chess" />
 
 # Cleanup
+I have a somewhat strange habit that I would describe as 'cleaning the environment.'
+From time to time, I perform clean-ups of my working and personal environments. 
+
+Why? It makes my environments more searchable and structured. What do I mean by 'environments'? It could be anything - data on hard drives, items on the table, clothes, etc.
+
+Do you have the same habit?
 
 <img src="./Images/cleanup.jpg" alt="cleanup" />
+
+## Tags
+habits cleaningmotivation cleanbeauty 
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
@@ -107,3 +116,4 @@ And yes, when I start competing, I am prepared beforehand to lose, just in case.
 | 2 | Insurance case       |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_wellbeing-insurance-medicalcare-activity-7106889450810449920-rtpf?utm_source=share&utm_medium=member_desktop) | 11/09/2023 | Dmytro Nikulin |
 | 3 | What does work-life balance mean for you? | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_activity-7117415823085907968-RXT3?utm_source=share&utm_medium=member_desktop) | 10/10/2023 | Dmytro Nikulin |
 | 4 | Playing chess 2      |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_wellbeing-chess-relaxation-activity-7163062724321558528-w9IV?utm_source=share&utm_medium=member_desktop)  | 13/02/2024 | Dmytro Nikulin |
+| 5 | Cleanup              |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_habits-cleaningmotivation-cleanbeauty-activity-7165619939620458496-idtD?utm_source=share&utm_medium=member_desktop) | 20/02/2024 | Dmytro Nikulin |
