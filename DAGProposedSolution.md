@@ -1,5 +1,7 @@
 # Headline
 **Detecting Architectural Gaps** with Automation: Comprehensive Overview of Proposed Software Solution's Architecture and Integration
+or 
+**Detecting Architectural Gaps** with Automation - Proposed Solution
 
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/DAGProposedSolution.md#tags)
