@@ -1,5 +1,7 @@
 # Headline
 **Detecting Architectural Gaps** with Automation: Powerful Tools for Real-Time Architecture Analysis: Bionic.ai, Castsoftware, Axivion, and NDepend Offer Comprehensive Solutions
+or 
+**Detecting Architectural Gaps** with Automation - Existing Solutions
 
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#tags)
