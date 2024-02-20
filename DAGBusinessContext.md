@@ -1,5 +1,7 @@
 # Headline
 **Detecting Architectural Gaps** with Automation: Enhancing Software Architecture Maintenance and Efficiency
+or 
+**Detecting Architectural Gaps** with Automation - Business Context
 
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/DAGBusinessContext.md#tags)
