@@ -114,6 +114,15 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Лыня🇷🇺](https://t.me/Lunay14)                   |  |
 | [Призрак Мариуполя 🔥😈](https://t.me/mariupol_ghost)|
 | [Мисливец LITE](https://t.me/mislivetslite)        | WIP2 | 
+| [mariabutina](https://t.me/mariabutina)            |
+| [Мария Захарова](https://t.me/MariaVladimirovnaZakharova) | WIP3 |
+| [Marinaslovo](https://t.me/Marinaslovo)            | 
+| [matanaliz_kofman](https://t.me/matanaliz_kofman)  | 
+| [maximgrigoryev](https://t.me/maximgrigoryev)      | 
+| [MAYDNR](https://t.me/MAYDNR)                      | 
+| [MediaOfficers](https://t.me/MediaOfficers)        | 
+| [membersofxaknet](https://t.me/membersofxaknet)    |
+| [Metametrica](https://t.me/Metametrica)            |
 
 # AntiWar
 | Link                                               | Status                 |
@@ -160,16 +169,6 @@ The bot was created and works to promote and publish fake news about the Russian
  
 | Link                                               | Status                | Description            |
 | ---------------------------------------------------|---------------------- |:----------------------:|
-| [moscowmap](https://t.me/moscowmap)                | 
-| [mariabutina](https://t.me/mariabutina)            |
-| [Мария Захарова](https://t.me/MariaVladimirovnaZakharova) | WIP3 |
-| [Marinaslovo](https://t.me/Marinaslovo)            | 
-| [matanaliz_kofman](https://t.me/matanaliz_kofman)  | 
-| [maximgrigoryev](https://t.me/maximgrigoryev)      | 
-| [MAYDNR](https://t.me/MAYDNR)                      | 
-| [MediaOfficers](https://t.me/MediaOfficers)        | 
-| [membersofxaknet](https://t.me/membersofxaknet)    | 
-| [Metametrica](https://t.me/Metametrica)            |
 | [Мезинов Юрий](https://t.me/MezinoYuri)            |
 | [Военный Осведомитель](https://t.me/milinfolive)   | Closed comments | |
 | [МоскалькоV](https://t.me/MoskalkovSB)             |
