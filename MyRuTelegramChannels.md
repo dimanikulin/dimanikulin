@@ -77,6 +77,8 @@ The bot was created and works to promote and publish fake news about the Russian
 | [КТО ПО ЖИЗНИ](https://t.me/KPZYoyTube)            | closed for DN4 | 
 | [krasnovdmitri](https://t.me/krasnovdmitri)        | closed for DN4 | 
 | [kuzichev_chat](https://t.me/kuzichev_chat)        | closed for DN4 | 
+| [Мариуполь сейчас](https://t.me/mariupolz)         | closed for DN2 |
+| [Министерство Логики](https://t.me/minlogiki)      | closed for DN4 | 
 
 # Wip 
 | Link                                               | Status                 |
@@ -106,7 +108,12 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Константиновка ZOV Обстановка](https://t.me/konstantunovka_ZOV) | WIP3 | 
 | [kommunist](https://t.me/kommunist)                | WIP3 |
 | [labppsh](https://t.me/labppsh)                    |  | 
-| [Военкор Белла Либерман](https://t.me/liberman_bella)| WIP4 | | 
+| [Военкор Белла Либерман](https://t.me/liberman_bella)| WIP4 | 
+| [LIC_LPR](https://t.me/LIC_LPR)                    | WIP4 |
+| [НОВОСТИ ЛНР](https://t.me/luganskallnews)         |  |
+| [Лыня🇷🇺](https://t.me/Lunay14)                   |  |
+| [Призрак Мариуполя 🔥😈](https://t.me/mariupol_ghost)|
+| [Мисливец LITE](https://t.me/mislivetslite)        | WIP2 | 
 
 # AntiWar
 | Link                                               | Status                 |
@@ -131,6 +138,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [NerV⚡️⚡️⚡️](https://t.me/KaskadNerv)              | | 
 | [kalininrus](https://t.me/kalininrus)              | | 
 | [Лера и булочка ❤️](https://t.me/leraBratsaaaa)    | | 
+| [LOSTARMOUR](https://t.me/lost_armour)             | |
 
 # Not working
 | Link                                               | Status                 |
@@ -147,19 +155,11 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Donbass Insider](https://t.me/donbassinsider)     | |
 | [ХОХЛЫ, ШО С ЕБАЛОМ ?](https://t.me/KILL_BCY)      | |
 | [longread2023](https://t.me/longread2023)          | |
+| [Маша из Мариуполя 🇷🇺](https://t.me/mashainmarik)| | 
+| [m0sc0wcalling](https://t.me/m0sc0wcalling)        | AntiWar |
  
 | Link                                               | Status                | Description            |
 | ---------------------------------------------------|---------------------- |:----------------------:|
-| [LOSTARMOUR](https://t.me/lost_armour)             | Closed comments | |
-| [LIC_LPR](https://t.me/LIC_LPR)                    | WIP4 | |
-| [НОВОСТИ ЛНР](https://t.me/luganskallnews)         | Closed comments | |
-| [Лыня🇷🇺](https://t.me/Lunay14)                   |
-| [Мариуполь сейчас](https://t.me/mariupolz)         | closed for DN2 | |
-| [Призрак Мариуполя 🔥😈](https://t.me/mariupol_ghost)|
-| [Маша из Мариуполя 🇷🇺](https://t.me/mashainmarik)| | not working channel | 
-| [Министерство Логики](https://t.me/minlogiki)      | closed for DN4 | 
-| [Мисливец LITE](https://t.me/mislivetslite)        | WIP2 | 
-| [m0sc0wcalling](https://t.me/m0sc0wcalling)        | | AntiPutin content |
 | [moscowmap](https://t.me/moscowmap)                | 
 | [mariabutina](https://t.me/mariabutina)            |
 | [Мария Захарова](https://t.me/MariaVladimirovnaZakharova) | WIP3 |
