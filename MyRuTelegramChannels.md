@@ -123,6 +123,15 @@ The bot was created and works to promote and publish fake news about the Russian
 | [MediaOfficers](https://t.me/MediaOfficers)        | 
 | [membersofxaknet](https://t.me/membersofxaknet)    |
 | [Metametrica](https://t.me/Metametrica)            |
+| [Мезинов Юрий](https://t.me/MezinoYuri)            |
+| [Военный Осведомитель](https://t.me/milinfolive)   |
+| [МоскалькоV](https://t.me/MoskalkovSB)             |
+| [mylandbelarus](https://t.me/mylandbelarus)        | 
+| [Настюшка на Войнушке](https://t.me/nastyadnr)     |
+| [Наука побеждать](https://t.me/naukapobezhdatZ)    |
+| [ncbs18](https://t.me/ncbs18)                      | 
+| [nemeZ1da_ru](https://t.me/nemeZ1da_ru)            |
+| [НгП раZVедка](https://t.me/negumanitarnaya_pomosch_Z)|
 
 # AntiWar
 | Link                                               | Status                 |
@@ -166,19 +175,10 @@ The bot was created and works to promote and publish fake news about the Russian
 | [longread2023](https://t.me/longread2023)          | |
 | [Маша из Мариуполя 🇷🇺](https://t.me/mashainmarik)| | 
 | [m0sc0wcalling](https://t.me/m0sc0wcalling)        | AntiWar |
+| [Natalia2547](https://t.me/natalia2547)            | |
  
 | Link                                               | Status                | Description            |
 | ---------------------------------------------------|---------------------- |:----------------------:|
-| [Мезинов Юрий](https://t.me/MezinoYuri)            |
-| [Военный Осведомитель](https://t.me/milinfolive)   | Closed comments | |
-| [МоскалькоV](https://t.me/MoskalkovSB)             |
-| [mylandbelarus](https://t.me/mylandbelarus)        | 
-| [Настюшка на Войнушке](https://t.me/nastyadnr)     |
-| [Natalia2547](https://t.me/natalia2547)            | closed for DN2 | |
-| [Наука побеждать](https://t.me/naukapobezhdatZ)    |
-| [ncbs18](https://t.me/ncbs18)                      | 
-| [nemeZ1da_ru](https://t.me/nemeZ1da_ru)            |
-| [НгП раZVедка](https://t.me/negumanitarnaya_pomosch_Z)| 
 | [NeSocSeti](https://t.me/NeSocSeti)                |
 | [АНП - агентство новостей](https://t.me/neolginskie)| 
 | [Найс!](https://t.me/n1ce_ch)                      |
