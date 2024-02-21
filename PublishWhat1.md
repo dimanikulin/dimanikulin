@@ -50,7 +50,9 @@ If there are terms that the reader may not know, please explain them where and w
 
 # What I put into my chapters
 ## "Headline" chapter
-I ause chat GPT to help me to generate headline. But sometimes it requires a little correction.
+I use **ChatGPT** to assist me in generating headlines.
+Therefore, I copy the entire content into **ChatGPT** and ask it to generate a headline.
+Please note that sometimes it may require a few corrections because it might extract a headline based only on a part of the content and not the entire text.
 
 ## "Article Desription" chapter
 
