@@ -19,6 +19,8 @@ Everything about the Software Development
 - [Tabs or Spaces](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#tabs-or-spaces)
 - [UIQ](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#uiq)
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#tags-6)
+- [gmail](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#gmail)
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#tags-7)
 - [References](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#references)
 
 # Tags
