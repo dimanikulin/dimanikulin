@@ -72,6 +72,11 @@ The bot was created and works to promote and publish fake news about the Russian
 | [izolentalive](https://t.me/izolentalive)          | closed for DN3 | 
 | [karjakinchess](https://t.me/karjakinchess)        | Closed for DN2 | 
 | [Полина Кокс & CandyFlip](https://t.me/koksncandy) | closed for DN2 | 
+| [KotNaMirotvorze](https://t.me/KotNaMirotvorze)    | closed for DN3 |
+| [KovaksClearSky](https://t.me/KovaksClearSky)      | closed for DN2 | 
+| [КТО ПО ЖИЗНИ](https://t.me/KPZYoyTube)            | closed for DN4 | 
+| [krasnovdmitri](https://t.me/krasnovdmitri)        | closed for DN4 | 
+| [kuzichev_chat](https://t.me/kuzichev_chat)        | closed for DN4 | 
 
 # Wip 
 | Link                                               | Status                 |
@@ -97,8 +102,11 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Моисей](https://t.me/gefestwar)                   | 
 | [Grigorjev](https://t.me/Grigorjev)                | 
 | [imnotbozhena](https://t.me/imnotbozhena)          | WIP3 | 
-| [istoricprovincial](https://t.me/istoricprovincial)| WIP2 | |
-| [Константиновка ZOV Обстановка](https://t.me/konstantunovka_ZOV) | WIP3 | |
+| [istoricprovincial](https://t.me/istoricprovincial)| WIP2 | 
+| [Константиновка ZOV Обстановка](https://t.me/konstantunovka_ZOV) | WIP3 | 
+| [kommunist](https://t.me/kommunist)                | WIP3 |
+| [labppsh](https://t.me/labppsh)                    |  | 
+| [Военкор Белла Либерман](https://t.me/liberman_bella)| WIP4 | | 
 
 # AntiWar
 | Link                                               | Status                 |
@@ -122,6 +130,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Художник Z патриот](https://t.me/hudojnikZ)       | |
 | [NerV⚡️⚡️⚡️](https://t.me/KaskadNerv)              | | 
 | [kalininrus](https://t.me/kalininrus)              | | 
+| [Лера и булочка ❤️](https://t.me/leraBratsaaaa)    | | 
 
 # Not working
 | Link                                               | Status                 |
@@ -137,20 +146,10 @@ The bot was created and works to promote and publish fake news about the Russian
 | [СВО 2023](https://t.me/cvo2022_5)                 | |
 | [Donbass Insider](https://t.me/donbassinsider)     | |
 | [ХОХЛЫ, ШО С ЕБАЛОМ ?](https://t.me/KILL_BCY)      | |
-
+| [longread2023](https://t.me/longread2023)          | |
  
 | Link                                               | Status                | Description            |
 | ---------------------------------------------------|---------------------- |:----------------------:|
-| [kommunist](https://t.me/kommunist)                | WIP3 | | 
-| [KotNaMirotvorze](https://t.me/KotNaMirotvorze)    | closed for DN3 | |
-| [KovaksClearSky](https://t.me/KovaksClearSky)      | closed for DN2 | |
-| [КТО ПО ЖИЗНИ](https://t.me/KPZYoyTube)            | closed for DN4 | |
-| [krasnovdmitri](https://t.me/krasnovdmitri)        | closed for DN4 | |
-| [kuzichev_chat](https://t.me/kuzichev_chat)        | closed for DN4 | |
-| [labppsh](https://t.me/labppsh)                    |  | not working channel | 
-| [Военкор Белла Либерман](https://t.me/liberman_bella)| WIP4 | | 
-| [Лера и булочка ❤️](https://t.me/leraBratsaaaa)    | closed for DN4 | | 
-| [longread2023](https://t.me/longread2023)          | Closed comments | |
 | [LOSTARMOUR](https://t.me/lost_armour)             | Closed comments | |
 | [LIC_LPR](https://t.me/LIC_LPR)                    | WIP4 | |
 | [НОВОСТИ ЛНР](https://t.me/luganskallnews)         | Closed comments | |
