@@ -48,12 +48,12 @@ Generally, there is no need for a glossary.
 
 If there are terms that the reader may not know, please explain them where and when they are mentioned.
 
-# What I put into "Headline" chapter
+# "Headline" chapter
 I use **ChatGPT** to assist me in generating headlines.
 Therefore, I copy the entire content into **ChatGPT** and ask it to generate a headline.
 Please note that sometimes it may require a few corrections because it might extract a headline based only on a part of the content and not the entire text.
 
-# What I put into "Overview" Chapter
+# "Overview" Chapter
 The **overview** chapter typically offers a brief summary or introduction to the main topics covered in the document.
 It serves as a way to orient the reader and provide context before delving into more detailed information.
 
