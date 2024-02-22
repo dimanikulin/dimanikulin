@@ -50,15 +50,22 @@ If there are terms that the reader may not know, please explain them where and w
 
 # What I put into my chapters
 ## "Headline" chapter
+
+TBD to describe what is headline 
+
 I use **ChatGPT** to assist me in generating headlines.
 Therefore, I copy the entire content into **ChatGPT** and ask it to generate a headline.
 Please note that sometimes it may require a few corrections because it might extract a headline based only on a part of the content and not the entire text.
 
-## "Article Desription" chapter
+## "Overview" Chapter
+The **overview** chapter typically offers a brief summary or introduction to the main topics covered in the document.
+It serves as a way to orient the reader and provide context before delving into more detailed information.
 
-Usuall we call it **TL;DR** - too long; didn't read
+Alternatively, this chapter is often referred to as **TL;DR** - *too long; didn't read*.
 
-And similar to previous GPT helpes here to generate
+Similar to the previous chapter, I use **ChatGPT** to assist me in generating the **Overview**. 
+Therefore, I copy the entire content into **ChatGPT** and ask it to generate an **Overview**.
+
 
 ## "Tags" chapter
 
