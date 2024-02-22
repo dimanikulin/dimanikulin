@@ -48,8 +48,7 @@ Generally, there is no need for a glossary.
 
 If there are terms that the reader may not know, please explain them where and when they are mentioned.
 
-# What I put into my chapters
-## "Headline" chapter
+# What I put into "Headline" chapter
 
 TBD to describe what is headline 
 
@@ -57,7 +56,7 @@ I use **ChatGPT** to assist me in generating headlines.
 Therefore, I copy the entire content into **ChatGPT** and ask it to generate a headline.
 Please note that sometimes it may require a few corrections because it might extract a headline based only on a part of the content and not the entire text.
 
-## "Overview" Chapter
+# What I put into "Overview" Chapter
 The **overview** chapter typically offers a brief summary or introduction to the main topics covered in the document.
 It serves as a way to orient the reader and provide context before delving into more detailed information.
 
@@ -66,20 +65,19 @@ Alternatively, this chapter is often referred to as **TL;DR** - *too long; didn'
 Similar to the previous chapter, I use **ChatGPT** to assist me in generating the **Overview**. 
 Therefore, I copy the entire content into **ChatGPT** and ask it to generate an **Overview**.
 
-
-## "Tags" chapter
+# What I put into "Tags" chapter
 
 usse these tags to put in platform 
 
 GPT helpes here
 
-## "Definitions, Acronyms, Abbreviations" chapter
+# "Definitions, Acronyms, Abbreviations" chapter
 TBD
 
-## "Table of contents" chapter
+# "Table of contents" chapter
 TBD
 
-## "References" chapter
+# "References" chapter
 add links in place and into sepatated chapter 
 publish first the post you will refer to and then more global post. So first will published more detailed posts
 
