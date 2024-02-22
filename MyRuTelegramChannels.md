@@ -79,6 +79,8 @@ The bot was created and works to promote and publish fake news about the Russian
 | [kuzichev_chat](https://t.me/kuzichev_chat)        | closed for DN4 | 
 | [Мариуполь сейчас](https://t.me/mariupolz)         | closed for DN2 |
 | [Министерство Логики](https://t.me/minlogiki)      | closed for DN4 | 
+| [NIK1®](https://t.me/NIK1_99)                      | closed for DN2 |
+| [Норд](https://t.me/nordof777)                     | closed for DN2 |
 
 # Wip 
 | Link                                               | Status                 |
@@ -132,6 +134,13 @@ The bot was created and works to promote and publish fake news about the Russian
 | [ncbs18](https://t.me/ncbs18)                      | 
 | [nemeZ1da_ru](https://t.me/nemeZ1da_ru)            |
 | [НгП раZVедка](https://t.me/negumanitarnaya_pomosch_Z)|
+| [NeSocSeti](https://t.me/NeSocSeti)                |
+| [АНП - агентство новостей](https://t.me/neolginskie)|
+| [Абзац медиа](https://t.me/absatzmedia)            | 
+| [nos_chanel](https://t.me/nos_chanel)              |
+| [Новая 🅉 Украина Live](https://t.me/novajaukraina)|
+| [Типичная Одесса](https://t.me/odessa_typical)     |
+| [🩸Одной🩸Крови🩸](https://t.me/odnoikrove)        | 
 
 # AntiWar
 | Link                                               | Status                 |
@@ -141,7 +150,6 @@ The bot was created and works to promote and publish fake news about the Russian
 # Closed comments
 | Link                                               | Status                 |
 | ---------------------------------------------------|:----------------------:|
-| [Абзац медиа](https://t.me/absatzmedia)            | |
 | [Тицкий_на_Юге 🇷🇺](https://t.me/AntonTitski)     | |
 | [Азарёнок. СТВ. Беларусь](https://t.me/AzarenokCTV)| |
 | [Батальон Восток](https://t.me/batalyon_vostok)    | | 
@@ -157,6 +165,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [kalininrus](https://t.me/kalininrus)              | | 
 | [Лера и булочка ❤️](https://t.me/leraBratsaaaa)    | | 
 | [LOSTARMOUR](https://t.me/lost_armour)             | |
+| [ZАПИСКИ VЕТЕРАНА](https://t.me/notes_veterans)    | |
 
 # Not working
 | Link                                               | Status                 |
@@ -176,19 +185,10 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Маша из Мариуполя 🇷🇺](https://t.me/mashainmarik)| | 
 | [m0sc0wcalling](https://t.me/m0sc0wcalling)        | AntiWar |
 | [Natalia2547](https://t.me/natalia2547)            | |
+| [Найс!](https://t.me/n1ce_ch)                      |
  
 | Link                                               | Status                | Description            |
 | ---------------------------------------------------|---------------------- |:----------------------:|
-| [NeSocSeti](https://t.me/NeSocSeti)                |
-| [АНП - агентство новостей](https://t.me/neolginskie)| 
-| [Найс!](https://t.me/n1ce_ch)                      |
-| [NIK1®](https://t.me/NIK1_99)                      | closed for DN2 | |
-| [nos_chanel](https://t.me/nos_chanel)              |
-| [ZАПИСКИ VЕТЕРАНА](https://t.me/notes_veterans)    | Closed comments | |
-| [Новая 🅉 Украина Live](https://t.me/novajaukraina)|
-| [Норд](https://t.me/nordof777)                     | closed for DN2 | |
-| [Типичная Одесса](https://t.me/odessa_typical)     |
-| [🩸Одной🩸Крови🩸](https://t.me/odnoikrove)        | Closed comments | |
 | [OlesyaShigina](https://t.me/OlesyaShigina)        |
 | [only_rodina](https://t.me/only_rodina)            | not working
 | [olgaseletskaya](https://t.me/olgaseletskaya)      | 
