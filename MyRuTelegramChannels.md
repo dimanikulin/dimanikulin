@@ -141,6 +141,14 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Новая 🅉 Украина Live](https://t.me/novajaukraina)|
 | [Типичная Одесса](https://t.me/odessa_typical)     |
 | [🩸Одной🩸Крови🩸](https://t.me/odnoikrove)        | 
+| [OlesyaShigina](https://t.me/OlesyaShigina)        |
+| [olgaseletskaya](https://t.me/olgaseletskaya)      | 
+| [Opalennye_vojnoj](https://t.me/Opalennye_vojnoj)  | 
+| [opdnrinfo](https://t.me/opdnrinfo)                | 
+| [opennewss](https://t.me/opennewss)                |
+| [oplnr](https://t.me/oplnr)                        | 
+| [opoveshenie](https://t.me/opoveshenie)            | 
+| [orsha_pereobutaya](https://t.me/orsha_pereobutaya)|
 
 # AntiWar
 | Link                                               | Status                 |
@@ -166,6 +174,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Лера и булочка ❤️](https://t.me/leraBratsaaaa)    | | 
 | [LOSTARMOUR](https://t.me/lost_armour)             | |
 | [ZАПИСКИ VЕТЕРАНА](https://t.me/notes_veterans)    | |
+| [Оперативные сводки](https://t.me/opersvodki)      | |
 
 # Not working
 | Link                                               | Status                 |
@@ -186,19 +195,10 @@ The bot was created and works to promote and publish fake news about the Russian
 | [m0sc0wcalling](https://t.me/m0sc0wcalling)        | AntiWar |
 | [Natalia2547](https://t.me/natalia2547)            | |
 | [Найс!](https://t.me/n1ce_ch)                      |
+| [only_rodina](https://t.me/only_rodina)            |
  
 | Link                                               | Status                | Description            |
 | ---------------------------------------------------|---------------------- |:----------------------:|
-| [OlesyaShigina](https://t.me/OlesyaShigina)        |
-| [only_rodina](https://t.me/only_rodina)            | not working
-| [olgaseletskaya](https://t.me/olgaseletskaya)      | 
-| [Opalennye_vojnoj](https://t.me/Opalennye_vojnoj)  | 
-| [opdnrinfo](https://t.me/opdnrinfo)                | 
-| [opennewss](https://t.me/opennewss)                |
-| [Оперативные сводки](https://t.me/opersvodki)      | Closed comments | |
-| [oplnr](https://t.me/oplnr)                        | 
-| [opoveshenie](https://t.me/opoveshenie)            | 
-| [orsha_pereobutaya](https://t.me/orsha_pereobutaya)|
 | [OrengunTeam](https://t.me/orengunteam56)          |
 | [Позывной《OSETIN》](https://t.me/osetin20)          |
 | [Отряд "КЕРЧЬ"42-я гв.МСД](https://t.me/otryadkerch42) |
