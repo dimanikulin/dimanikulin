@@ -62,11 +62,13 @@ Alternatively, this chapter is often referred to as **TL;DR** - *too long; didn'
 Similar to the previous chapter, I use **ChatGPT** to assist me in generating the **Overview**. 
 Therefore, I copy the entire content into **ChatGPT** and ask it to generate an **Overview**.
 
-# What I put into "Tags" chapter
+# "Tags" Chapter
+**Tags** for text documents are keywords or labels assigned to the document to categorize or describe its content.
+These **tags** aid in organizing and classifying documents, making them easier to search, filter, and retrieve later.
 
-usse these tags to put in platform 
+I use these **tags** to include on the platform where I am publishing.
 
-GPT helpes here
+Once more, I utilize **ChatGPT** to assist me in generating the **tags**.
 
 # "Definitions, Acronyms, Abbreviations" chapter
 TBD
