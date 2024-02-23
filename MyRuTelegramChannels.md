@@ -156,6 +156,12 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Татьяна Поп](https://t.me/poptatiana)             |
 | [Лев Вершинин](https://t.me/putnik1lv)             |
 | [Putin-today](https://t.me/putin_today)            |
+| [Рагуль из овощей](https://t.me/ragulinho)         |
+| [Режим Б](https://t.me/rezhimbe)                   |
+| [Romanov Лайт](https://t.me/romanov_92)            |
+| [Росич Rosich](https://t.me/rosich_ru)             |
+| [rosich_admin](https://t.me/rosich_admin)          |
+| [ЦЕНТР НВП РОКОТ](https://t.me/ROKOT_63_ROKOT)     |
 
 # AntiWar
 | Link                                               | Status                 |
@@ -182,6 +188,8 @@ The bot was created and works to promote and publish fake news about the Russian
 | [LOSTARMOUR](https://t.me/lost_armour)             | |
 | [ZАПИСКИ VЕТЕРАНА](https://t.me/notes_veterans)    | |
 | [Оперативные сводки](https://t.me/opersvodki)      | |
+| [Сводки и Аналитика СВО](https://t.me/rezervsvo)   | |
+| [РИА Новости: ДНР](https://t.me/ria_dnr)           | |
 
 # Not working
 | Link                                               | Status                 |
@@ -209,14 +217,6 @@ The bot was created and works to promote and publish fake news about the Russian
  
 | Link                                               | Status                | Description            |
 | ---------------------------------------------------|---------------------- |:----------------------:|
-| [Рагуль из овощей](https://t.me/ragulinho)         |
-| [Сводки и Аналитика СВО](https://t.me/rezervsvo)   | Closed comments | |
-| [РИА Новости: ДНР](https://t.me/ria_dnr)           | Closed comments | |
-| [Режим Б](https://t.me/rezhimbe)                   |
-| [Romanov Лайт](https://t.me/romanov_92)            |
-| [Росич Rosich](https://t.me/rosich_ru)             | | | 
-| [rosich_admin](https://t.me/rosich_admin)          |
-| [ЦЕНТР НВП РОКОТ](https://t.me/ROKOT_63_ROKOT)     |
 | [Роза Шпатель❤️](https://t.me/rozashpatel2023)     |
 | [rsotmdivision](https://t.me/rsotmdivision)        |
 | [Роман Сапоньков](https://t.me/RSaponkov)          |
