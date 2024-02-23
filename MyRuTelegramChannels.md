@@ -162,6 +162,15 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Росич Rosich](https://t.me/rosich_ru)             |
 | [rosich_admin](https://t.me/rosich_admin)          |
 | [ЦЕНТР НВП РОКОТ](https://t.me/ROKOT_63_ROKOT)     |
+| [Роза Шпатель❤️](https://t.me/rozashpatel2023)     |
+| [rsotmdivision](https://t.me/rsotmdivision)        |
+| [Роман Сапоньков](https://t.me/RSaponkov)          |
+| [Операция Z: Военкоры Русско](https://t.me/rvvoenkorym) |
+| [Российский Рубеж](https://t.me/RubejRuZanashy)    |
+| [RuFront](https://t.me/RuFront)                    | 
+| [russiaz](https://t.me/russiaz)                    |
+| [Русская Душа](https://t.me/rusoul1)               |
+| [Русская Душа](https://t.me/russoulchat)           | WIP4 |
 
 # AntiWar
 | Link                                               | Status                 |
@@ -190,6 +199,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Оперативные сводки](https://t.me/opersvodki)      | |
 | [Сводки и Аналитика СВО](https://t.me/rezervsvo)   | |
 | [РИА Новости: ДНР](https://t.me/ria_dnr)           | |
+| [Репортёр Руденко V🇷🇺](https://t.me/RtrDonetsk)  | |
 
 # Not working
 | Link                                               | Status                 |
@@ -217,16 +227,6 @@ The bot was created and works to promote and publish fake news about the Russian
  
 | Link                                               | Status                | Description            |
 | ---------------------------------------------------|---------------------- |:----------------------:|
-| [Роза Шпатель❤️](https://t.me/rozashpatel2023)     |
-| [rsotmdivision](https://t.me/rsotmdivision)        |
-| [Роман Сапоньков](https://t.me/RSaponkov)          |
-| [Операция Z: Военкоры Русско](https://t.me/RVvoenkor) |
-| [Репортёр Руденко V🇷🇺](https://t.me/RtrDonetsk)  | Closed comments | |
-| [Российский Рубеж](https://t.me/RubejRuZanashy)    | | |
-| [RuFront](https://t.me/RuFront)                    | Closed comments | |
-| [russiaz](https://t.me/russiaz)                    |
-| [Русская Душа](https://t.me/rusoul1)                |
-| [Русская Душа](https://t.me/russoulchat)           | WIP4 | |
 | [RUSVARG](https://t.me/rusvarg)                    |
 | [Российский Рубеж Za нашу П](https://t.me/RubejRuZa)| | |
 | [Русская Весна СПЕЦОПЕРАЦ](https://t.me/russian_spring_zz) | Closed comments | |
