@@ -171,11 +171,14 @@ The bot was created and works to promote and publish fake news about the Russian
 | [russiaz](https://t.me/russiaz)                    |
 | [Русская Душа](https://t.me/rusoul1)               |
 | [Русская Душа](https://t.me/russoulchat)           | WIP4 |
-
-# AntiWar
-| Link                                               | Status                 |
-| ---------------------------------------------------|:----------------------:|
-| [Лонгрид (Несмиян)](https://t.me/a_nesmijan_longread)|   | 
+| [RUSVARG](https://t.me/rusvarg)                    |
+| [Российский Рубеж Za нашу П](https://t.me/RubejRuZa)| 
+| [Крылатые](https://t.me/russian_airborne)          |
+| [АРХАНГЕЛ СПЕЦНАЗА Z](https://t.me/rusich_army)    | 
+| [Лонгрид (Несмиян)](https://t.me/a_nesmijan_longread)| AntiWar  | 
+| [Саня во Флориде](https://t.me/sanya_florida)      |
+| [sergeyvostrecov](https://t.me/sergeyvostrecov)    |
+| [Редакция ШМЕЛЬ](https://t.me/shmel_chik)          |
 
 # Closed comments
 | Link                                               | Status                 |
@@ -200,6 +203,8 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Сводки и Аналитика СВО](https://t.me/rezervsvo)   | |
 | [РИА Новости: ДНР](https://t.me/ria_dnr)           | |
 | [Репортёр Руденко V🇷🇺](https://t.me/RtrDonetsk)  | |
+| [Русская Весна СПЕЦОПЕРАЦ](https://t.me/russian_spring_zz) | |
+| [ТРОЙКА](https://t.me/rustroyka1945)               | | 
 
 # Not working
 | Link                                               | Status                 |
@@ -227,15 +232,6 @@ The bot was created and works to promote and publish fake news about the Russian
  
 | Link                                               | Status                | Description            |
 | ---------------------------------------------------|---------------------- |:----------------------:|
-| [RUSVARG](https://t.me/rusvarg)                    |
-| [Российский Рубеж Za нашу П](https://t.me/RubejRuZa)| | |
-| [Русская Весна СПЕЦОПЕРАЦ](https://t.me/russian_spring_zz) | Closed comments | |
-| [ТРОЙКА](https://t.me/rustroyka1945) | Closed comments | | 
-| [Крылатые](https://t.me/russian_airborne)          |
-| [АРХАНГЕЛ СПЕЦНАЗА Z](https://t.me/rusich_army)    |  | |
-| [Саня во Флориде](https://t.me/sanya_florida)      |
-| [sergeyvostrecov](https://t.me/sergeyvostrecov)    |
-| [Редакция ШМЕЛЬ](https://t.me/shmel_chik)          |
 | [SHAMAN](https://t.me/shaman_channel)              | Closed for DN4 | |
 | [Шейх Тамир](https://t.me/sheyhtamir1974)          |
 | [СИЛОВИКИ](https://t.me/SIL0VIKI)                  | Closed comments | |
