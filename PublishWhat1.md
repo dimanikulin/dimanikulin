@@ -82,11 +82,18 @@ It consists of 3 columns
 - **Definition** - explains  Abbreviation or Acronym
 TODO - to proofread 
 
-# "References" chapter
-add links in place and into sepatated chapter 
-publish first the post you will refer to and then more global post. So first will published more detailed posts
+# "References" Chapter
+It is recommended to include links at the point of mention.
+Additionally, a separate chapter for references in the form of a table is desired.
 
-<img src="./Images/TBD.jpg" alt="TBD" />
+The table consists of 6 columns:
+
+- **Number**: Indicates the row number.
+- **Name**: The name of the reference.
+- **Source**: The name of the resource where it is published.
+- **Release Date**: The date of release.
+- **Author**: The content creator.
+- **Description**: An additional field for details.
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
