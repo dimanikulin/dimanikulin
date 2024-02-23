@@ -54,7 +54,7 @@ Therefore, I copy the entire content into **ChatGPT** and ask it to generate a h
 Please note that sometimes it may require a few corrections because it might extract a headline based only on a part of the content and not the entire text.
 
 # "Table of contents" chapter
-TBD
+**Table of contents** is just usual content table with links to the chapter headers 
 
 # "Overview" Chapter
 The **overview** chapter typically offers a brief summary or introduction to the main topics covered in the document.
@@ -85,4 +85,4 @@ publish first the post you will refer to and then more global post. So first wil
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
-                    5
+                   
