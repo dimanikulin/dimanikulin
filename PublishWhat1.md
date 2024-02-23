@@ -53,6 +53,9 @@ I use **ChatGPT** to assist me in generating headlines.
 Therefore, I copy the entire content into **ChatGPT** and ask it to generate a headline.
 Please note that sometimes it may require a few corrections because it might extract a headline based only on a part of the content and not the entire text.
 
+# "Table of contents" chapter
+TBD
+
 # "Overview" Chapter
 The **overview** chapter typically offers a brief summary or introduction to the main topics covered in the document.
 It serves as a way to orient the reader and provide context before delving into more detailed information.
@@ -71,9 +74,6 @@ I use these **tags** to include on the platform where I am publishing.
 Once more, I utilize **ChatGPT** to assist me in generating the **tags**.
 
 # "Definitions, Acronyms, Abbreviations" chapter
-TBD
-
-# "Table of contents" chapter
 TBD
 
 # "References" chapter
