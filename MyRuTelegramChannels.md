@@ -149,6 +149,13 @@ The bot was created and works to promote and publish fake news about the Russian
 | [oplnr](https://t.me/oplnr)                        | 
 | [opoveshenie](https://t.me/opoveshenie)            | 
 | [orsha_pereobutaya](https://t.me/orsha_pereobutaya)|
+| [OrengunTeam](https://t.me/orengunteam56)          |
+| [Позывной《OSETIN》](https://t.me/osetin20)          |
+| [petrlundstrem](https://t.me/petrlundstrem)        |
+| [politsputnik](https://t.me/politsputnik)          |
+| [Татьяна Поп](https://t.me/poptatiana)             |
+| [Лев Вершинин](https://t.me/putnik1lv)             |
+| [Putin-today](https://t.me/putin_today)            |
 
 # AntiWar
 | Link                                               | Status                 |
@@ -196,19 +203,12 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Natalia2547](https://t.me/natalia2547)            | |
 | [Найс!](https://t.me/n1ce_ch)                      |
 | [only_rodina](https://t.me/only_rodina)            |
+| [Отряд "КЕРЧЬ"42-я гв.МСД](https://t.me/otryadkerch42)|
+| [Миротворец News](https://t.me/peacemaker565)      | |
+| [Pobeda_Za_Deda](https://t.me/Pobeda_Za_Deda)      | |
  
 | Link                                               | Status                | Description            |
 | ---------------------------------------------------|---------------------- |:----------------------:|
-| [OrengunTeam](https://t.me/orengunteam56)          |
-| [Позывной《OSETIN》](https://t.me/osetin20)          |
-| [Отряд "КЕРЧЬ"42-я гв.МСД](https://t.me/otryadkerch42) |
-| [petrlundstrem](https://t.me/petrlundstrem)        |
-| [Миротворец News](https://t.me/peacemaker565)      | closed for DN1 | |
-| [Pobeda_Za_Deda](https://t.me/Pobeda_Za_Deda)      | | | 
-| [politsputnik](https://t.me/politsputnik)          |
-| [Татьяна Поп](https://t.me/poptatiana)             |
-| [Лев Вершинин](https://t.me/putnik1lv)             |
-| [Putin-today](https://t.me/putin_today)            |
 | [Рагуль из овощей](https://t.me/ragulinho)         |
 | [Сводки и Аналитика СВО](https://t.me/rezervsvo)   | Closed comments | |
 | [РИА Новости: ДНР](https://t.me/ria_dnr)           | Closed comments | |
