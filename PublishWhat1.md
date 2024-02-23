@@ -74,7 +74,13 @@ I use these **tags** to include on the platform where I am publishing.
 Once more, I utilize **ChatGPT** to assist me in generating the **tags**.
 
 # "Definitions, Acronyms, Abbreviations" chapter
-TBD
+This chapter lists *Definitions*, *Acronyms* and *Abbreviations* in form of table.
+
+It consists of 3 columns
+- **Number** - to indenticate the row number
+- **Abbreviation or Acronym** - the name of Abbreviation or Acronym
+- **Definition** - explains  Abbreviation or Acronym
+TODO - to proofread 
 
 # "References" chapter
 add links in place and into sepatated chapter 
