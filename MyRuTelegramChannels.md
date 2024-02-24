@@ -81,6 +81,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Министерство Логики](https://t.me/minlogiki)      | closed for DN4 | 
 | [NIK1®](https://t.me/NIK1_99)                      | closed for DN2 |
 | [Норд](https://t.me/nordof777)                     | closed for DN2 |
+| [SHAMAN](https://t.me/shaman_channel)              | Closed for DN4 | |
 
 # Wip 
 | Link                                               | Status                 |
@@ -179,6 +180,11 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Саня во Флориде](https://t.me/sanya_florida)      |
 | [sergeyvostrecov](https://t.me/sergeyvostrecov)    |
 | [Редакция ШМЕЛЬ](https://t.me/shmel_chik)          |
+| [Шейх Тамир](https://t.me/sheyhtamir1974)          |
+| [СОЛДАТ УДАЧИ](https://t.me/Soldieroffortune777)   |
+| [Дядя Слава](https://t.me/slavaded1337)            |
+| [Shalnyak](https://t.me/shalnyak)                  | 
+| [smershmsk](https://t.me/smershmsk)                |
 
 # Closed comments
 | Link                                               | Status                 |
@@ -205,6 +211,9 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Репортёр Руденко V🇷🇺](https://t.me/RtrDonetsk)  | |
 | [Русская Весна СПЕЦОПЕРАЦ](https://t.me/russian_spring_zz) | |
 | [ТРОЙКА](https://t.me/rustroyka1945)               | | 
+| [СИЛОВИКИ](https://t.me/SIL0VIKI)                  | |
+| [Скабеева](https://t.me/skabeeva)                  | |
+| [Сладков +](https://t.me/Sladkov_plus)             | |
 
 # Not working
 | Link                                               | Status                 |
@@ -232,16 +241,6 @@ The bot was created and works to promote and publish fake news about the Russian
  
 | Link                                               | Status                | Description            |
 | ---------------------------------------------------|---------------------- |:----------------------:|
-| [SHAMAN](https://t.me/shaman_channel)              | Closed for DN4 | |
-| [Шейх Тамир](https://t.me/sheyhtamir1974)          |
-| [СИЛОВИКИ](https://t.me/SIL0VIKI)                  | Closed comments | |
-| [СОЛДАТ УДАЧИ](https://t.me/Soldieroffortune777)   | | | 
-| [Скабеева](https://t.me/skabeeva)                  | Closed comments | |
-| [Дядя Слава](https://t.me/slavaded1337)            |
-| [Сладков +](https://t.me/Sladkov_plus)             | Closed comments | |
-| [Shalnyak](https://t.me/shalnyak)                  | 
-| [sharikovtime](https://t.me/sharikovtime)          | 
-| [smershmsk](https://t.me/smershmsk)                |
 | [СМОТРИ](https://t.me/smotri_media)                | Closed comments | |
 | [Севастополь. СМЕРШ](https://t.me/sevsmersh)       |
 | [«СОЮЗ ВЕТЕРАНОВ СВО» по КК](https://t.me/souzveteranovsvokk)| 
