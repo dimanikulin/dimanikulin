@@ -192,6 +192,15 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Судоплатов](https://t.me/sudoplatov_official)     | 
 | [Степной ветер](https://t.me/stepnoy_veter)        |
 | [stringer_donetsk](https://t.me/stringer_donetsk)  | 
+| [tactical_13](https://t.me/tactical_13)            |
+| [Танкисты ЮВО](https://t.me/tankistrossii100)      |
+| [Шепот Фронта](https://t.me/Tatarinov_R)           |
+| [Новости: «Русский фронт»](https://t.me/the_russki_front)| 
+| [Ты охуеешь, но это ДНР!](https://t.me/TOneDNR)    |
+| [Труха Барселона](https://t.me/truhabarselona)     |
+| [Трупы ВСУ ХОХЛЫ 200](https://t.me/trupvsy)        |
+| [ukr_leaks](https://t.me/ukr_leaks)                | 
+| [УКРОПИТЕКИ стримы](https://t.me/ucropitek)        |
 
 # Closed comments
 | Link                                               | Status                 |
@@ -248,19 +257,10 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Миротворец News](https://t.me/peacemaker565)      | |
 | [Pobeda_Za_Deda](https://t.me/Pobeda_Za_Deda)      | |
 | [Севастополь. СМЕРШ](https://t.me/sevsmersh)       |
+| [Говорит ТопаZ🦩#ШВО](https://t.me/Topaz_Govorit)  |
  
 | Link                                               | Status                | Description            |
 | ---------------------------------------------------|---------------------- |:----------------------:|
-| [tactical_13](https://t.me/tactical_13)            |
-| [Танкисты ЮВО](https://t.me/tankistrossii100)      |
-| [Шепот Фронта](https://t.me/Tatarinov_R)           |
-| [Новости: «Русский фронт»](https://t.me/the_russki_front)| 
-| [Ты охуеешь, но это ДНР!](https://t.me/TOneDNR)    |
-| [Говорит ТопаZ🦩#ШВО](https://t.me/Topaz_Govorit)  |
-| [Труха Барселона](https://t.me/truhabarselona)     |
-| [Трупы ВСУ ХОХЛЫ 200](https://t.me/trupvsy)        |
-| [ukr_leaks](https://t.me/ukr_leaks)                | 
-| [УКРОПИТЕКИ стримы](https://t.me/ucropitek)        |
 | [vadovskaya](https://t.me/vadovskaya)              |
 | [Дмитрий Василец](https://t.me/VasiletsDmitriy)    | | |
 | [Новости Россия! Zа правду!](https://t.me/vchatz)  | 
