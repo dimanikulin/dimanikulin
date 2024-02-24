@@ -185,6 +185,13 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Дядя Слава](https://t.me/slavaded1337)            |
 | [Shalnyak](https://t.me/shalnyak)                  | 
 | [smershmsk](https://t.me/smershmsk)                |
+| [spainrus](https://t.me/spainrus)                  |
+| [ПИСАРЬ ИЗ СПЕЦНАZА](https://t.me/specnaz_com)     | 
+| [sskarnaukhov](https://t.me/sskarnaukhov)          | 
+| [strazh_1](https://t.me/strazh_1)                  |
+| [Судоплатов](https://t.me/sudoplatov_official)     | 
+| [Степной ветер](https://t.me/stepnoy_veter)        |
+| [stringer_donetsk](https://t.me/stringer_donetsk)  | 
 
 # Closed comments
 | Link                                               | Status                 |
@@ -214,6 +221,8 @@ The bot was created and works to promote and publish fake news about the Russian
 | [СИЛОВИКИ](https://t.me/SIL0VIKI)                  | |
 | [Скабеева](https://t.me/skabeeva)                  | |
 | [Сладков +](https://t.me/Sladkov_plus)             | |
+| [СМОТРИ](https://t.me/smotri_media)                | |
+| [«СОЮЗ ВЕТЕРАНОВ СВО» по КК](https://t.me/souzveteranovsvokk)| | 
 
 # Not working
 | Link                                               | Status                 |
@@ -238,19 +247,10 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Отряд "КЕРЧЬ"42-я гв.МСД](https://t.me/otryadkerch42)|
 | [Миротворец News](https://t.me/peacemaker565)      | |
 | [Pobeda_Za_Deda](https://t.me/Pobeda_Za_Deda)      | |
+| [Севастополь. СМЕРШ](https://t.me/sevsmersh)       |
  
 | Link                                               | Status                | Description            |
 | ---------------------------------------------------|---------------------- |:----------------------:|
-| [СМОТРИ](https://t.me/smotri_media)                | Closed comments | |
-| [Севастополь. СМЕРШ](https://t.me/sevsmersh)       |
-| [«СОЮЗ ВЕТЕРАНОВ СВО» по КК](https://t.me/souzveteranovsvokk)| 
-| [spainrus](https://t.me/spainrus)                  |
-| [ПИСАРЬ ИЗ СПЕЦНАZА](https://t.me/specnaz_com)     | 
-| [sskarnaukhov](https://t.me/sskarnaukhov)          | 
-| [strazh_1](https://t.me/strazh_1)                  |
-| [Судоплатов](https://t.me/sudoplatov_official)     | comments closed | |
-| [Степной ветер](https://t.me/stepnoy_veter)        |
-| [stringer_donetsk](https://t.me/stringer_donetsk)  | 
 | [tactical_13](https://t.me/tactical_13)            |
 | [Танкисты ЮВО](https://t.me/tankistrossii100)      |
 | [Шепот Фронта](https://t.me/Tatarinov_R)           |
