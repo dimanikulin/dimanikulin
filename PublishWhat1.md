@@ -94,8 +94,4 @@ The table consists of 6 columns:
 - **Release Date**: The date of release.
 - **Author**: The content creator.
 - **Description**: An additional field for details.
-
-# References
-| # | Name                 | Source                | Release date           |  Author                 | Description   |
-| - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
                    
