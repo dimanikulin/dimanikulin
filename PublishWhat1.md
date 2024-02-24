@@ -19,11 +19,10 @@ TBD
 
 ---
 
-# Common recomendation
+# Common recomendation + Engage people for a dialog
 When you publish please notice it shaal sound like story and not just poor facts.
 It will be realy greate if describe your real expireince but not what have read from books and networks  and not just repost as well.
 
-# Engage people for a dialog
 Content shall ask for an opinion. Also please answer possible all questions in the comments 
 conttent has be our opinion not their and it might be provocative even to create a discussion and to have hate 
 
