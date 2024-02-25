@@ -223,6 +223,8 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Vladimir Zelenskiy](https://t.me/vladimir_zelenskiy_official_page) |
 | [Za наших](https://t.me/za_army)                   | 
 | [ЗАПОРОЖСКИЙ ФРОНТ](https://t.me/ZA_FROHT)         |
+| [Vыше нас только Zвезды](https://t.me/ZaPobedy_uvo)|
+| [Владимир Зеленский](https://t.me/zelenckiy)       |
 
 # Closed comments
 | Link                                               | Status                 |
@@ -258,6 +260,9 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Военкор Котенок](https://t.me/voenkorKotenok)     | |
 | [WAGNER GROUP](https://t.me/wagnernew)             | |
 | [war_ukr_russ](https://t.me/war_ukr_russ)          | |
+| [Z - Новости Бывшей Украины](https://t.me/z_novosti)||
+| [ЖИВОВ Z 🇷🇺](https://t.me/zhivoff)               | |
+| [Владимир Зеленский](https://t.me/zelenskyi_vladimir)|
 
 # Not working
 | Link                                               | Status                 |
@@ -280,23 +285,18 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Найс!](https://t.me/n1ce_ch)                      |
 | [only_rodina](https://t.me/only_rodina)            |
 | [Отряд "КЕРЧЬ"42-я гв.МСД](https://t.me/otryadkerch42)|
-| [Миротворец News](https://t.me/peacemaker565)      | |
-| [Pobeda_Za_Deda](https://t.me/Pobeda_Za_Deda)      | |
+| [Миротворец News](https://t.me/peacemaker565)      | 
+| [Pobeda_Za_Deda](https://t.me/Pobeda_Za_Deda)      | 
 | [Севастополь. СМЕРШ](https://t.me/sevsmersh)       |
 | [Говорит ТопаZ🦩#ШВО](https://t.me/Topaz_Govorit)  |
 | [vadovskaya](https://t.me/vadovskaya)              |
 | [Сводки ополчения](https://t.me/swodki)            |
 | [xaknet_team](https://t.me/xaknet_team)            |
 | [ZaRussia72rus](https://t.me/zarussia010)          |
+| [Za Наших новости](https://t.me/za_nashih_news)    | 
  
 | Link                                               | Status                | Description            |
 | ---------------------------------------------------|---------------------- |:----------------------:|
-| [Za Наших новости](https://t.me/za_nashih_news)    | comments closed | |
-| [Z - Новости Бывшей Украины](https://t.me/z_novosti) |
-| [ЖИВОВ Z 🇷🇺](https://t.me/zhivoff)               | comments closed | |
-| [Vыше нас только Zвезды](https://t.me/ZaPobedy_uvo)|
-| [Владимир Зеленский](https://t.me/zelenckiy)       |
-| [Владимир Зеленский](https://t.me/zelenskyi_vladimir)|
 | [SU_Hunter_2_0](https://t.me/ZSU_Hunter_2_0)       |
 | [Тринадцатый.](https://t.me/Z13_Separ)             |
 | [Срочно Запорожье](https://t.me/zzzzzzzzzapp)      |
