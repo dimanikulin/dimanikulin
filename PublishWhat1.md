@@ -19,15 +19,13 @@ TBD
 
 ---
 
-# Common recomendation + Engage people for a dialog
+# Common recomendation
 When you publish please notice it shaal sound like story and not just poor facts.
 It will be realy greate if describe your real expireince but not what have read from books and networks  and not just repost as well.
-
+conttent has be our opinion not their and it might be provocative even to create a discussion and to have hate.
 Content shall ask for an opinion. Also please answer possible all questions in the comments 
-conttent has be our opinion not their and it might be provocative even to create a discussion and to have hate 
 
 # Publication Structure
-
 When creating content, it is crucial to prioritize structure, especially for larger texts.
 The following guidelines should be adhered to:
 
