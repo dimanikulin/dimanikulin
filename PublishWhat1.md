@@ -19,14 +19,15 @@ TBD
 
 ---
 
-# Criterions
-So far I posted a lot of publicateion on 7 different sites. 
-As for me the main criteria to say if publication is succefull and interesting are 
+# Criteria for Evaluating Publications
+Having posted numerous publications across seven different sites, I've identified several key criteria for determining the success and interest level of each publication:
 
-- Number of viewes
-- Comments
-- Likes and reposts
-- Savings into bookmarks
+- **Number of Views**: The total number of times the publication has been viewed is a primary indicator of its reach and impact.
+- **Comments**: Engaging comments indicate that the publication has sparked discussion and resonated with the audience.
+- **Likes and Reposts**: The number of likes and reposts reflects the level of appreciation and the desire to share the publication with others.
+- **Savings into Bookmarks**: When readers save the publication into their bookmarks, it suggests that they find the content valuable and wish to revisit it in the future.
+
+By assessing these metrics, I can gauge the effectiveness of each publication and tailor future content to better meet the interests and preferences of the audience.
 
 # Common Recommendations
 When publishing, it's crucial to ensure that the content reads like a story rather than a mere collection of facts.
