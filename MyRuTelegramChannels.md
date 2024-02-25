@@ -82,6 +82,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [NIK1®](https://t.me/NIK1_99)                      | closed for DN2 |
 | [Норд](https://t.me/nordof777)                     | closed for DN2 |
 | [SHAMAN](https://t.me/shaman_channel)              | Closed for DN4 | |
+| [ИЗНАНКА](https://t.me/The_Wrong_Side)             | closed for DN2, DN3 | |
 
 # Wip 
 | Link                                               | Status                 |
@@ -207,6 +208,12 @@ The bot was created and works to promote and publish fake news about the Russian
 | [vitteli](https://t.me/vitteli)                    |
 | [Воин DV](https://t.me/voin_dv)                    |
 | [VORON🇷🇺FPV](https://t.me/voron_zov)             |
+| [voytenkos](https://t.me/voytenkos)                | 
+| [vv_volodin](https://t.me/vv_volodin)              |
+| [Дальневосточный гастролер](https://t.me/Vmsd127)  |
+| [ЧВК «Вагнер» Республика Б](https://t.me/wagnerrb) |
+| [warhistoryalconafter](https://t.me/warhistoryalconafter)|
+| [Крепкое слово](https://t.me/wrusss)               |
 
 # Closed comments
 | Link                                               | Status                 |
@@ -240,6 +247,8 @@ The bot was created and works to promote and publish fake news about the Russian
 | [«СОЮЗ ВЕТЕРАНОВ СВО» по КК](https://t.me/souzveteranovsvokk)| | 
 | [Разведотряд 106](https://t.me/VDV106Moskva)       | |
 | [Военкор Котенок](https://t.me/voenkorKotenok)     | |
+| [WAGNER GROUP](https://t.me/wagnernew)             | |
+| [war_ukr_russ](https://t.me/war_ukr_russ)          | |
 
 # Not working
 | Link                                               | Status                 |
@@ -268,19 +277,10 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Говорит ТопаZ🦩#ШВО](https://t.me/Topaz_Govorit)  |
 | [vadovskaya](https://t.me/vadovskaya)              |
 | [Сводки ополчения](https://t.me/swodki)            |
+| [xaknet_team](https://t.me/xaknet_team)            |
  
 | Link                                               | Status                | Description            |
 | ---------------------------------------------------|---------------------- |:----------------------:|
-| [voytenkos](https://t.me/voytenkos)                | 
-| [vv_volodin](https://t.me/vv_volodin)              |
-| [Дальневосточный гастролер](https://t.me/Vmsd127)  |
-| [ЧВК «Вагнер» Республика Б](https://t.me/wagnerrb) |
-| [WAGNER GROUP](https://t.me/wagnernew)             |
-| [war_ukr_russ](https://t.me/war_ukr_russ)          | 
-| [warhistoryalconafter](https://t.me/warhistoryalconafter)|
-| [Крепкое слово](https://t.me/wrusss)               |
-| [ИЗНАНКА](https://t.me/The_Wrong_Side)             | closed for DN2, DN3 | |
-| [xaknet_team](https://t.me/xaknet_team)            | 
 | [xoxol_uk](https://t.me/xoxol_uk)                  |
 | [Vыше нас только Zвезды](https://t.me/ZaPobedy_uvo26)| 
 | [zhurnalistka_z](https://t.me/zhurnalistka_z)      |
