@@ -19,11 +19,14 @@ TBD
 
 ---
 
-# Common recomendation
-When you publish please notice it shaal sound like story and not just poor facts.
-It will be realy greate if describe your real expireince but not what have read from books and networks  and not just repost as well.
-conttent has be our opinion not their and it might be provocative even to create a discussion and to have hate.
-Content shall ask for an opinion. Also please answer possible all questions in the comments 
+# Common Recommendations
+When publishing, it's crucial to ensure that the content reads like a story rather than a mere collection of facts.
+It's immensely valuable to draw from personal experiences rather than relying solely on information gathered from books and online sources, avoiding mere reposts.
+Our content should reflect our own opinions, which might sometimes be provocative to stimulate discussion and even elicit strong reactions. 
+Additionally, the content should encourage readers to form their own opinions and engage in meaningful dialogue.
+
+Furthermore, it's important to be responsive to comments by addressing any questions or concerns raised.
+This interaction helps foster a sense of community and encourages further engagement with the content.
 
 # Publication Structure
 When creating content, it is crucial to prioritize structure, especially for larger texts.
