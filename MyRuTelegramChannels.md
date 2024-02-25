@@ -201,6 +201,12 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Трупы ВСУ ХОХЛЫ 200](https://t.me/trupvsy)        |
 | [ukr_leaks](https://t.me/ukr_leaks)                | 
 | [УКРОПИТЕКИ стримы](https://t.me/ucropitek)        |
+| [Дмитрий Василец](https://t.me/VasiletsDmitriy)    |
+| [Новости Россия! Zа правду!](https://t.me/vchatz)  | 
+| [verysexydasha](https://t.me/verysexydasha)        |
+| [vitteli](https://t.me/vitteli)                    |
+| [Воин DV](https://t.me/voin_dv)                    |
+| [VORON🇷🇺FPV](https://t.me/voron_zov)             |
 
 # Closed comments
 | Link                                               | Status                 |
@@ -232,6 +238,8 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Сладков +](https://t.me/Sladkov_plus)             | |
 | [СМОТРИ](https://t.me/smotri_media)                | |
 | [«СОЮЗ ВЕТЕРАНОВ СВО» по КК](https://t.me/souzveteranovsvokk)| | 
+| [Разведотряд 106](https://t.me/VDV106Moskva)       | |
+| [Военкор Котенок](https://t.me/voenkorKotenok)     | |
 
 # Not working
 | Link                                               | Status                 |
@@ -258,19 +266,11 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Pobeda_Za_Deda](https://t.me/Pobeda_Za_Deda)      | |
 | [Севастополь. СМЕРШ](https://t.me/sevsmersh)       |
 | [Говорит ТопаZ🦩#ШВО](https://t.me/Topaz_Govorit)  |
+| [vadovskaya](https://t.me/vadovskaya)              |
+| [Сводки ополчения](https://t.me/swodki)            |
  
 | Link                                               | Status                | Description            |
 | ---------------------------------------------------|---------------------- |:----------------------:|
-| [vadovskaya](https://t.me/vadovskaya)              |
-| [Дмитрий Василец](https://t.me/VasiletsDmitriy)    | | |
-| [Новости Россия! Zа правду!](https://t.me/vchatz)  | 
-| [verysexydasha](https://t.me/verysexydasha)        |
-| [Разведотряд 106](https://t.me/VDV106Moskva)       | comments closed | |
-| [Сводки ополчения](https://t.me/swodki)            | comments closed | |
-| [vitteli](https://t.me/vitteli)                    |
-| [Воин DV](https://t.me/voin_dv)                    | comments closed | |
-| [Военкор Котенок](https://t.me/voenkorKotenok)     | comments closed | |
-| [VORON🇷🇺FPV](https://t.me/voron_zov)             |
 | [voytenkos](https://t.me/voytenkos)                | 
 | [vv_volodin](https://t.me/vv_volodin)              |
 | [Дальневосточный гастролер](https://t.me/Vmsd127)  |
