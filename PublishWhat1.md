@@ -19,6 +19,15 @@ TBD
 
 ---
 
+# Criterions
+So far I posted a lot of publicateion on 7 different sites. 
+As for me the main criteria to say if publication is succefull and interesting are 
+
+- Number of viewes
+- Comments
+- Likes and reposts
+- Savings into bookmarks
+
 # Common Recommendations
 When publishing, it's crucial to ensure that the content reads like a story rather than a mere collection of facts.
 It's immensely valuable to draw from personal experiences rather than relying solely on information gathered from books and online sources, avoiding mere reposts.

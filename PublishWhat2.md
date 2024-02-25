@@ -23,15 +23,6 @@ TBD
 
 ---
 
-# Criterions
-So far I posted a lot of publicateion on 7 different sites. 
-As for me the main criteria to say if publication is succefull and interesting are 
-
-- Number of viewes
-- Comments
-- Likes and reposts
-- Savings into bookmarks
-
 # Plagiarism
 TBD
 
