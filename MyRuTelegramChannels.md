@@ -214,6 +214,15 @@ The bot was created and works to promote and publish fake news about the Russian
 | [ЧВК «Вагнер» Республика Б](https://t.me/wagnerrb) |
 | [warhistoryalconafter](https://t.me/warhistoryalconafter)|
 | [Крепкое слово](https://t.me/wrusss)               |
+| [xoxol_uk](https://t.me/xoxol_uk)                  |
+| [Vыше нас только Zвезды](https://t.me/ZaPobedy_uvo26)| 
+| [zhurnalistka_z](https://t.me/zhurnalistka_z)      |
+| [Zanoza](https://t.me/Zanoza)                      | 
+| [Zuben.co новости](https://t.me/zuben_co)          |
+| [MILITARY Z](https://t.me/x_military)              |
+| [Vladimir Zelenskiy](https://t.me/vladimir_zelenskiy_official_page) |
+| [Za наших](https://t.me/za_army)                   | 
+| [ЗАПОРОЖСКИЙ ФРОНТ](https://t.me/ZA_FROHT)         |
 
 # Closed comments
 | Link                                               | Status                 |
@@ -278,19 +287,10 @@ The bot was created and works to promote and publish fake news about the Russian
 | [vadovskaya](https://t.me/vadovskaya)              |
 | [Сводки ополчения](https://t.me/swodki)            |
 | [xaknet_team](https://t.me/xaknet_team)            |
+| [ZaRussia72rus](https://t.me/zarussia010)          |
  
 | Link                                               | Status                | Description            |
 | ---------------------------------------------------|---------------------- |:----------------------:|
-| [xoxol_uk](https://t.me/xoxol_uk)                  |
-| [Vыше нас только Zвезды](https://t.me/ZaPobedy_uvo26)| 
-| [zhurnalistka_z](https://t.me/zhurnalistka_z)      |
-| [Zanoza](https://t.me/Zanoza)                      | 
-| [Zuben.co новости](https://t.me/zuben_co)          |
-| [MILITARY Z](https://t.me/x_military)              |
-| [Vladimir Zelenskiy](https://t.me/vladimir_zelenskiy_official_page) | comments closed | |
-| [ZaRussia72rus](https://t.me/zarussia010)          |
-| [Za наших](https://t.me/za_army)                   |
-| [ЗАПОРОЖСКИЙ ФРОНТ](https://t.me/ZA_FROHT)         | comments closed | |
 | [Za Наших новости](https://t.me/za_nashih_news)    | comments closed | |
 | [Z - Новости Бывшей Украины](https://t.me/z_novosti) |
 | [ЖИВОВ Z 🇷🇺](https://t.me/zhivoff)               | comments closed | |
