@@ -225,6 +225,9 @@ The bot was created and works to promote and publish fake news about the Russian
 | [ЗАПОРОЖСКИЙ ФРОНТ](https://t.me/ZA_FROHT)         |
 | [Vыше нас только Zвезды](https://t.me/ZaPobedy_uvo)|
 | [Владимир Зеленский](https://t.me/zelenckiy)       |
+| [SU_Hunter_2_0](https://t.me/ZSU_Hunter_2_0)       |
+| [Тринадцатый.](https://t.me/Z13_Separ)             |
+| [Поколение Z](https://t.me/+EXrNv7j5LIQxNmNi)      |
 
 # Closed comments
 | Link                                               | Status                 |
@@ -294,12 +297,5 @@ The bot was created and works to promote and publish fake news about the Russian
 | [xaknet_team](https://t.me/xaknet_team)            |
 | [ZaRussia72rus](https://t.me/zarussia010)          |
 | [Za Наших новости](https://t.me/za_nashih_news)    | 
- 
-| Link                                               | Status                | Description            |
-| ---------------------------------------------------|---------------------- |:----------------------:|
-| [SU_Hunter_2_0](https://t.me/ZSU_Hunter_2_0)       |
-| [Тринадцатый.](https://t.me/Z13_Separ)             |
 | [Срочно Запорожье](https://t.me/zzzzzzzzzapp)      |
-| [Башни Кремля](https://t.me/+dZK10QqBu0xiZjYy)     |
-| [Поколение Z](https://t.me/+EXrNv7j5LIQxNmNi)      |
-| [Спецоперация V](https://t.me/+vb5WJBLW0jo1ZGU6)   | comments closed | |
+ 
