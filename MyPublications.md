@@ -1,3 +1,31 @@
+# Headline
+TBD 
+
+# Table of contents
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#tags)
+- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#definitions-acronyms-abbreviations)
+- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#overview)
+- [References](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#references)
+
+# Tags
+TBD
+
+# Definitions, Acronyms, Abbreviations
+| # | Abbreviation or Acronym | Definition     |
+| - | ------------------------|:--------------:|
+| 1 |
+
+# Overview
+TBD 
+
+---
+
+<img src="./Images/TBD.jpg" alt="TBD" />
+
+# References
+| # | Name                 | Source                | Release date           |  Author                 | Description   |
+| - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
+
 # Publications about Multimedia, Multimedia IR systems and Multimedia Organizers - Part 1
 |Name       |[What is multimedia data?](./MultimediaData.md)|[What are Multimedia IR systems?](./MultimediaIRSystems.md)|[Multimedia IR systems Analyze](./MultimediaIRSystemsAnalyze.md)|[What are Multimedia Organizers?](./MultimediaOrganizers.md)|
 |-----------|-----------------------------------------------|-----------------------------------------------------------|----------------------------------------------------------------|:------------------------------------------------------------:|
