@@ -229,6 +229,8 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Тринадцатый.](https://t.me/Z13_Separ)             |
 | [Поколение Z](https://t.me/+EXrNv7j5LIQxNmNi)      |
 | [Сводки ополчения](https://t.me/swodki)            |
+| [war_ukr_russ](https://t.me/war_ukr_russ)          |
+| [Владимир Зеленский](https://t.me/zelenskyi_vladimir)|
 
 # Closed comments
 | Link                                               | Status                 |
@@ -263,10 +265,8 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Разведотряд 106](https://t.me/VDV106Moskva)       | |
 | [Военкор Котенок](https://t.me/voenkorKotenok)     | |
 | [WAGNER GROUP](https://t.me/wagnernew)             | |
-| [war_ukr_russ](https://t.me/war_ukr_russ)          | |
 | [Z - Новости Бывшей Украины](https://t.me/z_novosti)||
 | [ЖИВОВ Z 🇷🇺](https://t.me/zhivoff)               | |
-| [Владимир Зеленский](https://t.me/zelenskyi_vladimir)|
 
 # Not working
 | Link                                               | Status                 |
