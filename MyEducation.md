@@ -5,7 +5,6 @@ TBD
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#tags)
 - [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#definitions-acronyms-abbreviations)
 - [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#overview)
-- [References](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#references)
 
 # Tags
 TBD
@@ -19,12 +18,6 @@ TBD
 TBD 
 
 ---
-
-<img src="./Images/TBD.jpg" alt="TBD" />
-
-# References
-| # | Name                 | Source                | Release date           |  Author                 | Description   |
-| - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 
 # Diplomas
 Currently, I hold 3 diplomas from **NaUKMA**, **EPAM SCHOOL of Digital Engineering** and **Kharkiv State Academy of Railway Transport**. 
