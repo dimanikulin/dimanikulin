@@ -1,25 +1,11 @@
 # Headline
-TBD 
+My Education 
 
 # Table of contents
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#tags)
-- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#definitions-acronyms-abbreviations)
-- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#overview)
 - [Diplomas](https://github.com/dimanikulin/dimanikulin/blob/main/MyEducation.md#diplomas)
 - [Certificates](https://github.com/dimanikulin/dimanikulin/blob/main/MyEducation.md#certificates)
 - [Cources](https://github.com/dimanikulin/dimanikulin/blob/main/MyEducation.md#cources)
 - [Conferences](https://github.com/dimanikulin/dimanikulin/blob/main/MyEducation.md#conferences)
-
-# Tags
-TBD
-
-# Definitions, Acronyms, Abbreviations
-| # | Abbreviation or Acronym | Definition     |
-| - | ------------------------|:--------------:|
-| 1 |
-
-# Overview
-TBD 
 
 ---
 
