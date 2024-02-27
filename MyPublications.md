@@ -34,7 +34,7 @@
 |-----------|---------------------------------------------------------------|----------------------------------------------------------------------|:---------------------------------------------------------------------------------:|
 |hashnode   |[13/02/2024](https://dimanikulin.hashnode.dev/detecting-architectural-gaps-with-automation-business-context)|TBD|TBD|TBD|
 |hackernoon |[21/02/2024](https://hackernoon.com/detecting-architectural-gaps-with-automation-business-context)|TBD|TBD|
-|linkedin   |TBD|TBD|TBD|
+|linkedin   |[27/02/2024](https://www.linkedin.com/posts/dimanikulin_softwarearchitecture-architecturevisualization-activity-7168137721008308224-9LoR?utm_source=share&utm_medium=member_desktop)|TBD|TBD|
 |dev.to     |TBD|TBD|TBD|
 |medium     |TBD|TBD|TBD|
 |reddit     |TBD|TBD|TBD|
