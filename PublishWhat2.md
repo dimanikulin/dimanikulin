@@ -118,7 +118,6 @@ My is
 - Are all references actual?
 - Is lenght under 2500 words?
 
-
 # References 
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
