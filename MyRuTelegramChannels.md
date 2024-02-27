@@ -228,6 +228,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [SU_Hunter_2_0](https://t.me/ZSU_Hunter_2_0)       |
 | [Тринадцатый.](https://t.me/Z13_Separ)             |
 | [Поколение Z](https://t.me/+EXrNv7j5LIQxNmNi)      |
+| [Сводки ополчения](https://t.me/swodki)            |
 
 # Closed comments
 | Link                                               | Status                 |
@@ -293,9 +294,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Севастополь. СМЕРШ](https://t.me/sevsmersh)       |
 | [Говорит ТопаZ🦩#ШВО](https://t.me/Topaz_Govorit)  |
 | [vadovskaya](https://t.me/vadovskaya)              |
-| [Сводки ополчения](https://t.me/swodki)            |
 | [xaknet_team](https://t.me/xaknet_team)            |
 | [ZaRussia72rus](https://t.me/zarussia010)          |
 | [Za Наших новости](https://t.me/za_nashih_news)    | 
-| [Срочно Запорожье](https://t.me/zzzzzzzzzapp)      |
- 
+| [Срочно Запорожье](https://t.me/zzzzzzzzzapp)      | 
