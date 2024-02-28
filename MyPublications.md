@@ -1,10 +1,7 @@
-<img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"/>
-
 # Headline
 My Publications
 
 # Table of contents
-
 - [About own product, its history and what I learned - Part 1](https://github.com/dimanikulin/dimanikulin/blob/main/MyPublications.md#about-own-product-its-history-and-what-i-learned---part-1)
 - [About own product, its history and what I learned - Part 2](https://github.com/dimanikulin/dimanikulin/blob/main/MyPublications.md#about-own-product-its-history-and-what-i-learned---part-2)
 - [Publications about Multimedia, Multimedia IR systems and Multimedia Organizers - Part 1](https://github.com/dimanikulin/dimanikulin/blob/main/MyPublications.md#publications-about-multimedia-multimedia-ir-systems-and-multimedia-organizers---part-1)
