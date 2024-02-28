@@ -112,11 +112,11 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Константиновка ZOV Обстановка](https://t.me/konstantunovka_ZOV) | WIP3 | 
 | [kommunist](https://t.me/kommunist)                | WIP3 |
 | [labppsh](https://t.me/labppsh)                    |  | 
-| [Военкор Белла Либерман](https://t.me/liberman_bella)| WIP4 | 
-| [LIC_LPR](https://t.me/LIC_LPR)                    | WIP4 |
+| [Военкор Белла Либерман](https://t.me/liberman_bella)| 
+| [LIC_LPR](https://t.me/LIC_LPR)                    |  |
 | [НОВОСТИ ЛНР](https://t.me/luganskallnews)         |  |
 | [Лыня🇷🇺](https://t.me/Lunay14)                   |  |
-| [Призрак Мариуполя 🔥😈](https://t.me/mariupol_ghost)|
+| [Призрак Мариуполя 🔥😈](https://t.me/mariupol_ghost) |
 | [Мисливец LITE](https://t.me/mislivetslite)        | WIP2 | 
 | [mariabutina](https://t.me/mariabutina)            |
 | [Мария Захарова](https://t.me/MariaVladimirovnaZakharova) | WIP3 |
@@ -172,7 +172,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [RuFront](https://t.me/RuFront)                    | 
 | [russiaz](https://t.me/russiaz)                    |
 | [Русская Душа](https://t.me/rusoul1)               |
-| [Русская Душа](https://t.me/russoulchat)           | WIP4 |
+| [Русская Душа](https://t.me/russoulchat)           |
 | [RUSVARG](https://t.me/rusvarg)                    |
 | [Российский Рубеж Za нашу П](https://t.me/RubejRuZa)| 
 | [Крылатые](https://t.me/russian_airborne)          |
