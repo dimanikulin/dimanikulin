@@ -4,14 +4,17 @@
 My Publications
 
 # Table of contents
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#tags)
-- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#definitions-acronyms-abbreviations)
-- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#overview)
-- [References](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#references)
 
-# References
-| # | Name                 | Source                | Release date           |  Author                 | Description   |
-| - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
+- [About own product, its history and what I learned - Part 1](https://github.com/dimanikulin/dimanikulin/blob/main/MyPublications.md#about-own-product-its-history-and-what-i-learned---part-1)
+- [About own product, its history and what I learned - Part 2](https://github.com/dimanikulin/dimanikulin/blob/main/MyPublications.md#about-own-product-its-history-and-what-i-learned---part-2)
+- [Publications about Multimedia, Multimedia IR systems and Multimedia Organizers - Part 1](https://github.com/dimanikulin/dimanikulin/blob/main/MyPublications.md#publications-about-multimedia-multimedia-ir-systems-and-multimedia-organizers---part-1)
+- [Publications about Multimedia, Multimedia IR systems and Multimedia Organizers - Part 2](https://github.com/dimanikulin/dimanikulin/blob/main/MyPublications.md#publications-about-multimedia-multimedia-ir-systems-and-multimedia-organizers---part-2)
+- [Detecting Architectural Gaps with Automation](https://github.com/dimanikulin/dimanikulin/blob/main/MyPublications.md#detecting-architectural-gaps-with-automation)
+- [How, What and Where to publish](https://github.com/dimanikulin/dimanikulin/blob/main/MyPublications.md#how-what-and-where-to-publish)
+- [Other publications](https://github.com/dimanikulin/dimanikulin/blob/main/MyPublications.md#other-publications)
+- [Not ready yet](https://github.com/dimanikulin/dimanikulin/blob/main/MyPublications.md#not-ready-yet)
+
+---
 
 # Publications about Multimedia, Multimedia IR systems and Multimedia Organizers - Part 1
 |Name       |[What is multimedia data?](./MultimediaData.md)|[What are Multimedia IR systems?](./MultimediaIRSystems.md)|[Multimedia IR systems Analyze](./MultimediaIRSystemsAnalyze.md)|[What are Multimedia Organizers?](./MultimediaOrganizers.md)|
