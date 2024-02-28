@@ -1,32 +1,16 @@
 <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"/>
 
 # Headline
-TBD 
+My Experience
 
 # Table of contents
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#tags)
-- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#definitions-acronyms-abbreviations)
-- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#overview)
-- [References](https://github.com/dimanikulin/dimanikulin/blob/main/!Template.md#references)
-
-# Tags
-TBD
-
-# Definitions, Acronyms, Abbreviations
-| # | Abbreviation or Acronym | Definition     |
-| - | ------------------------|:--------------:|
-| 1 |
-
-# Overview
-TBD 
+- [Working Experience](https://github.com/dimanikulin/dimanikulin/blob/main/MyExperience.md#working-experience)
+- [Skills](https://github.com/dimanikulin/dimanikulin/blob/main/MyExperience.md#skills)
+- [Contribution](https://github.com/dimanikulin/dimanikulin/blob/main/MyExperience.md#contribution)
+- [Business Trips](https://github.com/dimanikulin/dimanikulin/blob/main/MyExperience.md#business-trips)
+- [I can help you with](https://github.com/dimanikulin/dimanikulin/blob/main/MyExperience.md#i-can-help-you-with)
 
 ---
-
-<img src="./Images/TBD.jpg" alt="TBD" />
-
-# References
-| # | Name                 | Source                | Release date           |  Author                 | Description   |
-| - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 
 # Working Experience
 |Company, Place            |Duration       |Role     |Project Description   |Operation Systems              |Languages                        |Databases   |Libraries & FrameWorks                                 |Technologies|
