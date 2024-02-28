@@ -10,12 +10,6 @@ Russian telegram channels
 - [For bots](https://github.com/dimanikulin/dimanikulin/blob/main/MyRuTelegramChannels.md#for-bots)
 TBD
 
-# Tags
-TBD
-
-# Overview
-TBD 
-
 ---
  
 # For channels
