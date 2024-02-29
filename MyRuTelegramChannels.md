@@ -30,54 +30,6 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 **Message for reporting:**
 The bot was created and works to promote and publish fake news about the Russian invasion of Ukraine!
 
-# Closed
-| Link                                               |
-| ---------------------------------------------------|
-| [Бладсикер 2.0](https://t.me/+TjGTywz1xPRjNzg6)    | 
-| [Алексей Поддубный Джанго Z](https://t.me/alexeypoddubny_jango)| 
-| [Кузичев](https://t.me/a_kuzichev)                 | 
-| [АГС_Z_Донбасса](https://t.me/Ags_Donbass)         | 
-| [Андрей Гурулев депутат Госу](https://t.me/agurulev)|
-| [Краля Даля](https://t.me/alyonamakk)              | 
-| [ANONYMOUS RUSSIA](https://t.me/anon_russ)         | 
-| [Astory](https://t.me/Astory_Z)                    | 
-| [АРТподдержка](https://t.me/ARTpodderjka)          | 
-| [A.V.C. Group](https://t.me/avcgroup)              | 
-| [Чёрные гусары](https://t.me/blackhussars)         | 
-| [Сердитая Чувашия](https://t.me/ChuvashiaDream)    | 
-| [КРИСТАЛЛ РОСТА](https://t.me/crystal_book)        | 
-| [Депутат Елена Шишкина (ДНР)](https://t.me/dep_shishkina)|
-| [Дневник Десантника🇷🇺](https://t.me/DnevnikDesantnika)| 
-| [УКРОПСКИЙ ФРЕШ](https://t.me/dillfrash)           | 
-| [ДОЛГАРЕVА 🇷🇺](https://t.me/dolgarevaanna)       | 
-| [donezkiy](https://t.me/donezkiy)                  | 
-| [Donrf](https://t.me/donrf22)                      | 
-| [DOZOR](https://t.me/dozorwar)                     | 
-| [dva_majors](https://t.me/dva_majors)              | 
-| [Лик Войны](https://t.me/faceofwar)                | 
-| [Fighterbomber](https://t.me/fighter_bomber)       | 
-| [Скотомогильник](https://t.me/fiftnmls)            | 
-| [FridrihShow](https://t.me/FridrihShow)            | 
-| [GREY ZONE](https://t.me/grey_zone)                | 
-| [ПриZрак Новороссии](https://t.me/ghost_of_novorossia) | 
-| [harry_homolsky](https://t.me/harry_homolsky)      | 
-| [iikhu](https://t.me/iikhu)                        | 
-| [IronHelmets](https://t.me/IronHelmets)            | 
-| [izolentalive](https://t.me/izolentalive)          | 
-| [karjakinchess](https://t.me/karjakinchess)        | 
-| [Полина Кокс & CandyFlip](https://t.me/koksncandy) | 
-| [KotNaMirotvorze](https://t.me/KotNaMirotvorze)    | 
-| [KovaksClearSky](https://t.me/KovaksClearSky)      | 
-| [КТО ПО ЖИЗНИ](https://t.me/KPZYoyTube)            | 
-| [krasnovdmitri](https://t.me/krasnovdmitri)        | 
-| [kuzichev_chat](https://t.me/kuzichev_chat)        | 
-| [Мариуполь сейчас](https://t.me/mariupolz)         | 
-| [Министерство Логики](https://t.me/minlogiki)      | 
-| [NIK1®](https://t.me/NIK1_99)                      | 
-| [Норд](https://t.me/nordof777)                     | 
-| [SHAMAN](https://t.me/shaman_channel)              | 
-| [ИЗНАНКА](https://t.me/The_Wrong_Side)             | 
-
 # Wip 
 | Link                                               | Status                 |
 | ---------------------------------------------------|:----------------------:|
@@ -225,6 +177,54 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Сводки ополчения](https://t.me/swodki)            |
 | [war_ukr_russ](https://t.me/war_ukr_russ)          |
 | [Владимир Зеленский](https://t.me/zelenskyi_vladimir)|
+
+# Ban in chats
+| Link                                               |
+| ---------------------------------------------------|
+| [Бладсикер 2.0](https://t.me/+TjGTywz1xPRjNzg6)    | 
+| [Алексей Поддубный Джанго Z](https://t.me/alexeypoddubny_jango)| 
+| [Кузичев](https://t.me/a_kuzichev)                 | 
+| [АГС_Z_Донбасса](https://t.me/Ags_Donbass)         | 
+| [Андрей Гурулев депутат Госу](https://t.me/agurulev)|
+| [Краля Даля](https://t.me/alyonamakk)              | 
+| [ANONYMOUS RUSSIA](https://t.me/anon_russ)         | 
+| [Astory](https://t.me/Astory_Z)                    | 
+| [АРТподдержка](https://t.me/ARTpodderjka)          | 
+| [A.V.C. Group](https://t.me/avcgroup)              | 
+| [Чёрные гусары](https://t.me/blackhussars)         | 
+| [Сердитая Чувашия](https://t.me/ChuvashiaDream)    | 
+| [КРИСТАЛЛ РОСТА](https://t.me/crystal_book)        | 
+| [Депутат Елена Шишкина (ДНР)](https://t.me/dep_shishkina)|
+| [Дневник Десантника🇷🇺](https://t.me/DnevnikDesantnika)| 
+| [УКРОПСКИЙ ФРЕШ](https://t.me/dillfrash)           | 
+| [ДОЛГАРЕVА 🇷🇺](https://t.me/dolgarevaanna)       | 
+| [donezkiy](https://t.me/donezkiy)                  | 
+| [Donrf](https://t.me/donrf22)                      | 
+| [DOZOR](https://t.me/dozorwar)                     | 
+| [dva_majors](https://t.me/dva_majors)              | 
+| [Лик Войны](https://t.me/faceofwar)                | 
+| [Fighterbomber](https://t.me/fighter_bomber)       | 
+| [Скотомогильник](https://t.me/fiftnmls)            | 
+| [FridrihShow](https://t.me/FridrihShow)            | 
+| [GREY ZONE](https://t.me/grey_zone)                | 
+| [ПриZрак Новороссии](https://t.me/ghost_of_novorossia) | 
+| [harry_homolsky](https://t.me/harry_homolsky)      | 
+| [iikhu](https://t.me/iikhu)                        | 
+| [IronHelmets](https://t.me/IronHelmets)            | 
+| [izolentalive](https://t.me/izolentalive)          | 
+| [karjakinchess](https://t.me/karjakinchess)        | 
+| [Полина Кокс & CandyFlip](https://t.me/koksncandy) | 
+| [KotNaMirotvorze](https://t.me/KotNaMirotvorze)    | 
+| [KovaksClearSky](https://t.me/KovaksClearSky)      | 
+| [КТО ПО ЖИЗНИ](https://t.me/KPZYoyTube)            | 
+| [krasnovdmitri](https://t.me/krasnovdmitri)        | 
+| [kuzichev_chat](https://t.me/kuzichev_chat)        | 
+| [Мариуполь сейчас](https://t.me/mariupolz)         | 
+| [Министерство Логики](https://t.me/minlogiki)      | 
+| [NIK1®](https://t.me/NIK1_99)                      | 
+| [Норд](https://t.me/nordof777)                     | 
+| [SHAMAN](https://t.me/shaman_channel)              | 
+| [ИЗНАНКА](https://t.me/The_Wrong_Side)             | 
 
 # Closed comments
 | Link                                               |
