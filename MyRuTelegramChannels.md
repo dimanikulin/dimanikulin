@@ -263,23 +263,23 @@ The bot was created and works to promote and publish fake news about the Russian
 | [ЖИВОВ Z 🇷🇺](https://t.me/zhivoff)               | |
 
 # Not working
-| Link                                               | Status                 |
-| ---------------------------------------------------|:----------------------:|
-| [ANSHLAK](https://t.me/ANSNLAK)                    | | 
-| [Battle_🅉 _Sailor](https://t.me/BattleSailor_13)  | |
-| [Болталка](https://t.me/boltalkarussi)             | |
-| [BISMARCK резерв](https://t.me/bismarckedit)       | |
-| [Берлога (Z) 70 Гв. МСП](https://t.me/berloga_life)| |
-| [Российский Рубеж " Za нашу](https://t.me/compass83)||
-| [Синяя Z Борода](https://t.me/cmiye)               | too few subsribers |
-| [Сумасшедшая власть](https://t.me/crazypower1)     | AntiWar |
-| [СВО 2023](https://t.me/cvo2022_5)                 | |
-| [Donbass Insider](https://t.me/donbassinsider)     | |
-| [ХОХЛЫ, ШО С ЕБАЛОМ ?](https://t.me/KILL_BCY)      | |
-| [longread2023](https://t.me/longread2023)          | |
-| [Маша из Мариуполя 🇷🇺](https://t.me/mashainmarik)| | 
-| [m0sc0wcalling](https://t.me/m0sc0wcalling)        | AntiWar |
-| [Natalia2547](https://t.me/natalia2547)            | |
+| Link                                               |
+| ---------------------------------------------------|
+| [ANSHLAK](https://t.me/ANSNLAK)                    |
+| [Battle_🅉 _Sailor](https://t.me/BattleSailor_13)  |
+| [Болталка](https://t.me/boltalkarussi)             |
+| [BISMARCK резерв](https://t.me/bismarckedit)       |
+| [Берлога (Z) 70 Гв. МСП](https://t.me/berloga_life)|
+| [Российский Рубеж " Za нашу](https://t.me/compass83)|
+| [Синяя Z Борода](https://t.me/cmiye)               | 
+| [Сумасшедшая власть](https://t.me/crazypower1)     | 
+| [СВО 2023](https://t.me/cvo2022_5)                 | 
+| [Donbass Insider](https://t.me/donbassinsider)     | 
+| [ХОХЛЫ, ШО С ЕБАЛОМ ?](https://t.me/KILL_BCY)      | 
+| [longread2023](https://t.me/longread2023)          | 
+| [Маша из Мариуполя 🇷🇺](https://t.me/mashainmarik)| 
+| [m0sc0wcalling](https://t.me/m0sc0wcalling)        |
+| [Natalia2547](https://t.me/natalia2547)            |
 | [Найс!](https://t.me/n1ce_ch)                      |
 | [only_rodina](https://t.me/only_rodina)            |
 | [Отряд "КЕРЧЬ"42-я гв.МСД](https://t.me/otryadkerch42)|
@@ -291,4 +291,5 @@ The bot was created and works to promote and publish fake news about the Russian
 | [xaknet_team](https://t.me/xaknet_team)            |
 | [ZaRussia72rus](https://t.me/zarussia010)          |
 | [Za Наших новости](https://t.me/za_nashih_news)    | 
-| [Срочно Запорожье](https://t.me/zzzzzzzzzapp)      | 
+| [Срочно Запорожье](https://t.me/zzzzzzzzzapp)      |
+ 
