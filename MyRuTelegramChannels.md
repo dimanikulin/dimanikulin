@@ -4,11 +4,14 @@
 Russian telegram channels
 
 # Table of contents
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/MyRuTelegramChannels.md#tags)
-- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/MyRuTelegramChannels.md#overview)
-- [For channels](https://github.com/dimanikulin/dimanikulin/blob/main/MyRuTelegramChannels.md#for-channels)
-- [For bots](https://github.com/dimanikulin/dimanikulin/blob/main/MyRuTelegramChannels.md#for-bots)
-TBD
+- [Tags](MyRuTelegramChannels.md#tags)
+- [Overview](MyRuTelegramChannels.md#overview)
+- [For channels](MyRuTelegramChannels.md#for-channels)
+- [For bots](MyRuTelegramChannels.md#for-bots)
+- [Wip](MyRuTelegramChannels.md#wip)
+- [Ban in chats](MyRuTelegramChannels.md#ban-in-chats)
+- [Closed comments](MyRuTelegramChannels.md#closed-comments)
+- [Not working](MyRuTelegramChannels.md#not-working)
 
 ---
  
