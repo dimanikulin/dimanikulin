@@ -2,12 +2,12 @@
 Working with GPT
  
 # Table of contents
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/ChatGPT.md#tags)
-- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/ChatGPT.md#overview)
-- [Everyone must know that!](https://github.com/dimanikulin/dimanikulin/blob/main/ChatGPT.md#everyone-must-know-that)
-- [ChatGPT in CV](https://github.com/dimanikulin/dimanikulin/blob/main/ChatGPT.md#chatgpt-in-cv)
-- [Do you consider ChatGPT a useful tool?](https://github.com/dimanikulin/dimanikulin/blob/main/ChatGPT.md#do-you-consider-chatgpt-a-useful-tool)
-- [References](https://github.com/dimanikulin/dimanikulin/blob/main/ChatGPT.md#references)
+- [Tags](ChatGPT.md#tags)
+- [Overview](ChatGPT.md#overview)
+- [Everyone must know that!](ChatGPT.md#everyone-must-know-that)
+- [ChatGPT in CV](ChatGPT.md#chatgpt-in-cv)
+- [Do you consider ChatGPT a useful tool?](ChatGPT.md#do-you-consider-chatgpt-a-useful-tool)
+- [References](ChatGPT.md#references)
 
 # Tags
 ChatGPT 
