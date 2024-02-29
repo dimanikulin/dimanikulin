@@ -95,23 +95,23 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Черноморский экспресс](https://t.me/chernmorskiiexpres) | WIP1 |
 | [Донецк ⚒  ЧП Макеевка](https://t.me/dark_donetskz)| 
 | [ZOV22rus](https://t.me/difmox_w)                  |
-| [eternoff](https://t.me/eternoff)                  | WIP2 | 
+| [eternoff](https://t.me/eternoff)                  | 
 | [FPV-выZOV](https://t.me/FPV_vyZOV)                |
 | [Рядовой на передовой](https://t.me/frontline_pvt) |
 | [G.A.M.A.](https://t.me/gama_war)                  |
 | [Моисей](https://t.me/gefestwar)                   | 
 | [Grigorjev](https://t.me/Grigorjev)                | 
 | [imnotbozhena](https://t.me/imnotbozhena)          | WIP3 | 
-| [istoricprovincial](https://t.me/istoricprovincial)| WIP2 | 
+| [istoricprovincial](https://t.me/istoricprovincial)| 
 | [Константиновка ZOV Обстановка](https://t.me/konstantunovka_ZOV) | WIP3 | 
 | [kommunist](https://t.me/kommunist)                | WIP3 |
-| [labppsh](https://t.me/labppsh)                    |  | 
+| [labppsh](https://t.me/labppsh)                    | 
 | [Военкор Белла Либерман](https://t.me/liberman_bella)| 
-| [LIC_LPR](https://t.me/LIC_LPR)                    |  |
-| [НОВОСТИ ЛНР](https://t.me/luganskallnews)         |  |
-| [Лыня🇷🇺](https://t.me/Lunay14)                   |  |
-| [Призрак Мариуполя 🔥😈](https://t.me/mariupol_ghost) |
-| [Мисливец LITE](https://t.me/mislivetslite)        | WIP2 | 
+| [LIC_LPR](https://t.me/LIC_LPR)                    |
+| [НОВОСТИ ЛНР](https://t.me/luganskallnews)         |
+| [Лыня🇷🇺](https://t.me/Lunay14)                   |
+| [Призрак Мариуполя 🔥😈](https://t.me/mariupol_ghost)|
+| [Мисливец LITE](https://t.me/mislivetslite)        | 
 | [mariabutina](https://t.me/mariabutina)            |
 | [Мария Захарова](https://t.me/MariaVladimirovnaZakharova) | WIP3 |
 | [Marinaslovo](https://t.me/Marinaslovo)            | 
