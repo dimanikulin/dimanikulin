@@ -31,52 +31,52 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 The bot was created and works to promote and publish fake news about the Russian invasion of Ukraine!
 
 # Closed
-| Link                                               | Status                 |
-| ---------------------------------------------------|:----------------------:|
-| [Бладсикер 2.0](https://t.me/+TjGTywz1xPRjNzg6)    | closed for DN1 and DN2 | 
-| [Алексей Поддубный Джанго Z](https://t.me/alexeypoddubny_jango)| closed for DN1 |
-| [Кузичев](https://t.me/a_kuzichev)                 | closed for DN1 | 
-| [АГС_Z_Донбасса](https://t.me/Ags_Donbass)         | closed for DN1 | 
-| [Андрей Гурулев депутат Госу](https://t.me/agurulev)| closed for DN1 | 
-| [Краля Даля](https://t.me/alyonamakk)              | closed for DN1 |
-| [ANONYMOUS RUSSIA](https://t.me/anon_russ)         | closed for DN1 |
-| [Astory](https://t.me/Astory_Z)                    | closed for DN2 |
-| [АРТподдержка](https://t.me/ARTpodderjka)          | closed for DN1 | 
-| [A.V.C. Group](https://t.me/avcgroup)              | closed for DN1 | 
-| [Чёрные гусары](https://t.me/blackhussars)         | closed for DN1 | 
-| [Сердитая Чувашия](https://t.me/ChuvashiaDream)    | closed for DN2, AntiPutin content | 
-| [КРИСТАЛЛ РОСТА](https://t.me/crystal_book)        | closed for DN2 |
-| [Депутат Елена Шишкина (ДНР)](https://t.me/dep_shishkina)| closed for DN2 |
-| [Дневник Десантника🇷🇺](https://t.me/DnevnikDesantnika)| closed for DN2 |
-| [УКРОПСКИЙ ФРЕШ](https://t.me/dillfrash)           | closed for DN2 |
-| [ДОЛГАРЕVА 🇷🇺](https://t.me/dolgarevaanna)       | closed for DN2 |
-| [donezkiy](https://t.me/donezkiy)                  | closed for DN1,2 |
-| [Donrf](https://t.me/donrf22)                      | closed for DN2 |
-| [DOZOR](https://t.me/dozorwar)                     | closed for DN2 | 
-| [dva_majors](https://t.me/dva_majors)              | closed for DN2 | 
-| [Лик Войны](https://t.me/faceofwar)                | closed for DN2 | 
-| [Fighterbomber](https://t.me/fighter_bomber)       | closed for DN2 | 
-| [Скотомогильник](https://t.me/fiftnmls)            | closed for DN2 | 
-| [FridrihShow](https://t.me/FridrihShow)            | closed for DN2 | 
-| [GREY ZONE](https://t.me/grey_zone)                | closed for DN2 | 
-| [ПриZрак Новороссии](https://t.me/ghost_of_novorossia) | closed for DN2 |
-| [harry_homolsky](https://t.me/harry_homolsky)      | closed for DN2 |
-| [iikhu](https://t.me/iikhu)                        | closed for DN2 |
-| [IronHelmets](https://t.me/IronHelmets)            | Closed for DN3 | 
-| [izolentalive](https://t.me/izolentalive)          | closed for DN3 | 
-| [karjakinchess](https://t.me/karjakinchess)        | Closed for DN2 | 
-| [Полина Кокс & CandyFlip](https://t.me/koksncandy) | closed for DN2 | 
-| [KotNaMirotvorze](https://t.me/KotNaMirotvorze)    | closed for DN3 |
-| [KovaksClearSky](https://t.me/KovaksClearSky)      | closed for DN2 | 
-| [КТО ПО ЖИЗНИ](https://t.me/KPZYoyTube)            | closed for DN4 | 
-| [krasnovdmitri](https://t.me/krasnovdmitri)        | closed for DN4 | 
-| [kuzichev_chat](https://t.me/kuzichev_chat)        | closed for DN4 | 
-| [Мариуполь сейчас](https://t.me/mariupolz)         | closed for DN2 |
-| [Министерство Логики](https://t.me/minlogiki)      | closed for DN4 | 
-| [NIK1®](https://t.me/NIK1_99)                      | closed for DN2 |
-| [Норд](https://t.me/nordof777)                     | closed for DN2 |
-| [SHAMAN](https://t.me/shaman_channel)              | Closed for DN4 | |
-| [ИЗНАНКА](https://t.me/The_Wrong_Side)             | closed for DN2, DN3 | |
+| Link                                               |
+| ---------------------------------------------------|
+| [Бладсикер 2.0](https://t.me/+TjGTywz1xPRjNzg6)    | 
+| [Алексей Поддубный Джанго Z](https://t.me/alexeypoddubny_jango)| 
+| [Кузичев](https://t.me/a_kuzichev)                 | 
+| [АГС_Z_Донбасса](https://t.me/Ags_Donbass)         | 
+| [Андрей Гурулев депутат Госу](https://t.me/agurulev)|
+| [Краля Даля](https://t.me/alyonamakk)              | 
+| [ANONYMOUS RUSSIA](https://t.me/anon_russ)         | 
+| [Astory](https://t.me/Astory_Z)                    | 
+| [АРТподдержка](https://t.me/ARTpodderjka)          | 
+| [A.V.C. Group](https://t.me/avcgroup)              | 
+| [Чёрные гусары](https://t.me/blackhussars)         | 
+| [Сердитая Чувашия](https://t.me/ChuvashiaDream)    | 
+| [КРИСТАЛЛ РОСТА](https://t.me/crystal_book)        | 
+| [Депутат Елена Шишкина (ДНР)](https://t.me/dep_shishkina)|
+| [Дневник Десантника🇷🇺](https://t.me/DnevnikDesantnika)| 
+| [УКРОПСКИЙ ФРЕШ](https://t.me/dillfrash)           | 
+| [ДОЛГАРЕVА 🇷🇺](https://t.me/dolgarevaanna)       | 
+| [donezkiy](https://t.me/donezkiy)                  | 
+| [Donrf](https://t.me/donrf22)                      | 
+| [DOZOR](https://t.me/dozorwar)                     | 
+| [dva_majors](https://t.me/dva_majors)              | 
+| [Лик Войны](https://t.me/faceofwar)                | 
+| [Fighterbomber](https://t.me/fighter_bomber)       | 
+| [Скотомогильник](https://t.me/fiftnmls)            | 
+| [FridrihShow](https://t.me/FridrihShow)            | 
+| [GREY ZONE](https://t.me/grey_zone)                | 
+| [ПриZрак Новороссии](https://t.me/ghost_of_novorossia) | 
+| [harry_homolsky](https://t.me/harry_homolsky)      | 
+| [iikhu](https://t.me/iikhu)                        | 
+| [IronHelmets](https://t.me/IronHelmets)            | 
+| [izolentalive](https://t.me/izolentalive)          | 
+| [karjakinchess](https://t.me/karjakinchess)        | 
+| [Полина Кокс & CandyFlip](https://t.me/koksncandy) | 
+| [KotNaMirotvorze](https://t.me/KotNaMirotvorze)    | 
+| [KovaksClearSky](https://t.me/KovaksClearSky)      | 
+| [КТО ПО ЖИЗНИ](https://t.me/KPZYoyTube)            | 
+| [krasnovdmitri](https://t.me/krasnovdmitri)        | 
+| [kuzichev_chat](https://t.me/kuzichev_chat)        | 
+| [Мариуполь сейчас](https://t.me/mariupolz)         | 
+| [Министерство Логики](https://t.me/minlogiki)      | 
+| [NIK1®](https://t.me/NIK1_99)                      | 
+| [Норд](https://t.me/nordof777)                     | 
+| [SHAMAN](https://t.me/shaman_channel)              | 
+| [ИЗНАНКА](https://t.me/The_Wrong_Side)             | 
 
 # Wip 
 | Link                                               | Status                 |
@@ -227,40 +227,40 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Владимир Зеленский](https://t.me/zelenskyi_vladimir)|
 
 # Closed comments
-| Link                                               | Status                 |
-| ---------------------------------------------------|:----------------------:|
-| [Тицкий_на_Юге 🇷🇺](https://t.me/AntonTitski)     | |
-| [Азарёнок. СТВ. Беларусь](https://t.me/AzarenokCTV)| |
-| [Батальон Восток](https://t.me/batalyon_vostok)    | | 
-| [Работайте, братья!](https://t.me/btr80)           | | 
-| [Dambiev](https://t.me/ChDambiev)                  | | 
-| [Крымская Z прачка 🧺🧼](https://t.me/Crimeanprachka)||
-| [Война на Украине. Ежедневны](https://t.me/DayNewsWar)||
-| [Донбасс решает](https://t.me/donbassr)            | |
-| [Поддубный ZОV](https://t.me/epoddubny)            | |
-| [HersonVestnik](https://t.me/HersonVestnik)        | |
-| [Художник Z патриот](https://t.me/hudojnikZ)       | |
-| [NerV⚡️⚡️⚡️](https://t.me/KaskadNerv)              | | 
-| [kalininrus](https://t.me/kalininrus)              | | 
-| [Лера и булочка ❤️](https://t.me/leraBratsaaaa)    | | 
-| [LOSTARMOUR](https://t.me/lost_armour)             | |
-| [ZАПИСКИ VЕТЕРАНА](https://t.me/notes_veterans)    | |
-| [Оперативные сводки](https://t.me/opersvodki)      | |
-| [Сводки и Аналитика СВО](https://t.me/rezervsvo)   | |
-| [РИА Новости: ДНР](https://t.me/ria_dnr)           | |
-| [Репортёр Руденко V🇷🇺](https://t.me/RtrDonetsk)  | |
-| [Русская Весна СПЕЦОПЕРАЦ](https://t.me/russian_spring_zz) | |
-| [ТРОЙКА](https://t.me/rustroyka1945)               | | 
-| [СИЛОВИКИ](https://t.me/SIL0VIKI)                  | |
-| [Скабеева](https://t.me/skabeeva)                  | |
-| [Сладков +](https://t.me/Sladkov_plus)             | |
-| [СМОТРИ](https://t.me/smotri_media)                | |
-| [«СОЮЗ ВЕТЕРАНОВ СВО» по КК](https://t.me/souzveteranovsvokk)| | 
-| [Разведотряд 106](https://t.me/VDV106Moskva)       | |
-| [Военкор Котенок](https://t.me/voenkorKotenok)     | |
-| [WAGNER GROUP](https://t.me/wagnernew)             | |
-| [Z - Новости Бывшей Украины](https://t.me/z_novosti)||
-| [ЖИВОВ Z 🇷🇺](https://t.me/zhivoff)               | |
+| Link                                               |
+| ---------------------------------------------------|
+| [Тицкий_на_Юге 🇷🇺](https://t.me/AntonTitski)     |
+| [Азарёнок. СТВ. Беларусь](https://t.me/AzarenokCTV)|
+| [Батальон Восток](https://t.me/batalyon_vostok)    |
+| [Работайте, братья!](https://t.me/btr80)           |
+| [Dambiev](https://t.me/ChDambiev)                  |
+| [Крымская Z прачка 🧺🧼](https://t.me/Crimeanprachka)|
+| [Война на Украине. Ежедневны](https://t.me/DayNewsWar)|
+| [Донбасс решает](https://t.me/donbassr)            |
+| [Поддубный ZОV](https://t.me/epoddubny)            |
+| [HersonVestnik](https://t.me/HersonVestnik)        |
+| [Художник Z патриот](https://t.me/hudojnikZ)       |
+| [NerV⚡️⚡️⚡️](https://t.me/KaskadNerv)              | 
+| [kalininrus](https://t.me/kalininrus)              | 
+| [Лера и булочка ❤️](https://t.me/leraBratsaaaa)    | 
+| [LOSTARMOUR](https://t.me/lost_armour)             |
+| [ZАПИСКИ VЕТЕРАНА](https://t.me/notes_veterans)    |
+| [Оперативные сводки](https://t.me/opersvodki)      |
+| [Сводки и Аналитика СВО](https://t.me/rezervsvo)   |
+| [РИА Новости: ДНР](https://t.me/ria_dnr)           |
+| [Репортёр Руденко V🇷🇺](https://t.me/RtrDonetsk)  |
+| [Русская Весна СПЕЦОПЕРАЦ](https://t.me/russian_spring_zz)|
+| [ТРОЙКА](https://t.me/rustroyka1945)               | 
+| [СИЛОВИКИ](https://t.me/SIL0VIKI)                  |
+| [Скабеева](https://t.me/skabeeva)                  |
+| [Сладков +](https://t.me/Sladkov_plus)             |
+| [СМОТРИ](https://t.me/smotri_media)                |
+| [«СОЮЗ ВЕТЕРАНОВ СВО» по КК](https://t.me/souzveteranovsvokk)| 
+| [Разведотряд 106](https://t.me/VDV106Moskva)       | 
+| [Военкор Котенок](https://t.me/voenkorKotenok)     | 
+| [WAGNER GROUP](https://t.me/wagnernew)             | 
+| [Z - Новости Бывшей Украины](https://t.me/z_novosti)|
+| [ЖИВОВ Z 🇷🇺](https://t.me/zhivoff)               | 
 
 # Not working
 | Link                                               |
