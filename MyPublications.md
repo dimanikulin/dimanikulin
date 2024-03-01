@@ -96,3 +96,5 @@ My Publications
 
 # Not ready yet
 [Profile and CV as a code](./ProfileAsCode.md)
+[Rules I use to work with Telegram](./MyRulesWorkingWithTg.md)
+[My Telegram Channel](./MyTelegramChannel)
