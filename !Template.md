@@ -2,10 +2,10 @@
 TBD 
 
 # Table of contents
-- [Tags](!Template.md#tags)
-- [Definitions, Acronyms, Abbreviations](!Template.md#definitions-acronyms-abbreviations)
-- [Overview](!Template.md#overview)
-- [References](!Template.md#references)
+- [Tags](./!Template.md#tags)
+- [Definitions, Acronyms, Abbreviations](./!Template.md#definitions-acronyms-abbreviations)
+- [Overview](./!Template.md#overview)
+- [References](./!Template.md#references)
 
 # Tags
 TBD
