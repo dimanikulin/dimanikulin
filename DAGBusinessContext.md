@@ -4,20 +4,20 @@ or
 **Detecting Architectural Gaps** with Automation - Business Context
 
 # Table of contents
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/DAGBusinessContext.md#tags)
-- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/DAGBusinessContext.md#definitions-acronyms-abbreviations)
-- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/DAGBusinessContext.md#overview)
-- [Executive summary](https://github.com/dimanikulin/dimanikulin/blob/main/DAGBusinessContext.md#executive-summary)
-- [Detecting Architectural Gaps with Automation](https://github.com/dimanikulin/dimanikulin/blob/main/DAGBusinessContext.md#detecting-architectural-gaps-with-automation)
-- [Solution requirements](https://github.com/dimanikulin/dimanikulin/blob/main/DAGBusinessContext.md#solution-requirements)
-- [Solution modes](https://github.com/dimanikulin/dimanikulin/blob/main/DAGBusinessContext.md#solution-modes)
-- [Solution inputs](https://github.com/dimanikulin/dimanikulin/blob/main/DAGBusinessContext.md#solution-inputs)
-- [Solution integration](https://github.com/dimanikulin/dimanikulin/blob/main/DAGBusinessContext.md#solution-integration)
-- [User interaction](https://github.com/dimanikulin/dimanikulin/blob/main/DAGBusinessContext.md#user-interaction)
-- [Solution output](https://github.com/dimanikulin/dimanikulin/blob/main/DAGBusinessContext.md#solution-output)
-- [Modifiability and extendibility](https://github.com/dimanikulin/dimanikulin/blob/main/DAGBusinessContext.md#modifiability-and-extendibility)
-- [Configurability](https://github.com/dimanikulin/dimanikulin/blob/main/DAGBusinessContext.md#configurability)
-- [References](https://github.com/dimanikulin/dimanikulin/blob/main/DAGBusinessContext.md#references)
+- [Tags](./DAGBusinessContext.md#tags)
+- [Definitions, Acronyms, Abbreviations](./DAGBusinessContext.md#definitions-acronyms-abbreviations)
+- [Overview](./DAGBusinessContext.md#overview)
+- [Executive summary](./DAGBusinessContext.md#executive-summary)
+- [Detecting Architectural Gaps with Automation](./DAGBusinessContext.md#detecting-architectural-gaps-with-automation)
+- [Solution requirements](./DAGBusinessContext.md#solution-requirements)
+- [Solution modes](./DAGBusinessContext.md#solution-modes)
+- [Solution inputs](./DAGBusinessContext.md#solution-inputs)
+- [Solution integration](./DAGBusinessContext.md#solution-integration)
+- [User interaction](./DAGBusinessContext.md#user-interaction)
+- [Solution output](./DAGBusinessContext.md#solution-output)
+- [Modifiability and extendibility](./DAGBusinessContext.md#modifiability-and-extendibility)
+- [Configurability](./DAGBusinessContext.md#configurability)
+- [References](./DAGBusinessContext.md#references)
 
 # Tags
 Software architecture, architecture review, architecture drift, architecture erosion, manual review, dependency analysis

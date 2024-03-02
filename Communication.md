@@ -2,12 +2,12 @@
 Communication
 
 # Table of contents
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/Communication.md#tags)
-- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/Communication.md#definitions-acronyms-abbreviations)
-- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/Communication.md#overview)
-- [We need more Messengers!](https://github.com/dimanikulin/dimanikulin/blob/main/Communication.md#we-need-more-messengers)
-- [What does it mean for me to be online?](https://github.com/dimanikulin/dimanikulin/blob/main/Communication.md#what-does-it-mean-for-me-to-be-online)
-- [References](https://github.com/dimanikulin/dimanikulin/blob/main/Communication.md#references)
+- [Tags](./Communication.md#tags)
+- [Definitions, Acronyms, Abbreviations](./Communication.md#definitions-acronyms-abbreviations)
+- [Overview](./Communication.md#overview)
+- [We need more Messengers!](./Communication.md#we-need-more-messengers)
+- [What does it mean for me to be online?](./Communication.md#what-does-it-mean-for-me-to-be-online)
+- [References](./Communication.md#references)
 
 # Tags
 Communication
