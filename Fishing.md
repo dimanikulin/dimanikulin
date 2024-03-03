@@ -2,15 +2,15 @@
 The Art of Phishing: How Scammers Are Trying to Reel You In
 
 # Table of contents
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/Fishing.md#tags)
-- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/Fishing.md#overview)
-- [Attempt 0](https://github.com/dimanikulin/dimanikulin/blob/main/Fishing.md#attempt-0)
-- [Attempt 1](https://github.com/dimanikulin/dimanikulin/blob/main/Fishing.md#attempt-1)
-- [Attempt 2](https://github.com/dimanikulin/dimanikulin/blob/main/Fishing.md#attempt-2)
-- [Attempt 3](https://github.com/dimanikulin/dimanikulin/blob/main/Fishing.md#attempt-3)
-- [Attempt 4](https://github.com/dimanikulin/dimanikulin/blob/main/Fishing.md#attempt-4)
-- [Sensitive or confidential language](https://github.com/dimanikulin/dimanikulin/blob/main/Fishing.md#sensitive-or-confidential-language)
-- [References](https://github.com/dimanikulin/dimanikulin/blob/main/Fishing.md#references)
+- [Tags](./Fishing.md#tags)
+- [Overview](./Fishing.md#overview)
+- [Attempt 0](./Fishing.md#attempt-0)
+- [Attempt 1](./Fishing.md#attempt-1)
+- [Attempt 2](./Fishing.md#attempt-2)
+- [Attempt 3](./Fishing.md#attempt-3)
+- [Attempt 4](./Fishing.md#attempt-4)
+- [Sensitive or confidential language](./Fishing.md#sensitive-or-confidential-language)
+- [References](./Fishing.md#references)
 
 # Tags
 fishing staysafe emailsecurity internetsecurity

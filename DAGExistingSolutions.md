@@ -4,21 +4,21 @@ or
 **Detecting Architectural Gaps** with Automation - Existing Solutions
 
 # Table of contents
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#tags)
-- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#definitions-acronyms-abbreviations)
-- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#overview)
-- [Bionic.ai](https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#bionicai)
-- [Main features](https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#main-features)
-- [Castsoftware Highlight](https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#castsoftware-highlight)
-- [Main features](https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#main-features-1)
-- [Castsoftware Cast Imaging](https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#castsoftware-cast-imaging)
-- [Main features](https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#main-features-2)
-- [NDepend](https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#ndepend)
-- [Main features](https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#main-features-3)
-- [Axivion Suite](https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#axivion-suite)
-- [Main Features](https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#main-features-4)
-- [Comparison of existing solutions](https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#comparison-of-existing-solutions)
-- [References](https://github.com/dimanikulin/dimanikulin/blob/main/DAGExistingSolutions.md#references)
+- [Tags](./DAGExistingSolutions.md#tags)
+- [Definitions, Acronyms, Abbreviations](./DAGExistingSolutions.md#definitions-acronyms-abbreviations)
+- [Overview](./DAGExistingSolutions.md#overview)
+- [Bionic.ai](./DAGExistingSolutions.md#bionicai)
+- [Main features](./DAGExistingSolutions.md#main-features)
+- [Castsoftware Highlight](./DAGExistingSolutions.md#castsoftware-highlight)
+- [Main features](./DAGExistingSolutions.md#main-features-1)
+- [Castsoftware Cast Imaging](./DAGExistingSolutions.md#castsoftware-cast-imaging)
+- [Main features](./DAGExistingSolutions.md#main-features-2)
+- [NDepend](./DAGExistingSolutions.md#ndepend)
+- [Main features](./DAGExistingSolutions.md#main-features-3)
+- [Axivion Suite](./DAGExistingSolutions.md#axivion-suite)
+- [Main Features](./DAGExistingSolutions.md#main-features-4)
+- [Comparison of existing solutions](./DAGExistingSolutions.md#comparison-of-existing-solutions)
+- [References](./DAGExistingSolutions.md#references)
 
 # Tags
 Bionic.ai Castsoftware Axivion NDepend softwarearchitecture applicationanalysis impactanalysis codeanalysis staticcodeanalysis architecturemaintenance
