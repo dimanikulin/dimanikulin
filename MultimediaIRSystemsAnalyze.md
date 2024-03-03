@@ -1,11 +1,6 @@
 # Headline
-TBD
-
-# The Comparison of Private Multimedia IR Systems
-In this article, we compare several private multimedia information retrieval (IR) systems based on the requirements and needs of users.
-We recommend choosing one offline and one online system, as some users prefer multimedia IR systems integrated with online storage while others prefer offline ones.
-Similarly, we compare both proprietary and open systems. 
-
+The Comparison of Private Multimedia IR Systems
+ 
 # Table of contents
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaIRSystemsAnalyze.md#tags)
 - [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaIRSystemsAnalyze.md#overview)
@@ -30,7 +25,9 @@ Multimedia IR systems, Synology Moments, Mylio, Google Photos, digiKam, Apple ph
 | 8 | [Mylio](https://mylio.com/tour/)| Mylio has a suite of tools to help you locate and consolidate your images across a variety of locations, including external hard drives, online services.|
 
 # Overview
-TBD 
+In this article, we compare several private multimedia information retrieval (IR) systems based on the requirements and needs of users.
+We recommend choosing one offline and one online system, as some users prefer multimedia IR systems integrated with online storage while others prefer offline ones.
+Similarly, we compare both proprietary and open systems. 
 
 ---
  
