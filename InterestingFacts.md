@@ -2,13 +2,13 @@
 Interesting facts
  
 # Table of contents
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/InterestingFacts.md#tags)
-- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/InterestingFacts.md#overview)
-- [Interesting facts about number *6*](https://github.com/dimanikulin/dimanikulin/blob/main/InterestingFacts.md#interesting-facts-about-number-6)
-- [Interesting facts about number *11*](https://github.com/dimanikulin/dimanikulin/blob/main/InterestingFacts.md#interesting-facts-about-number-11)
-- [Interesting facts about number *12*](https://github.com/dimanikulin/dimanikulin/blob/main/InterestingFacts.md#interesting-facts-about-number-12)
-- [Interesting facts about number *13*](https://github.com/dimanikulin/dimanikulin/blob/main/InterestingFacts.md#interesting-facts-about-number-13)
-- [References](https://github.com/dimanikulin/dimanikulin/blob/main/InterestingFacts.md#references)
+- [Tags](./InterestingFacts.md#tags)
+- [Overview](./InterestingFacts.md#overview)
+- [Interesting facts about number *6*](./InterestingFacts.md#interesting-facts-about-number-6)
+- [Interesting facts about number *11*](./InterestingFacts.md#interesting-facts-about-number-11)
+- [Interesting facts about number *12*](./InterestingFacts.md#interesting-facts-about-number-12)
+- [Interesting facts about number *13*](./InterestingFacts.md#interesting-facts-about-number-13)
+- [References](./InterestingFacts.md#references)
 
 # Tags
 interestingfacts numbers

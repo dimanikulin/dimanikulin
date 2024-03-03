@@ -2,12 +2,12 @@
 Everything about the interviews
 
 # Table of contents
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/Interviews.md#tags)
-- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/Interviews.md#overview)
-- [Interview Red Flags](https://github.com/dimanikulin/dimanikulin/blob/main/Interviews.md#interview-red-flags)
-- [AI tools for interview](https://github.com/dimanikulin/dimanikulin/blob/main/Interviews.md#ai-tools-for-interview)
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/Interviews.md#tags-1)
-- [References](https://github.com/dimanikulin/dimanikulin/blob/main/Interviews.md#references)
+- [Tags](./Interviews.md#tags)
+- [Overview](./Interviews.md#overview)
+- [Interview Red Flags](./Interviews.md#interview-red-flags)
+- [AI tools for interview](./Interviews.md#ai-tools-for-interview)
+- [Tags](./Interviews.md#tags-1)
+- [References](./Interviews.md#references)
 
 # Tags
 interviewer cplusplus cpp technicalinterview
