@@ -2,13 +2,13 @@
 What are Multimedia Organizers?
 
 # Table of contents
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaOrganizers.md#tags)
-- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaOrganizers.md#definitions-acronyms-abbreviations)
-- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaOrganizers.md#overview)
-- [Multimedia Organizers functions](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaOrganizers.md#multimedia-organizers-functions)
-- [Multimedia Organizer requirements](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaOrganizers.md#multimedia-organizer-requirements)
-- [Multimedia Organizer approaches to create folder structure](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaOrganizers.md#multimedia-organizer-approaches-to-create-folder-structure)
-- [References](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaOrganizers.md#references)
+- [Tags](./MultimediaOrganizers.md#tags)
+- [Definitions, Acronyms, Abbreviations](./MultimediaOrganizers.md#definitions-acronyms-abbreviations)
+- [Overview](./MultimediaOrganizers.md#overview)
+- [Multimedia Organizers functions](./MultimediaOrganizers.md#multimedia-organizers-functions)
+- [Multimedia Organizer requirements](./MultimediaOrganizers.md#multimedia-organizer-requirements)
+- [Multimedia Organizer approaches to create folder structure](./MultimediaOrganizers.md#multimedia-organizer-approaches-to-create-folder-structure)
+- [References](./MultimediaOrganizers.md#references)
 
 # Tags
 Multimedia organizers, Photo management, Photo organizer software, Metadata, IR Multimedia Systems

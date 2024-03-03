@@ -2,12 +2,12 @@
 What are Multimedia IR systems?
 
 # Table of contents
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaIRSystems.md#tags)
-- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaIRSystems.md#definitions-acronyms-abbreviations)
-- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaIRSystems.md#overview)
-- [User's needs in Multimedia IR Systems](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaIRSystems.md#users-needs-in-multimedia-ir-systems)
-- [Professional's needs in Multimedia IR systems](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaIRSystems.md#professionals-needs-in-multimedia-ir-systems)
-- [References](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaIRSystems.md#references)
+- [Tags](./MultimediaIRSystems.md#tags)
+- [Definitions, Acronyms, Abbreviations](./MultimediaIRSystems.md#definitions-acronyms-abbreviations)
+- [Overview](./MultimediaIRSystems.md#overview)
+- [User's needs in Multimedia IR Systems](./MultimediaIRSystems.md#users-needs-in-multimedia-ir-systems)
+- [Professional's needs in Multimedia IR systems](./MultimediaIRSystems.md#professionals-needs-in-multimedia-ir-systems)
+- [References](./MultimediaIRSystems.md#references)
 
 # Tags
 Multimedia Information Retrieval, Multimedia IR systems, Metadata, Search

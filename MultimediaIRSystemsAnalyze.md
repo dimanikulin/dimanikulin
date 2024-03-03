@@ -2,12 +2,12 @@
 The Comparison of Private Multimedia IR Systems
  
 # Table of contents
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaIRSystemsAnalyze.md#tags)
-- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaIRSystemsAnalyze.md#overview)
-- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaIRSystemsAnalyze.md#definitions-acronyms-abbreviations)
-- [Well implemented features](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaIRSystemsAnalyze.md#well-implemented-features)
-- [To be developed features](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaIRSystemsAnalyze.md#to-be-developed-features)
-- [References](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaIRSystemsAnalyze.md#references)
+- [Tags](./MultimediaIRSystemsAnalyze.md#tags)
+- [Overview](./MultimediaIRSystemsAnalyze.md#overview)
+- [Definitions, Acronyms, Abbreviations](./MultimediaIRSystemsAnalyze.md#definitions-acronyms-abbreviations)
+- [Well implemented features](./MultimediaIRSystemsAnalyze.md#well-implemented-features)
+- [To be developed features](./MultimediaIRSystemsAnalyze.md#to-be-developed-features)
+- [References](./MultimediaIRSystemsAnalyze.md#references)
 
 # Tags
 Multimedia IR systems, Synology Moments, Mylio, Google Photos, digiKam, Apple photo
