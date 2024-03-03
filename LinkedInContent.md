@@ -2,11 +2,11 @@
 LinkedIn content
 
 # Table of contents
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/LinkedInContent.md#tags)
-- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/LinkedInContent.md#overview)
-- [Just Joined LinkedIn](https://github.com/dimanikulin/dimanikulin/blob/main/LinkedInContent.md#just-joined-linkedin)
-- [What do you think about content posted in LinkedIn?](https://github.com/dimanikulin/dimanikulin/blob/main/LinkedInContent.md#what-do-you-think-about-content-posted-in-linkedin)
-- [References](https://github.com/dimanikulin/dimanikulin/blob/main/LinkedInContent.md#references)
+- [Tags](./LinkedInContent.md#tags)
+- [Overview](./LinkedInContent.md#overview)
+- [Just Joined LinkedIn](./LinkedInContent.md#just-joined-linkedin)
+- [What do you think about content posted in LinkedIn?](./LinkedInContent.md#what-do-you-think-about-content-posted-in-linkedin)
+- [References](./LinkedInContent.md#references)
 
 # Tags
 LinkedIn Content

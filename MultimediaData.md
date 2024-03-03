@@ -2,10 +2,10 @@
 What is Multimedia?
 
 # Table of contents
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaData.md#tags)
-- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaData.md#overview)
-- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaData.md#definitions-acronyms-abbreviations)
-- [References](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaData.md#references)
+- [Tags](./MultimediaData.md#tags)
+- [Overview](./MultimediaData.md#overview)
+- [Definitions, Acronyms, Abbreviations](./MultimediaData.md#definitions-acronyms-abbreviations)
+- [References](./MultimediaData.md#references)
 
 # Tags
 Multimedia, Multimedia Information Retrieval, Media Formats, Search Engines

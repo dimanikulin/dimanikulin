@@ -2,10 +2,10 @@
 Enriching the Multimedia
  
 # Table of contents
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaEnriching.md#tags)
-- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaEnriching.md#overview)
-- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaEnriching.md#definitions-acronyms-abbreviations)
-- [References](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaEnriching.md#references)
+- [Tags](./MultimediaEnriching.md#tags)
+- [Overview](./MultimediaEnriching.md#overview)
+- [Definitions, Acronyms, Abbreviations](./MultimediaEnriching.md#definitions-acronyms-abbreviations)
+- [References](./MultimediaEnriching.md#references)
 
 # Tags
 TBD
