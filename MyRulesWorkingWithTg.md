@@ -30,6 +30,38 @@ TBD
 
 ---
 
+# Common information
+Fake Telegam accounts might lack detailed profile information. Legitimate users often provide additional details about themselves.
+
+Also fake Telegram accounts often use false contact information. You can cross-verify information provided on the Telegram account with official websites or social media profiles of the person or organization.
+
+Fake Telegram accounts often have minimal activity, such as no posts or few contacts.
+Some public figures or businesses have verified accounts, indicated by a blue checkmark next to their name.
+
+Poor grammar and spelling mistakes in the profile description or messages can indicate a fake account.
+
+# Profile picture
+Fake accounts often use generic or stolen profile pictures. 
+Genuine users often change their profile pictures over time.
+
+# User name and display name 
+The username (beginning with @) and display name of fake account might not match.
+You can check for inconsistencies between the two.
+ 
+# Bio section
+Genuine users share a bit about ourselves, maybe a favorite quote or a brief description.
+
+However, fake accounts might use the bio section differently. 
+If the bio is filled with promotional material or includes suspicious links, consider that a red flag.
+
+Also if the account provides contact details in the bio or description, you can cross-verify them independently.
+
+# Last seen
+Usually **Last seen** is not empty if account is genuine.
+
+# Creation date
+Fake account also have not recent creation date.
+
 # Безпека та блокування
 Насамперед раджу подбати про **власну безпеку**.
 Я створив додатковий обліковий запис, за допомогою якого і веду інформаційну війну.
