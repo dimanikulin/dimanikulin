@@ -2,11 +2,11 @@
 My Experience
 
 # Table of contents
-- [Working Experience](https://github.com/dimanikulin/dimanikulin/blob/main/MyExperience.md#working-experience)
-- [Skills](https://github.com/dimanikulin/dimanikulin/blob/main/MyExperience.md#skills)
-- [Contribution](https://github.com/dimanikulin/dimanikulin/blob/main/MyExperience.md#contribution)
-- [Business Trips](https://github.com/dimanikulin/dimanikulin/blob/main/MyExperience.md#business-trips)
-- [I can help you with](https://github.com/dimanikulin/dimanikulin/blob/main/MyExperience.md#i-can-help-you-with)
+- [Working Experience](./MyExperience.md#working-experience)
+- [Skills](./MyExperience.md#skills)
+- [Contribution](./MyExperience.md#contribution)
+- [Business Trips](./MyExperience.md#business-trips)
+- [I can help you with](./MyExperience.md#i-can-help-you-with)
 
 ---
 

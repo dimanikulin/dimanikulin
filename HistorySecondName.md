@@ -2,9 +2,9 @@
 О том, как плохо опаздывать на работу, и о том, как хорошо нам помогают фамилии иногда.
 
 # Table of contents
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/HistorySecondName.md#tags)
-- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/HistorySecondName.md#overview)
-- [References](https://github.com/dimanikulin/dimanikulin/blob/main/HistorySecondName.md#references)
+- [Tags](./HistorySecondName.md#tags)
+- [Overview](./HistorySecondName.md#overview)
+- [References](./HistorySecondName.md#references)
 
 # Tags
 work, punctuality, discipline, surnames, workplace anecdotes, humorous stories.

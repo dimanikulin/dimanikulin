@@ -2,10 +2,10 @@
 My Education 
 
 # Table of contents
-- [Diplomas](https://github.com/dimanikulin/dimanikulin/blob/main/MyEducation.md#diplomas)
-- [Certificates](https://github.com/dimanikulin/dimanikulin/blob/main/MyEducation.md#certificates)
-- [Cources](https://github.com/dimanikulin/dimanikulin/blob/main/MyEducation.md#cources)
-- [Conferences](https://github.com/dimanikulin/dimanikulin/blob/main/MyEducation.md#conferences)
+- [Diplomas](./MyEducation.md#diplomas)
+- [Certificates](./MyEducation.md#certificates)
+- [Cources](./MyEducation.md#cources)
+- [Conferences](./MyEducation.md#conferences)
 
 ---
 
