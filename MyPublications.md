@@ -87,7 +87,7 @@ My Publications
 - [LinkedIn Content](./LinkedInContent.md)
 - [My Telegram Channel](MyTelegramChannel.md)
 - [This is when we say "Old, but Gold](./OldButGold.md)
-- [Second Name History](./SecondNameHistory.md)
+- [Second Name History](./HistorySecondName.md)
 - [Soft Skills](./SoftSkills.md)
 - [Software Development](./SoftwareDevelopment.md)
 - [War in Ukraine](./WarInUkraine.md)
