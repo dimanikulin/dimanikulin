@@ -2,10 +2,10 @@
 Search Requests in Multimedia
 
 # Table of contents
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaSearchRequests.md#tags)
-- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaSearchRequests.md#definitions-acronyms-abbreviations)
-- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaSearchRequests.md#overview)
-- [References](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaSearchRequests.md#references)
+- [Tags](./MultimediaSearchRequests.md#tags)
+- [Definitions, Acronyms, Abbreviations](./MultimediaSearchRequests.md#definitions-acronyms-abbreviations)
+- [Overview](./MultimediaSearchRequests.md#overview)
+- [References](./MultimediaSearchRequests.md#references)
 
 # Tags
 TBD

@@ -2,10 +2,10 @@
 Analyze of Multimedia organizers
 
 # Table of contents
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaOrganizersAnalyze.md#tags)
-- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaOrganizersAnalyze.md#definitions-acronyms-abbreviations)
-- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaOrganizersAnalyze.md#overview)
-- [References](https://github.com/dimanikulin/dimanikulin/blob/main/MultimediaOrganizersAnalyze.md#references)
+- [Tags](./MultimediaOrganizersAnalyze.md#tags)
+- [Definitions, Acronyms, Abbreviations](./MultimediaOrganizersAnalyze.md#definitions-acronyms-abbreviations)
+- [Overview](./MultimediaOrganizersAnalyze.md#overview)
+- [References](./MultimediaOrganizersAnalyze.md#references)
 
 # Tags
 TBD
