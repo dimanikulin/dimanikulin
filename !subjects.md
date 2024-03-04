@@ -1,3 +1,7 @@
+chatGPT translate from russin to eng but not from russin to ukr
+
+
+
 !гы.png
 
 People are created to make mistakes but great people can learn from mistakes. 
