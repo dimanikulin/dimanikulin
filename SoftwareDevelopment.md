@@ -162,6 +162,21 @@ PS. No, I am not an advertiser for Google.
 ## Tags
 gmail sla email goodservice
 
+# Procrastination
+What is procrastination?
+
+By my definition, procrastination is a state in which you postpone doing something complex until later. Initially, you prioritize easy tasks over difficult ones.
+
+For example, as a software developer, you may spend the majority of a Scrum sprint contemplating your tasks, only to complete them all at once in the final days of the sprint. Such behavior poses significant risks from a project manager's perspective.
+
+Could you provide your definition of procrastination?
+Additionally, can you explain the advantages of procrastination?
+
+<img src="./Images/procrastination.jpg" alt="procrastination" />
+
+## Tags
+procrastination projectrisk
+
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
@@ -174,3 +189,4 @@ gmail sla email goodservice
 | 7 |Tabs or Spaces|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_softwaredevelopment-activity-7141376776915660800-whXp?utm_source=share&utm_medium=member_desktop) | 15/12/2023 | Dmytro Nikulin | |
 | 8 |UIQ|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_old-activity-7152938805359001601-vGeW?utm_source=share&utm_medium=member_desktop) | 16/01/2024 | Dmytro Nikulin | |
 | 9 |gmail|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_gmail-sla-email-activity-7158023530251530240-DNUk?utm_source=share&utm_medium=member_desktop)  | 30/01/2024 | Dmytro Nikulin | |
+| 10|Procrastination |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_procrastination-projectrisk-activity-7170691619946541056-Zu2h?utm_source=share&utm_medium=member_desktop)  | 05/03/2024 | Dmytro Nikulin | |
