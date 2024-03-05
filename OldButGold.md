@@ -2,14 +2,14 @@
 This is when we say "Old, but Gold"
 
 # Table of contents
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/OldButGold.md#tags)
-- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/OldButGold.md#overview)
-- [Windows 95](https://github.com/dimanikulin/dimanikulin/blob/main/OldButGold.md#windows-95)
-- [Miranda](https://github.com/dimanikulin/dimanikulin/blob/main/OldButGold.md#miranda)
-- [BSOD](https://github.com/dimanikulin/dimanikulin/blob/main/OldButGold.md#bsod)
-- [First Mobile Phone](https://github.com/dimanikulin/dimanikulin/blob/main/OldButGold.md#first-mobile-phone)
-- [Windows NT 4.0](https://github.com/dimanikulin/dimanikulin/blob/main/OldButGold.md#windows-nt-40)
-- [References](https://github.com/dimanikulin/dimanikulin/blob/main/OldButGold.md#references)
+- [Tags](./OldButGold.md#tags)
+- [Overview](./OldButGold.md#overview)
+- [Windows 95](./OldButGold.md#windows-95)
+- [Miranda](./OldButGold.md#miranda)
+- [BSOD](./OldButGold.md#bsod)
+- [First Mobile Phone](./OldButGold.md#first-mobile-phone)
+- [Windows NT 4.0](./OldButGold.md#windows-nt-40)
+- [References](./OldButGold.md#references)
 
 # Tags
 oldschool old

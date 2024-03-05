@@ -2,10 +2,10 @@
 TBD 
 
 # Table of contents
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/ProfileAsCode.md#tags)
-- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/ProfileAsCode.md#definitions-acronyms-abbreviations)
-- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/ProfileAsCode.md#overview)
-- [References](https://github.com/dimanikulin/dimanikulin/blob/main/ProfileAsCode.md#references)
+- [Tags](./ProfileAsCode.md#tags)
+- [Definitions, Acronyms, Abbreviations](./ProfileAsCode.md#definitions-acronyms-abbreviations)
+- [Overview](./ProfileAsCode.md#overview)
+- [References](./ProfileAsCode.md#references)
 
 # Tags
 TBD
