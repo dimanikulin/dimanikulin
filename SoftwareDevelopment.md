@@ -21,6 +21,8 @@ Everything about the Software Development
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#tags-6)
 - [gmail](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#gmail)
 - [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#tags-7)
+- [Procrastination](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#procrastination)
+- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#tags-8)
 - [References](https://github.com/dimanikulin/dimanikulin/blob/main/SoftwareDevelopment.md#references)
 
 # Tags
