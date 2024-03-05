@@ -9,12 +9,12 @@ TBD
 - [Overview](./MyRulesWorkingWithTg.md#overview)
 - [References](./MyRulesWorkingWithTg.md#references)
 
-- [Безпека та блокування](https://github.com/dimanikulin/dimanikulin/blob/main/MyRulesWorkingWithTg.md#%D0%B1%D0%B5%D0%B7%D0%BF%D0%B5%D0%BA%D0%B0-%D1%82%D0%B0-%D0%B1%D0%BB%D0%BE%D0%BA%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F)
-- [Як я зазвичай повожусь на каналах щоб не блокували](https://github.com/dimanikulin/dimanikulin/blob/main/MyRulesWorkingWithTg.md#%D1%8F%D0%BA-%D1%8F-%D0%B7%D0%B0%D0%B7%D0%B2%D0%B8%D1%87%D0%B0%D0%B9-%D0%BF%D0%BE%D0%B2%D0%BE%D0%B6%D1%83%D1%81%D1%8C-%D0%BD%D0%B0-%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0%D1%85-%D1%89%D0%BE%D0%B1-%D0%BD%D0%B5-%D0%B1%D0%BB%D0%BE%D0%BA%D1%83%D0%B2%D0%B0%D0%BB%D0%B8)
-- [За що блокують](https://github.com/dimanikulin/dimanikulin/blob/main/MyRulesWorkingWithTg.md#%D0%B7%D0%B0-%D1%89%D0%BE-%D0%B1%D0%BB%D0%BE%D0%BA%D1%83%D1%8E%D1%82%D1%8C)
-- [Що робити, якщо заблокували на каналі?](https://github.com/dimanikulin/dimanikulin/blob/main/MyRulesWorkingWithTg.md#%D1%89%D0%BE-%D1%80%D0%BE%D0%B1%D0%B8%D1%82%D0%B8-%D1%8F%D0%BA%D1%89%D0%BE-%D0%B7%D0%B0%D0%B1%D0%BB%D0%BE%D0%BA%D1%83%D0%B2%D0%B0%D0%BB%D0%B8-%D0%BD%D0%B0-%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D1%96)
-- [Що робити, якщо заблокували взагалі обліковий запис?](https://github.com/dimanikulin/dimanikulin/blob/main/MyRulesWorkingWithTg.md#%D1%89%D0%BE-%D1%80%D0%BE%D0%B1%D0%B8%D1%82%D0%B8-%D1%8F%D0%BA%D1%89%D0%BE-%D0%B7%D0%B0%D0%B1%D0%BB%D0%BE%D0%BA%D1%83%D0%B2%D0%B0%D0%BB%D0%B8-%D0%B2%D0%B7%D0%B0%D0%B3%D0%B0%D0%BB%D1%96-%D0%BE%D0%B1%D0%BB%D1%96%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9-%D0%B7%D0%B0%D0%BF%D0%B8%D1%81)
-- [Що робити, якщо заблокували можливість писати у public каналах?](https://github.com/dimanikulin/dimanikulin/blob/main/MyRulesWorkingWithTg.md#%D1%89%D0%BE-%D1%80%D0%BE%D0%B1%D0%B8%D1%82%D0%B8-%D1%8F%D0%BA%D1%89%D0%BE-%D0%B7%D0%B0%D0%B1%D0%BB%D0%BE%D0%BA%D1%83%D0%B2%D0%B0%D0%BB%D0%B8-%D0%BC%D0%BE%D0%B6%D0%BB%D0%B8%D0%B2%D1%96%D1%81%D1%82%D1%8C-%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B8-%D1%83-public-%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0%D1%85)
+- [Безпека та блокування](./MyRulesWorkingWithTg.md#%D0%B1%D0%B5%D0%B7%D0%BF%D0%B5%D0%BA%D0%B0-%D1%82%D0%B0-%D0%B1%D0%BB%D0%BE%D0%BA%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F)
+- [Як я зазвичай повожусь на каналах щоб не блокували](./MyRulesWorkingWithTg.md#%D1%8F%D0%BA-%D1%8F-%D0%B7%D0%B0%D0%B7%D0%B2%D0%B8%D1%87%D0%B0%D0%B9-%D0%BF%D0%BE%D0%B2%D0%BE%D0%B6%D1%83%D1%81%D1%8C-%D0%BD%D0%B0-%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0%D1%85-%D1%89%D0%BE%D0%B1-%D0%BD%D0%B5-%D0%B1%D0%BB%D0%BE%D0%BA%D1%83%D0%B2%D0%B0%D0%BB%D0%B8)
+- [За що блокують](./MyRulesWorkingWithTg.md#%D0%B7%D0%B0-%D1%89%D0%BE-%D0%B1%D0%BB%D0%BE%D0%BA%D1%83%D1%8E%D1%82%D1%8C)
+- [Що робити, якщо заблокували на каналі?](./MyRulesWorkingWithTg.md#%D1%89%D0%BE-%D1%80%D0%BE%D0%B1%D0%B8%D1%82%D0%B8-%D1%8F%D0%BA%D1%89%D0%BE-%D0%B7%D0%B0%D0%B1%D0%BB%D0%BE%D0%BA%D1%83%D0%B2%D0%B0%D0%BB%D0%B8-%D0%BD%D0%B0-%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D1%96)
+- [Що робити, якщо заблокували взагалі обліковий запис?](./MyRulesWorkingWithTg.md#%D1%89%D0%BE-%D1%80%D0%BE%D0%B1%D0%B8%D1%82%D0%B8-%D1%8F%D0%BA%D1%89%D0%BE-%D0%B7%D0%B0%D0%B1%D0%BB%D0%BE%D0%BA%D1%83%D0%B2%D0%B0%D0%BB%D0%B8-%D0%B2%D0%B7%D0%B0%D0%B3%D0%B0%D0%BB%D1%96-%D0%BE%D0%B1%D0%BB%D1%96%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9-%D0%B7%D0%B0%D0%BF%D0%B8%D1%81)
+- [Що робити, якщо заблокували можливість писати у public каналах?](./MyRulesWorkingWithTg.md#%D1%89%D0%BE-%D1%80%D0%BE%D0%B1%D0%B8%D1%82%D0%B8-%D1%8F%D0%BA%D1%89%D0%BE-%D0%B7%D0%B0%D0%B1%D0%BB%D0%BE%D0%BA%D1%83%D0%B2%D0%B0%D0%BB%D0%B8-%D0%BC%D0%BE%D0%B6%D0%BB%D0%B8%D0%B2%D1%96%D1%81%D1%82%D1%8C-%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B8-%D1%83-public-%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0%D1%85)
 
 
 # Tags

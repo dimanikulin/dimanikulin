@@ -2,14 +2,14 @@
 My Publications
 
 # Table of contents
-- [About own product, its history and what I learned - Part 1](https://github.com/dimanikulin/dimanikulin/blob/main/MyPublications.md#about-own-product-its-history-and-what-i-learned---part-1)
-- [About own product, its history and what I learned - Part 2](https://github.com/dimanikulin/dimanikulin/blob/main/MyPublications.md#about-own-product-its-history-and-what-i-learned---part-2)
-- [Publications about Multimedia, Multimedia IR systems and Multimedia Organizers - Part 1](https://github.com/dimanikulin/dimanikulin/blob/main/MyPublications.md#publications-about-multimedia-multimedia-ir-systems-and-multimedia-organizers---part-1)
-- [Publications about Multimedia, Multimedia IR systems and Multimedia Organizers - Part 2](https://github.com/dimanikulin/dimanikulin/blob/main/MyPublications.md#publications-about-multimedia-multimedia-ir-systems-and-multimedia-organizers---part-2)
-- [Detecting Architectural Gaps with Automation](https://github.com/dimanikulin/dimanikulin/blob/main/MyPublications.md#detecting-architectural-gaps-with-automation)
-- [How, What and Where to publish](https://github.com/dimanikulin/dimanikulin/blob/main/MyPublications.md#how-what-and-where-to-publish)
-- [Other publications](https://github.com/dimanikulin/dimanikulin/blob/main/MyPublications.md#other-publications)
-- [Not ready yet](https://github.com/dimanikulin/dimanikulin/blob/main/MyPublications.md#not-ready-yet)
+- [About own product, its history and what I learned - Part 1](./MyPublications.md#about-own-product-its-history-and-what-i-learned---part-1)
+- [About own product, its history and what I learned - Part 2](./MyPublications.md#about-own-product-its-history-and-what-i-learned---part-2)
+- [Publications about Multimedia, Multimedia IR systems and Multimedia Organizers - Part 1](./MyPublications.md#publications-about-multimedia-multimedia-ir-systems-and-multimedia-organizers---part-1)
+- [Publications about Multimedia, Multimedia IR systems and Multimedia Organizers - Part 2](./MyPublications.md#publications-about-multimedia-multimedia-ir-systems-and-multimedia-organizers---part-2)
+- [Detecting Architectural Gaps with Automation](./MyPublications.md#detecting-architectural-gaps-with-automation)
+- [How, What and Where to publish](./MyPublications.md#how-what-and-where-to-publish)
+- [Other publications](./MyPublications.md#other-publications)
+- [Not ready yet](./MyPublications.md#not-ready-yet)
 
 ---
 
@@ -95,7 +95,7 @@ My Publications
 - [Work Life Balance](WorkLifeBalance.md)
 
 # Not ready yet
-[Profile and CV as a code](./ProfileAsCode.md)
-[Rules I use to work with Telegram](./MyRulesWorkingWithTg.md)
-[My Telegram Channel](./MyTelegramChannel)
-[History happended at work](./HistoryAtWork.md)
+- [Profile and CV as a code](./ProfileAsCode.md)
+- [Rules I use to work with Telegram](./MyRulesWorkingWithTg.md)
+- [My Telegram Channel](./MyTelegramChannel)
+- [History happended at work](./HistoryAtWork.md)
