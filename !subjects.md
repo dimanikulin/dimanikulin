@@ -1,6 +1,6 @@
 chatGPT translate from russin to eng but not from russin to ukr
 
-
+уровень контент количество просмотров
 
 !гы.png
 
