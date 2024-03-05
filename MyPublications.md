@@ -98,3 +98,4 @@ My Publications
 [Profile and CV as a code](./ProfileAsCode.md)
 [Rules I use to work with Telegram](./MyRulesWorkingWithTg.md)
 [My Telegram Channel](./MyTelegramChannel)
+[History happended at work](./HistoryAtWork.md)
