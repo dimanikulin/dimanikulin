@@ -2,10 +2,10 @@
 What to publish
 
 # Table of contents
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhat1.md#tags)
-- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhat1.md#definitions-acronyms-abbreviations)
-- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhat1.md#overview)
-- [References](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhat1.md#references)
+- [Tags](./PublishWhat1.md#tags)
+- [Definitions, Acronyms, Abbreviations](./PublishWhat1.md#definitions-acronyms-abbreviations)
+- [Overview](./PublishWhat1.md#overview)
+- [References](./PublishWhat1.md#references)
 TBD 
 
 # Tags

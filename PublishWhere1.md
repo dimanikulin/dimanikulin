@@ -2,17 +2,17 @@
 Where to publish, part 1
 
 # Table of contents
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhere1.md#tags)
-- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhere1.md#overview)
-- [hackernoon](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhere1.md#hackernoon)
-- [hashnode](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhere1.md#hashnode)
-- [dev.to](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhere1.md#devto)
-- [Medium](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhere1.md#medium)
-- [Reddit](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhere1.md#reddit)
-- [Quora](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhere1.md#quora)
-- [LinkedIn](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhere1.md#linkedin)
-- [Comparison](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhere1.md#comparison)
-- [Analyze](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhere1.md#analyze)
+- [Tags](./PublishWhere1.md#tags)
+- [Overview](./PublishWhere1.md#overview)
+- [hackernoon](./PublishWhere1.md#hackernoon)
+- [hashnode](./PublishWhere1.md#hashnode)
+- [dev.to](./PublishWhere1.md#devto)
+- [Medium](./PublishWhere1.md#medium)
+- [Reddit](./PublishWhere1.md#reddit)
+- [Quora](./PublishWhere1.md#quora)
+- [LinkedIn](./PublishWhere1.md#linkedin)
+- [Comparison](./PublishWhere1.md#comparison)
+- [Analyze](./PublishWhere1.md#analyze)
 
 # Tags
 Content Publishing Platforms, Hackernoon, Hashnode, Dev.to, Medium, Reddit, Quora, LinkedIn, Comparative Analysis, Features, Tags, Challenges

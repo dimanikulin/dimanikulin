@@ -2,10 +2,10 @@
 How to publish your content?
 
 # Table of contents
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhat2.md#tags)
-- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhat2.md#definitions-acronyms-abbreviations)
-- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhat2.md#overview)
-- [References](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhat2.md#references)
+- [Tags](./PublishWhat2.md#tags)
+- [Definitions, Acronyms, Abbreviations](./PublishWhat2.md#definitions-acronyms-abbreviations)
+- [Overview](./PublishWhat2.md#overview)
+- [References](./PublishWhat2.md#references)
 TBD 
 
 # Tags
