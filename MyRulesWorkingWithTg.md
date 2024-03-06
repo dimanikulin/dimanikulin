@@ -77,9 +77,10 @@ Telegram блокує, коли користувачі скаржаться на
 
 Доступні дві мови, я обираю англійську як більш поширену порівняно із українською.
 
-# Fake Telegam or Scammers 
+# Fake Telegam Acounts or Scammers 
+Scammers on Telegram have managed to manipulate the app for criminal gain in a bunch of different ways.
+Telegram app scams can take various forms, but they generally aim to deceive users into providing personal information, financial details, or access to their accounts.
 
-## Common information
 Fake Telegam accounts might lack detailed profile information. Legitimate users often provide additional details about themselves.
 
 Also fake Telegram accounts often use false contact information. You can cross-verify information provided on the Telegram account with official websites or social media profiles of the person or organization.
