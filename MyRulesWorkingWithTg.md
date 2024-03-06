@@ -77,31 +77,33 @@ Telegram блокує, коли користувачі скаржаться на
 
 Доступні дві мови, я обираю англійську як більш поширену порівняно із українською.
 
-# Fake Telegram Accounts or Scammers
-Scammers on Telegram have managed to manipulate the app for criminal gain in various ways. Telegram app scams can take various forms, but they generally aim to deceive users into providing personal information, financial details, or access to their accounts.
+# Підроблені облікові записи Telegram або шахраї
+Шахраям у Telegram вдалося різними способами маніпулювати додатком для отримання злочинної вигоди. 
+Шахрайство в додатку Telegram може приймати різні форми, але зазвичай вони спрямовані на те, щоб обманом надати користувачам особисту інформацію, фінансову інформацію або доступ до їхніх облікових записів.
 
-Fake Telegram accounts might lack detailed profile information. Legitimate users often provide additional details about themselves.
+Підроблені облікові записи Telegram можуть не мати детальної інформації профілю. Законні користувачі часто надають додаткові відомості про себе.
 
-Fake Telegram accounts also often use false contact information. You can cross-verify information provided on the Telegram account with official websites or social media profiles of the person or organization.
+Підроблені акаунти Telegram також часто використовують неправдиву контактну інформацію. Ви можете перехресно перевірити інформацію, надану в обліковому записі Telegram, з офіційними веб-сайтами або профілями особи чи організації в соціальних мережах.
 
-Fake Telegram accounts often have minimal activity, such as no posts or few contacts. Some public figures or businesses have verified accounts, indicated by a blue checkmark next to their name.
+Фальшиві облікові записи Telegram часто мають мінімальну активність, наприклад відсутність публікацій або мало контактів. Деякі публічні особи чи компанії мають підтверджені облікові записи, позначені синьою галочкою біля їх імені.
 
-Poor grammar and spelling mistakes in the profile description or messages can indicate a fake account.
+Погана граматика та орфографічні помилки в описі профілю або повідомленнях можуть свідчити про підроблений обліковий запис.
 
-## Profile Picture
-Fake accounts often use generic or stolen profile pictures. Genuine users often change their profile pictures over time.
+## Зображення профілю
+Підроблені облікові записи часто використовують загальні або вкрадені зображення профілю. Справжні користувачі часто змінюють свої зображення профілю з часом.
 
-## User Name and Display Name
-The username (beginning with @) and display name of a fake account might not match. You can check for inconsistencies between the two.
+## Ім'я користувача та відображуване ім'я
+Ім’я користувача (починається з @) і відображуване ім’я підробленого облікового запису можуть не збігатися. Ви можете перевірити наявність невідповідностей між ними.
 
-## Bio Section
-Genuine users share a bit about themselves, maybe a favorite quote or a brief description. However, fake accounts might use the bio section differently. If the bio is filled with promotional material or includes suspicious links, consider that a red flag. Also, if the account provides contact details in the bio or description, you can cross-verify them independently.
+## Розділ біографія
+Справжні користувачі діляться дещо про себе, можливо, улюбленою цитатою чи коротким описом. Однак підроблені облікові записи можуть використовувати розділ біографії інакше. Якщо біографія наповнена рекламним матеріалом або містить підозрілі посилання, вважайте це червоним прапором. Крім того, якщо обліковий запис містить контактні дані в біографії чи описі, ви можете перехресно перевірити їх незалежно.
 
-## Last Seen
-Usually, Last seen is not empty if the account is genuine.
+## Востаннє бачили
+Зазвичай поле Останнє відвідування не пусте, якщо обліковий запис справжній.
 
-## Creation Date
-Fake accounts also have a not recent creation date.
+## Дата створення
+Підроблені облікові записи також мають не свіжу дату створення.
+
 
 <img src="./Images/TBD.jpg" alt="TBD" />
 
