@@ -2,10 +2,10 @@
 Where to publish, part 2
 
 # Table of contents
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhere2.md#tags)
-- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhere2.md#definitions-acronyms-abbreviations)
-- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhere2.md#overview)
-- [References](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhere2.md#references)
+- [Tags](./PublishWhere2.md#tags)
+- [Definitions, Acronyms, Abbreviations](./PublishWhere2.md#definitions-acronyms-abbreviations)
+- [Overview](./PublishWhere2.md#overview)
+- [References](./PublishWhere2.md#references)
 
 # Tags
 TBD
