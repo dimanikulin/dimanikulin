@@ -2,22 +2,22 @@
 What I learned as a Delivery Manager while creating my product
 
 # Table of contents
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsDeliveryManager.md#tags)
-- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsDeliveryManager.md#overview)
-- [Create a Good Readme](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsDeliveryManager.md#create-a-good-readme)
-- [Bages](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsDeliveryManager.md#bages)
-- [Quick Links](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsDeliveryManager.md#quick-links)
-- [Capabilities and Description](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsDeliveryManager.md#capabilities-and-description)
-- [Architecture Documentation](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsDeliveryManager.md#architecture-documentation)
-- [Code Style and Documentation](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsDeliveryManager.md#code-style-and-documentation)
-- [Implementation Status](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsDeliveryManager.md#implementation-status)
-- [Contributing and Stay in Touch](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsDeliveryManager.md#contributing-and-stay-in-touch)
-- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsDeliveryManager.md#definitions-acronyms-abbreviations)
-- [Project Status Tracking](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsDeliveryManager.md#project-status-tracking)
-- [GitHub Projects](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsDeliveryManager.md#github-projects)
-- [ProjectLibre](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsDeliveryManager.md#projectlibre)
-- [Releasing the Code and Documentation](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsDeliveryManager.md#releasing-the-code-and-documentation)
-- [References](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsDeliveryManager.md#references)
+- [Tags](./WhatILearnedAsDeliveryManager.md#tags)
+- [Overview](./WhatILearnedAsDeliveryManager.md#overview)
+- [Create a Good Readme](./WhatILearnedAsDeliveryManager.md#create-a-good-readme)
+- [Bages](./WhatILearnedAsDeliveryManager.md#bages)
+- [Quick Links](./WhatILearnedAsDeliveryManager.md#quick-links)
+- [Capabilities and Description](./WhatILearnedAsDeliveryManager.md#capabilities-and-description)
+- [Architecture Documentation](./WhatILearnedAsDeliveryManager.md#architecture-documentation)
+- [Code Style and Documentation](./WhatILearnedAsDeliveryManager.md#code-style-and-documentation)
+- [Implementation Status](./WhatILearnedAsDeliveryManager.md#implementation-status)
+- [Contributing and Stay in Touch](./WhatILearnedAsDeliveryManager.md#contributing-and-stay-in-touch)
+- [Definitions, Acronyms, Abbreviations](./WhatILearnedAsDeliveryManager.md#definitions-acronyms-abbreviations)
+- [Project Status Tracking](./WhatILearnedAsDeliveryManager.md#project-status-tracking)
+- [GitHub Projects](./WhatILearnedAsDeliveryManager.md#github-projects)
+- [ProjectLibre](./WhatILearnedAsDeliveryManager.md#projectlibre)
+- [Releasing the Code and Documentation](./WhatILearnedAsDeliveryManager.md#releasing-the-code-and-documentation)
+- [References](./WhatILearnedAsDeliveryManager.md#references)
 
 # Tags
 Open Source Development, Developer Engagement, README Best Practices, Project Documentation, GitHub Projects, ProjectLibre

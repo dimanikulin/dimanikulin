@@ -2,23 +2,23 @@
 What I learned as an Application Architect while creating my product
 
 # Table of contents
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsAppArchitect.md#tags)
-- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsAppArchitect.md#definitions-acronyms-abbreviations)
-- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsAppArchitect.md#overview)
-- [Requirements](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsAppArchitect.md#requirements)
-- [Constraints](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsAppArchitect.md#constraints)
-- [Assumptions](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsAppArchitect.md#assumptions)
-- [Quality Attributes](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsAppArchitect.md#quality-attributes)
-- [Hardware requirements](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsAppArchitect.md#hardware-requirements)
-- [Software Architecture Views](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsAppArchitect.md#software-architecture-views)
-- [Context view](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsAppArchitect.md#context-view)
-- [Functional view](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsAppArchitect.md#functional-view) 
-- [Deployment view](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsAppArchitect.md#deployment-view)
-- [Tools, libraries and languages](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsAppArchitect.md#tools-libraries-and-languages)
-- [Tools and libraries](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsAppArchitect.md#tools-and-libraries)
-- [Languages](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsAppArchitect.md#languages)
-- [Licenses](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsAppArchitect.md#licenses)
-- [References](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsAppArchitect.md#references)
+- [Tags](./WhatILearnedAsAppArchitect.md#tags)
+- [Definitions, Acronyms, Abbreviations](./WhatILearnedAsAppArchitect.md#definitions-acronyms-abbreviations)
+- [Overview](./WhatILearnedAsAppArchitect.md#overview)
+- [Requirements](./WhatILearnedAsAppArchitect.md#requirements)
+- [Constraints](./WhatILearnedAsAppArchitect.md#constraints)
+- [Assumptions](./WhatILearnedAsAppArchitect.md#assumptions)
+- [Quality Attributes](./WhatILearnedAsAppArchitect.md#quality-attributes)
+- [Hardware requirements](./WhatILearnedAsAppArchitect.md#hardware-requirements)
+- [Software Architecture Views](./WhatILearnedAsAppArchitect.md#software-architecture-views)
+- [Context view](./WhatILearnedAsAppArchitect.md#context-view)
+- [Functional view](./WhatILearnedAsAppArchitect.md#functional-view) 
+- [Deployment view](./WhatILearnedAsAppArchitect.md#deployment-view)
+- [Tools, libraries and languages](./WhatILearnedAsAppArchitect.md#tools-libraries-and-languages)
+- [Tools and libraries](./WhatILearnedAsAppArchitect.md#tools-and-libraries)
+- [Languages](./WhatILearnedAsAppArchitect.md#languages)
+- [Licenses](./WhatILearnedAsAppArchitect.md#licenses)
+- [References](./WhatILearnedAsAppArchitect.md#references)
 
 # Tags
 Solution Architecture, Development Tools, Quality Attributes, Requirements, Branch Strategy, Licenses, Text-Based Documentation, Mermaid.js
@@ -48,7 +48,7 @@ I also learned how to create attractive **README.md** files with the use of **ba
 I began my journey as an architect with **requirements** selection. 
 By selecting the right **requirements**, an architect can ensure that the software is designed to meet specific **business** goals and objectives, as well as technical and operational requirements. 
 This helps ensure that the software is scalable, maintainable and meets the needs of both the **end-users** and the **stakeholders**.
-It's worth noting that my approach to selecting **requirements** differed from that of a [product manager](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsProductManager.md) because I needed more technical requirements. 
+It's worth noting that my approach to selecting **requirements** differed from that of a [product manager](./WhatILearnedAsProductManager.md) because I needed more technical requirements. 
 I divided architect requirements into four parts:
 - **Constraints**;
 - **Assumptions**;
@@ -75,7 +75,7 @@ These statements are made based on available information, but they **are not** n
 By identifying assumptions early in the development process, the architect can take steps to verify the assumptions and adjust the design as needed to ensure that the solution will function as intended.
 
 ## Quality Attributes
-[Quality Attributes](https://github.com/dimanikulin/dimanikulin/blob/main/QualityAttributes.md), also known as non-functional requirements, are the characteristics of a software solution that describe how well it performs in terms of its operation, maintenance, and evolution. 
+[Quality Attributes](./QualityAttributes.md), also known as non-functional requirements, are the characteristics of a software solution that describe how well it performs in terms of its operation, maintenance, and evolution. 
 **Quality attributes** are not directly related to the functionality of the software, but rather to how well it meets certain standards or requirements.
 
 **Quality attributes** are important to consider during requirements selection because they can impact the user experience, the cost of ownership, and the long-term success of the software solution.

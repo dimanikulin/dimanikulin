@@ -2,19 +2,19 @@
 War in Ukraine!
 
 # Table of contents
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/WarInUkraine.md#tags)
-- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/WarInUkraine.md#overview)
-- [Первый пост с 24 февраля 2022 года](https://github.com/dimanikulin/dimanikulin/blob/main/WarInUkraine.md#%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9-%D0%BF%D0%BE%D1%81%D1%82-%D1%81-24-%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8F-2022-%D0%B3%D0%BE%D0%B4%D0%B0)
-- [Usual talks in unsual time](https://github.com/dimanikulin/dimanikulin/blob/main/WarInUkraine.md#usual-talks-in-unsual-time)
-- [Summer time](https://github.com/dimanikulin/dimanikulin/blob/main/WarInUkraine.md#summer-time)
-- [How russians play chess?](https://github.com/dimanikulin/dimanikulin/blob/main/WarInUkraine.md#how-russians-play-chess)
-- [А на куди зибеться пУТЕНг?](https://github.com/dimanikulin/dimanikulin/blob/main/WarInUkraine.md#%D0%B0-%D0%BD%D0%B0-%D0%BA%D1%83%D0%B4%D0%B8-%D0%B7%D0%B8%D0%B1%D0%B5%D1%82%D1%8C%D1%81%D1%8F-%D0%BF%D1%83%D1%82%D0%B5%D0%BD%D0%B3)
-- [Яскрава місячна ніч](https://github.com/dimanikulin/dimanikulin/blob/main/WarInUkraine.md#%D1%8F%D1%81%D0%BA%D1%80%D0%B0%D0%B2%D0%B0-%D0%BC%D1%96%D1%81%D1%8F%D1%87%D0%BD%D0%B0-%D0%BD%D1%96%D1%87)
-- [Якби у Вас була можливість, то що б Ви запитали у Тараса Чмута?](https://github.com/dimanikulin/dimanikulin/blob/main/WarInUkraine.md#%D1%8F%D0%BA%D0%B1%D0%B8-%D1%83-%D0%B2%D0%B0%D1%81-%D0%B1%D1%83%D0%BB%D0%B0-%D0%BC%D0%BE%D0%B6%D0%BB%D0%B8%D0%B2%D1%96%D1%81%D1%82%D1%8C-%D1%82%D0%BE-%D1%89%D0%BE-%D0%B1-%D0%B2%D0%B8-%D0%B7%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BB%D0%B8-%D1%83-%D1%82%D0%B0%D1%80%D0%B0%D1%81%D0%B0-%D1%87%D0%BC%D1%83%D1%82%D0%B0)
-- [Які питання ставили хлопці з GlobalLogic Тарасу Чмуту](https://github.com/dimanikulin/dimanikulin/blob/main/WarInUkraine.md#%D1%8F%D0%BA%D1%96-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%BD%D1%8F-%D1%81%D1%82%D0%B0%D0%B2%D0%B8%D0%BB%D0%B8-%D1%85%D0%BB%D0%BE%D0%BF%D1%86%D1%96-%D0%B7-globallogic-%D1%82%D0%B0%D1%80%D0%B0%D1%81%D1%83-%D1%87%D0%BC%D1%83%D1%82%D1%83)
-- [junior is trying to find a job in summer in Ukraine in war](https://github.com/dimanikulin/dimanikulin/blob/main/WarInUkraine.md#junior-is-trying-to-find-a-job-in-summer-in-ukraine-in-war)
-- [Що мені допомогло минулої зими під час blackout-ів](https://github.com/dimanikulin/dimanikulin/blob/main/WarInUkraine.md#%D1%89%D0%BE-%D0%BC%D0%B5%D0%BD%D1%96-%D0%B4%D0%BE%D0%BF%D0%BE%D0%BC%D0%BE%D0%B3%D0%BB%D0%BE-%D0%BC%D0%B8%D0%BD%D1%83%D0%BB%D0%BE%D1%97-%D0%B7%D0%B8%D0%BC%D0%B8-%D0%BF%D1%96%D0%B4-%D1%87%D0%B0%D1%81-blackout-%D1%96%D0%B2)
-- [References](https://github.com/dimanikulin/dimanikulin/blob/main/WarInUkraine.md#references)
+- [Tags](./WarInUkraine.md#tags)
+- [Overview](./WarInUkraine.md#overview)
+- [Первый пост с 24 февраля 2022 года](./WarInUkraine.md#%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9-%D0%BF%D0%BE%D1%81%D1%82-%D1%81-24-%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8F-2022-%D0%B3%D0%BE%D0%B4%D0%B0)
+- [Usual talks in unsual time](./WarInUkraine.md#usual-talks-in-unsual-time)
+- [Summer time](./WarInUkraine.md#summer-time)
+- [How russians play chess?](./WarInUkraine.md#how-russians-play-chess)
+- [А на куди зибеться пУТЕНг?](./WarInUkraine.md#%D0%B0-%D0%BD%D0%B0-%D0%BA%D1%83%D0%B4%D0%B8-%D0%B7%D0%B8%D0%B1%D0%B5%D1%82%D1%8C%D1%81%D1%8F-%D0%BF%D1%83%D1%82%D0%B5%D0%BD%D0%B3)
+- [Яскрава місячна ніч](./WarInUkraine.md#%D1%8F%D1%81%D0%BA%D1%80%D0%B0%D0%B2%D0%B0-%D0%BC%D1%96%D1%81%D1%8F%D1%87%D0%BD%D0%B0-%D0%BD%D1%96%D1%87)
+- [Якби у Вас була можливість, то що б Ви запитали у Тараса Чмута?](./WarInUkraine.md#%D1%8F%D0%BA%D0%B1%D0%B8-%D1%83-%D0%B2%D0%B0%D1%81-%D0%B1%D1%83%D0%BB%D0%B0-%D0%BC%D0%BE%D0%B6%D0%BB%D0%B8%D0%B2%D1%96%D1%81%D1%82%D1%8C-%D1%82%D0%BE-%D1%89%D0%BE-%D0%B1-%D0%B2%D0%B8-%D0%B7%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BB%D0%B8-%D1%83-%D1%82%D0%B0%D1%80%D0%B0%D1%81%D0%B0-%D1%87%D0%BC%D1%83%D1%82%D0%B0)
+- [Які питання ставили хлопці з GlobalLogic Тарасу Чмуту](./WarInUkraine.md#%D1%8F%D0%BA%D1%96-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%BD%D1%8F-%D1%81%D1%82%D0%B0%D0%B2%D0%B8%D0%BB%D0%B8-%D1%85%D0%BB%D0%BE%D0%BF%D1%86%D1%96-%D0%B7-globallogic-%D1%82%D0%B0%D1%80%D0%B0%D1%81%D1%83-%D1%87%D0%BC%D1%83%D1%82%D1%83)
+- [junior is trying to find a job in summer in Ukraine in war](./WarInUkraine.md#junior-is-trying-to-find-a-job-in-summer-in-ukraine-in-war)
+- [Що мені допомогло минулої зими під час blackout-ів](./WarInUkraine.md#%D1%89%D0%BE-%D0%BC%D0%B5%D0%BD%D1%96-%D0%B4%D0%BE%D0%BF%D0%BE%D0%BC%D0%BE%D0%B3%D0%BB%D0%BE-%D0%BC%D0%B8%D0%BD%D1%83%D0%BB%D0%BE%D1%97-%D0%B7%D0%B8%D0%BC%D0%B8-%D0%BF%D1%96%D0%B4-%D1%87%D0%B0%D1%81-blackout-%D1%96%D0%B2)
+- [References](./WarInUkraine.md#references)
 
 # Tags
 armukrainenow staywithukraine stoprussia stopwar russiaterroriststate warinukraine ukrainewar ukraine
