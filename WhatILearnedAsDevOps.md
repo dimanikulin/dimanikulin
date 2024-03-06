@@ -2,10 +2,10 @@
 TBD
 
 # Table of contents
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsDevOps.md#tags)
-- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsDevOps.md#definitions-acronyms-abbreviations)
-- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsDevOps.md#overview)
-- [References](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsDevOps.md#references)
+- [Tags](./WhatILearnedAsDevOps.md#tags)
+- [Definitions, Acronyms, Abbreviations](./WhatILearnedAsDevOps.md#definitions-acronyms-abbreviations)
+- [Overview](./WhatILearnedAsDevOps.md#overview)
+- [References](./WhatILearnedAsDevOps.md#references)
 
 # Tags
 TBD

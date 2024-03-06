@@ -2,14 +2,14 @@
 What I learned as a Software Developer while creating my product
 
 # Table of contents
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsSoftwareDeveloper.md#tags)
-- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsSoftwareDeveloper.md#overview)
-- [Code quality](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsSoftwareDeveloper.md#code-quality)
-- [Code documentation](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsSoftwareDeveloper.md#code-documentation)
-- [Implementation](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsSoftwareDeveloper.md#implementation)
-- [History of internal metadata formats](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsSoftwareDeveloper.md#history-of-internal-metadata-formats)
-- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsSoftwareDeveloper.md#definitions-acronyms-abbreviations)
-- [References](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsSoftwareDeveloper.md#references)
+- [Tags](./WhatILearnedAsSoftwareDeveloper.md#tags)
+- [Overview](./WhatILearnedAsSoftwareDeveloper.md#overview)
+- [Code quality](./WhatILearnedAsSoftwareDeveloper.md#code-quality)
+- [Code documentation](./WhatILearnedAsSoftwareDeveloper.md#code-documentation)
+- [Implementation](./WhatILearnedAsSoftwareDeveloper.md#implementation)
+- [History of internal metadata formats](./WhatILearnedAsSoftwareDeveloper.md#history-of-internal-metadata-formats)
+- [Definitions, Acronyms, Abbreviations](./WhatILearnedAsSoftwareDeveloper.md#definitions-acronyms-abbreviations)
+- [References](./WhatILearnedAsSoftwareDeveloper.md#references)
 
 # Tags
 Software development, code quality, code review, coding standards, documentation practices, C++, Python, implementation status, UI development, QT library, QWidgets, QML, UI languages, SQLite, CSV, C++ and Python integration, riff parser, metadata formats, maintainability
