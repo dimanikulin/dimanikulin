@@ -77,40 +77,31 @@ Telegram блокує, коли користувачі скаржаться на
 
 Доступні дві мови, я обираю англійську як більш поширену порівняно із українською.
 
-# Fake Telegam Acounts or Scammers 
-Scammers on Telegram have managed to manipulate the app for criminal gain in a bunch of different ways.
-Telegram app scams can take various forms, but they generally aim to deceive users into providing personal information, financial details, or access to their accounts.
+# Fake Telegram Accounts or Scammers
+Scammers on Telegram have managed to manipulate the app for criminal gain in various ways. Telegram app scams can take various forms, but they generally aim to deceive users into providing personal information, financial details, or access to their accounts.
 
-Fake Telegam accounts might lack detailed profile information. Legitimate users often provide additional details about themselves.
+Fake Telegram accounts might lack detailed profile information. Legitimate users often provide additional details about themselves.
 
-Also fake Telegram accounts often use false contact information. You can cross-verify information provided on the Telegram account with official websites or social media profiles of the person or organization.
+Fake Telegram accounts also often use false contact information. You can cross-verify information provided on the Telegram account with official websites or social media profiles of the person or organization.
 
-Fake Telegram accounts often have minimal activity, such as no posts or few contacts.
-Some public figures or businesses have verified accounts, indicated by a blue checkmark next to their name.
+Fake Telegram accounts often have minimal activity, such as no posts or few contacts. Some public figures or businesses have verified accounts, indicated by a blue checkmark next to their name.
 
 Poor grammar and spelling mistakes in the profile description or messages can indicate a fake account.
 
-## Profile picture
-Fake accounts often use generic or stolen profile pictures. 
-Genuine users often change their profile pictures over time.
+## Profile Picture
+Fake accounts often use generic or stolen profile pictures. Genuine users often change their profile pictures over time.
 
-## User name and display name 
-The username (beginning with @) and display name of fake account might not match.
-You can check for inconsistencies between the two.
- 
-## Bio section
-Genuine users share a bit about ourselves, maybe a favorite quote or a brief description.
+## User Name and Display Name
+The username (beginning with @) and display name of a fake account might not match. You can check for inconsistencies between the two.
 
-However, fake accounts might use the bio section differently. 
-If the bio is filled with promotional material or includes suspicious links, consider that a red flag.
+## Bio Section
+Genuine users share a bit about themselves, maybe a favorite quote or a brief description. However, fake accounts might use the bio section differently. If the bio is filled with promotional material or includes suspicious links, consider that a red flag. Also, if the account provides contact details in the bio or description, you can cross-verify them independently.
 
-Also if the account provides contact details in the bio or description, you can cross-verify them independently.
+## Last Seen
+Usually, Last seen is not empty if the account is genuine.
 
-## Last seen
-Usually **Last seen** is not empty if account is genuine.
-
-## Creation date
-Fake account also have not recent creation date.
+## Creation Date
+Fake accounts also have a not recent creation date.
 
 <img src="./Images/TBD.jpg" alt="TBD" />
 
