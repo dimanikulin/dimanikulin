@@ -8,7 +8,7 @@ My Publications
 - [Publications about Multimedia, Multimedia IR systems and Multimedia Organizers - Part 2](./MyPublications.md#publications-about-multimedia-multimedia-ir-systems-and-multimedia-organizers---part-2)
 - [Detecting Architectural Gaps with Automation](./MyPublications.md#detecting-architectural-gaps-with-automation)
 - [How, What and Where to publish](./MyPublications.md#how-what-and-where-to-publish)
-- [Other publications](./MyPublications.md#other-publications)
+- [Other publications](./MyPublications.md#linkedin-posts)
 - [Not ready yet](./MyPublications.md#not-ready-yet)
 
 ---
@@ -77,7 +77,7 @@ My Publications
 |reddit     |TBD|TBD|TBD|TBD|
 |quora      |TBD|TBD|TBD|TBD| 
 
-# Other publications
+# LinkedIn posts
 - [ChatGPT](./ChatGPT.md)
 - [Communication](./Communication.md)
 - [Fishing](./Fishing.md)
@@ -85,7 +85,6 @@ My Publications
 - [Interesting facts](./InterestingFacts.md)
 - [Interviews](./Interviews.md)
 - [LinkedIn Content](./LinkedInContent.md)
-- [My Telegram Channel](MyTelegramChannel.md)
 - [This is when we say "Old, but Gold](./OldButGold.md)
 - [Second Name History](./HistorySecondName.md)
 - [Soft Skills](./SoftSkills.md)
