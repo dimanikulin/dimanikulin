@@ -2,17 +2,17 @@
 Work-life Balance
 
 # Table of contents
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/WorkLifeBalance.md#tags)
-- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/WorkLifeBalance.md#overview)
-- [Playing chess](https://github.com/dimanikulin/dimanikulin/blob/main/WorkLifeBalance.md#playing-chess)
-- [Insurance case](https://github.com/dimanikulin/dimanikulin/blob/main/WorkLifeBalance.md#insurance-case)
-- [What does work-life balance mean for you?](https://github.com/dimanikulin/dimanikulin/blob/main/WorkLifeBalance.md#what-does-work-life-balance-mean-for-you)
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/WorkLifeBalance.md#tags-1)
-- [Playing chess 2](https://github.com/dimanikulin/dimanikulin/blob/main/WorkLifeBalance.md#playing-chess-2)
-- [Cleanup](https://github.com/dimanikulin/dimanikulin/blob/main/WorkLifeBalance.md#cleanup)
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/WorkLifeBalance.md#tags-2)
-- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/WorkLifeBalance.md#definitions-acronyms-abbreviations)
-- [References](https://github.com/dimanikulin/dimanikulin/blob/main/WorkLifeBalance.md#references)
+- [Tags](./WorkLifeBalance.md#tags)
+- [Overview](./WorkLifeBalance.md#overview)
+- [Playing chess](./WorkLifeBalance.md#playing-chess)
+- [Insurance case](./WorkLifeBalance.md#insurance-case)
+- [What does work-life balance mean for you?](./WorkLifeBalance.md#what-does-work-life-balance-mean-for-you)
+- [Tags](./WorkLifeBalance.md#tags-1)
+- [Playing chess 2](./WorkLifeBalance.md#playing-chess-2)
+- [Cleanup](./WorkLifeBalance.md#cleanup)
+- [Tags](./WorkLifeBalance.md#tags-2)
+- [Definitions, Acronyms, Abbreviations](./WorkLifeBalance.md#definitions-acronyms-abbreviations)
+- [References](./WorkLifeBalance.md#references)
 
 # Tags
 wellbeing worklifebalance workload relaxation Chess MedicalInsurance
