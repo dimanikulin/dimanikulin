@@ -6,14 +6,18 @@ TBD
 # Table of contents
 - [Tags](./MyRulesWorkingWithTg.md#tags)
 - [Overview](./MyRulesWorkingWithTg.md#overview)
-
-- [Безпека та блокування](./MyRulesWorkingWithTg.md#%D0%B1%D0%B5%D0%B7%D0%BF%D0%B5%D0%BA%D0%B0-%D1%82%D0%B0-%D0%B1%D0%BB%D0%BE%D0%BA%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F)
+- [Загальна безпека](./MyRulesWorkingWithTg.md#%D0%B7%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0-%D0%B1%D0%B5%D0%B7%D0%BF%D0%B5%D0%BA%D0%B0)
+- [Блокування в Telegam](./MyRulesWorkingWithTg.md#%D0%B1%D0%BB%D0%BE%D0%BA%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F-%D0%B2-telegam)
 - [Як я зазвичай повожусь на каналах щоб не блокували](./MyRulesWorkingWithTg.md#%D1%8F%D0%BA-%D1%8F-%D0%B7%D0%B0%D0%B7%D0%B2%D0%B8%D1%87%D0%B0%D0%B9-%D0%BF%D0%BE%D0%B2%D0%BE%D0%B6%D1%83%D1%81%D1%8C-%D0%BD%D0%B0-%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0%D1%85-%D1%89%D0%BE%D0%B1-%D0%BD%D0%B5-%D0%B1%D0%BB%D0%BE%D0%BA%D1%83%D0%B2%D0%B0%D0%BB%D0%B8)
-- [За що блокують](./MyRulesWorkingWithTg.md#%D0%B7%D0%B0-%D1%89%D0%BE-%D0%B1%D0%BB%D0%BE%D0%BA%D1%83%D1%8E%D1%82%D1%8C)
-- [Що робити, якщо заблокували на каналі?](./MyRulesWorkingWithTg.md#%D1%89%D0%BE-%D1%80%D0%BE%D0%B1%D0%B8%D1%82%D0%B8-%D1%8F%D0%BA%D1%89%D0%BE-%D0%B7%D0%B0%D0%B1%D0%BB%D0%BE%D0%BA%D1%83%D0%B2%D0%B0%D0%BB%D0%B8-%D0%BD%D0%B0-%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D1%96)
 - [Що робити, якщо заблокували взагалі обліковий запис?](./MyRulesWorkingWithTg.md#%D1%89%D0%BE-%D1%80%D0%BE%D0%B1%D0%B8%D1%82%D0%B8-%D1%8F%D0%BA%D1%89%D0%BE-%D0%B7%D0%B0%D0%B1%D0%BB%D0%BE%D0%BA%D1%83%D0%B2%D0%B0%D0%BB%D0%B8-%D0%B2%D0%B7%D0%B0%D0%B3%D0%B0%D0%BB%D1%96-%D0%BE%D0%B1%D0%BB%D1%96%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9-%D0%B7%D0%B0%D0%BF%D0%B8%D1%81)
 - [Що робити, якщо заблокували можливість писати у public каналах?](./MyRulesWorkingWithTg.md#%D1%89%D0%BE-%D1%80%D0%BE%D0%B1%D0%B8%D1%82%D0%B8-%D1%8F%D0%BA%D1%89%D0%BE-%D0%B7%D0%B0%D0%B1%D0%BB%D0%BE%D0%BA%D1%83%D0%B2%D0%B0%D0%BB%D0%B8-%D0%BC%D0%BE%D0%B6%D0%BB%D0%B8%D0%B2%D1%96%D1%81%D1%82%D1%8C-%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B8-%D1%83-public-%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0%D1%85)
-
+- [Що робити, якщо заблокували на каналі?](./MyRulesWorkingWithTg.md#%D1%89%D0%BE-%D1%80%D0%BE%D0%B1%D0%B8%D1%82%D0%B8-%D1%8F%D0%BA%D1%89%D0%BE-%D0%B7%D0%B0%D0%B1%D0%BB%D0%BE%D0%BA%D1%83%D0%B2%D0%B0%D0%BB%D0%B8-%D0%BD%D0%B0-%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D1%96)
+- [Підроблені облікові записи Telegram або шахраї](./MyRulesWorkingWithTg.md#%D0%BF%D1%96%D0%B4%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BD%D1%96-%D0%BE%D0%B1%D0%BB%D1%96%D0%BA%D0%BE%D0%B2%D1%96-%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%B8-telegram-%D0%B0%D0%B1%D0%BE-%D1%88%D0%B0%D1%85%D1%80%D0%B0%D1%97)
+- [Зображення профілю](./MyRulesWorkingWithTg.md#%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F-%D0%BF%D1%80%D0%BE%D1%84%D1%96%D0%BB%D1%8E)
+- [Ім'я користувача та відображуване ім'я](./MyRulesWorkingWithTg.md#%D1%96%D0%BC%D1%8F-%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D1%82%D1%83%D0%B2%D0%B0%D1%87%D0%B0-%D1%82%D0%B0-%D0%B2%D1%96%D0%B4%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D1%83%D0%B2%D0%B0%D0%BD%D0%B5-%D1%96%D0%BC%D1%8F)
+- [Розділ "Біографія"](./MyRulesWorkingWithTg.md#%D1%80%D0%BE%D0%B7%D0%B4%D1%96%D0%BB-%D0%B1%D1%96%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D1%96%D1%8F)
+- [Поле "Востаннє бачили"](./MyRulesWorkingWithTg.md#%D0%BF%D0%BE%D0%BB%D0%B5-%D0%B2%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BD%D1%94-%D0%B1%D0%B0%D1%87%D0%B8%D0%BB%D0%B8)
+- [Поле "Дата створення"](./MyRulesWorkingWithTg.md#%D0%BF%D0%BE%D0%BB%D0%B5-%D0%B4%D0%B0%D1%82%D0%B0-%D1%81%D1%82%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%BD%D1%8F)
 
 # Tags
 TBD
