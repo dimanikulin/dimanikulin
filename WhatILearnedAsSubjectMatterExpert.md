@@ -2,17 +2,17 @@
 What I learned as a Subject Matter Expert while creating my product
 
 # Table of contents
-- [Tags](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsSubjectMatterExpert.md#tags)
-- [Definitions, Acronyms, Abbreviations](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsSubjectMatterExpert.md#definitions-acronyms-abbreviations)
-- [Overview](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsSubjectMatterExpert.md#overview)
-- [Multimedia IR systems](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsSubjectMatterExpert.md#multimedia-ir-systems)
-- [Metadata](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsSubjectMatterExpert.md#metadata)
-- [Examples of incorrect search results](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsSubjectMatterExpert.md#examples-of-incorrect-search-results)
-- [Multimedia Organizers](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsSubjectMatterExpert.md#multimedia-organizers)
-- [Integration](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsSubjectMatterExpert.md#integration)
-- [Integration with digiKam](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsSubjectMatterExpert.md#integration-with-digikam)
-- [Integration with Google Photos](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsSubjectMatterExpert.md#integration-with-google-photos)
-- [References](https://github.com/dimanikulin/dimanikulin/blob/main/WhatILearnedAsSubjectMatterExpert.md#references)
+- [Tags](./WhatILearnedAsSubjectMatterExpert.md#tags)
+- [Definitions, Acronyms, Abbreviations](./WhatILearnedAsSubjectMatterExpert.md#definitions-acronyms-abbreviations)
+- [Overview](./WhatILearnedAsSubjectMatterExpert.md#overview)
+- [Multimedia IR systems](./WhatILearnedAsSubjectMatterExpert.md#multimedia-ir-systems)
+- [Metadata](./WhatILearnedAsSubjectMatterExpert.md#metadata)
+- [Examples of incorrect search results](./WhatILearnedAsSubjectMatterExpert.md#examples-of-incorrect-search-results)
+- [Multimedia Organizers](./WhatILearnedAsSubjectMatterExpert.md#multimedia-organizers)
+- [Integration](./WhatILearnedAsSubjectMatterExpert.md#integration)
+- [Integration with digiKam](./WhatILearnedAsSubjectMatterExpert.md#integration-with-digikam)
+- [Integration with Google Photos](./WhatILearnedAsSubjectMatterExpert.md#integration-with-google-photos)
+- [References](./WhatILearnedAsSubjectMatterExpert.md#references)
 
 # Tags
 Multimedia IR Systems, Metadata, Multimedia Organizers, digiKam, Google Photos, Multimedia Data, Photo Album.
