@@ -5,9 +5,7 @@ TBD
 
 # Table of contents
 - [Tags](./MyRulesWorkingWithTg.md#tags)
-- [Definitions, Acronyms, Abbreviations](./MyRulesWorkingWithTg.md#definitions-acronyms-abbreviations)
 - [Overview](./MyRulesWorkingWithTg.md#overview)
-- [References](./MyRulesWorkingWithTg.md#references)
 
 - [Безпека та блокування](./MyRulesWorkingWithTg.md#%D0%B1%D0%B5%D0%B7%D0%BF%D0%B5%D0%BA%D0%B0-%D1%82%D0%B0-%D0%B1%D0%BB%D0%BE%D0%BA%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F)
 - [Як я зазвичай повожусь на каналах щоб не блокували](./MyRulesWorkingWithTg.md#%D1%8F%D0%BA-%D1%8F-%D0%B7%D0%B0%D0%B7%D0%B2%D0%B8%D1%87%D0%B0%D0%B9-%D0%BF%D0%BE%D0%B2%D0%BE%D0%B6%D1%83%D1%81%D1%8C-%D0%BD%D0%B0-%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0%D1%85-%D1%89%D0%BE%D0%B1-%D0%BD%D0%B5-%D0%B1%D0%BB%D0%BE%D0%BA%D1%83%D0%B2%D0%B0%D0%BB%D0%B8)
@@ -20,16 +18,10 @@ TBD
 # Tags
 TBD
 
-# Definitions, Acronyms, Abbreviations
-| # | Abbreviation or Acronym | Definition     |
-| - | ------------------------|:--------------:|
-| 1 |
-
 # Overview
 TBD 
 
 ---
-
 
 # Загальна безпека 
 Насамперед раджу подбати про **власну безпеку**.
@@ -38,10 +30,12 @@ TBD
 
 Також рекомендую:
 - почистити пов'язані з вашими особистими обліковими записами соціальні мережі, вилучивши персональну інформацію;
-- поставити де тільки двофакторну авторизацію, в телеграмі, вайбері і тд;
+- поставити двофакторну авторизацію, в телеграмі, вайбері і тд;
 - не відкривати підозрілих посилань, навіть якщо їх надіслано зі знайомого контакту (контакт можуть підмінити);
 - не ставити собі неперевірене ПЗ (з незрозумілих джерел);
 - при установці програм (на телефон або ПК) давати їм якнайменше прав.
+
+<img src="./Images/TBD.jpg" alt="TBD" />
 
 # Блокування в Telegam
 Telegram блокує, коли користувачі скаржаться на повідомлення як на якісь неприйнятний контент - спам, насильство, особисті дані і т.д.
@@ -117,9 +111,3 @@ Telegram блокує, коли користувачі скаржаться на
 ## Поле "Дата створення"
 Підроблені облікові записи також мають не свіжу дату створення.
 
-
-<img src="./Images/TBD.jpg" alt="TBD" />
-
-# References
-| # | Name                 | Source                | Release date           |  Author                 | Description   |
-| - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
