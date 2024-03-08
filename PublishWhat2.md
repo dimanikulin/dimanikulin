@@ -104,7 +104,6 @@ My is
 - is there "Overview" to start from?
 - is there "Tags" ?
 - is there "Table of contents"?
-- is there "Content"? 
 - is there no formatting symbols?
 - is there no empty chapters?
 - is "Definitions, Acronyms, Abbreviations" sorted?
