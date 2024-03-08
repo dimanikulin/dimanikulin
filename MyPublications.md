@@ -8,6 +8,7 @@ My Publications
 - [Multimedia, Multimedia IR systems and Multimedia Organizers - Part 2](./MyPublications.md#multimedia-multimedia-ir-systems-and-multimedia-organizers---part-2)
 - [Detecting Architectural Gaps with Automation](./MyPublications.md#detecting-architectural-gaps-with-automation)
 - [How, What and Where to publish](./MyPublications.md#how-what-and-where-to-publish)
+- [Telegram](./MyPublications.md#telegram)
 - [LinkedIn Posts](./MyPublications.md#linkedin-posts)
 - [Not ready yet](./MyPublications.md#not-ready-yet)
 
@@ -77,6 +78,11 @@ My Publications
 |reddit     |TBD|TBD|TBD|TBD|
 |quora      |TBD|TBD|TBD|TBD| 
 
+# Telegram
+|Name       |[Rules I use to work with Telegram](./MyRulesWorkingWithTg.md)|[My Telegram Channel](./MyTelegramChannel)|[Proposed Solution](./MyRuTelegramChannels.md)|
+|-----------|---------------------------------------------------------------|----------------------------------------------------------------------|:---------------------------------------------------------------------------------:|
+|TBD        |TBD|TBD|TBD| 
+
 # LinkedIn posts
 - [ChatGPT](./ChatGPT.md)
 - [Communication](./Communication.md)
@@ -94,7 +100,5 @@ My Publications
 - [Work Life Balance](WorkLifeBalance.md)
 
 # Not ready yet
-- [Profile and CV as a code](./ProfileAsCode.md)
-- [Rules I use to work with Telegram](./MyRulesWorkingWithTg.md)
-- [My Telegram Channel](./MyTelegramChannel)
+- [Profile and CV as a code](./ProfileAsCode.md) 
 - [History happended at work](./HistoryAtWork.md)
