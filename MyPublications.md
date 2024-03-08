@@ -52,7 +52,7 @@ My Publications
 |hackernoon |[21/02/2024](https://hackernoon.com/detecting-architectural-gaps-with-automation-business-context)|TBD|TBD|
 |linkedin   |[27/02/2024](https://www.linkedin.com/posts/dimanikulin_softwarearchitecture-architecturevisualization-activity-7168137721008308224-9LoR?utm_source=share&utm_medium=member_desktop)|TBD|TBD|
 |dev.to     |[05/03/2024](https://dev.to/dimanikulin/detecting-architectural-gaps-with-automation-business-context-50ed)|TBD|TBD|
-|medium     |TBD|TBD|TBD|
+|medium     |[08/03/2014](https://medium.com/@dimanikulin_43511/detecting-architectural-gaps-with-automation-business-context-256ef701336d)|TBD|TBD|
 |reddit     |TBD|TBD|TBD|
 |quora      |TBD|TBD|TBD| 
 
@@ -79,7 +79,7 @@ My Publications
 |quora      |TBD|TBD|TBD|TBD| 
 
 # Telegram
-|Name       |[Rules I use to work with Telegram](./MyRulesWorkingWithTg.md)|[My Telegram Channel](./MyTelegramChannel)|[Proposed Solution](./MyRuTelegramChannels.md)|
+|Name       |[Rules I use to work with Telegram](./MyRulesWorkingWithTg.md)|[My Telegram Channel](./MyTelegramChannel)|[Russian telegram channels](./MyRuTelegramChannels.md)|
 |-----------|---------------------------------------------------------------|----------------------------------------------------------------------|:---------------------------------------------------------------------------------:|
 |TBD        |TBD|TBD|TBD| 
 
