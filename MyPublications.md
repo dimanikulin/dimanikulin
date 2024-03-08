@@ -2,10 +2,10 @@
 My Publications
 
 # Table of contents
-- [About own product, its history and what I learned - Part 1](./MyPublications.md#about-own-product-its-history-and-what-i-learned---part-1)
-- [About own product, its history and what I learned - Part 2](./MyPublications.md#about-own-product-its-history-and-what-i-learned---part-2)
-- [Publications about Multimedia, Multimedia IR systems and Multimedia Organizers - Part 1](./MyPublications.md#publications-about-multimedia-multimedia-ir-systems-and-multimedia-organizers---part-1)
-- [Publications about Multimedia, Multimedia IR systems and Multimedia Organizers - Part 2](./MyPublications.md#publications-about-multimedia-multimedia-ir-systems-and-multimedia-organizers---part-2)
+- [Own product, its history and what I learned - Part 1](./MyPublications.md#own-product-its-history-and-what-i-learned---part-1)
+- [Own product, its history and what I learned - Part 2](./MyPublications.md#own-product-its-history-and-what-i-learned---part-2)
+- [Multimedia, Multimedia IR systems and Multimedia Organizers - Part 1](./MyPublications.md#multimedia-multimedia-ir-systems-and-multimedia-organizers---part-1)
+- [Multimedia, Multimedia IR systems and Multimedia Organizers - Part 2](./MyPublications.md#multimedia-multimedia-ir-systems-and-multimedia-organizers---part-2)
 - [Detecting Architectural Gaps with Automation](./MyPublications.md#detecting-architectural-gaps-with-automation)
 - [How, What and Where to publish](./MyPublications.md#how-what-and-where-to-publish)
 - [LinkedIn Posts](./MyPublications.md#linkedin-posts)
@@ -13,7 +13,7 @@ My Publications
 
 ---
 
-# Publications about Multimedia, Multimedia IR systems and Multimedia Organizers - Part 1
+# Multimedia, Multimedia IR systems and Multimedia Organizers - Part 1
 |Name       |[What is multimedia data?](./MultimediaData.md)|[What are Multimedia IR systems?](./MultimediaIRSystems.md)|[Multimedia IR systems Analyze](./MultimediaIRSystemsAnalyze.md)|[What are Multimedia Organizers?](./MultimediaOrganizers.md)|
 |-----------|-----------------------------------------------|-----------------------------------------------------------|----------------------------------------------------------------|:------------------------------------------------------------:|
 |dev.to     |[14/06/2022](https://dev.to/dimanikulin/what-is-multimedia-data-111f)|[28/06/2022](https://dev.to/dimanikulin/what-are-multimedia-ir-systems-5c7nv)|[07/07/2022](https://dev.to/dimanikulin/multimedia-ir-systems-analyze-4e17)|[18/09/2022](https://dev.to/dimanikulin/what-are-the-photo-organizers-1na9)|
@@ -22,7 +22,7 @@ My Publications
 |reddit     |[16/06/2022](https://www.reddit.com/r/fva/comments/ve7188/what_is_multimedia_data/)|was deleted as spam. but why?|was deleted as spam. but why?|[20/08/2022](https://www.reddit.com/r/fva/comments/xkum82/what_are_the_multimedia_organizers/)|
 |quora      |[19/06/2022](https://www.quora.com/profile/Dima-Nikulin-2/What-is-Multimedia-Data-We-live-in-the-digital-data-era-and-growing-of-the-Internet-gives-us-a-possibility-to-find-th)|[03/07/2022](https://www.quora.com/profile/Dima-Nikulin-2/What-are-Multimedia-IR-Systems-Lets-briefly-overview-the-Multimedia-IR-systems-According-to-the-Wikipedia-https)|[13/07/2022](https://www.quora.com/profile/Dima-Nikulin-2/Multimedia-IR-Systems-analyze-Let-us-compare-several-multimedia-IR-systems-by-covering-requirements-and-needs-we-identi)|[22/09/2022](https://www.quora.com/profile/Dima-Nikulin-2/What-are-the-Multimedia-Organizers-Multimedia-Organizers-functions-They-currently-perform-the-search-in-photo-set)|
 
-# About own product, its history and what I learned - Part 1
+# Own product, its history and what I learned - Part 1
 |Name       |[Why I created photo organizer?](./WhyCreatedPhotoOrganizer.md)|[What I Learned As Product Manager](./WhatILearnedAsProductManager.md)|[What I Learned As Subject Matter Expert](./WhatILearnedAsSubjectMatterExpert.md)|[What I Learned As App Architect](./WhatILearnedAsAppArchitect.md)|
 |-----------|---------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------|:----------------------------------------------------------------:|
 |hackernoon |N/A|[01/05/2023](https://hackernoon.com/why-i-decided-to-create-a-photo-organizer-and-what-i-learned-as-a-result)|[08/12/2023](https://hackernoon.com/what-i-learned-as-a-subject-matter-expert-while-creating-my-product)|[27/12/2023](https://hackernoon.com/everything-i-learned-as-an-application-architect-while-creating-my-product)|
@@ -33,7 +33,7 @@ My Publications
 |reddit     |[12/02/2023](https://www.reddit.com/r/fva/comments/112s9q1/why_i_decided_to_create_my_photo_organizer/)|[10/03/2023](https://www.reddit.com/r/fva/comments/11nnrds/what_i_learned_as_a_product_manager_while/)|[15/05/2023](https://www.reddit.com/r/fva/comments/13i0mr6/what_i_learned_as_a_subject_matter_expert_while/)|[30/09/2023](https://www.reddit.com/r/fva/comments/16w0zr6/what_i_learned_as_an_application_architect_while/)|
 |quora      |[17/02/2023](https://www.quora.com/profile/Dima-Nikulin-2/Why-I-decided-to-create-my-photo-organizer-As-a-child-I-used-to-flip-through-family-photo-album-to-see-my-relatives-w)|[14/03/2023](https://www.quora.com/profile/Dima-Nikulin-2/What-I-learned-as-a-Product-Manager-while-creating-my-product-Design-Thinking-The-first-product-I-was-thinking-about-w-2)|[17/05/2023](https://www.quora.com/profile/Dima-Nikulin-2/What-I-learned-as-a-Subject-Matter-Expert-while-creating-my-product)|[30/10/2023](https://www.quora.com/profile/Dima-Nikulin-2/What-I-learned-as-an-Application-Architect-while-creating-my-product)| 
 
-# About own product, its history and what I learned - Part 2
+# Own product, its history and what I learned - Part 2
 |Name       |[What I Learned As SW Developer](./WhatILearnedAsSoftwareDeveloper.md)|[What I Learned As Delivery Manager](./WhatILearnedAsDeliveryManager.md)|[What I Learned As DevOps](./WhatILearnedAsDevOps.md)|[What I Learned As Tester](./WhatILearnedAsTester.md)|
 |-----------|---------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------|:----------------------------------------------------------------:|
 |hashnode   |[11/12/2023](https://dimanikulin.hashnode.dev/what-i-learned-as-a-software-developer-while-creating-my-product)|[10/01/2024](https://dimanikulin.hashnode.dev/what-i-learned-as-a-delivery-manager-while-creating-my-product)|TBD|TBD|
@@ -66,7 +66,7 @@ My Publications
 |reddit     |TBD|TBD|TBD|TBD|
 |quora      |TBD|TBD|TBD|TBD| 
 
-# Publications about Multimedia, Multimedia IR systems and Multimedia Organizers - Part 2
+# Multimedia, Multimedia IR systems and Multimedia Organizers - Part 2
 |Name       |[Analyze of Multimedia Organizers](./MultimediaOrganizersAnalyze.md)|[Search Requests for Multimedia](./MultimediaSearchRequests.md)|[Enriching the Multimedia](./MultimediaEnriching.md)|[Tagging Your Multimedia](./MultimediaTagging.md)|
 |-----------|---------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------|:----------------------------------------------------------------:|
 |hashnode   |TBD|TBD|TBD|TBD|
