@@ -8,7 +8,7 @@ My Publications
 - [Publications about Multimedia, Multimedia IR systems and Multimedia Organizers - Part 2](./MyPublications.md#publications-about-multimedia-multimedia-ir-systems-and-multimedia-organizers---part-2)
 - [Detecting Architectural Gaps with Automation](./MyPublications.md#detecting-architectural-gaps-with-automation)
 - [How, What and Where to publish](./MyPublications.md#how-what-and-where-to-publish)
-- [Other publications](./MyPublications.md#linkedin-posts)
+- [LinkedIn Posts](./MyPublications.md#linkedin-posts)
 - [Not ready yet](./MyPublications.md#not-ready-yet)
 
 ---
