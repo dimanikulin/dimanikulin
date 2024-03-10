@@ -51,6 +51,9 @@ Furthermore, it's important to be responsive to comments by addressing any quest
 This interaction helps foster a sense of community and encourages further engagement with the content.
 
 # Publication Structure
+
+<img src="./Images/PublishWhat1.png" alt="PublishWhat1" />
+
 When creating content, it is crucial to prioritize structure, especially for larger texts.
 The following guidelines should be adhered to:
 
