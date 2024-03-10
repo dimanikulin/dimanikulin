@@ -9,8 +9,17 @@ or
 - [Tags](./PublishWhat1.md#tags)
 - [Definitions, Acronyms, Abbreviations](./PublishWhat1.md#definitions-acronyms-abbreviations)
 - [Overview](./PublishWhat1.md#overview)
-- [References](./PublishWhat1.md#references)
-TBD 
+- [Criteria for Evaluating Publications](./PublishWhat1.md#criteria-for-evaluating-publications)
+- [Common Recommendations](./PublishWhat1.md#common-recommendations)
+- [Publication Structure](./PublishWhat1.md#publication-structure)
+- [Must-Have Chapters](./PublishWhat1.md#must-have-chapters)
+- [Optional Chapters](./PublishWhat1.md#optional-chapters)
+- ["Headline" chapter](./PublishWhat1.md#headline-chapter)
+- ["Table of contents" chapter](./PublishWhat1.md#table-of-contents-chapter)
+- ["Overview" Chapter](./PublishWhat1.md#overview-chapter)
+- ["Tags" Chapter](./PublishWhat1.md#tags-chapter)
+- ["Definitions, Acronyms, Abbreviations" Chapter](./PublishWhat1.md#definitions-acronyms-abbreviations-chapter)
+- ["References" Chapter](./PublishWhat1.md#references-chapter)
 
 # Tags
 Publication Metrics, Content Engagement, Publication Strategy, Writing Guidelines, Document Structure, Publication Optimization, Audience Interaction
