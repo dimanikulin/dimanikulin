@@ -52,6 +52,8 @@ This interaction helps foster a sense of community and encourages further engage
 
 # Publication Structure
 
+<img src="./Images/PublishWhat1.png" alt="PublishWhat1" />
+
 When creating content, it is crucial to prioritize structure, especially for larger texts.
 The following guidelines should be adhered to:
 
@@ -74,8 +76,6 @@ Ensuring the inclusion of these must-have chapters will contribute to the clarit
 
 # Optional Chapters
 
-<img src="./Images/PublishWhat1.png" alt="PublishWhat1" />
-
 I would like to note that the **Definitions, Acronyms, Abbreviations** and **References** chapters are optional.
 
 Generally, there is no need for a glossary.
@@ -90,8 +90,6 @@ Please note that sometimes it may require a few corrections because it might ext
 # "Table of contents" chapter
 **Table of contents** is just usual content table with links to the chapter headers 
 
-<img src="./Images/PublishWhat2.png" alt="PublishWhat2" />
-
 # "Overview" Chapter
 The **overview** chapter typically offers a brief summary or introduction to the main topics covered in the document.
 It serves as a way to orient the reader and provide context before delving into more detailed information.
@@ -100,6 +98,8 @@ Alternatively, this chapter is often referred to as **TL;DR** - *too long; didn'
 
 Similar to the previous chapter, I use **ChatGPT** to assist me in generating the **Overview**. 
 Therefore, I copy the entire content into **ChatGPT** and ask it to generate an **Overview**.
+
+<img src="./Images/PublishWhat2.png" alt="PublishWhat2" />
 
 # "Tags" Chapter
 **Tags** for text documents are keywords or labels assigned to the document to categorize or describe its content.
