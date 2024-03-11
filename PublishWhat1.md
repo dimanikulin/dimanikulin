@@ -89,6 +89,8 @@ Please note that sometimes it may require a few corrections because it might ext
 # "Table of contents" chapter
 **Table of contents** is just usual content table with links to the chapter headers 
 
+<img src="./Images/PublishWhat2.png" alt="PublishWhat2" />
+
 # "Overview" Chapter
 The **overview** chapter typically offers a brief summary or introduction to the main topics covered in the document.
 It serves as a way to orient the reader and provide context before delving into more detailed information.
