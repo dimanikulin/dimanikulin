@@ -25,57 +25,9 @@ TBD
 
 ---
 
-# Plagiarism
-TBD
-
-www.copyscape.com
-
-Please note we require 0% plagiarism/duplicate content and all sources must be cited properly.
-
-When using a quote or definition from another source, it must be cited using an in-line link so we are giving attribution and the reader can verify the information.
-
-However, we would prefer that these papers share a uniquely GL perspective and that the content is 100% original. 
-
-# languge 
-
-TBD
-
-# Actual for this platform connet
-Facebook not for programming, like pain point for your and for society, find info інфопривід
-
-# if you publish on different sites
-
-first must hacker noon as they check your connetn a lot
-before publication please fill profiles
-make all profiles be consistent
-
-Read sites requrements 
-
-# Choose day and time
-Please select proper day and time for a publication. I publish usually on Monday and Thussday.
-It is usually 10AM - 3PM my local time, Ukrainian. Defintly not at morning and an night 
-please notice on holidays you will have less viewes
-for summer you mush less viewes/reactions 
-when there is also other importnat event in platform published you will loose the views but the will accuire them 
-
-# Choose frequency of publication
-I use 1-2 per week. 
-
-# Make proof read 
-prof read by Grammarly on hashnode
-
-prof read by GPT
-
-prof read by person
-
-prof read by word or google docs
-
-no grammar and formatting issues
-
 # Size
 For a usual people-facing piece, I think this needs to be pared down as much as possible – ideally under 2500 words. 
 It's a very dense read, and it's a big ask to expect an executive looking at their solution options to read a 40-page paper.
-
 
 not less not more
 
@@ -97,6 +49,41 @@ you would have at least featured image as a title image. it shhould be active li
 
 # Tables 
 if you provide tables please make sure that less filled columns are the end of table and wiseversa
+
+# Language 
+
+TBD
+
+# Plagiarism
+TBD
+
+www.copyscape.com
+
+Please note we require 0% plagiarism/duplicate content and all sources must be cited properly.
+
+When using a quote or definition from another source, it must be cited using an in-line link so we are giving attribution and the reader can verify the information.
+
+However, we would prefer that these papers share a uniquely GL perspective and that the content is 100% original. 
+
+# Publishing on different sites
+
+first must hacker noon as they check your connetn a lot
+before publication please fill profiles
+make all profiles be consistent
+
+Read sites requrements 
+
+Actual for this platform connet
+Facebook not for programming, like pain point for your and for society, find info інфопривід
+
+# Choose time and frequency of publication
+Please select proper day and time for a publication. I publish usually on Monday and Thussday.
+It is usually 10AM - 3PM my local time, Ukrainian. Defintly not at morning and an night 
+please notice on holidays you will have less viewes
+for summer you mush less viewes/reactions 
+when there is also other importnat event in platform published you will loose the views but the will accuire them 
+
+I use 1-2 per week. 
 
 # Check list
 provide own check list
