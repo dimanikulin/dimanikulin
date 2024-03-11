@@ -1,5 +1,3 @@
-<img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"/>
-
 # Headline
 **Optimizing Publication Success**: Key Metrics, Recommendations, and Structural Essentials
 or 
