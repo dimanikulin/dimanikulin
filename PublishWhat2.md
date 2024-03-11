@@ -26,10 +26,11 @@ TBD
 ---
 
 # Size
-For a usual people-facing piece, I think this needs to be pared down as much as possible – ideally under 2500 words. 
-It's a very dense read, and it's a big ask to expect an executive looking at their solution options to read a 40-page paper.
+The publication should not be overly dense or difficult to read.
+When considering a typical piece intended for public consumption, I propose aiming for an ideal publication size of under 2500 words.
 
-not less not more
+On the other hand, the size should not be too small, where it can be consumed in just one minute.
+I would suggest 1000 words as the smallest size for a publication.
 
 # No formatong symbols
 if you copy you content from spme format there should be any
@@ -64,6 +65,17 @@ Please note we require 0% plagiarism/duplicate content and all sources must be c
 When using a quote or definition from another source, it must be cited using an in-line link so we are giving attribution and the reader can verify the information.
 
 However, we would prefer that these papers share a uniquely GL perspective and that the content is 100% original. 
+
+# Make proof read 
+prof read by Grammarly on hashnode
+
+prof read by GPT
+
+prof read by person
+
+prof read by word or google docs
+
+no grammar and formatting issues
 
 # Publishing on different sites
 
