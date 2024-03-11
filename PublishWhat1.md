@@ -52,8 +52,6 @@ This interaction helps foster a sense of community and encourages further engage
 
 # Publication Structure
 
-<img src="./Images/PublishWhat1.png" alt="PublishWhat1" />
-
 When creating content, it is crucial to prioritize structure, especially for larger texts.
 The following guidelines should be adhered to:
 
@@ -75,6 +73,9 @@ In any comprehensive document, the following chapters are essential:
 Ensuring the inclusion of these must-have chapters will contribute to the clarity, accessibility, and overall effectiveness of the document.
 
 # Optional Chapters
+
+<img src="./Images/PublishWhat1.png" alt="PublishWhat1" />
+
 I would like to note that the **Definitions, Acronyms, Abbreviations** and **References** chapters are optional.
 
 Generally, there is no need for a glossary.
