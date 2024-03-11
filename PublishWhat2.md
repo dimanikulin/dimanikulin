@@ -17,8 +17,8 @@ TODO GPT from connet
 | # | Abbreviation or Acronym | Definition     |
 | - | ------------------------|:--------------:|
 | 1 | [Google](https://en.wikipedia.org/wiki/Google)| Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include [online advertising technologies](https://en.wikipedia.org/wiki/Online_advertising), a [search engine](https://en.wikipedia.org/wiki/Search_engine), [cloud computing](https://en.wikipedia.org/wiki/Cloud_computing), software, and hardware.|
-| 2 | PII | TODO |
-| 2 | TL;DR | TODO |
+| 2 | PII                     | Any representation of information that permits the identity of an individual to whom the information applies to be reasonably inferred by either direct or indirect means. |
+| 3 | TL;DR                   | TL;DR or tl;dr, short for "too long; didn't read", is internet slang often used to introduce a summary of an online post or news article. It is also used as an informal interjection indicating that a block of text has been ignored due to its length. |
 
 # Overview
 TBD 
