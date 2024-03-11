@@ -32,11 +32,10 @@ When considering a typical piece intended for public consumption, I propose aimi
 On the other hand, the size should not be too small, where it can be consumed in just one minute.
 I would suggest 1000 words as the smallest size for a publication.
 
-# No formatong symbols
-if you copy you content from spme format there should be any
 
-</br>
-&nbsp;&nbsp;
+# No formatting symbols
+An important point to note is the absence of any formatting symbols in the publication, such as **</br>** or **&nbsp;&nbsp;**.
+These symbols may appear if you copy your content from another document format.
 
 # Citations 
 Citations should be formatted as in-line links, with any recommended reading listed separately. 
