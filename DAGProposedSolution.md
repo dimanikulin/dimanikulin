@@ -226,5 +226,5 @@ Consequently, the augmented pipeline would resemble the second pipeline depicted
 | 4 | Enterprise Architect API | [Pdf document](https://sparxsystems.com/resources/user-guides/15.1/automation/automation.pdf)| 20/01/2020 | Sparx Systems | |
 | 5 | Java class dependency analyzer | [web](https://docs.oracle.com/javase/9/tools/jdeps.htm#JSWOR690)| | | |
 | 6 | Detecting Architectural Gaps with Automation : Business Context | [GitHub](./DAGBusinessContext_en.md) |  | Dmytro Nikulin | | 
-| 7 | Detecting Architectural Gaps with Automation : Existing Solutions | [GitHub](./DAGExistingSolutions.md) |  | Dmytro Nikulin | | 
+| 7 | Detecting Architectural Gaps with Automation : Existing Solutions | [GitHub](./DAGExistingSolutions_en.md) |  | Dmytro Nikulin | | 
  
