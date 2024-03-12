@@ -84,8 +84,8 @@ My Publications
 |TBD        |TBD|TBD|TBD| 
 
 # LinkedIn posts
-- [ChatGPT](./ChatGPT_en.md)
-- [Communication](./Communication_en.md)
+- [ChatGPT](./ChatGPT.md)
+- [Communication](./Communication.md)
 - [Fishing](./Fishing.md)
 - [Holidays](/Holidays.md)
 - [Interesting facts](./InterestingFacts.md)
