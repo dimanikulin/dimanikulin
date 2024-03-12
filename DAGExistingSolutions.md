@@ -166,5 +166,5 @@ For example, scanning DB is not supported by **Bionic.ai**, and scanning **UML**
 | 3 | Castsoftware Image | [Web](https://www.castsoftware.com/imaging) | | | |
 | 4 | Netdepends | [Web](https://www.workshell.co.uk/products/netdepends/) | | | |
 | 5 | Axivion | [Web](https://www.axivion.com/en/) | | | |
-| 6 | Detecting Architectural Gaps with Automation : Business Context | [GitHub](./DAGBusinessContext.md) |  | Dmytro Nikulin | | 
+| 6 | Detecting Architectural Gaps with Automation : Business Context | [GitHub](./DAGBusinessContext_en.md) |  | Dmytro Nikulin | | 
 | 7 | Detecting Architectural Gaps with Automation : Proposed Solution | [GitHub](./DAGProposedSolution.md) |  | Dmytro Nikulin | | 

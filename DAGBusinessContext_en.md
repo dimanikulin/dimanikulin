@@ -4,20 +4,20 @@ or
 **Detecting Architectural Gaps** with Automation - Business Context
 
 # Table of contents
-- [Tags](./DAGBusinessContext.md#tags)
-- [Definitions, Acronyms, Abbreviations](./DAGBusinessContext.md#definitions-acronyms-abbreviations)
-- [Overview](./DAGBusinessContext.md#overview)
-- [Executive summary](./DAGBusinessContext.md#executive-summary)
-- [Detecting Architectural Gaps with Automation](./DAGBusinessContext.md#detecting-architectural-gaps-with-automation)
-- [Solution requirements](./DAGBusinessContext.md#solution-requirements)
-- [Solution modes](./DAGBusinessContext.md#solution-modes)
-- [Solution inputs](./DAGBusinessContext.md#solution-inputs)
-- [Solution integration](./DAGBusinessContext.md#solution-integration)
-- [User interaction](./DAGBusinessContext.md#user-interaction)
-- [Solution output](./DAGBusinessContext.md#solution-output)
-- [Modifiability and extendibility](./DAGBusinessContext.md#modifiability-and-extendibility)
-- [Configurability](./DAGBusinessContext.md#configurability)
-- [References](./DAGBusinessContext.md#references)
+- [Tags](./DAGBusinessContext_en.md#tags)
+- [Definitions, Acronyms, Abbreviations](./DAGBusinessContext_en.md#definitions-acronyms-abbreviations)
+- [Overview](./DAGBusinessContext_en.md#overview)
+- [Executive summary](./DAGBusinessContext_en.md#executive-summary)
+- [Detecting Architectural Gaps with Automation](./DAGBusinessContext_en.md#detecting-architectural-gaps-with-automation)
+- [Solution requirements](./DAGBusinessContext_en.md#solution-requirements)
+- [Solution modes](./DAGBusinessContext_en.md#solution-modes)
+- [Solution inputs](./DAGBusinessContext_en.md#solution-inputs)
+- [Solution integration](./DAGBusinessContext_en.md#solution-integration)
+- [User interaction](./DAGBusinessContext_en.md#user-interaction)
+- [Solution output](./DAGBusinessContext_en.md#solution-output)
+- [Modifiability and extendibility](./DAGBusinessContext_en.md#modifiability-and-extendibility)
+- [Configurability](./DAGBusinessContext_en.md#configurability)
+- [References](./DAGBusinessContext_en.md#references)
 
 # Tags
 Software architecture, architecture review, architecture drift, architecture erosion, manual review, dependency analysis
