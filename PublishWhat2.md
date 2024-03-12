@@ -39,12 +39,13 @@ These symbols may appear if you copy your content from another document format.
 # Citations
 There is a recommendation for **citations** to be formatted as in-line links, with any recommended reading listed separately.
 
-# Pictures 
-No pictures - less views. pictires shall be related to content
+# Pictures
+Please notice a really important point: fewer pictures mean fewer views.
+Certainly, all pictures should be related to the text content and enhance its meaning.
 
-picture orientation suggested to be album and not a book orienttaopn
+I suggest having a featured image as a title image. It might be interactive, like a gif.
 
-you would have at least featured image as a title image. it shhould be active like a gif
+I would prefer picture orientation to be album rather than book orientation. It will use the user's screen more efficiently.
 
 # Tables 
 if you provide tables please make sure that less filled columns are the end of table and wiseversa
