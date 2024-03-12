@@ -179,6 +179,26 @@ Additionally, can you explain the advantages of procrastination?
 ## Tags
 procrastination projectrisk
 
+# Delegation Poker Cards
+
+Can you guess what these playing cards are?
+
+Have you ever tried them?
+
+The answer is in the comment.
+
+<img src="./Images/DelegationPokerCards.jpg" alt="DelegationPokerCards.jpg" />
+
+These are Delegation Poker Cards.
+
+Delegation Poker is a technique used in Agile and Scrum methodologies for team collaboration and decision-making regarding task delegation and empowerment.
+It involves a card-based game where team members discuss and vote on the level of authority and decision-making power they have regarding specific tasks or responsibilities.
+Delegation Poker helps teams clarify roles and responsibilities, promotes transparency, and ensures that everyone understands the level of empowerment they have within the team. 
+It encourages open communication and collaboration, leading to better decision-making and more efficient task execution.
+
+## Tags
+agile scrum delegation 
+
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
