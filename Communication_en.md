@@ -2,12 +2,12 @@
 Communication
 
 # Table of contents
-- [Tags](./Communication.md#tags)
-- [Definitions, Acronyms, Abbreviations](./Communication.md#definitions-acronyms-abbreviations)
-- [Overview](./Communication.md#overview)
-- [We need more Messengers!](./Communication.md#we-need-more-messengers)
-- [What does it mean for me to be online?](./Communication.md#what-does-it-mean-for-me-to-be-online)
-- [References](./Communication.md#references)
+- [Tags](./Communication_en.md#tags)
+- [Definitions, Acronyms, Abbreviations](./Communication_en.md#definitions-acronyms-abbreviations)
+- [Overview](./Communication_en.md#overview)
+- [We need more Messengers!](./Communication_en.md#we-need-more-messengers)
+- [What does it mean for me to be online?](./Communication_en.md#what-does-it-mean-for-me-to-be-online)
+- [References](./Communication_en.md#references)
 
 # Tags
 Communication

@@ -85,7 +85,7 @@ My Publications
 
 # LinkedIn posts
 - [ChatGPT](./ChatGPT_en.md)
-- [Communication](./Communication.md)
+- [Communication](./Communication_en.md)
 - [Fishing](./Fishing.md)
 - [Holidays](/Holidays.md)
 - [Interesting facts](./InterestingFacts.md)
