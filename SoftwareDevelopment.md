@@ -23,6 +23,8 @@ Everything about the Software Development
 - [Tags](./SoftwareDevelopment.md#tags-7)
 - [Procrastination](./SoftwareDevelopment.md#procrastination)
 - [Tags](./SoftwareDevelopment.md#tags-8)
+- [Delegation Poker Cards](./SoftwareDevelopment.md#delegation-poker-cards)
+- [Tags](./SoftwareDevelopment.md#tags-9)
 - [References](./SoftwareDevelopment.md#references)
 
 # Tags
@@ -211,4 +213,5 @@ agile scrum delegation
 | 7 |Tabs or Spaces|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_softwaredevelopment-activity-7141376776915660800-whXp?utm_source=share&utm_medium=member_desktop) | 15/12/2023 | Dmytro Nikulin | |
 | 8 |UIQ|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_old-activity-7152938805359001601-vGeW?utm_source=share&utm_medium=member_desktop) | 16/01/2024 | Dmytro Nikulin | |
 | 9 |gmail|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_gmail-sla-email-activity-7158023530251530240-DNUk?utm_source=share&utm_medium=member_desktop)  | 30/01/2024 | Dmytro Nikulin | |
-| 10|Procrastination |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_procrastination-projectrisk-activity-7170691619946541056-Zu2h?utm_source=share&utm_medium=member_desktop)  | 05/03/2024 | Dmytro Nikulin | |
+| 10|Procrastination |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_procrastination-projectrisk-activity-7170691619946541056-Zu2h?utm_source=share&utm_medium=member_desktop) | 05/03/2024 | Dmytro Nikulin | |
+| 11|Delegation Poker Cards |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_agile-scrum-delegation-activity-7173227183098720257-UTef?utm_source=share&utm_medium=member_desktop) | 12/03/2024 | Dmytro Nikulin | |
