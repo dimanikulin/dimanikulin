@@ -47,12 +47,10 @@ I suggest having a featured image as a title image. It might be interactive, lik
 
 I would prefer picture orientation to be album rather than book orientation. It will use the user's screen more efficiently.
 
-# Tables 
-if you provide tables please make sure that less filled columns are the end of table and wiseversa
+# Tables
+If you use tables in your publications, please make sure that columns with less content are placed towards the end of the table, and vice versa.
 
-# Language 
-
-TBD
+Additionally, I suggest placing more important columns at the beginning of the table so that readers will first encounter the most important information.
 
 # Plagiarism
 TBD
@@ -76,7 +74,7 @@ prof read by word or google docs
 
 no grammar and formatting issues
 
-# Publishing on different sites
+# Publishing on mulitiple platforms
 
 first must hacker noon as they check your connetn a lot
 before publication please fill profiles
@@ -95,6 +93,10 @@ for summer you mush less viewes/reactions
 when there is also other importnat event in platform published you will loose the views but the will accuire them 
 
 I use 1-2 per week. 
+
+# Language 
+
+TBD
 
 # Check list
 provide own check list
