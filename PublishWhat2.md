@@ -60,16 +60,16 @@ When using a quote or definition from another source, it must be cited using an 
 
 You can use this [website](www.copyscape.com) to check for plagiarism.
 
-# Make proof read 
-prof read by Grammarly on hashnode
+# Make Proofreading
+And yes, your content should not have any punctuation or syntax mistakes.
+Also, there should not be any formatting issues. 
+To make it possible, you will need to proofread the content.
 
-prof read by GPT
+How do I do that?
+The best way to do it is to have it proofread by a human.
+It might be costly, and there is software to help you, such as ChatGPT, MS Word, or Google Docs.
 
-prof read by person
-
-prof read by word or google docs
-
-no grammar and formatting issues
+Also, Hashnode has an online proofreading option, so you can post there first.
 
 # Publishing on mulitiple platforms
 
