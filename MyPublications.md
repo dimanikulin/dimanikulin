@@ -46,7 +46,7 @@ My Publications
 |quora      |[08/01/2023](https://www.quora.com/profile/Dima-Nikulin-2/What-I-learned-as-a-Software-Developer-while-creating-my-product-Overview-This-article-delves-into-the-importance-of-c)|[07/02/2024](https://www.quora.com/profile/Dima-Nikulin-2/What-I-learned-as-a-Delivery-Manager-while-creating-my-product)|TBD|TBD| 
 
 # Detecting Architectural Gaps with Automation
-|Name       |[Business Context](./DAGBusinessContext_en.md)|[Existing Solutions](./DAGExistingSolutions_en.md)|[Proposed Solution](./DAGProposedSolution.md)|
+|Name       |[Business Context](./DAGBusinessContext_en.md)|[Existing Solutions](./DAGExistingSolutions_en.md)|[Proposed Solution](./DAGProposedSolution_en.md)|
 |-----------|---------------------------------------------------------------|----------------------------------------------------------------------|:---------------------------------------------------------------------------------:|
 |hashnode   |[13/02/2024](https://dimanikulin.hashnode.dev/detecting-architectural-gaps-with-automation-business-context)|TBD|TBD|TBD|
 |hackernoon |[21/02/2024](https://hackernoon.com/detecting-architectural-gaps-with-automation-business-context)|TBD|TBD|

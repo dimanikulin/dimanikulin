@@ -259,4 +259,4 @@ By providing these configurability options, the proposed solution becomes versat
 | 3 | DISCUSSION: Architectural drift & erosion violations                                                        | [web](https://uw.cs.cs446.narkive.com/nRvtbr2q/discussion-architectural-drift-erosion-violations)| 01/01/2010 | Atif Khan | |
 | 4 | Differentiate software architectural erosion and architectural drift?                                       | [web](https://www.ques10.com/p/13271/differentiate-software-architectural-erosion-and-1)| 01/01/2017 | teamques10 | |
 | 5 | Detecting Architectural Gaps with Automation : Existing Solutions | [GitHub](./DAGExistingSolutions_en.md) |  | Dmytro Nikulin | | 
-| 6 | Detecting Architectural Gaps with Automation : Proposed Solution | [GitHub](./DAGProposedSolution.md) |  | Dmytro Nikulin | | 
+| 6 | Detecting Architectural Gaps with Automation : Proposed Solution | [GitHub](./DAGProposedSolution_en.md) |  | Dmytro Nikulin | | 
