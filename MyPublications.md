@@ -92,7 +92,7 @@ My Publications
 - [Interviews](./Interviews.md)
 - [LinkedIn Content](./LinkedInContent.md)
 - [This is when we say "Old, but Gold](./OldButGold.md)
-- [Second Name History](./HistorySecondName.md)
+- [Second Name History](./HistorySecondName_ru.md)
 - [Soft Skills](./SoftSkills.md)
 - [Software Development](./SoftwareDevelopment.md)
 - [War in Ukraine](./WarInUkraine.md)
