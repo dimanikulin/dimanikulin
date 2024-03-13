@@ -53,15 +53,12 @@ If you use tables in your publications, please make sure that columns with less 
 Additionally, I suggest placing more important columns at the beginning of the table so that readers will first encounter the most important information.
 
 # Plagiarism
-TBD
+Please note that readers prefer content to be 100% original.
+They expect 0% plagiarism or duplicate content, and all sources must be properly cited.
 
-www.copyscape.com
+When using a quote or definition from another source, it must be cited using an in-line link to provide attribution and enable readers to verify the information.
 
-Please note we require 0% plagiarism/duplicate content and all sources must be cited properly.
-
-When using a quote or definition from another source, it must be cited using an in-line link so we are giving attribution and the reader can verify the information.
-
-However, we would prefer that these papers share a uniquely GL perspective and that the content is 100% original. 
+You can use this [website](www.copyscape.com) to check for plagiarism.
 
 # Make proof read 
 prof read by Grammarly on hashnode
