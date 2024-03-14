@@ -83,14 +83,16 @@ Here, I use a link to one public profile on GitHub.
 
 Usually, I first publish my content on Hackernoon as they check my content thoroughly, and then I publish it on other platforms so it is well-checked.
 
-# Choose time and frequency of publication
-Please select proper day and time for a publication. I publish usually on Monday and Thussday.
-It is usually 10AM - 3PM my local time, Ukrainian. Defintly not at morning and an night 
-please notice on holidays you will have less viewes
-for summer you mush less viewes/reactions 
-when there is also other importnat event in platform published you will loose the views but the will accuire them 
+# Time and Frequency of Publication
+It is quite important to select the proper day and time for publication.
+I usually publish on Mondays and Thursdays, typically between 10 AM and 3 PM my local time, Ukrainian time.
+It should definitely not be early in the morning or late at night.
 
-I use 1-2 per week. 
+Also, please note that publishing on holidays may result in fewer views.
+This is applicable to summer as well; you will likely see fewer reactions.
+Additionally, if there is another important event on the platform at the time of your publication, you may lose views, although they may accumulate later.
+
+Regarding frequency, I publish one to two times per week to avoid overloading my readers and to ensure they don't forget about me.
 
 # Language 
 
