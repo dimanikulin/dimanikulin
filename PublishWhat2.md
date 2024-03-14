@@ -71,16 +71,17 @@ It might be costly, and there is software to help you, such as ChatGPT, MS Word,
 
 Also, Hashnode has an online proofreading option, so you can post there first.
 
-# Publishing on mulitiple platforms
+# Publishing on Multiple Platforms
+I publish my content on different platforms�seven for now.
+When I join a platform, the first thing I do is read the requirements on how to publish there.
+The content you publish should be relevant and applicable to the platform.
+For example, I don't use Facebook to post programming stuff.
 
-first must hacker noon as they check your connetn a lot
-before publication please fill profiles
-make all profiles be consistent
+All platforms suggest filling out the user profile before publication so people who read your publication can contact you if they are interested.
+Profiles on different platforms should be consistent with each other.
+Here, I use a link to one public profile on GitHub.
 
-Read sites requrements 
-
-Actual for this platform connet
-Facebook not for programming, like pain point for your and for society, find info інфопривід
+Usually, I first publish my content on Hackernoon as they check my content thoroughly, and then I publish it on other platforms so it is well-checked.
 
 # Choose time and frequency of publication
 Please select proper day and time for a publication. I publish usually on Monday and Thussday.
@@ -94,6 +95,9 @@ I use 1-2 per week.
 # Language 
 
 TBD
+
+ like pain point for your and for society, find info privid
+
 
 # Check list
 provide own check list
