@@ -43,9 +43,9 @@ Finally, the article discusses the FVA Tool Set's integration with offline Multi
 ---
 
 # Multimedia IR systems
-My first step in the role of an SME was getting to know what [Multimedia Data](./MultimediaData.md) is.
-I started learning it as I understood that my whole photo album is [Multimedia Data](./MultimediaData.md) itself.
-Then I realised that I need to use a solution to search for [Multimedia Data](./MultimediaData.md) - [Multimedia IR systems](./MultimediaIRSystems.md). 
+My first step in the role of an SME was getting to know what [Multimedia Data](./MultimediaData_en.md) is.
+I started learning it as I understood that my whole photo album is [Multimedia Data](./MultimediaData_en.md) itself.
+Then I realised that I need to use a solution to search for [Multimedia Data](./MultimediaData_en.md) - [Multimedia IR systems](./MultimediaIRSystems.md). 
 However, there are many [Multimedia IR systems](./MultimediaIRSystems.md), and it was a long way to select one of them to start searching more efficiently.
 Thus, several [Multimedia IR systems](./MultimediaIRSystems.md), that are present on the market and available for end users, were analyzed. 
 
@@ -113,7 +113,7 @@ As soon as it is done, **FVA Tool Set** will put [multimedia data](https://link.
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
-| 1 | What is multimedia data?|[repo](./MultimediaData.md)| 01/01/2022      | Dmytro Nikulin |  |
+| 1 | What is multimedia data?|[repo](./MultimediaData_en.md)| 01/01/2022      | Dmytro Nikulin |  |
 | 2 | What are Multimedia IR systems?|[repo](./MultimediaIRSystems.md)|01/01/2022 | Dmytro Nikulin |  |
 | 3 | Multimedia IR systems Analyze|[repo](./MultimediaIRSystemsAnalyze.md)|01/01/2022| Dmytro Nikulin |  |
 | 4 | What are MultimediaOrganizers?|[repo](./MultimediaOrganizers.md)|01/01/2022 | Dmytro Nikulin | |

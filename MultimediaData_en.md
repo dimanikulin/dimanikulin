@@ -2,10 +2,10 @@
 What is Multimedia?
 
 # Table of contents
-- [Tags](./MultimediaData.md#tags)
-- [Overview](./MultimediaData.md#overview)
-- [Definitions, Acronyms, Abbreviations](./MultimediaData.md#definitions-acronyms-abbreviations)
-- [References](./MultimediaData.md#references)
+- [Tags](./MultimediaData_en.md#tags)
+- [Overview](./MultimediaData_en.md#overview)
+- [Definitions, Acronyms, Abbreviations](./MultimediaData_en.md#definitions-acronyms-abbreviations)
+- [References](./MultimediaData_en.md#references)
 
 # Tags
 Multimedia, Multimedia Information Retrieval, Media Formats, Search Engines
