@@ -68,7 +68,7 @@ My Publications
 |quora      |TBD|TBD|TBD|TBD| 
 
 # Multimedia, Multimedia IR systems and Multimedia Organizers - Part 2
-|Name       |[Analyze of Multimedia Organizers](./MultimediaOrganizersAnalyze.md)|[Search Requests for Multimedia](./MultimediaSearchRequests.md)|[Enriching the Multimedia](./MultimediaEnriching.md)|[Tagging Your Multimedia](./MultimediaTagging.md)|
+|Name       |[Analyze of Multimedia Organizers](./MultimediaOrganizersAnalyze.md)|[Search Requests for Multimedia](./MultimediaSearchRequests.md)|[Enriching the Multimedia](./MultimediaEnriching_en.md)|[Tagging Your Multimedia](./MultimediaTagging.md)|
 |-----------|---------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------|:----------------------------------------------------------------:|
 |hashnode   |TBD|TBD|TBD|TBD|
 |hackernoon |TBD|TBD|TBD|TBD|

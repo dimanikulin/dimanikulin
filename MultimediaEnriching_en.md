@@ -2,10 +2,10 @@
 Enriching the Multimedia
  
 # Table of contents
-- [Tags](./MultimediaEnriching.md#tags)
-- [Overview](./MultimediaEnriching.md#overview)
-- [Definitions, Acronyms, Abbreviations](./MultimediaEnriching.md#definitions-acronyms-abbreviations)
-- [References](./MultimediaEnriching.md#references)
+- [Tags](./MultimediaEnriching_en.md#tags)
+- [Overview](./MultimediaEnriching_en.md#overview)
+- [Definitions, Acronyms, Abbreviations](./MultimediaEnriching_en.md#definitions-acronyms-abbreviations)
+- [References](./MultimediaEnriching_en.md#references)
 
 # Tags
 TBD
