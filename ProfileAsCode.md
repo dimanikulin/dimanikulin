@@ -23,6 +23,7 @@ TBD
 CV as a code
 how to create your profile be independed on any pltform
 single source of truth for linked in profile, all prof networks anf glo, keep the code apart from profile info
+one profile as a link to git hub to be used on all platforms I publish my content at
 https://dou.ua/forums/topic/47115/?from=tg&utm_source=telegram&utm_medium=social
 https://hendrasob.github.io/badges/
 https://shields.io/badges
