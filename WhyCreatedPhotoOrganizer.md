@@ -38,15 +38,15 @@ At that time my album kept more than 30 thousand items inside. That search proce
 <img src="./Images/Asearchinphotoalbumwith30thousandphotos.gif" alt="Asearchinphotoalbumwith30thousandphotos.gif" />
 
 Of course, we didn't find anything. Therefore, I started looking for a solution to be able to search in [Multimedia Data](./MultimediaData_en.md) automatically. 
-The solution I found were [Multimedia IR Systems](./MultimediaIRSystems.md). 
+The solution I found were [Multimedia IR Systems](./MultimediaIRSystems_en.md). 
 
-I decided to use [digiKam](https://www.digikam.org/) <img src="./Images/digiKam.png" alt="digiKam.png" width="20" height="20"/> as Offline [Multimedia IR systems](./MultimediaIRSystems.md) 
-and [Synology Moments](https://www.synology.com/en-global/dsm/feature/moments) <img src="./Images/SynologyMoments.png" alt="SynologyMoments.png" height="20" /> as Online [Multimedia IR systems](./MultimediaIRSystems.md).
+I decided to use [digiKam](https://www.digikam.org/) <img src="./Images/digiKam.png" alt="digiKam.png" width="20" height="20"/> as Offline [Multimedia IR systems](./MultimediaIRSystems_en.md) 
+and [Synology Moments](https://www.synology.com/en-global/dsm/feature/moments) <img src="./Images/SynologyMoments.png" alt="SynologyMoments.png" height="20" /> as Online [Multimedia IR systems](./MultimediaIRSystems_en.md).
 Please note, that they were selected solely based on the author's criteria, and there is no aim to advertise to anyone.
 
 Then I started using it... 
 
-What I discovered in a flash is that current [Multimedia IR systems](./MultimediaIRSystems.md) do not provide a flexible and automated functionality to import [Multimedia Data](./MultimediaData_en.md) into [Multimedia IR systems](./MultimediaIRSystems.md).
+What I discovered in a flash is that current [Multimedia IR systems](./MultimediaIRSystems_en.md) do not provide a flexible and automated functionality to import [Multimedia Data](./MultimediaData_en.md) into [Multimedia IR systems](./MultimediaIRSystems_en.md).
 
 But that wasn't the only problem.
 
@@ -60,7 +60,7 @@ Honestly, I didn't expect that it would be so hard and in the meantime so intere
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 | 1 | What is multimedia data?|[repo](./MultimediaData_en.md)| 01/01/2022            | Dmytro Nikulin |  |
-| 2 | What are Multimedia IR systems?|[repo](./MultimediaIRSystems.md)|01/01/2022 | Dmytro Nikulin |  |
+| 2 | What are Multimedia IR systems?|[repo](./MultimediaIRSystems_en.md)|01/01/2022 | Dmytro Nikulin |  |
 | 3 | Multimedia IR systems Analyze|[repo](./MultimediaIRSystemsAnalyze.md)|01/01/2022| Dmytro Nikulin |  |
 | 4 | What are MultimediaOrganizers?|[repo](./MultimediaOrganizers.md)|01/01/2022 | Dmytro Nikulin | |
 | 5 | 26 Best Photo Organizer Software and Apps of 2022 |[Web](https://www.pixpa.com/blog/photo-organiser)| 25/06/2021    | Anisha Singh   | |
