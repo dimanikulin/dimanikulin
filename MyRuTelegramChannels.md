@@ -48,7 +48,6 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Черноморский экспресс](https://t.me/chernmorskiiexpres) | WIP1 |
 | [Донецк ⚒  ЧП Макеевка](https://t.me/dark_donetskz)| 
 | [ZOV22rus](https://t.me/difmox_w)                  |
-| [eternoff](https://t.me/eternoff)                  | 
 | [FPV-выZOV](https://t.me/FPV_vyZOV)                |
 | [Рядовой на передовой](https://t.me/frontline_pvt) |
 | [G.A.M.A.](https://t.me/gama_war)                  |
@@ -293,4 +292,4 @@ The bot was created and works to promote and publish fake news about the Russian
 | [ZaRussia72rus](https://t.me/zarussia010)          |
 | [Za Наших новости](https://t.me/za_nashih_news)    | 
 | [Срочно Запорожье](https://t.me/zzzzzzzzzapp)      |
- 
+| [eternoff](https://t.me/eternoff)                  |
