@@ -94,12 +94,8 @@ Additionally, if there is another important event on the platform at the time of
 
 Regarding frequency, I publish one to two times per week to avoid overloading my readers and to ensure they don't forget about me.
 
-# Language 
-
-TBD
-
- like pain point for your and for society, find info privid
-
+# Language
+I would recommend using English where possible because it is the most widely known language.
 
 # Check list
 provide own check list
