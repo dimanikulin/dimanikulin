@@ -42,7 +42,7 @@ By assessing these metrics, I can gauge the effectiveness of each publication an
 # Common Recommendations
 When publishing, it's crucial to ensure that the content reads like a story rather than a mere collection of facts.
 It's immensely valuable to draw from personal experiences rather than relying solely on information gathered from books and online sources, avoiding mere reposts.
-Our content should reflect our own opinions, which might sometimes be provocative to stimulate discussion and even elicit strong reactions. 
+Our content should reflect our own opinions, which might sometimes be provocative to stimulate discussion and even elicit strong reactions. For example, you can describe any pain points for yourself and for society.
 Additionally, the content should encourage readers to form their own opinions and engage in meaningful dialogue.
 
 Furthermore, it's important to be responsive to comments by addressing any questions or concerns raised.
