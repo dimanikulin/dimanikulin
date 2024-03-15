@@ -2,10 +2,10 @@
 Analyze of Multimedia organizers
 
 # Table of contents
-- [Tags](./MultimediaOrganizersAnalyze.md#tags)
-- [Definitions, Acronyms, Abbreviations](./MultimediaOrganizersAnalyze.md#definitions-acronyms-abbreviations)
-- [Overview](./MultimediaOrganizersAnalyze.md#overview)
-- [References](./MultimediaOrganizersAnalyze.md#references)
+- [Tags](./MultimediaOrganizersAnalyze_en.md#tags)
+- [Definitions, Acronyms, Abbreviations](./MultimediaOrganizersAnalyze_en.md#definitions-acronyms-abbreviations)
+- [Overview](./MultimediaOrganizersAnalyze_en.md#overview)
+- [References](./MultimediaOrganizersAnalyze_en.md#references)
 
 # Tags
 TBD
