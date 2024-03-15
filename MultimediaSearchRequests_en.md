@@ -2,10 +2,10 @@
 Search Requests in Multimedia
 
 # Table of contents
-- [Tags](./MultimediaSearchRequests.md#tags)
-- [Definitions, Acronyms, Abbreviations](./MultimediaSearchRequests.md#definitions-acronyms-abbreviations)
-- [Overview](./MultimediaSearchRequests.md#overview)
-- [References](./MultimediaSearchRequests.md#references)
+- [Tags](./MultimediaSearchRequests_en.md#tags)
+- [Definitions, Acronyms, Abbreviations](./MultimediaSearchRequests_en.md#definitions-acronyms-abbreviations)
+- [Overview](./MultimediaSearchRequests_en.md#overview)
+- [References](./MultimediaSearchRequests_en.md#references)
 
 # Tags
 TBD
