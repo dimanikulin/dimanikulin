@@ -293,3 +293,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Za Наших новости](https://t.me/za_nashih_news)    | 
 | [Срочно Запорожье](https://t.me/zzzzzzzzzapp)      |
 | [eternoff](https://t.me/eternoff)                  |
+
+- Главное в Херсоне и области
+- ПАНЧЕНКО
+- XUA-фото войны
