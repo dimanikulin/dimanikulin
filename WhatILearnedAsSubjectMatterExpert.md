@@ -49,7 +49,7 @@ Then I realised that I need to use a solution to search for [Multimedia Data](./
 However, there are many [Multimedia IR systems](./MultimediaIRSystems_en.md), and it was a long way to select one of them to start searching more efficiently.
 Thus, several [Multimedia IR systems](./MultimediaIRSystems_en.md), that are present on the market and available for end users, were analyzed. 
 
-I described the process of analysis and comparison for [Multimedia IR systems](./MultimediaIRSystems_en.md) [here](./MultimediaIRSystemsAnalyze.md).
+I described the process of analysis and comparison for [Multimedia IR systems](./MultimediaIRSystems_en.md) [here](./MultimediaIRSystemsAnalyze_en.md).
 Consequently, I was able to choose the most suitable system for me.
 
 # Metadata
@@ -115,7 +115,7 @@ As soon as it is done, **FVA Tool Set** will put [multimedia data](https://link.
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 | 1 | What is multimedia data?|[repo](./MultimediaData_en.md)| 01/01/2022      | Dmytro Nikulin |  |
 | 2 | What are Multimedia IR systems?|[repo](./MultimediaIRSystems_en.md)|01/01/2022 | Dmytro Nikulin |  |
-| 3 | Multimedia IR systems Analyze|[repo](./MultimediaIRSystemsAnalyze.md)|01/01/2022| Dmytro Nikulin |  |
+| 3 | Multimedia IR systems Analyze|[repo](./MultimediaIRSystemsAnalyze_en.md)|01/01/2022| Dmytro Nikulin |  |
 | 4 | What are MultimediaOrganizers?|[repo](./MultimediaOrganizers.md)|01/01/2022 | Dmytro Nikulin | |
 | 5 | Three Cheers for Embedded Metadata|[Web](https://siarchives.si.edu/blog/three-cheers-embedded-metadata) | 28/02/2012|Lynda Schmitz Funrig | |
 | 6 | Best Practices and Tools to Create Archival Image Metadata| [Web](https://digitalarch.org/blog/2017/4/7/ykag6k2fvln7g1j02923n0c7zdrryg) |28/06/2016 |Elena Toffalori | |

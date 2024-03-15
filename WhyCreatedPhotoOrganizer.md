@@ -61,7 +61,7 @@ Honestly, I didn't expect that it would be so hard and in the meantime so intere
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 | 1 | What is multimedia data?|[repo](./MultimediaData_en.md)| 01/01/2022            | Dmytro Nikulin |  |
 | 2 | What are Multimedia IR systems?|[repo](./MultimediaIRSystems_en.md)|01/01/2022 | Dmytro Nikulin |  |
-| 3 | Multimedia IR systems Analyze|[repo](./MultimediaIRSystemsAnalyze.md)|01/01/2022| Dmytro Nikulin |  |
+| 3 | Multimedia IR systems Analyze|[repo](./MultimediaIRSystemsAnalyze_en.md)|01/01/2022| Dmytro Nikulin |  |
 | 4 | What are MultimediaOrganizers?|[repo](./MultimediaOrganizers.md)|01/01/2022 | Dmytro Nikulin | |
 | 5 | 26 Best Photo Organizer Software and Apps of 2022 |[Web](https://www.pixpa.com/blog/photo-organiser)| 25/06/2021    | Anisha Singh   | |
 | 6 | Independent Course for Organizing Your Digital Photos |[Web](https://www.organizepictures.com/organize-digital-photos-course)| 01/01/2021 | organizepictures | |

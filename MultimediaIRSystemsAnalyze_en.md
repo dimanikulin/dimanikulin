@@ -2,12 +2,12 @@
 The Comparison of Private Multimedia IR Systems
  
 # Table of contents
-- [Tags](./MultimediaIRSystemsAnalyze.md#tags)
-- [Overview](./MultimediaIRSystemsAnalyze.md#overview)
-- [Definitions, Acronyms, Abbreviations](./MultimediaIRSystemsAnalyze.md#definitions-acronyms-abbreviations)
-- [Well implemented features](./MultimediaIRSystemsAnalyze.md#well-implemented-features)
-- [To be developed features](./MultimediaIRSystemsAnalyze.md#to-be-developed-features)
-- [References](./MultimediaIRSystemsAnalyze.md#references)
+- [Tags](./MultimediaIRSystemsAnalyze_en.md#tags)
+- [Overview](./MultimediaIRSystemsAnalyze_en.md#overview)
+- [Definitions, Acronyms, Abbreviations](./MultimediaIRSystemsAnalyze_en.md#definitions-acronyms-abbreviations)
+- [Well implemented features](./MultimediaIRSystemsAnalyze_en.md#well-implemented-features)
+- [To be developed features](./MultimediaIRSystemsAnalyze_en.md#to-be-developed-features)
+- [References](./MultimediaIRSystemsAnalyze_en.md#references)
 
 # Tags
 Multimedia IR systems, Synology Moments, Mylio, Google Photos, digiKam, Apple photo
