@@ -74,7 +74,7 @@ Although the most recent **multimedia IR** systems may provide search operations
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 | 1 | What is Multimedia Data?|[repo](./MultimediaData_en.md)| 01/01/2022            | Dmytro Nikulin | |
 | 2 | What are Multimedia IR systems?|[repo](./MultimediaIRSystems_en.md)| 01/01/2022| Dmytro Nikulin | |
-| 3 | What are MultimediaOrganizers?|[repo](./MultimediaOrganizers.md)| 01/012022| Dmytro Nikulin | |
+| 3 | What are MultimediaOrganizers?|[repo](./MultimediaOrganizers_en.md)| 01/012022| Dmytro Nikulin | |
 | 4 | Synology Moments     |[Web](https://www.synology.com/en-global/dsm/feature/moments)| 01/01/2021 | Synology       | |
 | 5 | Tour Mylio           |[Web](https://mylio.com/)|                      | Mylio          | |
 | 6 | Google Photos        |[Web](https://en.wikipedia.org/wiki/Google_Photos)| | Wikipedia   | |

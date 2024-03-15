@@ -76,7 +76,7 @@ For example, there might be different professions who access the photos or image
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 | 1 | What is Multimedia Data?|[repo](./MultimediaData_en.md)| 01/01/2022            | Dmytro Nikulin | |
 | 2 | Multimedia IR systems Analyze|[repo](./MultimediaIRSystemsAnalyze_en.md)|01/01/2022| Dmytro Nikulin | |
-| 3 | What are MultimediaOrganizers?|[repo](./MultimediaOrganizers.md)|01/01/2022 | Dmytro Nikulin | |
+| 3 | What are MultimediaOrganizers?|[repo](./MultimediaOrganizers_en.md)|01/01/2022 | Dmytro Nikulin | |
 | 4 | Information retrieval|[Web](https://en.wikipedia.org/wiki/Information_retrieval)| | Wikipedia      | |
 | 5 | Multimedia information retrieval |[Web](https://en.wikipedia.org/wiki/Multimedia_information_retrieval)|| Wikipedia | |
 | 6 | Image retrieval|[Web](https://en.wikipedia.org/wiki/Image_retrieval)|  | Wikipedia      | |

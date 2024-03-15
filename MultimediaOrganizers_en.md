@@ -2,13 +2,13 @@
 What are Multimedia Organizers?
 
 # Table of contents
-- [Tags](./MultimediaOrganizers.md#tags)
-- [Definitions, Acronyms, Abbreviations](./MultimediaOrganizers.md#definitions-acronyms-abbreviations)
-- [Overview](./MultimediaOrganizers.md#overview)
-- [Multimedia Organizers functions](./MultimediaOrganizers.md#multimedia-organizers-functions)
-- [Multimedia Organizer requirements](./MultimediaOrganizers.md#multimedia-organizer-requirements)
-- [Multimedia Organizer approaches to create folder structure](./MultimediaOrganizers.md#multimedia-organizer-approaches-to-create-folder-structure)
-- [References](./MultimediaOrganizers.md#references)
+- [Tags](./MultimediaOrganizers_en.md#tags)
+- [Definitions, Acronyms, Abbreviations](./MultimediaOrganizers_en.md#definitions-acronyms-abbreviations)
+- [Overview](./MultimediaOrganizers_en.md#overview)
+- [Multimedia Organizers functions](./MultimediaOrganizers_en.md#multimedia-organizers-functions)
+- [Multimedia Organizer requirements](./MultimediaOrganizers_en.md#multimedia-organizer-requirements)
+- [Multimedia Organizer approaches to create folder structure](./MultimediaOrganizers_en.md#multimedia-organizer-approaches-to-create-folder-structure)
+- [References](./MultimediaOrganizers_en.md#references)
 
 # Tags
 Multimedia organizers, Photo management, Photo organizer software, Metadata, IR Multimedia Systems

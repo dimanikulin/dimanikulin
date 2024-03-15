@@ -15,7 +15,7 @@ My Publications
 ---
 
 # Multimedia, Multimedia IR systems and Multimedia Organizers - Part 1
-|Name       |[What is multimedia data?](./MultimediaData_en.md)|[What are Multimedia IR systems?](./MultimediaIRSystems_en.md)|[Multimedia IR systems Analyze](./MultimediaIRSystemsAnalyze_en.md)|[What are Multimedia Organizers?](./MultimediaOrganizers.md)|
+|Name       |[What is multimedia data?](./MultimediaData_en.md)|[What are Multimedia IR systems?](./MultimediaIRSystems_en.md)|[Multimedia IR systems Analyze](./MultimediaIRSystemsAnalyze_en.md)|[What are Multimedia Organizers?](./MultimediaOrganizers_en.md)|
 |-----------|-----------------------------------------------|-----------------------------------------------------------|----------------------------------------------------------------|:------------------------------------------------------------:|
 |dev.to     |[14/06/2022](https://dev.to/dimanikulin/what-is-multimedia-data-111f)|[28/06/2022](https://dev.to/dimanikulin/what-are-multimedia-ir-systems-5c7nv)|[07/07/2022](https://dev.to/dimanikulin/multimedia-ir-systems-analyze-4e17)|[18/09/2022](https://dev.to/dimanikulin/what-are-the-photo-organizers-1na9)|
 |hashnode   |[16/06/2022](https://dimanikulin.hashnode.dev/what-is-multimedia-data)|[29/06/2022](https://dimanikulin.hashnode.dev/what-are-multimedia-ir-systems)|[09/07/2022](https://dimanikulin.hashnode.dev/multimedia-ir-systems-analyze)|[19/09/2022](https://dimanikulin.hashnode.dev/what-are-the-photo-organizers)|

@@ -75,8 +75,8 @@ We got one video that was recognized as **March 2020**, underlined in red.
 The system has provided such results due to incorrect [metadata](https://en.wikipedia.org/wiki/Metadata). 
 
 # Multimedia Organizers
-That being the case, I understood that [Multimedia IR systems](./MultimediaIRSystems_en.md) are not so effective without other tools, often called [Multimedia Organizers](./MultimediaOrganizers.md).
-Usually, [Multimedia Organizers](./MultimediaOrganizers.md) provide automation for importing a new photo set into existing photo albums and it is not an implemented feature in [Multimedia IR systems](./MultimediaIRSystems_en.md).
+That being the case, I understood that [Multimedia IR systems](./MultimediaIRSystems_en.md) are not so effective without other tools, often called [Multimedia Organizers](./MultimediaOrganizers_en.md).
+Usually, [Multimedia Organizers](./MultimediaOrganizers_en.md) provide automation for importing a new photo set into existing photo albums and it is not an implemented feature in [Multimedia IR systems](./MultimediaIRSystems_en.md).
 In addition, they might identify and address some issues that shall be fixed before a user starts searching data using the [Multimedia IR systems](./MultimediaIRSystems_en.md). 
 
 # Integration 
@@ -116,7 +116,7 @@ As soon as it is done, **FVA Tool Set** will put [multimedia data](https://link.
 | 1 | What is multimedia data?|[repo](./MultimediaData_en.md)| 01/01/2022      | Dmytro Nikulin |  |
 | 2 | What are Multimedia IR systems?|[repo](./MultimediaIRSystems_en.md)|01/01/2022 | Dmytro Nikulin |  |
 | 3 | Multimedia IR systems Analyze|[repo](./MultimediaIRSystemsAnalyze_en.md)|01/01/2022| Dmytro Nikulin |  |
-| 4 | What are MultimediaOrganizers?|[repo](./MultimediaOrganizers.md)|01/01/2022 | Dmytro Nikulin | |
+| 4 | What are MultimediaOrganizers?|[repo](./MultimediaOrganizers_en.md)|01/01/2022 | Dmytro Nikulin | |
 | 5 | Three Cheers for Embedded Metadata|[Web](https://siarchives.si.edu/blog/three-cheers-embedded-metadata) | 28/02/2012|Lynda Schmitz Funrig | |
 | 6 | Best Practices and Tools to Create Archival Image Metadata| [Web](https://digitalarch.org/blog/2017/4/7/ykag6k2fvln7g1j02923n0c7zdrryg) |28/06/2016 |Elena Toffalori | |
 | 7 | Metadata | [Wikipedia](https://en.wikipedia.org/wiki/Metadata) | | | |
