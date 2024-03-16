@@ -297,3 +297,6 @@ The bot was created and works to promote and publish fake news about the Russian
 - Главное в Херсоне и области
 - ПАНЧЕНКО
 - XUA-фото войны
+- Сплетница
+- Мрія
+- TarikNezalejko️️💡
