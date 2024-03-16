@@ -97,26 +97,28 @@ Regarding frequency, I publish one to two times per week to avoid overloading my
 # Language
 I would recommend using English where possible because it is the most widely known language.
 
-# Check list
-provide own check list
-My is 
-- is there "headline"?
-- is "headline" less than 150 charactres?
-- is there "Overview" to start from?
-- is there "Tags" ?
-- is there "Table of contents"?
-- is there no formatting symbols?
-- is there no empty chapters?
-- is "Definitions, Acronyms, Abbreviations" sorted?
-- is there no PII ?
-- is there no TBD and TODO?
-- Is it asking for an opinion?
-- Has it been proof read?
+# Checklist
+As you can see, there are a lot of items not to forget about.
+That's why I use a checklist to help me remember important points.
+Here it is:
+
+- Is there a "headline"?
+- Is the "headline" less than 150 characters?
+- Is there an "Overview" to start from?
+- Are there "Tags"?
+- Is there a "Table of contents"?
+- Are there no formatting symbols?
+- Are there no empty chapters?
+- Are "Definitions, Acronyms, Abbreviations" sorted?
+- Is there no Personally Identifiable Information (PII)?
+- Is there no "TBD" and "TODO"?
+- Does it ask for an opinion?
+- Has it been proofread?
 - Are there any pictures?
-- Is there bold text used for key word?
-- is there italic used for conversation?
-- Are all references actual?
-- Is lenght under 2500 words?
+- Is bold text used for keywords?
+- Is italics used for conversation?
+- Are all references current?
+- Is the length under 2500 words?
 
 # References 
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
