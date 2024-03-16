@@ -2,10 +2,10 @@
 Tagging for Multimedia
 
 # Table of contents
-- [Tags](./MultimediaTagging.md#tags)
-- [Definitions, Acronyms, Abbreviations](./MultimediaTagging.md#definitions-acronyms-abbreviations)
-- [Overview](./MultimediaTagging.md#overview)
-- [References](./MultimediaTagging.md#references)
+- [Tags](./MultimediaTagging_en.md#tags)
+- [Definitions, Acronyms, Abbreviations](./MultimediaTagging_en.md#definitions-acronyms-abbreviations)
+- [Overview](./MultimediaTagging_en.md#overview)
+- [References](./MultimediaTagging_en.md#references)
 
 # Tags
 TBD
