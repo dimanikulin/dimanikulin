@@ -9,9 +9,19 @@ Crafting Engaging and Polished Publications: A Comprehensive Guide
 - [Tags](./PublishWhat2.md#tags)
 - [Definitions, Acronyms, Abbreviations](./PublishWhat2.md#definitions-acronyms-abbreviations)
 - [Overview](./PublishWhat2.md#overview)
+- [Size](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhat2.md#size)
+- [No formatting symbols](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhat2.md#no-formatting-symbols)
+- [Citations](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhat2.md#citations)
+- [Pictures](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhat2.md#pictures)
+- [Tables](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhat2.md#tables)
+- [Plagiarism](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhat2.md#plagiarism)
+- [Make Proofreading](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhat2.md#make-proofreading)
+- [Publishing on Multiple Platforms](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhat2.md#publishing-on-multiple-platforms)
+- [Time and Frequency of Publication](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhat2.md#time-and-frequency-of-publication)
+- [Language](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhat2.md#language)
+- [Checklist](https://github.com/dimanikulin/dimanikulin/blob/main/PublishWhat2.md#checklist)
 - [References](./PublishWhat2.md#references)
-TBD 
-
+ 
 # Tags
 Content Optimization, Writing Tips, Publishing Strategies, Proofreading Techniques, Online Publishing, Audience Engagement, Writing Checklist
 
