@@ -45,7 +45,7 @@ The publication should not be overly dense or difficult to read.
 When considering a typical piece intended for public consumption, I propose aiming for an ideal publication size of under **2500** words.
 
 On the other hand, the size should not be too small, where it can be consumed in just one minute.
-I would suggest **1000** words as the smallest size for a publication.
+I would suggest **800** words as the smallest size for a publication.
 
 # No formatting symbols
 An important point to note is the absence of any formatting symbols in the publication, such as **</br>** or **&nbsp;&nbsp;**.
@@ -76,7 +76,7 @@ When using a quote or definition from another source, it must be cited using an 
 You can use this [website](www.copyscape.com) to check for **plagiarism**.
 
 # Make Proofreading
-*And yes,* your content should not have any punctuation or syntax mistakes.
+*And yes, your content should not have any punctuation or syntax mistakes.
 Also, there should not be any formatting issues. 
 To make it possible, you will need to **proofread** the content.
 
@@ -100,7 +100,7 @@ Usually, I first publish my content on **Hackernoon** as they check my content t
 
 # Time and Frequency of Publication
 It is quite important to select the proper day and time for publication.
-I usually publish on Mondays and Thursdays, typically between 10 AM and 3 PM my local time, Ukrainian time.
+I usually publish on Mondays and Thursdays, typically between **10 AM** and **3 PM** my local time, **Ukrainian** time.
 It should definitely not be early in the morning or late at night.
 
 Also, please note that publishing on holidays may result in fewer views.
