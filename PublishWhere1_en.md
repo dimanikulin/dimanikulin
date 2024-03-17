@@ -2,17 +2,17 @@
 Where to publish, part 1
 
 # Table of contents
-- [Tags](./PublishWhere1.md#tags)
-- [Overview](./PublishWhere1.md#overview)
-- [hackernoon](./PublishWhere1.md#hackernoon)
-- [hashnode](./PublishWhere1.md#hashnode)
-- [dev.to](./PublishWhere1.md#devto)
-- [Medium](./PublishWhere1.md#medium)
-- [Reddit](./PublishWhere1.md#reddit)
-- [Quora](./PublishWhere1.md#quora)
-- [LinkedIn](./PublishWhere1.md#linkedin)
-- [Comparison](./PublishWhere1.md#comparison)
-- [Analyze](./PublishWhere1.md#analyze)
+- [Tags](./PublishWhere1_en.md#tags)
+- [Overview](./PublishWhere1_en.md#overview)
+- [hackernoon](./PublishWhere1_en.md#hackernoon)
+- [hashnode](./PublishWhere1_en.md#hashnode)
+- [dev.to](./PublishWhere1_en.md#devto)
+- [Medium](./PublishWhere1_en.md#medium)
+- [Reddit](./PublishWhere1_en.md#reddit)
+- [Quora](./PublishWhere1_en.md#quora)
+- [LinkedIn](./PublishWhere1_en.md#linkedin)
+- [Comparison](./PublishWhere1_en.md#comparison)
+- [Analyze](./PublishWhere1_en.md#analyze)
 
 # Tags
 Content Publishing Platforms, Hackernoon, Hashnode, Dev.to, Medium, Reddit, Quora, LinkedIn, Comparative Analysis, Features, Tags, Challenges
