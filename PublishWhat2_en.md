@@ -87,6 +87,9 @@ It might be costly, and there is software to help you, such as **ChatGPT**, **MS
 Also, **Hashnode** has an online proofreading option, so you can post there first.
 
 # Publishing on Multiple Platforms
+
+<img src="./Images/wheretopublish12.png" alt="TBD" />
+
 I publish my content on different platforms — seven for now.
 When I join a platform, the first thing I do is read the requirements on how to publish there.
 The content you publish should be relevant and applicable to the platform.
