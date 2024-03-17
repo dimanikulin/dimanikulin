@@ -57,7 +57,7 @@ My Publications
 |quora      |TBD|TBD|TBD| 
 
 # How, What and Where to publish
-|Name       |[What To Publish, 1](./PublishWhat1.md)|[What To Publish, 2](./PublishWhat2.md)|[Where To Publish 1](./PublishWhere1.md)|[Where To Publish 2](./PublishWhere2.md)|
+|Name       |[What To Publish, 1](./PublishWhat1.md)|[What To Publish, 2](./PublishWhat2_en.md)|[Where To Publish 1](./PublishWhere1.md)|[Where To Publish 2](./PublishWhere2.md)|
 |-----------|---|---|---|:-----------:|
 |hashnode   |TBD|TBD|TBD|TBD|
 |hackernoon |TBD|TBD|TBD|TBD|

@@ -6,21 +6,21 @@ How to publish your content?
 Crafting Engaging and Polished Publications: A Comprehensive Guide
 
 # Table of contents
-- [Tags](./PublishWhat2.md#tags)
-- [Definitions, Acronyms, Abbreviations](./PublishWhat2.md#definitions-acronyms-abbreviations)
-- [Overview](./PublishWhat2.md#overview)
-- [Size](./PublishWhat2.md#size)
-- [No formatting symbols](./PublishWhat2.md#no-formatting-symbols)
-- [Citations](./PublishWhat2.md#citations)
-- [Pictures](./PublishWhat2.md#pictures)
-- [Tables](./PublishWhat2.md#tables)
-- [Plagiarism](./PublishWhat2.md#plagiarism)
-- [Make Proofreading](./PublishWhat2.md#make-proofreading)
-- [Publishing on Multiple Platforms](./PublishWhat2.md#publishing-on-multiple-platforms)
-- [Time and Frequency of Publication](./PublishWhat2.md#time-and-frequency-of-publication)
-- [Language](./PublishWhat2.md#language)
-- [Checklist](./PublishWhat2.md#checklist)
-- [References](./PublishWhat2.md#references)
+- [Tags](./PublishWhat2_en.md#tags)
+- [Definitions, Acronyms, Abbreviations](./PublishWhat2_en.md#definitions-acronyms-abbreviations)
+- [Overview](./PublishWhat2_en.md#overview)
+- [Size](./PublishWhat2_en.md#size)
+- [No formatting symbols](./PublishWhat2_en.md#no-formatting-symbols)
+- [Citations](./PublishWhat2_en.md#citations)
+- [Pictures](./PublishWhat2_en.md#pictures)
+- [Tables](./PublishWhat2_en.md#tables)
+- [Plagiarism](./PublishWhat2_en.md#plagiarism)
+- [Make Proofreading](./PublishWhat2_en.md#make-proofreading)
+- [Publishing on Multiple Platforms](./PublishWhat2_en.md#publishing-on-multiple-platforms)
+- [Time and Frequency of Publication](./PublishWhat2_en.md#time-and-frequency-of-publication)
+- [Language](./PublishWhat2_en.md#language)
+- [Checklist](./PublishWhat2_en.md#checklist)
+- [References](./PublishWhat2_en.md#references)
  
 # Tags
 Content Optimization, Writing Tips, Publishing Strategies, Proofreading Techniques, Online Publishing, Audience Engagement, Writing Checklist
@@ -76,7 +76,7 @@ When using a quote or definition from another source, it must be cited using an 
 You can use this [website](www.copyscape.com) to check for **plagiarism**.
 
 # Make Proofreading
-And yes, your content should not have any punctuation or syntax mistakes.
+*And yes,* your content should not have any punctuation or syntax mistakes.
 Also, there should not be any formatting issues. 
 To make it possible, you will need to **proofread** the content.
 
