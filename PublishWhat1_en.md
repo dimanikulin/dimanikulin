@@ -5,20 +5,20 @@
 **What and how to publish** 
 
 # Table of contents
-- [Tags](./PublishWhat1.md#tags)
-- [Definitions, Acronyms, Abbreviations](./PublishWhat1.md#definitions-acronyms-abbreviations)
-- [Overview](./PublishWhat1.md#overview)
-- [Criteria for Evaluating Publications](./PublishWhat1.md#criteria-for-evaluating-publications)
-- [Common Recommendations](./PublishWhat1.md#common-recommendations)
-- [Publication Structure](./PublishWhat1.md#publication-structure)
-- [Must-Have Chapters](./PublishWhat1.md#must-have-chapters)
-- [Optional Chapters](./PublishWhat1.md#optional-chapters)
-- ["Headline" chapter](./PublishWhat1.md#headline-chapter)
-- ["Table of contents" chapter](./PublishWhat1.md#table-of-contents-chapter)
-- ["Overview" Chapter](./PublishWhat1.md#overview-chapter)
-- ["Tags" Chapter](./PublishWhat1.md#tags-chapter)
-- ["Definitions, Acronyms, Abbreviations" Chapter](./PublishWhat1.md#definitions-acronyms-abbreviations-chapter)
-- ["References" Chapter](./PublishWhat1.md#references-chapter)
+- [Tags](./PublishWhat1_en.md#tags)
+- [Definitions, Acronyms, Abbreviations](./PublishWhat1_en.md#definitions-acronyms-abbreviations)
+- [Overview](./PublishWhat1_en.md#overview)
+- [Criteria for Evaluating Publications](./PublishWhat1_en.md#criteria-for-evaluating-publications)
+- [Common Recommendations](./PublishWhat1_en.md#common-recommendations)
+- [Publication Structure](./PublishWhat1_en.md#publication-structure)
+- [Must-Have Chapters](./PublishWhat1_en.md#must-have-chapters)
+- [Optional Chapters](./PublishWhat1_en.md#optional-chapters)
+- ["Headline" chapter](./PublishWhat1_en.md#headline-chapter)
+- ["Table of contents" chapter](./PublishWhat1_en.md#table-of-contents-chapter)
+- ["Overview" Chapter](./PublishWhat1_en.md#overview-chapter)
+- ["Tags" Chapter](./PublishWhat1_en.md#tags-chapter)
+- ["Definitions, Acronyms, Abbreviations" Chapter](./PublishWhat1_en.md#definitions-acronyms-abbreviations-chapter)
+- ["References" Chapter](./PublishWhat1_en.md#references-chapter)
 
 # Tags
 Publication Metrics, Content Engagement, Publication Strategy, Writing Guidelines, Document Structure, Publication Optimization, Audience Interaction
