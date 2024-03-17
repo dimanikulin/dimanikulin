@@ -42,10 +42,10 @@ Whether you're a seasoned writer or just starting out, follow these tips and bes
 
 # Size
 The publication should not be overly dense or difficult to read.
-When considering a typical piece intended for public consumption, I propose aiming for an ideal publication size of under 2500 words.
+When considering a typical piece intended for public consumption, I propose aiming for an ideal publication size of under **2500** words.
 
 On the other hand, the size should not be too small, where it can be consumed in just one minute.
-I would suggest 1000 words as the smallest size for a publication.
+I would suggest **1000** words as the smallest size for a publication.
 
 # No formatting symbols
 An important point to note is the absence of any formatting symbols in the publication, such as **</br>** or **&nbsp;&nbsp;**.
@@ -55,48 +55,48 @@ These symbols may appear if you copy your content from another document format.
 There is a recommendation for **citations** to be formatted as in-line links, with any recommended reading listed separately.
 
 # Pictures
-Please notice a really important point: fewer pictures mean fewer views.
+Please notice a really important point: **fewer** pictures mean **fewer** views.
 Certainly, all pictures should be related to the text content and enhance its meaning.
 
 I suggest having a featured image as a title image. It might be interactive, like a gif.
 
-I would prefer picture orientation to be album rather than book orientation. It will use the user's screen more efficiently.
+I would prefer **album** orientation to be album rather than **book** orientation. It will use the user's screen more efficiently.
 
 # Tables
-If you use tables in your publications, please make sure that columns with less content are placed towards the end of the table, and vice versa.
+If you use **tables** in your publications, please make sure that columns with less content are placed towards the end of the table, and vice versa.
 
-Additionally, I suggest placing more important columns at the beginning of the table so that readers will first encounter the most important information.
+Additionally, I suggest placing **more important** columns at the beginning of the table so that readers will first encounter the most important information.
 
 # Plagiarism
-Please note that readers prefer content to be 100% original.
-They expect 0% plagiarism or duplicate content, and all sources must be properly cited.
+Please note that readers prefer content to be **100% original.**
+They expect **0% plagiarism** or duplicate content, and all sources must be properly cited.
 
 When using a quote or definition from another source, it must be cited using an in-line link to provide attribution and enable readers to verify the information.
 
-You can use this [website](www.copyscape.com) to check for plagiarism.
+You can use this [website](www.copyscape.com) to check for **plagiarism**.
 
 # Make Proofreading
 And yes, your content should not have any punctuation or syntax mistakes.
 Also, there should not be any formatting issues. 
-To make it possible, you will need to proofread the content.
+To make it possible, you will need to **proofread** the content.
 
 How do I do that?
 The best way to do it is to have it proofread by a human.
-It might be costly, and there is software to help you, such as ChatGPT, MS Word, or Google Docs.
+It might be costly, and there is software to help you, such as **ChatGPT**, **MS Word**, or **Google Docs**.
 
-Also, Hashnode has an online proofreading option, so you can post there first.
+Also, **Hashnode** has an online proofreading option, so you can post there first.
 
 # Publishing on Multiple Platforms
-I publish my content on different platforms—seven for now.
+I publish my content on different platforms — seven for now.
 When I join a platform, the first thing I do is read the requirements on how to publish there.
 The content you publish should be relevant and applicable to the platform.
-For example, I don't use Facebook to post programming stuff.
+For example, I don't use **Facebook** to post programming stuff.
 
 All platforms suggest filling out the user profile before publication so people who read your publication can contact you if they are interested.
 Profiles on different platforms should be consistent with each other.
-Here, I use a link to one public profile on GitHub.
+Here, I use a link to one public profile on **GitHub**.
 
-Usually, I first publish my content on Hackernoon as they check my content thoroughly, and then I publish it on other platforms so it is well-checked.
+Usually, I first publish my content on **Hackernoon** as they check my content thoroughly, and then I publish it on other platforms so it is well-checked.
 
 # Time and Frequency of Publication
 It is quite important to select the proper day and time for publication.
@@ -110,30 +110,30 @@ Additionally, if there is another important event on the platform at the time of
 Regarding frequency, I publish one to two times per week to avoid overloading my readers and to ensure they don't forget about me.
 
 # Language
-I would recommend using English where possible because it is the most widely known language.
+I would recommend using **English** where possible because it is the most widely known language.
 
 # Checklist
 As you can see, there are a lot of items not to forget about.
 That's why I use a checklist to help me remember important points.
 Here it is:
 
-- Is there a "headline"?
-- Is the "headline" less than 150 characters?
-- Is there an "Overview" to start from?
-- Are there "Tags"?
-- Is there a "Table of contents"?
+- Is there a **Headline**?
+- Is the **Headline** less than 150 characters?
+- Is there an **Overview** to start from?
+- Are there **Tags**?
+- Is there a **Table of contents**?
 - Are there no formatting symbols?
 - Are there no empty chapters?
-- Are "Definitions, Acronyms, Abbreviations" sorted?
-- Is there no Personally Identifiable Information (PII)?
-- Is there no "TBD" and "TODO"?
+- Are **Definitions, Acronyms, Abbreviations** sorted?
+- Is there no **Personally Identifiable Information** (**PII**)?
+- Is there no **TBD** and **TODO**?
 - Does it ask for an opinion?
 - Has it been proofread?
-- Are there any pictures?
 - Is bold text used for keywords?
 - Is italics used for conversation?
 - Are all references current?
-- Is the length under 2500 words?
+- Is the length under **2500** words?
+- Are there any pictures?
 
 # References 
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
