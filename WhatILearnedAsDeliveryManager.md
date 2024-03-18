@@ -96,7 +96,7 @@ Subsequently, the **README** delves into the description of **Architecture Docum
 - [Tools](https://github.com/dimanikulin/fva#dependencies), Libraries and [Programming Languages](https://github.com/dimanikulin/fva#programming-languages)
 - [Licenses](https://github.com/dimanikulin/fva#license)
 
-For more detailed information, please refer to the designated [section](./WhatILearnedAsAppArchitect.md).
+For more detailed information, please refer to the designated [section](./WhatILearnedAsAppArchitect_en.md).
 
 ## Code Style and Documentation
 The **README** then proceeds to expound upon [Code Style](https://github.com/dimanikulin/fva#code-style) and [Documentation](https://github.com/dimanikulin/fva#code-documentation).
