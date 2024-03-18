@@ -94,7 +94,7 @@ I can help with **BigData** tools such as **Spark**, **Kafka**, **Hive** and **M
 Furthermore, I can assist with **Software Architecture** aspects, such as:
 - working with **Stakeholders**, **Business Requirements** and **Functional decomposition**;
 - participation in **Presales**, **Estimation**, **Discovery**, **Design and Review stages**;
-- working with **[Quality attributes](./QualityAttributes.md)** and their **Tactics**;
+- working with **[Quality attributes](./QualityAttributes_en.md)** and their **Tactics**;
 - creating the **Software Architecture Document**;
 - choosing the **NoSQL DB**;
 - designing the **Search system**;

@@ -54,7 +54,7 @@ To avoid overloading the main **README**, there are several child files created 
 - [Dependencies.md](https://github.com/dimanikulin/fva/blob/master/Dependencies.md)           - Describes the tools and libraries used for product development.
 - [DependenciesOld.md](https://github.com/dimanikulin/fva/blob/master/DependenciesOld.md)     - Describes the old tools and libraries that were used for product development.
 - [FunctionalView.md](https://github.com/dimanikulin/fva/blob/master/FunctionalView.md)       - Shows and describes the functional view.
-- [QualityAttributes.md](https://github.com/dimanikulin/fva/blob/master/QualityAttributes.md) - Describes the product's Quality Attributes.
+- [QualityAttributes_en.md](https://github.com/dimanikulin/fva/blob/master/QualityAttributes_en.md) - Describes the product's Quality Attributes.
 
 Furthermore, my **README starts with the product logo.
 

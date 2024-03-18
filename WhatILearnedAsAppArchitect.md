@@ -75,7 +75,7 @@ These statements are made based on available information, but they **are not** n
 By identifying assumptions early in the development process, the architect can take steps to verify the assumptions and adjust the design as needed to ensure that the solution will function as intended.
 
 ## Quality Attributes
-[Quality Attributes](./QualityAttributes.md), also known as non-functional requirements, are the characteristics of a software solution that describe how well it performs in terms of its operation, maintenance, and evolution. 
+[Quality Attributes](./QualityAttributes_en.md), also known as non-functional requirements, are the characteristics of a software solution that describe how well it performs in terms of its operation, maintenance, and evolution. 
 **Quality attributes** are not directly related to the functionality of the software, but rather to how well it meets certain standards or requirements.
 
 **Quality attributes** are important to consider during requirements selection because they can impact the user experience, the cost of ownership, and the long-term success of the software solution.
