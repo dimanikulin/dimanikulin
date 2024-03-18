@@ -117,3 +117,9 @@ General Security, Telegram, Two-Factor Authentication, Phishing, Blocking, Spam,
 
 ## Поле "Дата створення"
 Підроблені облікові записи також мають не свіжу дату створення.
+
+# References
+| # | Name                 | Source                | Release date           |  Author                 | Description   |
+| - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
+| 1 | Список российских телеграм каналов |[github](./MyRuTelegramChannels.md) | | Dmytro Nikulin | |
+| 2 | Мой телеграм канал   |[github](./MyTelegramChannel_uk.md) | | Dmytro Nikulin | |

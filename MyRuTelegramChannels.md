@@ -300,3 +300,9 @@ The bot was created and works to promote and publish fake news about the Russian
 - Сплетница
 - Мрія
 - TarikNezalejko️️💡
+
+# References
+| # | Name                 | Source                | Release date           |  Author                 | Description   |
+| - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
+| 1 | Мой телеграм канал   |[github](./MyTelegramChannel_uk.md) | | Dmytro Nikulin | |
+| 2 | Моі правила работи з телеграм |[github](./MyRulesWorkingWithTg_uk.md) | | Dmytro Nikulin | |
