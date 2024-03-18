@@ -54,14 +54,6 @@ These symbols may appear if you copy your content from another document format.
 # Citations
 There is a recommendation for **citations** to be formatted as in-line links, with any recommended reading listed separately.
 
-# Pictures
-Please notice a really important point: **fewer** pictures mean **fewer** views.
-Certainly, all pictures should be related to the text content and enhance its meaning.
-
-I suggest having a featured image as a title image. It might be interactive, like a gif.
-
-I would prefer **album** orientation to be album rather than **book** orientation. It will use the user's screen more efficiently.
-
 # Tables
 
 <img src="./Images/PublishWhat3.png" alt="PublishWhat3" />
@@ -69,6 +61,14 @@ I would prefer **album** orientation to be album rather than **book** orientatio
 If you use **tables** in your publications, please make sure that columns with less content are placed towards the end of the table, and vice versa.
 
 Additionally, I suggest placing **more important** columns at the beginning of the table so that readers will first encounter the most important information.
+
+# Pictures
+Please notice a really important point: **fewer** pictures mean **fewer** views.
+Certainly, all pictures should be related to the text content and enhance its meaning.
+
+I suggest having a featured image as a title image. It might be interactive, like a gif.
+
+I would prefer **album** orientation to be album rather than **book** orientation. It will use the user's screen more efficiently.
 
 # Plagiarism
 Please note that readers prefer content to be **100% original.**
