@@ -2,10 +2,10 @@
 Where to publish, part 2
 
 # Table of contents
-- [Tags](./PublishWhere2.md#tags)
-- [Definitions, Acronyms, Abbreviations](./PublishWhere2.md#definitions-acronyms-abbreviations)
-- [Overview](./PublishWhere2.md#overview)
-- [References](./PublishWhere2.md#references)
+- [Tags](./PublishWhere2_en.md#tags)
+- [Definitions, Acronyms, Abbreviations](./PublishWhere2_en.md#definitions-acronyms-abbreviations)
+- [Overview](./PublishWhere2_en.md#overview)
+- [References](./PublishWhere2_en.md#references)
 
 # Tags
 TBD
