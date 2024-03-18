@@ -2,22 +2,22 @@
 What I learned as a Delivery Manager while creating my product
 
 # Table of contents
-- [Tags](./WhatILearnedAsDeliveryManager.md#tags)
-- [Overview](./WhatILearnedAsDeliveryManager.md#overview)
-- [Create a Good Readme](./WhatILearnedAsDeliveryManager.md#create-a-good-readme)
-- [Bages](./WhatILearnedAsDeliveryManager.md#bages)
-- [Quick Links](./WhatILearnedAsDeliveryManager.md#quick-links)
-- [Capabilities and Description](./WhatILearnedAsDeliveryManager.md#capabilities-and-description)
-- [Architecture Documentation](./WhatILearnedAsDeliveryManager.md#architecture-documentation)
-- [Code Style and Documentation](./WhatILearnedAsDeliveryManager.md#code-style-and-documentation)
-- [Implementation Status](./WhatILearnedAsDeliveryManager.md#implementation-status)
-- [Contributing and Stay in Touch](./WhatILearnedAsDeliveryManager.md#contributing-and-stay-in-touch)
-- [Definitions, Acronyms, Abbreviations](./WhatILearnedAsDeliveryManager.md#definitions-acronyms-abbreviations)
-- [Project Status Tracking](./WhatILearnedAsDeliveryManager.md#project-status-tracking)
-- [GitHub Projects](./WhatILearnedAsDeliveryManager.md#github-projects)
-- [ProjectLibre](./WhatILearnedAsDeliveryManager.md#projectlibre)
-- [Releasing the Code and Documentation](./WhatILearnedAsDeliveryManager.md#releasing-the-code-and-documentation)
-- [References](./WhatILearnedAsDeliveryManager.md#references)
+- [Tags](./WhatILearnedAsDeliveryManager_en.md#tags)
+- [Overview](./WhatILearnedAsDeliveryManager_en.md#overview)
+- [Create a Good Readme](./WhatILearnedAsDeliveryManager_en.md#create-a-good-readme)
+- [Bages](./WhatILearnedAsDeliveryManager_en.md#bages)
+- [Quick Links](./WhatILearnedAsDeliveryManager_en.md#quick-links)
+- [Capabilities and Description](./WhatILearnedAsDeliveryManager_en.md#capabilities-and-description)
+- [Architecture Documentation](./WhatILearnedAsDeliveryManager_en.md#architecture-documentation)
+- [Code Style and Documentation](./WhatILearnedAsDeliveryManager_en.md#code-style-and-documentation)
+- [Implementation Status](./WhatILearnedAsDeliveryManager_en.md#implementation-status)
+- [Contributing and Stay in Touch](./WhatILearnedAsDeliveryManager_en.md#contributing-and-stay-in-touch)
+- [Definitions, Acronyms, Abbreviations](./WhatILearnedAsDeliveryManager_en.md#definitions-acronyms-abbreviations)
+- [Project Status Tracking](./WhatILearnedAsDeliveryManager_en.md#project-status-tracking)
+- [GitHub Projects](./WhatILearnedAsDeliveryManager_en.md#github-projects)
+- [ProjectLibre](./WhatILearnedAsDeliveryManager_en.md#projectlibre)
+- [Releasing the Code and Documentation](./WhatILearnedAsDeliveryManager_en.md#releasing-the-code-and-documentation)
+- [References](./WhatILearnedAsDeliveryManager_en.md#references)
 
 # Tags
 Open Source Development, Developer Engagement, README Best Practices, Project Documentation, GitHub Projects, ProjectLibre
