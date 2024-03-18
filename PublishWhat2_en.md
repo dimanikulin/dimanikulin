@@ -63,6 +63,9 @@ I suggest having a featured image as a title image. It might be interactive, lik
 I would prefer **album** orientation to be album rather than **book** orientation. It will use the user's screen more efficiently.
 
 # Tables
+
+<img src="./Images/PublishWhat3.png" alt="PublishWhat3" />
+
 If you use **tables** in your publications, please make sure that columns with less content are placed towards the end of the table, and vice versa.
 
 Additionally, I suggest placing **more important** columns at the beginning of the table so that readers will first encounter the most important information.
@@ -76,7 +79,7 @@ When using a quote or definition from another source, it must be cited using an 
 You can use this [website](www.copyscape.com) to check for **plagiarism**.
 
 # Make Proofreading
-*And yes, your content should not have any punctuation or syntax mistakes.
+*And yes,* your content should not have any punctuation or syntax mistakes.
 Also, there should not be any formatting issues. 
 To make it possible, you will need to **proofread** the content.
 
@@ -88,8 +91,6 @@ Also, **Hashnode** has an online proofreading option, so you can post there firs
 
 # Publishing on Multiple Platforms
 
-<img src="./Images/wheretopublish12.png" alt="TBD" />
-
 I publish my content on different platforms — seven for now.
 When I join a platform, the first thing I do is read the requirements on how to publish there.
 The content you publish should be relevant and applicable to the platform.
@@ -100,6 +101,8 @@ Profiles on different platforms should be consistent with each other.
 Here, I use a link to one public profile on **GitHub**.
 
 Usually, I first publish my content on **Hackernoon** as they check my content thoroughly, and then I publish it on other platforms so it is well-checked.
+
+<img src="./Images/wheretopublish11.png" alt="where to publish 1" />
 
 # Time and Frequency of Publication
 It is quite important to select the proper day and time for publication.
