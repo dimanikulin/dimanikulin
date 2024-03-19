@@ -39,3 +39,6 @@ TBD
 | 7 | Metadata Templates |[Web](https://dpbestflow.org/metadata/metadata-templates) | |Peter Krogh | |
 | 8 | Metadata generation for image files | [Patent](https://patents.google.com/patent/US8473525) | 25/06/2013 |Google| |
 | 9 | Exif Jpeg header manipulation tool | [Web](https://www.sentex.ca/~mwandel/jhead/) | 22/11/2019| | |
+| 10| Enriching the Multimedia |[GitHub](./MultimediaEnriching_en.md)| | Dmytro Nikulin | |
+| 11| Analyze of Multimedia organizers |[GitHub](./MultimediaOrganizersAnalyze_en.md)| | Dmytro Nikulin | |
+| 12| Search Requests in Multimedia |[GitHub](./MultimediaSearchRequests_en.md)| | Dmytro Nikulin | |
