@@ -54,7 +54,7 @@ My Publications
 |dev.to     |[05/03/2024](https://dev.to/dimanikulin/detecting-architectural-gaps-with-automation-business-context-50ed)|TBD|TBD|
 |medium     |[08/03/2024](https://medium.com/@dimanikulin_43511/detecting-architectural-gaps-with-automation-business-context-256ef701336d)|TBD|TBD|
 |reddit     |[15/03/2024](https://www.reddit.com/r/fva/comments/1bf6uo2/detecting_architectural_gaps_with_automation/)|TBD|TBD|
-|quora      |TBD|TBD|TBD| 
+|quora      |[19/03/2024](https://www.quora.com/profile/Dima-Nikulin-2/Detecting-Architectural-Gaps-with-Automation-Business-Context-Overview)|TBD|TBD| 
 
 # How, What and Where to publish
 |Name       |[What To Publish, 1](./PublishWhat1_en.md)|[What To Publish, 2](./PublishWhat2_en.md)|[Where To Publish 1](./PublishWhere1_en.md)|[Where To Publish 2](./PublishWhere2_en.md)|
