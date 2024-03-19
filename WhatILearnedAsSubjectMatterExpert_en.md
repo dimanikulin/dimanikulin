@@ -2,17 +2,17 @@
 What I learned as a Subject Matter Expert while creating my product
 
 # Table of contents
-- [Tags](./WhatILearnedAsSubjectMatterExpert.md#tags)
-- [Definitions, Acronyms, Abbreviations](./WhatILearnedAsSubjectMatterExpert.md#definitions-acronyms-abbreviations)
-- [Overview](./WhatILearnedAsSubjectMatterExpert.md#overview)
-- [Multimedia IR systems](./WhatILearnedAsSubjectMatterExpert.md#multimedia-ir-systems)
-- [Metadata](./WhatILearnedAsSubjectMatterExpert.md#metadata)
-- [Examples of incorrect search results](./WhatILearnedAsSubjectMatterExpert.md#examples-of-incorrect-search-results)
-- [Multimedia Organizers](./WhatILearnedAsSubjectMatterExpert.md#multimedia-organizers)
-- [Integration](./WhatILearnedAsSubjectMatterExpert.md#integration)
-- [Integration with digiKam](./WhatILearnedAsSubjectMatterExpert.md#integration-with-digikam)
-- [Integration with Google Photos](./WhatILearnedAsSubjectMatterExpert.md#integration-with-google-photos)
-- [References](./WhatILearnedAsSubjectMatterExpert.md#references)
+- [Tags](./WhatILearnedAsSubjectMatterExpert_en.md#tags)
+- [Definitions, Acronyms, Abbreviations](./WhatILearnedAsSubjectMatterExpert_en.md#definitions-acronyms-abbreviations)
+- [Overview](./WhatILearnedAsSubjectMatterExpert_en.md#overview)
+- [Multimedia IR systems](./WhatILearnedAsSubjectMatterExpert_en.md#multimedia-ir-systems)
+- [Metadata](./WhatILearnedAsSubjectMatterExpert_en.md#metadata)
+- [Examples of incorrect search results](./WhatILearnedAsSubjectMatterExpert_en.md#examples-of-incorrect-search-results)
+- [Multimedia Organizers](./WhatILearnedAsSubjectMatterExpert_en.md#multimedia-organizers)
+- [Integration](./WhatILearnedAsSubjectMatterExpert_en.md#integration)
+- [Integration with digiKam](./WhatILearnedAsSubjectMatterExpert_en.md#integration-with-digikam)
+- [Integration with Google Photos](./WhatILearnedAsSubjectMatterExpert_en.md#integration-with-google-photos)
+- [References](./WhatILearnedAsSubjectMatterExpert_en.md#references)
 
 # Tags
 Multimedia IR Systems, Metadata, Multimedia Organizers, digiKam, Google Photos, Multimedia Data, Photo Album.
