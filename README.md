@@ -51,7 +51,7 @@ Please see [this link](./MyEducation.md) for details regarding education, cource
 
 I am looking to collaborate on developing [my product](https://github.com/dimanikulin/fva) because the development is in a hot stage.
 
-Everyone can try themselves in different roles to learn something new and to help me, such as: [Product Manager](./WhatILearnedAsProductManager.md), [Delivery Manager](./WhatILearnedAsDeliveryManager_en.md),
+Everyone can try themselves in different roles to learn something new and to help me, such as: [Product Manager](./WhatILearnedAsProductManager_en.md), [Delivery Manager](./WhatILearnedAsDeliveryManager_en.md),
 [Application Architect](./WhatILearnedAsAppArchitect_en.md), [Software Developer](./WhatILearnedAsSoftwareDeveloper.md), [DevOps](./WhatILearnedAsDevOps_en.md) and [Subject Matter Expert](./WhatILearnedAsSubjectMatterExpert.md). 
 
 <div>
