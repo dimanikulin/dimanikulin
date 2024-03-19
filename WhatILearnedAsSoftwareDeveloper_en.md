@@ -2,14 +2,14 @@
 What I learned as a Software Developer while creating my product
 
 # Table of contents
-- [Tags](./WhatILearnedAsSoftwareDeveloper.md#tags)
-- [Overview](./WhatILearnedAsSoftwareDeveloper.md#overview)
-- [Code quality](./WhatILearnedAsSoftwareDeveloper.md#code-quality)
-- [Code documentation](./WhatILearnedAsSoftwareDeveloper.md#code-documentation)
-- [Implementation](./WhatILearnedAsSoftwareDeveloper.md#implementation)
-- [History of internal metadata formats](./WhatILearnedAsSoftwareDeveloper.md#history-of-internal-metadata-formats)
-- [Definitions, Acronyms, Abbreviations](./WhatILearnedAsSoftwareDeveloper.md#definitions-acronyms-abbreviations)
-- [References](./WhatILearnedAsSoftwareDeveloper.md#references)
+- [Tags](./WhatILearnedAsSoftwareDeveloper_en.md#tags)
+- [Overview](./WhatILearnedAsSoftwareDeveloper_en.md#overview)
+- [Code quality](./WhatILearnedAsSoftwareDeveloper_en.md#code-quality)
+- [Code documentation](./WhatILearnedAsSoftwareDeveloper_en.md#code-documentation)
+- [Implementation](./WhatILearnedAsSoftwareDeveloper_en.md#implementation)
+- [History of internal metadata formats](./WhatILearnedAsSoftwareDeveloper_en.md#history-of-internal-metadata-formats)
+- [Definitions, Acronyms, Abbreviations](./WhatILearnedAsSoftwareDeveloper_en.md#definitions-acronyms-abbreviations)
+- [References](./WhatILearnedAsSoftwareDeveloper_en.md#references)
 
 # Tags
 Software development, code quality, code review, coding standards, documentation practices, C++, Python, implementation status, UI development, QT library, QWidgets, QML, UI languages, SQLite, CSV, C++ and Python integration, riff parser, metadata formats, maintainability
@@ -127,3 +127,4 @@ The history of internal metadata formats in FVA Software demonstrates the import
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 | 1 | FVA Tool Set features | [local resource](./FVADocX/FVAToolSetFeatures.pptx) | 01/06/2022 | Dmytro Nikulin | | 
+2
