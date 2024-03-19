@@ -48,7 +48,7 @@ I also learned how to create attractive **README.md** files with the use of **ba
 I began my journey as an architect with **requirements** selection. 
 By selecting the right **requirements**, an architect can ensure that the software is designed to meet specific **business** goals and objectives, as well as technical and operational requirements. 
 This helps ensure that the software is scalable, maintainable and meets the needs of both the **end-users** and the **stakeholders**.
-It's worth noting that my approach to selecting **requirements** differed from that of a [product manager](./WhatILearnedAsProductManager.md) because I needed more technical requirements. 
+It's worth noting that my approach to selecting **requirements** differed from that of a [product manager](./WhatILearnedAsProductManager_en.md) because I needed more technical requirements. 
 I divided architect requirements into four parts:
 - **Constraints**;
 - **Assumptions**;
@@ -164,3 +164,10 @@ In addition, I had to create the FVA License and gained an understanding of what
 | 1 | A tool to edit diargam in mermaid-js | [Web](https://mermaid-js.github.io/mermaid-live-editor/edit) | | | |
 | 2 | Solution Architecture Document | [local resource](./FVADocX/FVAToolSet-SAD.docx) | | | |
 | 3 | Solution Architecture Document diagrams | [local resource](./FVADocX/FVAToolSet-SADdiagrams.drawio) | | | |
+| 4 | What I learned as a Delivery Manager |[GitHub](./WhatILearnedAsDeliveryManager_en.md) | | | |
+| 5 | What I learned as a DevOps |[GitHub](./WhatILearnedAsDevOps_en.md) | | | |
+| 6 | What I learned as a Product Manager |[GitHub](./WhatILearnedAsProductManager_en.md) | | | |
+| 7 | What I learned as a Software Developer |[GitHub](./WhatILearnedAsSoftwareDeveloper_en.md) | | | |
+| 8 | What I learned as a Subject Matter Expert |[GitHub](./WhatILearnedAsSubjectMatterExpert_en.md) | | | |
+| 9 | What I Learned As a Tester |[GitHub](./WhatILearnedAsTester.md) | | | |
+| 10| Why I decided to create my photo organizer? |[GitHub](./WhyCreatedPhotoOrganizer.md ) | | | |
