@@ -2,10 +2,10 @@
 TBD
 
 # Table of contents
-- [Tags](./WhatILearnedAsDevOps.md#tags)
-- [Definitions, Acronyms, Abbreviations](./WhatILearnedAsDevOps.md#definitions-acronyms-abbreviations)
-- [Overview](./WhatILearnedAsDevOps.md#overview)
-- [References](./WhatILearnedAsDevOps.md#references)
+- [Tags](./WhatILearnedAsDevOps_en.md#tags)
+- [Definitions, Acronyms, Abbreviations](./WhatILearnedAsDevOps_en.md#definitions-acronyms-abbreviations)
+- [Overview](./WhatILearnedAsDevOps_en.md#overview)
+- [References](./WhatILearnedAsDevOps_en.md#references)
 
 # Tags
 TBD
