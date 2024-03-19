@@ -28,4 +28,6 @@ and from here https://habr.com/ru/post/374465/
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
-
+| 1 | Enriching the Multimedia |[GitHub](./MultimediaEnriching_en.md)| | Dmytro Nikulin | |
+| 2 | Search Requests in Multimedia |[GitHub](./MultimediaSearchRequests_en.md)| | Dmytro Nikulin | |
+| 3 | Tagging for Multimedia |[GitHub](./MultimediaTagging_en.md)| | Dmytro Nikulin | |

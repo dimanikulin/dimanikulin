@@ -40,3 +40,6 @@ TBD
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
+| 1 | Analyze of Multimedia organizers |[GitHub](./MultimediaOrganizersAnalyze_en.md)| | Dmytro Nikulin | |
+| 2 | Search Requests in Multimedia |[GitHub](./MultimediaSearchRequests_en.md)| | Dmytro Nikulin | |
+| 3 | Tagging for Multimedia |[GitHub](./MultimediaTagging_en.md)| | Dmytro Nikulin | |
