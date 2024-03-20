@@ -2,14 +2,14 @@
 Russian telegram channels
 
 # Table of contents
-- [Tags](./MyRuTelegramChannels.md#tags)
-- [Overview](./MyRuTelegramChannels.md#overview)
-- [For channels](./MyRuTelegramChannels.md#for-channels)
-- [For bots](./MyRuTelegramChannels.md#for-bots)
-- [Wip](./MyRuTelegramChannels.md#wip)
-- [Ban in chats](./MyRuTelegramChannels.md#ban-in-chats)
-- [Closed comments](./MyRuTelegramChannels.md#closed-comments)
-- [Not working](./MyRuTelegramChannels.md#not-working)
+- [Tags](./MyRuTelegramChannels_ru.md#tags)
+- [Overview](./MyRuTelegramChannels_ru.md#overview)
+- [For channels](./MyRuTelegramChannels_ru.md#for-channels)
+- [For bots](./MyRuTelegramChannels_ru.md#for-bots)
+- [Wip](./MyRuTelegramChannels_ru.md#wip)
+- [Ban in chats](./MyRuTelegramChannels_ru.md#ban-in-chats)
+- [Closed comments](./MyRuTelegramChannels_ru.md#closed-comments)
+- [Not working](./MyRuTelegramChannels_ru.md#not-working)
 
 ---
  

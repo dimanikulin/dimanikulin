@@ -79,7 +79,7 @@ My Publications
 |quora      |TBD|TBD|TBD|TBD| 
 
 # Telegram
-|Name       |[Rules I use to work with Telegram](./MyRulesWorkingWithTg_uk.md)|[My Telegram Channel](./MyTelegramChannel_uk.md)|[Russian telegram channels](./MyRuTelegramChannels.md)|
+|Name       |[Rules I use to work with Telegram](./MyRulesWorkingWithTg_uk.md)|[My Telegram Channel](./MyTelegramChannel_uk.md)|[Russian telegram channels](./MyRuTelegramChannels_ru.md)|
 |-----------|---------------------------------------------------------------|----------------------------------------------------------------------|:---------------------------------------------------------------------------------:|
 |TBD        |TBD|TBD|TBD| 
 

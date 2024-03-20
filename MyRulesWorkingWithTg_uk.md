@@ -121,5 +121,5 @@ General Security, Telegram, Two-Factor Authentication, Phishing, Blocking, Spam,
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
-| 1 | Список российских телеграм каналов |[github](./MyRuTelegramChannels.md) | | Dmytro Nikulin | |
+| 1 | Список российских телеграм каналов |[github](./MyRuTelegramChannels_ru.md) | | Dmytro Nikulin | |
 | 2 | Мой телеграм канал   |[github](./MyTelegramChannel_uk.md) | | Dmytro Nikulin | |
