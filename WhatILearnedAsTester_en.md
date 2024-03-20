@@ -2,10 +2,10 @@
 What I Learned As a Tester
  
 # Table of contents
-- [Tags](./WhatILearnedAsTester.md#tags)
-- [Definitions, Acronyms, Abbreviations](./WhatILearnedAsTester.md#definitions-acronyms-abbreviations)
-- [Overview](./WhatILearnedAsTester.md#overview)
-- [References](./WhatILearnedAsTester.md#references)
+- [Tags](./WhatILearnedAsTester_en.md#tags)
+- [Definitions, Acronyms, Abbreviations](./WhatILearnedAsTester_en.md#definitions-acronyms-abbreviations)
+- [Overview](./WhatILearnedAsTester_en.md#overview)
+- [References](./WhatILearnedAsTester_en.md#references)
 
 # Tags
 TBD
