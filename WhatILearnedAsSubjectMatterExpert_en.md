@@ -124,3 +124,10 @@ As soon as it is done, **FVA Tool Set** will put [multimedia data](https://link.
 | 9 | Google Photos | [Wikipedia](https://en.wikipedia.org/wiki/Google_Photos) | | | |
 | 10| Multimedia Data | [Web](https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-39940-9_1008) | | | |
 | 11| About digiKam | [Web](https://www.digikam.org/about/) | | | |
+| 12| What I learned as an Application Architect |[GitHub](./WhatILearnedAsAppArchitect_en.md) | | | |
+| 13| What I learned as a Delivery Manager |[GitHub](./WhatILearnedAsDeliveryManager_en) | | | |
+| 14| What I learned as a DevOps |[GitHub](./WhatILearnedAsDevOps_en.md) | | | |
+| 15| What I learned as a Product Manager |[GitHub](./WhatILearnedAsProductManager_en.md) | | | |
+| 16| What I learned as a Software Developer |[GitHub](./WhatILearnedAsSoftwareDeveloper_en.md) | | | |
+| 17| What I Learned As a Tester |[GitHub](./WhatILearnedAsTester_en.md) | | | |
+| 18| Why I decided to create my photo organizer? |[GitHub](./WhyCreatedPhotoOrganizer_en.md ) | | | | 
