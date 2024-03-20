@@ -107,3 +107,10 @@ TBD - create picture.
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 | 1 | Using GitHub Actions with C++ and CMake | [Web](https://cristianadam.eu/20191222/using-github-actions-with-c-plus-plus-and-cmake/) | 22/12/2019| Cristian Adam |Providing a GitHub Actions configuration yaml file for C++ projects using CMake|
 | 2 | Code scanning finds more vulnerabilities using machine learning|[Web](https://github.blog/2022-02-17-code-scanning-finds-vulnerabilities-using-machine-learning/)| 17/02/2022 | Tiferet Gazit, Alona Hlobina | |
+| 3 | What I learned as an Application Architect |[GitHub](./WhatILearnedAsAppArchitect_en.md) | | | |
+| 4 | What I learned as a Delivery Manager |[GitHub](./WhatILearnedAsDeliveryManager_en) | | | |
+| 5 | What I learned as a Product Manager |[GitHub](./WhatILearnedAsProductManager_en.md) | | | |
+| 6 | What I learned as a Software Developer |[GitHub](./WhatILearnedAsSoftwareDeveloper_en.md) | | | |
+| 7 | What I learned as a Subject Matter Expert |[GitHub](./WhatILearnedAsSubjectMatterExpert_en.md) | | | |
+| 8 | What I Learned As a Tester |[GitHub](./WhatILearnedAsTester_en.md) | | | |
+| 9 | Why I decided to create my photo organizer? |[GitHub](./WhyCreatedPhotoOrganizer_en.md ) | | | | 

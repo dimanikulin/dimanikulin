@@ -165,3 +165,10 @@ In adherence to this approach, the ensuing artifacts are generated:
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 | 1 | Getting started with project planning on GitHub| [Web](https://github.blog/2022-02-11-getting-started-with-project-planning-on-github/) |11/02/2022 | GitHub | |
 | 2 | How to get more engagement with your open source project| [freecodecamp](https://www.freecodecamp.org/news/how-to-get-more-engagement-with-your-open-source-project/) | 26/01/2022 | navaneeth pk |Best practices to get more stars on your GitHub repos|
+| 3 | What I learned as an Application Architect |[GitHub](./WhatILearnedAsAppArchitect_en.md) | | | |
+| 4 | What I learned as a DevOps |[GitHub](./WhatILearnedAsDevOps_en.md) | | | |
+| 5 | What I learned as a Product Manager |[GitHub](./WhatILearnedAsProductManager_en.md) | | | |
+| 6 | What I learned as a Software Developer |[GitHub](./WhatILearnedAsSoftwareDeveloper_en.md) | | | |
+| 7 | What I learned as a Subject Matter Expert |[GitHub](./WhatILearnedAsSubjectMatterExpert_en.md) | | | |
+| 8 | What I Learned As a Tester |[GitHub](./WhatILearnedAsTester_en.md) | | | |
+| 9 | Why I decided to create my photo organizer? |[GitHub](./WhyCreatedPhotoOrganizer_en.md ) | | | |
