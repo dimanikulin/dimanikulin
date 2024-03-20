@@ -47,7 +47,7 @@ The first product I was thinking about was "FVA Tool Set".
 Subsequently, another product came to my mind. As a result, a **Product Line** came about.
 
 - "*Hold on, you started from thinking of products, right?*", - you will ask me.
-- "*Nope, I started from... It was ages ago and a whole [history](./WhyCreatedPhotoOrganizer.md) is quite big. Being a developer, I started from coding*".
+- "*Nope, I started from... It was ages ago and a whole [history](./WhyCreatedPhotoOrganizer_en.md) is quite big. Being a developer, I started from coding*".
 - "*Was it a good idea to start from coding?*", - you will ask me. 
 - "*Again no. I would have started from Design Thinking if I was familiar with it.*" 
 
@@ -185,3 +185,10 @@ On the top of that, it is quite convenient to keep an [online roadmap](https://g
 | 16| Business Model Canvas | [local resource](./FVADocX/FVAToolSet-BusinessModelCanvas.docx) | 01/12/2022 | Dmytro Nikulin | | 
 | 17| Value Proposition | [local resource](./FVADocX/FVAToolSet-ValueProposition.docx) | 01/12/2022 | Dmytro Nikulin | |
 | 18| Design Thinking | [local resource](./FVADocX/DesignThinking.pptx) | 01/12/2022 | Dmytro Nikulin | |
+| 19| What I learned as an Application Architect |[GitHub](./WhatILearnedAsAppArchitect_en.md) | | | |
+| 20| What I learned as a Delivery Manager |[GitHub](./WhatILearnedAsDeliveryManager_en) | | | |
+| 21| What I learned as a DevOps |[GitHub](./WhatILearnedAsDevOps_en.md) | | | |
+| 22| What I learned as a Software Developer |[GitHub](./WhatILearnedAsSoftwareDeveloper_en.md) | | | |
+| 23| What I learned as a Subject Matter Expert |[GitHub](./WhatILearnedAsSubjectMatterExpert_en.md) | | | |
+| 24| What I Learned As a Tester |[GitHub](./WhatILearnedAsTester_en.md) | | | |
+| 25| Why I decided to create my photo organizer? |[GitHub](./WhyCreatedPhotoOrganizer_en.md ) | | | | 

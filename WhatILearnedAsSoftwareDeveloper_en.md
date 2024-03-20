@@ -127,4 +127,10 @@ The history of internal metadata formats in FVA Software demonstrates the import
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 | 1 | FVA Tool Set features | [local resource](./FVADocX/FVAToolSetFeatures.pptx) | 01/06/2022 | Dmytro Nikulin | | 
-2
+| 2 | What I learned as an Application Architect |[GitHub](./WhatILearnedAsAppArchitect_en.md) | | | |
+| 3 | What I learned as a Delivery Manager |[GitHub](./WhatILearnedAsDeliveryManager_en) | | | |
+| 4 | What I learned as a DevOps |[GitHub](./WhatILearnedAsDevOps_en.md) | | | |
+| 5 | What I learned as a Product Manager |[GitHub](./WhatILearnedAsProductManager_en.md) | | | |
+| 6 | What I learned as a Subject Matter Expert |[GitHub](./WhatILearnedAsSubjectMatterExpert_en.md) | | | |
+| 7 | What I Learned As a Tester |[GitHub](./WhatILearnedAsTester_en.md) | | | |
+| 8 | Why I decided to create my photo organizer? |[GitHub](./WhyCreatedPhotoOrganizer_en.md ) | | | | 
