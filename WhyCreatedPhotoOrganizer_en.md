@@ -2,10 +2,10 @@
 Why I decided to create my photo organizer?
 
 # Table of contents
-- [Tags](./WhyCreatedPhotoOrganizer.md#tags)
-- [Definitions, Acronyms, Abbreviations](./WhyCreatedPhotoOrganizer.md#definitions-acronyms-abbreviations)
-- [Overview](./WhyCreatedPhotoOrganizer.md#overview)
-- [References](./WhyCreatedPhotoOrganizer.md#references)
+- [Tags](./WhyCreatedPhotoOrganizer_en.md#tags)
+- [Definitions, Acronyms, Abbreviations](./WhyCreatedPhotoOrganizer_en.md#definitions-acronyms-abbreviations)
+- [Overview](./WhyCreatedPhotoOrganizer_en.md#overview)
+- [References](./WhyCreatedPhotoOrganizer_en.md#references)
 
 # Tags
 Multimedia data, Photo album, Multimedia information retrieval (IR) systems, Multimedia organizer, Metadata
