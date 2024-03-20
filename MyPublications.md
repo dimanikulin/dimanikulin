@@ -100,5 +100,5 @@ My Publications
 - [Work Life Balance](WorkLifeBalance.md)
 
 # Not ready yet
-- [Profile and CV as a code](./ProfileAsCode.md) 
+- [Profile and CV as a code](./ProfileAsCode_en.md) 
 - [History happended at work](./HistoryAtWork_uk.md)
