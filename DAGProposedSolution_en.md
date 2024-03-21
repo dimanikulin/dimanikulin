@@ -1,6 +1,7 @@
 # Headline
 **Detecting Architectural Gaps** with Automation: Comprehensive Overview of Proposed Software Solution's Architecture and Integration
-or 
+
+# Alternative headline 
 **Detecting Architectural Gaps** with Automation - Proposed Solution
 
 # Table of contents

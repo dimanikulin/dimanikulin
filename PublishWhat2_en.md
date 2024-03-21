@@ -3,6 +3,7 @@
 # Headline
 How to publish your content?
 
+# Alternative headline 
 Crafting Engaging and Polished Publications: A Comprehensive Guide
 
 # Table of contents
@@ -145,3 +146,4 @@ Here it is:
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 | 1 | Your complete guide to writing for hacker noon | [web](https://help.hackernoon.com/your-complete-guide-to-writing-for-hacker-noon) | | | | 
+| 2 

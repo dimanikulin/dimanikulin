@@ -1,6 +1,7 @@
 # Headline
 **My Telegram Channel**
-or 
+
+# Alternative headline
 **Інформаційна війна або яку роль відіграє Телеграм?**
 
 # Table of contents
