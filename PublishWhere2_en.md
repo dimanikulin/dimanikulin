@@ -117,3 +117,6 @@ I need to review freeCodeCamp I though it is not for me as it for web developmen
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
+| 1 | What and how to publish, part 1 |[GitHub](./PublishWhat1_en.md) | | | |
+| 2 | What and how to publish, part 2 |[GitHub](./PublishWhat2_en.md) | | | |
+| 3 | Where to publish, part 1 |[GitHub](./PublishWhere1_en.md) | | | |

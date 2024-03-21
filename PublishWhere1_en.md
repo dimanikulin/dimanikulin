@@ -214,3 +214,10 @@ As seen in the **comparison** table, most platforms offer only a limited set of 
 **However**, **Hackernoon**, **Hashnode**, and **Medium** stand out for providing a broader variety of functions.
 Personally, I find certain functions to be crucial, including **Tags**, **Human review**, **Syntax checking**, **Article stats**, and **Series.**
 It's worth noting that some platforms have issues, which I discovered during use."
+
+# References
+| # | Name                 | Source                | Release date           |  Author                 | Description   |
+| - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
+| 1 | What and how to publish, part 1 |[GitHub](./PublishWhat1_en.md) | | | |
+| 2 | What and how to publish, part 2 |[GitHub](./PublishWhat2_en.md) | | | |
+| 3 | Where to publish, part 2 |[GitHub](./PublishWhere2_en.md) | | | |
