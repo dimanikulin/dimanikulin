@@ -3,10 +3,10 @@ My Publications
 
 # Table of contents
 TBD
-- [Own product, its history and what I learned - Part 1](./MyPublications.md#own-product-its-history-and-what-i-learned---part-1)
-- [Own product, its history and what I learned - Part 2](./MyPublications.md#own-product-its-history-and-what-i-learned---part-2)
-- [Multimedia, Multimedia IR systems and Multimedia Organizers - Part 1](./MyPublications.md#multimedia-multimedia-ir-systems-and-multimedia-organizers---part-1)
-- [Multimedia, Multimedia IR systems and Multimedia Organizers - Part 2](./MyPublications.md#multimedia-multimedia-ir-systems-and-multimedia-organizers---part-2)
+- [Own product, its history and what I learned - Part 1](./MyPublications.md#multimedia-multimedia-ir-systems-and-multimedia-organizers-1)
+- [Own product, its history and what I learned - Part 2](./MyPublications.md#multimedia-multimedia-ir-systems-and-multimedia-organizers-2)
+- [Multimedia, Multimedia IR systems and Multimedia Organizers - Part 1](./MyPublications.md#own-product-its-history-and-what-i-learned-1)
+- [Multimedia, Multimedia IR systems and Multimedia Organizers - Part 2](./MyPublications.md#own-product-its-history-and-what-i-learned-2)
 - [Detecting Architectural Gaps with Automation](./MyPublications.md#detecting-architectural-gaps-with-automation)
 - [How, What and Where to publish](./MyPublications.md#how-what-and-where-to-publish)
 - [Telegram](./MyPublications.md#telegram)
