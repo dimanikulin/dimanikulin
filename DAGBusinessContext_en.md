@@ -1,6 +1,7 @@
 # Headline
 **Detecting Architectural Gaps** with Automation: Enhancing Software Architecture Maintenance and Efficiency
-or 
+
+# Alternative headline 
 **Detecting Architectural Gaps** with Automation - Business Context
 
 # Table of contents
