@@ -2,7 +2,7 @@
 **Optimizing Publication Success**: Key Metrics, Recommendations, and Structural Essentials
 
 # Alternative headline 
-**What and how to publish** 
+**What and how to publish**
 
 # Table of contents
 - [Tags](./PublishWhat1_en.md#tags)
@@ -129,3 +129,9 @@ The table consists of 6 columns:
 - **Author**: The content creator.
 - **Description**: An additional field for details.
                    
+# References
+| # | Name                 | Source                | Release date           |  Author                 | Description   |
+| - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
+| 1 | What and how to publish, part 2 |[GitHub](./PublishWhat2_en.md) | | | |
+| 2 | Where to publish, part 1 |[GitHub](./PublishWhere1_en.md) | | | |
+| 3 | Where to publish, part 2 |[GitHub](./PublishWhere2_en.md) | | | |

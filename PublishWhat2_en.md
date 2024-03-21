@@ -142,8 +142,10 @@ Here it is:
 - Is the length under **2500** words?
 - Are there any pictures?
 
-# References 
+# References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
-| 1 | Your complete guide to writing for hacker noon | [web](https://help.hackernoon.com/your-complete-guide-to-writing-for-hacker-noon) | | | | 
-| 2 
+| 1 | What and how to publish, part 1 |[GitHub](./PublishWhat1_en.md) | | | |
+| 2 | Where to publish, part 1 |[GitHub](./PublishWhere1_en.md) | | | |
+| 3 | Where to publish, part 2 |[GitHub](./PublishWhere2_en.md) | | | |
+| 4 | Your complete guide to writing for hacker noon | [web](https://help.hackernoon.com/your-complete-guide-to-writing-for-hacker-noon) | | | | 
