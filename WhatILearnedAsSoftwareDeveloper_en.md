@@ -133,4 +133,4 @@ The history of internal metadata formats in FVA Software demonstrates the import
 | 5 | What I learned as a Product Manager |[GitHub](./WhatILearnedAsProductManager_en.md) | | | |
 | 6 | What I learned as a Subject Matter Expert |[GitHub](./WhatILearnedAsSubjectMatterExpert_en.md) | | | |
 | 7 | What I Learned As a Tester |[GitHub](./WhatILearnedAsTester_en.md) | | | |
-| 8 | Why I decided to create my photo organizer? |[GitHub](./WhyCreatedPhotoOrganizer_en.md ) | | | | 
+| 8 | Why I decided to create my photo organizer? |[GitHub](./WhyCreatedPhotoOrganizer_en.md) | | | | 

@@ -191,4 +191,4 @@ On the top of that, it is quite convenient to keep an [online roadmap](https://g
 | 22| What I learned as a Software Developer |[GitHub](./WhatILearnedAsSoftwareDeveloper_en.md) | | | |
 | 23| What I learned as a Subject Matter Expert |[GitHub](./WhatILearnedAsSubjectMatterExpert_en.md) | | | |
 | 24| What I Learned As a Tester |[GitHub](./WhatILearnedAsTester_en.md) | | | |
-| 25| Why I decided to create my photo organizer? |[GitHub](./WhyCreatedPhotoOrganizer_en.md ) | | | | 
+| 25| Why I decided to create my photo organizer? |[GitHub](./WhyCreatedPhotoOrganizer_en.md) | | | | 

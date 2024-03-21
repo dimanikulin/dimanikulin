@@ -68,3 +68,10 @@ Honestly, I didn't expect that it would be so hard and in the meantime so intere
 | 7 | Image organizer      |[Web](https://en.wikipedia.org/wiki/Image_organizer)|  | Wikipedia      | |
 | 8 | Best Photo Management Software to Organize Digital Photos in 2022 |[Web](https://wethegeek.com/best-photo-management-software-organize-photos/)| 17/12/2021 | Mansi Vijay ||
 | 9 | Photo organizer |[Web](https://github.com/topics/photo-organizer)| | GitHub ||
+| 10| What I learned as an Application Architect |[GitHub](./WhatILearnedAsAppArchitect_en.md) | | | |
+| 11| What I learned as a Delivery Manager |[GitHub](./WhatILearnedAsDeliveryManager_en) | | | |
+| 12| What I learned as a DevOps |[GitHub](./WhatILearnedAsDevOps_en.md) | | | |
+| 13| What I learned as a Product Manager |[GitHub](./WhatILearnedAsProductManager_en.md) | | | |
+| 14| What I learned as a Software Developer |[GitHub](./WhatILearnedAsSoftwareDeveloper_en.md) | | | |
+| 15| What I Learned As a Subject Matter Expert |[GitHub](./WhatILearnedAsSubjectMatterExpert_en.md) | | | |
+| 16| What I Learned As Tester |[GitHub](./WhatILearnedAsTester_en.md) | | | | 
