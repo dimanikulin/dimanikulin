@@ -44,7 +44,8 @@ I've created a separate table with columns for each **platform** and rows for in
 
 <img src="./Images/wheretopublish11.png" alt="TBD" />
 
-[hackernoon](https://hackernoon.com/) publishes technology stories and builds publishing software.
+[hackernoon](https://hackernoon.com/) is a website that covers technology and software development topics. It offers a platform for writers to publish their articles and connect with a community of readers.
+
 It has a content editor similar to WordPad.
 
 For each story, it provides the following options:
@@ -80,8 +81,10 @@ Sometimes import works not well, it deletes space symbols, adds newline symbols,
 For more information on how to publish, please go [to](https://help.hackernoon.com/how-do-i-get-published).
 
 # hashnode
-[Hashnode](https://hashnode.com/) is a one-stop platform to start blogging as a developer.
+[Hashnode](https://hashnode.com/) is a platform for developers to share their knowledge and connect with other developers in the community. It offers features like customizable blogs, newsletters, and discussions.
+
 *Begin a blog, share knowledge, attain creator independence, and grow your career.*
+
 
 It has a content editor like WordPad.
 
@@ -112,7 +115,8 @@ For each story, it provides the possibility to:
 For more information on how to publish, please go [to](https://support.hashnode.com/en/articles/6420682-writing-a-blog-post)
 
 # dev.to
-[dev.to](dev.to) is a constructive and inclusive social network for software developers. 
+[dev.to](dev.to) is a community-based platform for software developers where they can share their knowledge and learn from others.
+
 It features a content editor in Markdown format.
 
 For each story, it provides the possibility to:
