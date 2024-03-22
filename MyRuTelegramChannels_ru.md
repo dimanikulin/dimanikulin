@@ -300,6 +300,9 @@ The bot was created and works to promote and publish fake news about the Russian
 - Сплетница
 - Мрія
 - TarikNezalejko️️💡
+- Женщина с косой
+- Картель
+- ОЛЬГА ШАРИЙ
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
