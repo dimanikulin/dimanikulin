@@ -84,6 +84,10 @@ TBD
 |-----------|---------------------------------------------------------------|----------------------------------------------------------------------|:---------------------------------------------------------------------------------:|
 |TBD        |TBD|TBD|TBD| 
 
+|Exploring the World of Multimedia Information Retrieval Systems|[27/01/2023](https://www.linkedin.com/posts/dimanikulin_activity-7024663781666349057-Hw3_/?utm_source=share&utm_medium=member_desktop)|LinkedIn|
+|Exploring the World of Multimedia Information Retrieval Systems|[20/02/2023](https://dou.eu/community/posts/what-are-multimedia-information-retrieval-systems)| dou.eu | |
+
+
 # LinkedIn posts
 - [ChatGPT](./ChatGPT.md)
 - [Communication](./Communication.md)
