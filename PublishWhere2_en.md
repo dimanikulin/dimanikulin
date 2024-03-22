@@ -14,15 +14,58 @@ TBD
 
 # Definitions, Acronyms, Abbreviations
 TBD
-TL;DR
 
 # Overview
 TBD 
 
 ---
 
+Here, I will continue describing my experience working with sites and platforms where I publish content.
+
+So I will descrive following platforms:
+- dou.eu
+
+TBD
+
+# dou.eu
+TBD
+
+# Comparison
+| #             |TBD |TBD|TBD|TBD|TBD|TBD|TBD|
+| -             |---------- |--------|------|------|------|-----|:------:|
+|Editor         |WordPad  |WordPad|MarkDown|WordPad|both|WordPad|WordPad |
+|Feature picture|          |       |     |     |     |    |      |
+|Title          |          |       |     |     |     |    |      |
+|Custom OG image|          |       |     |     |     |    |      |
+|Tags           |          |       |     |     |     |    |      |
+|Description    |          |       |     |     |     |    |      |
+|Emoji          |          |       |     |     |     |    |      |
+|Link to Twitter|          |       |     |     |     |    |      |
+|Townhall Mode  |          |       |     |     |     |    |      |
+|TL;DR          |          |       |     |     |     |    |      |
+|Link to original story|   |       |     |     |     |    |      |
+|Human review   |          |       |     |     |     |    |      |
+|Syntax checking|          |       |     |     |     |    |      |
+|Article stats  |          |       |     |     |     |    |      |
+|Generate table of contents| |     |     |     |     |    |      |
+|Seo title      |          |       |     |     |     |    |      |
+|Seo description|          |       |     |     |     |    |      |
+|Schedule       |          |       |     |     |     |    |      |
+|Series         |          |       |     |     |     |    |      |
+|Unlisted       |          |       |     |     |     |    |      |
+|Pinning story  |          |       |     |     |     |    |      |
+|Friend Link    |          |       |     |     |     |    |      |
+|Content Licensing|        |       |     |     |     |    |      |
+|Found issues   |          |       |     |     |     |    |      |
+
+# Analyze
+As seen in the **comparison** table, most platforms offer only a limited set of functions.
+**However**, **Hackernoon**, **Hashnode**, and **Medium** stand out for providing a broader variety of functions.
+Personally, I find certain functions to be crucial, including **Tags**, **Human review**, **Syntax checking**, **Article stats**, and **Series.**
+It's worth noting that some platforms have issues, which I discovered during use."
+
+
 www.codeproject.com
-dou.eu
 dou.ua
 producthunt
 DZone - DZone is a website that covers a wide range of software development topics, including programming languages, web development, and databases.
