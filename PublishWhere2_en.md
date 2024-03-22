@@ -37,6 +37,17 @@ Slashdot - Slashdot is a news website that covers technology and science topics.
 The Next Web - The Next Web is a website that covers the latest technology news, trends, and insights. It offers a platform for writers to publish their articles and connect with a community of readers.
 VentureBeat - VentureBeat is a website that covers technology and business news. It offers a platform for writers to publish their articles and connect with a community of readers.
 
+Tech.eu: Tech.eu provides news, data, and analysis on the European technology industry. It covers topics such as startups, investments, and emerging technologies.
+The Next Web (TNW): TNW is a European-based tech media company that covers the latest trends, news, and insights in technology. They accept contributed articles on various IT-related topics.
+TechCrunch Europe: TechCrunch is a well-known tech media platform that has a dedicated section for European tech news. They often publish contributed articles from industry experts and thought leaders.
+Wired UK: Wired UK covers technology, science, culture, and business with a European perspective. They accept contributed articles and op-eds on IT and related subjects.
+EU-Startups: While primarily focused on startups, EU-Startups also covers technology trends and innovations across Europe. They accept guest posts and contributed articles on IT topics relevant to startups and entrepreneurship.
+Information Age: Information Age is a UK-based publication that covers technology news, trends, and analysis. They accept contributed articles and opinion pieces on a wide range of IT-related topics.
+Computer Weekly: Computer Weekly is a UK-based publication that covers IT news, analysis, and insights. They accept contributed articles and expert opinions on various aspects of information technology.
+Open Research Europe 
+https://www.scirp.org/
+https://www.eu-opensci.org/
+
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
