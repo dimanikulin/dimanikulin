@@ -24,11 +24,27 @@ Here, I will continue describing my experience working with sites and platforms 
 
 So I will descrive following platforms:
 - dou.eu
+- dou.ua
+- dev.ua
+- FreeCodeCamp
 
 TBD
 
 # dou.eu
 TBD
+
+# dou.ua
+TBD
+Ukrainian resource
+
+# dev.ua
+TBD 
+Ukrainian resource
+
+# FreeCodeCamp 
+FreeCodeCamp is an open-source community that offers coding challenges and curriculum for web development, data science, and more.
+It also has a publication on Medium where you can publish your articles.
+TBD 
 
 # Comparison
 | #             |TBD |TBD|TBD|TBD|TBD|TBD|TBD|
@@ -59,6 +75,7 @@ TBD
 |Found issues   |          |       |     |     |     |    |      |
 
 # Analyze
+TBD 
 As seen in the **comparison** table, most platforms offer only a limited set of functions.
 **However**, **Hackernoon**, **Hashnode**, and **Medium** stand out for providing a broader variety of functions.
 Personally, I find certain functions to be crucial, including **Tags**, **Human review**, **Syntax checking**, **Article stats**, and **Series.**
@@ -66,13 +83,12 @@ It's worth noting that some platforms have issues, which I discovered during use
 
 
 www.codeproject.com
-dou.ua
+
 producthunt
 DZone - DZone is a website that covers a wide range of software development topics, including programming languages, web development, and databases.
 InfoQ - InfoQ is a website that covers the latest trends and developments in software development, including agile methodologies, DevOps, and cloud computing.
 SitePoint - SitePoint is a website that offers tutorials, articles, and books on web development, programming, and design.
 CodeNewbie - CodeNewbie is a community-based platform for beginner developers. It offers resources, podcasts, and interviews to help new developers get started in software development.
-FreeCodeCamp - FreeCodeCamp is an open-source community that offers coding challenges and curriculum for web development, data science, and more. It also has a publication on Medium where you can publish your articles.
 Lobsters - Lobsters is a community-driven platform for sharing and discussing technology news and articles. It covers topics like programming, security, and open source.
 The Practical Dev - The Practical Dev is a community-based platform for software developers to share their experiences and knowledge. It offers features like customizable blogs, newsletters, and discussion forums.
 SitePoint - SitePoint is a website that offers tutorials, articles, and books on web development, programming, and design. It offers a platform for writers to publish their articles and connect with a community of readers.
