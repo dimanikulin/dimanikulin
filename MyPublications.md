@@ -10,6 +10,7 @@ TBD
 - [Detecting Architectural Gaps with Automation](./MyPublications.md#detecting-architectural-gaps-with-automation)
 - [How, What and Where to publish](./MyPublications.md#how-what-and-where-to-publish)
 - [Telegram](./MyPublications.md#telegram)
+- [Consolidated publications](./MyPublications.md#consolidated-publications)
 - [LinkedIn Posts](./MyPublications.md#linkedin-posts)
 - [Not ready yet](./MyPublications.md#not-ready-yet)
 
