@@ -74,7 +74,7 @@ In any comprehensive document, the following chapters are essential:
 Ensuring the inclusion of these must-have chapters will contribute to the clarity, accessibility, and overall effectiveness of the document.
 
 # Optional Chapters
-I would like to note that the **Alternative Headline**, **Definitions, Acronyms, Abbreviations** and **References** chapters are optional.
+I would like to note that the **Alternative Headline**, **Definitions, Acronyms, Abbreviations**, **Introduction** and **References** chapters are optional.
 
 Generally, there is no need for a glossary.
 
