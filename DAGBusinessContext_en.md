@@ -63,7 +63,7 @@ The solution aims to enhance modifiability, extendibility, and configurability, 
  
 ---
 
-# Executive summary
+# Introduction
 
 In today's rapidly changing software world, the ability to adapt and evolve the software architecture is **crucial** for success.
 The readiness for change is a **key** factor in ensuring a product can meet evolving business and product requirements in the high-tech industry.
