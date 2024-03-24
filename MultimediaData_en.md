@@ -27,11 +27,14 @@ Overall, the article offers a helpful overview for those interested in learning 
 
 ---
 
+# Introduction
 We currently live in a digital age when finding information is incredibly simple with just one click due to the development of the Internet. 
 We are now able to conduct information searches from any place.
 
 High-speed Internet connection allows everyone to utilize software to search for and manage information from any sources in the high-tech world.
 Every day, people engage with digital data, and this interaction helps to produce specific types of data, such as **multimedia** data.
+
+# Multimedia data
 Data that spans multiple mediums is referred to as **multimedia**.
 It often refers to data that represents various media formats used to record details and impressions about specific things and occasions. 
 The most widely used formats of data are numbers, alphanumeric characters, text, images, audio and video.
