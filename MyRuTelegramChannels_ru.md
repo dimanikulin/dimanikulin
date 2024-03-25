@@ -177,6 +177,7 @@ The bot was created and works to promote and publish fake news about the Russian
 | [Сводки ополчения](https://t.me/swodki)            |
 | [war_ukr_russ](https://t.me/war_ukr_russ)          |
 | [Владимир Зеленский](https://t.me/zelenskyi_vladimir)|
+| [Уволить ПОНАБа](https://t.me/uvolitPONABa) |
 
 # Ban in chats
 | Link                                               |
