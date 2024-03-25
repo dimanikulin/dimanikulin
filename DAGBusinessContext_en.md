@@ -8,7 +8,7 @@
 - [Tags](./DAGBusinessContext_en.md#tags)
 - [Definitions, Acronyms, Abbreviations](./DAGBusinessContext_en.md#definitions-acronyms-abbreviations)
 - [Overview](./DAGBusinessContext_en.md#overview)
-- [Executive summary](./DAGBusinessContext_en.md#executive-summary)
+- [Introduction](./DAGBusinessContext_en.md#introduction)
 - [Detecting Architectural Gaps with Automation](./DAGBusinessContext_en.md#detecting-architectural-gaps-with-automation)
 - [Solution requirements](./DAGBusinessContext_en.md#solution-requirements)
 - [Solution modes](./DAGBusinessContext_en.md#solution-modes)

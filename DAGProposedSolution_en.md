@@ -8,6 +8,7 @@
 - [Tags](./DAGProposedSolution_en.md#tags)
 - [Definitions, Acronyms, Abbreviations](./DAGProposedSolution_en.md#definitions-acronyms-abbreviations)
 - [Overview](./DAGProposedSolution_en.md#overview)
+- [Introduction](./DAGProposedSolution_en.md#introduction)
 - [The Context View for Standalone Application](./DAGProposedSolution_en.md#the-context-view-for-standalone-application)
 - [The Context View for a Separate Step in CI/CD](./DAGProposedSolution_en.md#the-context-view-for-a-separate-step-in-cicd)
 - [Functional View](./DAGProposedSolution_en.md#functional-view)

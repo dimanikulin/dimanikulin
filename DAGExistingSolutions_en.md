@@ -8,6 +8,7 @@
 - [Tags](./DAGExistingSolutions_en.md#tags)
 - [Definitions, Acronyms, Abbreviations](./DAGExistingSolutions_en.md#definitions-acronyms-abbreviations)
 - [Overview](./DAGExistingSolutions_en.md#overview)
+- [Introduction](./DAGExistingSolutions_en.md#introduction)
 - [Bionic.ai](./DAGExistingSolutions_en.md#bionicai)
 - [Main features](./DAGExistingSolutions_en.md#main-features)
 - [Castsoftware Highlight](./DAGExistingSolutions_en.md#castsoftware-highlight)
