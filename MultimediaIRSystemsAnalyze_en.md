@@ -4,6 +4,8 @@ The Comparison of Private Multimedia IR Systems
 # Table of contents
 - [Tags](./MultimediaIRSystemsAnalyze_en.md#tags)
 - [Overview](./MultimediaIRSystemsAnalyze_en.md#overview)
+- [Introduction](./MultimediaIRSystemsAnalyze_en.md#introduction)
+- [Comparison](./MultimediaIRSystemsAnalyze_en.md#comparison) 
 - [Definitions, Acronyms, Abbreviations](./MultimediaIRSystemsAnalyze_en.md#definitions-acronyms-abbreviations)
 - [Well implemented features](./MultimediaIRSystemsAnalyze_en.md#well-implemented-features)
 - [To be developed features](./MultimediaIRSystemsAnalyze_en.md#to-be-developed-features)
@@ -25,12 +27,25 @@ Multimedia IR systems, Synology Moments, Mylio, Google Photos, digiKam, Apple ph
 | 8 | [Mylio](https://mylio.com/tour/)| Mylio has a suite of tools to help you locate and consolidate your images across a variety of locations, including external hard drives, online services.|
 
 # Overview
-In this article, we compare several private multimedia information retrieval (IR) systems based on the requirements and needs of users.
-We recommend choosing one offline and one online system, as some users prefer multimedia IR systems integrated with online storage while others prefer offline ones.
-Similarly, we compare both proprietary and open systems. 
+This article delves into the comparison of several private multimedia IR systems, meticulously evaluating them based on user requirements and preferences.
+Our analysis begins by acknowledging the spectrum of user preferences regarding multimedia IR systems.
+We embark on our comparative journey by scrutinizing prominent contenders in the realm of private multimedia IR systems, each offering unique features and functionalities to cater to distinct user needs.
+Our evaluation extends beyond superficial attributes to delve into the implementation of key features crucial for an enriching user experience. 
+Looking ahead, we outline the evolving landscape of multimedia IR systems and identify emerging user demands that necessitate further development.
+In essence, our comprehensive analysis aims to empower users with the insights needed to navigate the diverse landscape of private multimedia IR systems effectively.
 
 ---
- 
+
+# Introduction
+In the digital age, the proliferation of multimedia content has necessitated the development of robust information retrieval (IR) systems tailored to the diverse needs of users.
+Recognizing the varying inclinations of users towards offline and online systems, as well as proprietary and open-source platforms, we aim to provide insights for informed decision-making.
+While some users gravitate towards online systems seamlessly integrated with cloud storage for accessibility and convenience, others favor the autonomy and security offered by offline solutions.
+Additionally, the debate between proprietary and open systems underscores the importance of considering factors such as customization, support, and licensing.
+From seamless browsing and extensive photo editing capabilities to advanced search functionalities based on metadata, we dissect each system's strengths and areas for improvement.
+From enhancing search capabilities for events and objects to incorporating emotion recognition and similar photo searches, we anticipate future iterations to address evolving user needs and preferences.
+By shedding light on strengths, weaknesses, and future trajectories, we endeavor to facilitate informed decision-making and foster an enriched multimedia experience.
+
+# Comparison
 Let's compare several **multimedia IR** systems by going over the above-mentioned requirements and needs.
 The best approach here would be to choose one offline and one online system, since some users could feel free to use **multimedia IR** systems that are integrated with online storage (like Cloud ones), while others want to utilize offline **Multimedia IR** systems.
 Similarly, the proprietary and open systems should be included in the comparison.
