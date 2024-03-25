@@ -16,7 +16,7 @@ Russian telegram channels
 # For channels
 **For reporting:**
 The channel was created and works to promote and publish fake news about the Russian invasion of Ukraine!
-
+Spreading pro-russian narratives and disinformation about the activities of state-owned enterprises and government authorities.
 # For bots
 
 **For spaming:**
@@ -30,7 +30,7 @@ System alert! Due to inactivity this bot will be blocked. Please contact support
 
 **Message for reporting:**
 The bot was created and works to promote and publish fake news about the Russian invasion of Ukraine!
-
+Spreading pro-russian narratives and disinformation about the activities of state-owned enterprises and government authorities.
 # Wip 
 | Link                                               | Status                 |
 | ---------------------------------------------------|:----------------------:|
