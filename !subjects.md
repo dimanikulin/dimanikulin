@@ -1,3 +1,5 @@
+https://my.vocabularysize.com/
+
 https://www.linkedin.com/posts/danielmoka_stop-hiring-developers-based-on-green-dots-activity-7177574605300121601-dWmf?utm_source=share&utm_medium=member_desktop
 
 reminder as not read messages in messangers. email flags does not work. celendar reminder do work
