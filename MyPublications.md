@@ -2,7 +2,6 @@
 My Publications
 
 # Table of contents
-TBD
 - [Own product, its history and what I learned - Part 1](./MyPublications.md#multimedia-multimedia-ir-systems-and-multimedia-organizers-1)
 - [Own product, its history and what I learned - Part 2](./MyPublications.md#multimedia-multimedia-ir-systems-and-multimedia-organizers-2)
 - [Multimedia, Multimedia IR systems and Multimedia Organizers - Part 1](./MyPublications.md#own-product-its-history-and-what-i-learned-1)
