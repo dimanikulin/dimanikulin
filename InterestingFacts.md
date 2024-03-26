@@ -83,7 +83,7 @@ Here are 7 interesting facts about the number 7:
 - The Seven Wonders of the Ancient World were a list of remarkable constructions of classical antiquity.
 
 Are there other facts?
-<img src="./Images/InterestingFactsAbout7.jpg" alt="Interesting Facts About 7" />
+<img src="./Images/InterestingFactsAbout7.png" alt="Interesting Facts About 7" />
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
