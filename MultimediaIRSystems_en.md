@@ -28,8 +28,6 @@ The article also highlights the importance of metadata, tags, and content in the
 Additionally, the article outlines the key needs of users when it comes to Multimedia IR systems, including the ability to store, represent, edit, and search multimedia data, as well as the provision of relevance feedback, indexing, and cataloging functions.
 Finally, the article examines how professionals in various industries can benefit from these systems, providing examples such as professional photographers, journalists, doctors, architects, and engineers. 
 
----
-
 # Introduction
 In the age of information abundance, the quest for relevant and meaningful content has become increasingly complex. 
 Multimedia Information Retrieval (IR) systems emerge as pivotal tools, offering both ordinary users and professionals a gateway to navigate the vast landscape of multimedia data.

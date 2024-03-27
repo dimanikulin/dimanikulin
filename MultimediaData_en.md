@@ -27,8 +27,6 @@ It explains the different components of MIR systems, such as feature extraction,
 
 Overall, the article offers a helpful overview for those interested in learning about MIR systems. 
 
----
-
 # Introduction
 We currently live in a digital age when finding information is incredibly simple with just one click due to the development of the Internet. 
 We are now able to conduct information searches from any place.
