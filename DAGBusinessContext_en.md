@@ -61,10 +61,7 @@ The paper explores the limitations of manual architecture reviews and proposes a
 The solution requirements include different modes of execution, inputs from code and configuration, integration with UML design tools and source control systems, user interaction through a web interface, and various output formats for issue reporting and graphic visualization of the architecture.
 The solution aims to enhance modifiability, extendibility, and configurability, allowing for flexibility in adapting to project needs. 
  
----
-
 # Introduction
-
 In today's rapidly changing software world, the ability to adapt and evolve the software architecture is **crucial** for success.
 The readiness for change is a **key** factor in ensuring a product can meet evolving business and product requirements in the high-tech industry.
 

@@ -52,8 +52,6 @@ Discover how four cutting-edge tools—Bionic.ai, Castsoftware Highlight, Cast Ima
 From creating baseline architectures to detecting drifts, erosions, and security and compliance issues, these tools offer diverse features such as interactive architecture views, impact analysis, and integration with CI/CD pipelines. 
 Dive into the comparison of their functionalities and understand how they address different levels of architectural governance, ensuring optimal application performance and development. 
 
----
-
 # Introduction
 In the rapidly evolving landscape of software development, maintaining the integrity and coherence of application architectures is paramount. 
 With the proliferation of complex systems and frequent updates, ensuring that software architectures remain resilient against drifts, erosions, and compliance lapses has become a daunting challenge. 
