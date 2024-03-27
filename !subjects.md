@@ -1,3 +1,5 @@
+metaprograms + social styles + 
+
 https://my.vocabularysize.com/
 
 https://www.linkedin.com/posts/danielmoka_stop-hiring-developers-based-on-green-dots-activity-7177574605300121601-dWmf?utm_source=share&utm_medium=member_desktop
@@ -36,8 +38,6 @@ essentiali epim
 healthcare мониторинг
 
 presents from EPAM
-
-metaprograms + social styles + 
 
 если у вас зависимость от лайков на ваши посты в соц сетях следиту делаете ли посты что б
 

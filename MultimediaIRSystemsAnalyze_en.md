@@ -34,8 +34,6 @@ Our evaluation extends beyond superficial attributes to delve into the implement
 Looking ahead, we outline the evolving landscape of multimedia IR systems and identify emerging user demands that necessitate further development.
 In essence, our comprehensive analysis aims to empower users with the insights needed to navigate the diverse landscape of private multimedia IR systems effectively.
 
----
-
 # Introduction
 In the digital age, the proliferation of multimedia content has necessitated the development of robust information retrieval (IR) systems tailored to the diverse needs of users.
 Recognizing the varying inclinations of users towards offline and online systems, as well as proprietary and open-source platforms, we aim to provide insights for informed decision-making.

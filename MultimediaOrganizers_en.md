@@ -32,8 +32,6 @@ Additionally, the article provides a list of photo organizers and online courses
 It also explores approaches for creating a folder structure and preventing the storage of duplicate photos in the same folder.
 Overall, this article is a useful guide for anyone looking to manage their photo collection more effectively. 
 
----
-
 # Introduction
 In today's digital age, managing vast collections of multimedia files, particularly photos, has become both a necessity and a challenge.
 With the exponential growth in the number of digital images captured and stored, the need for efficient organization and management solutions has never been more pressing.
