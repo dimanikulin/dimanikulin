@@ -5,7 +5,7 @@ What are Multimedia Organizers?
 - [Tags](./MultimediaOrganizers_en.md#tags)
 - [Definitions, Acronyms, Abbreviations](./MultimediaOrganizers_en.md#definitions-acronyms-abbreviations)
 - [Overview](./MultimediaOrganizers_en.md#overview)
-- [Introduction](./!Template.md#introduction)
+- [Introduction](./MultimediaOrganizers_en.md#introduction)
 - [Multimedia Organizers functions](./MultimediaOrganizers_en.md#multimedia-organizers-functions)
 - [Multimedia Organizer requirements](./MultimediaOrganizers_en.md#multimedia-organizer-requirements)
 - [Multimedia Organizer approaches to create folder structure](./MultimediaOrganizers_en.md#multimedia-organizer-approaches-to-create-folder-structure)
