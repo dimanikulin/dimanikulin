@@ -7,7 +7,7 @@
 # Table of contents
 - [Tags](./MyTelegramChannel_uk.md#tags)
 - [Overview](./MyTelegramChannel_uk.md#overview)
-- [Початок](./MyTelegramChannel_uk.md#%D0%BF%D0%BE%D1%87%D0%B0%D1%82%D0%BE%D0%BA)
+- [Introduction](./MyTelegramChannel_uk.md#introduction)
 - [Навіщо все це?](./MyTelegramChannel_uk.md#%D0%BD%D0%B0%D0%B2%D1%96%D1%89%D0%BE-%D0%B2%D1%81%D0%B5-%D1%86%D0%B5)
 - [Навіщо все це мені?](./MyTelegramChannel_uk.md#%D0%BD%D0%B0%D0%B2%D1%96%D1%89%D0%BE-%D0%B2%D1%81%D0%B5-%D1%86%D0%B5-%D0%BC%D0%B5%D0%BD%D1%96)
 - [Боти](./MyTelegramChannel_uk.md#%D0%B1%D0%BE%D1%82%D0%B8)
@@ -39,9 +39,7 @@ TelegramChannels InformationManipulation DiscreditingTactics Ukraine
 
 В цілому, стаття стимулює читачів до пошуку правдивої інформації, активної участі в інформаційній боротьбі та усвідомленого ставлення до контенту, адже інформаційна війна є складним й динамічним процесом, і тільки зі знанням та розумінням його механізмів можна ефективно чинити опір маніпуляціям та впливати на інформаційне середовище.
  
----
-
-# Початок
+# Introduction
 [StopRussiaChannel](https://t.me/+EbXZHBfHXbszY2I6) став відправною точкою!
 Я підписався на нього на початку повномасштабного **вторгнення** у 2022 році.
 
