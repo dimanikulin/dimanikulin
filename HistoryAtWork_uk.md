@@ -8,7 +8,9 @@
 - [Definitions, Acronyms, Abbreviations](./HistoryAtWork_uk.md#definitions-acronyms-abbreviations)
 - [Overview](./HistoryAtWork_uk.md#overview)
 - [Introduction](./HistoryAtWork_uk.md#introduction)
-TBD
+- [Початок](./HistoryAtWork_uk.md#%D0%BF%D0%BE%D1%87%D0%B0%D1%82%D0%BE%D0%BA)
+- [Серединка](./HistoryAtWork_uk.md#%D1%81%D0%B5%D1%80%D0%B5%D0%B4%D0%B8%D0%BD%D0%BA%D0%B0)
+- [Кінець](./HistoryAtWork_uk.md#%D0%BA%D1%96%D0%BD%D0%B5%D1%86%D1%8C)
 - [References](./HistoryAtWork_uk.md#references)
 
 # Tags
