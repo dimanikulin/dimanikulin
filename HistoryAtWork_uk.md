@@ -1,7 +1,7 @@
 <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"/>
 
 # Headline
-TBD 
+Якби програмісти були рекламними агентами. 
 
 # Table of contents
 - [Tags](./HistoryAtWork_uk.md#tags)
