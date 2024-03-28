@@ -65,18 +65,16 @@ I have tried to publish three times without success, and the reasons for rejecti
 For another story, it stated, *Promoting links in stories, @username? You would need to enter our brand as an author program instead.*
 This meant too many links to one domain inside a story.
 
-Please note that it might generate the wrong **TL;DR.**
-In my case, it generated a **TL;DR** based on part of the text, not the whole publication.
-
 In one more case, there was the following:
 
 They asked me to confirm that my article starts the way it should - *Your article appears to start abruptly. By that I mean, it seems like an introductory part of the article is missing.* 
 After 3 days, they rejected my article with *Unresponsive contributor.*
 
+
+Please note that it might generate the wrong **TL;DR.**
+In my case, it generated a **TL;DR** based on part of the text, not the whole publication.
+
 Sometimes import works not well, it deletes space symbols, adds newline symbols, etc.
-
-
-
 
 For more information on how to publish, please go [to](https://help.hackernoon.com/how-do-i-get-published).
 
