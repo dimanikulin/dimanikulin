@@ -306,6 +306,9 @@ Spreading pro-russian narratives and disinformation about the activities of stat
 - First Новости Войны
 - UKR LEAKS
 - Наблюдатель
+- Герої. 35 бригада ЗСУ
+- Другая Украина
+- На самом деле в Харькове
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
