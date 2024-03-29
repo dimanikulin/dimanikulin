@@ -309,6 +309,9 @@ Spreading pro-russian narratives and disinformation about the activities of stat
 - Герої. 35 бригада ЗСУ
 - Другая Украина
 - На самом деле в Харькове
+- Неарестович
+- На самом деле в Запорожье
+- Шептун🇺🇦Украина Война
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
