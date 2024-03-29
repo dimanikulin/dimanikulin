@@ -6,6 +6,7 @@
 - [Overview](./MyRulesWorkingWithTg_uk.md#overview)
 - [Introduction](./MyRulesWorkingWithTg_uk.md#introduction)
 - [Загальна безпека](./MyRulesWorkingWithTg_uk.md#%D0%B7%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0-%D0%B1%D0%B5%D0%B7%D0%BF%D0%B5%D0%BA%D0%B0)
+- [Як замінюють контакт](./MyRulesWorkingWithTg_uk.md#%D1%8F%D0%BA-%D0%B7%D0%B0%D0%BC%D1%96%D0%BD%D1%8E%D1%8E%D1%82%D1%8C-%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82)
 - [Блокування в Telegam](./MyRulesWorkingWithTg_uk.md#%D0%B1%D0%BB%D0%BE%D0%BA%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F-%D0%B2-telegam)
 - [Як я зазвичай повожусь на каналах щоб не блокували](./MyRulesWorkingWithTg_uk.md#%D1%8F%D0%BA-%D1%8F-%D0%B7%D0%B0%D0%B7%D0%B2%D0%B8%D1%87%D0%B0%D0%B9-%D0%BF%D0%BE%D0%B2%D0%BE%D0%B6%D1%83%D1%81%D1%8C-%D0%BD%D0%B0-%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0%D1%85-%D1%89%D0%BE%D0%B1-%D0%BD%D0%B5-%D0%B1%D0%BB%D0%BE%D0%BA%D1%83%D0%B2%D0%B0%D0%BB%D0%B8)
 - [Що робити, якщо заблокували взагалі обліковий запис?](./MyRulesWorkingWithTg_uk.md#%D1%89%D0%BE-%D1%80%D0%BE%D0%B1%D0%B8%D1%82%D0%B8-%D1%8F%D0%BA%D1%89%D0%BE-%D0%B7%D0%B0%D0%B1%D0%BB%D0%BE%D0%BA%D1%83%D0%B2%D0%B0%D0%BB%D0%B8-%D0%B2%D0%B7%D0%B0%D0%B3%D0%B0%D0%BB%D1%96-%D0%BE%D0%B1%D0%BB%D1%96%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9-%D0%B7%D0%B0%D0%BF%D0%B8%D1%81)
@@ -151,7 +152,6 @@ General Security, Telegram, Two-Factor Authentication, Phishing, Blocking, Spam,
 - Культурні уподобання
 - Деталі геолокації
 - Облікові дані для входу/дані автентифікації
-
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
