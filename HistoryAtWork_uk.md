@@ -14,7 +14,7 @@
 - [References](./HistoryAtWork_uk.md#references)
 
 # Tags
-TBD
+Business, Negotiation, Contract, Advertising, Corporate Affairs, Bureaucracy, Corporate Culture
 
 # Definitions, Acronyms, Abbreviations
 | # | Abbreviation or Acronym | Definition     |
