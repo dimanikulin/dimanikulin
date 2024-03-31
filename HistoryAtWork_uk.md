@@ -5,7 +5,6 @@
 
 # Table of contents
 - [Tags](./HistoryAtWork_uk.md#tags)
-- [Definitions, Acronyms, Abbreviations](./HistoryAtWork_uk.md#definitions-acronyms-abbreviations)
 - [Overview](./HistoryAtWork_uk.md#overview)
 - [Початок](./HistoryAtWork_uk.md#%D0%BF%D0%BE%D1%87%D0%B0%D1%82%D0%BE%D0%BA)
 - [Серединка](./HistoryAtWork_uk.md#%D1%81%D0%B5%D1%80%D0%B5%D0%B4%D0%B8%D0%BD%D0%BA%D0%B0)
@@ -14,11 +13,6 @@
 
 # Tags
 Business, Negotiation, Contract, Advertising, Corporate Affairs, Bureaucracy, Corporate Culture
-
-# Definitions, Acronyms, Abbreviations
-| # | Abbreviation or Acronym | Definition     |
-| - | ------------------------|:--------------:|
-| 1 |
 
 # Overview
 Все ставлення до об'єктів і суб'єктів описаним у цій історії було або надумано автором або є його суб'єктивною думкою і може бути оскаржене будь-ким, хто прочитав.
