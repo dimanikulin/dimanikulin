@@ -1,3 +1,5 @@
+dev KPI = commits + ticketes + docs + PR
+
 metaprograms + social styles + 
 
 https://my.vocabularysize.com/
