@@ -25,6 +25,8 @@ Everything about the Software Development
 - [Tags](./SoftwareDevelopment.md#tags-8)
 - [Delegation Poker Cards](./SoftwareDevelopment.md#delegation-poker-cards)
 - [Tags](./SoftwareDevelopment.md#tags-9)
+- [Delegation Poker Cards](./SoftwareDevelopment.md#commit-quantity)
+- [Tags](./SoftwareDevelopment.md#tags-10)
 - [References](./SoftwareDevelopment.md#references)
 
 # Tags
@@ -201,6 +203,19 @@ It encourages open communication and collaboration, leading to better decision-m
 ## Tags
 agile scrum delegation 
 
+# Commit quantity
+Typically, I utilize small commits to both create and update the code.
+
+I prefer small commits over large ones for several reasons: they are easier to understand when reading them, quicker to review, and more conducive to testing.
+
+Over the past year, I've averaged about 2.5k commits, so about 7 per day.
+Do you think this quantity is excessive?
+
+<img src="./Images/Commits.jpg" alt="Commits" />
+
+## Tags
+commits 
+
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
@@ -215,3 +230,4 @@ agile scrum delegation
 | 9 |gmail|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_gmail-sla-email-activity-7158023530251530240-DNUk?utm_source=share&utm_medium=member_desktop)  | 30/01/2024 | Dmytro Nikulin | |
 | 10|Procrastination |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_procrastination-projectrisk-activity-7170691619946541056-Zu2h?utm_source=share&utm_medium=member_desktop) | 05/03/2024 | Dmytro Nikulin | |
 | 11|Delegation Poker Cards |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_agile-scrum-delegation-activity-7173227183098720257-UTef?utm_source=share&utm_medium=member_desktop) | 12/03/2024 | Dmytro Nikulin | |
+| 12|Commit quantity |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_commits-activity-7180822960239239168-P_1m?utm_source=share&utm_medium=member_desktop) | 02/04/2024 | Dmytro Nikulin | |
