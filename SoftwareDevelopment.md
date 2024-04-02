@@ -25,7 +25,7 @@ Everything about the Software Development
 - [Tags](./SoftwareDevelopment.md#tags-8)
 - [Delegation Poker Cards](./SoftwareDevelopment.md#delegation-poker-cards)
 - [Tags](./SoftwareDevelopment.md#tags-9)
-- [Delegation Poker Cards](./SoftwareDevelopment.md#commit-quantity)
+- [Commit quantity](./SoftwareDevelopment.md#commit-quantity)
 - [Tags](./SoftwareDevelopment.md#tags-10)
 - [References](./SoftwareDevelopment.md#references)
 
