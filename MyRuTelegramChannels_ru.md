@@ -154,6 +154,7 @@ Spreading pro-russian narratives and disinformation about the activities of stat
 | [vitteli](https://t.me/vitteli)                    |
 | [Воин DV](https://t.me/voin_dv)                    |
 | [VORON🇷🇺FPV](https://t.me/voron_zov)             |
+| [Воронеж Z](https://t.me/voronezhZV)               |
 | [voytenkos](https://t.me/voytenkos)                | 
 | [vv_volodin](https://t.me/vv_volodin)              |
 | [Дальневосточный гастролер](https://t.me/Vmsd127)  |
