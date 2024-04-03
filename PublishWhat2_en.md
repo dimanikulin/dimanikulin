@@ -61,6 +61,8 @@ If you use **tables** in your publications, please make sure that columns with l
 
 Additionally, I suggest placing **more important** columns at the beginning of the table so that readers will first encounter the most important information.
 
+Last but not least, I would suggest using tables as images, as many publication platforms do not fully support tables.
+
 # Pictures
 Please notice a really important point: **fewer** pictures mean **fewer** views.
 Certainly, all pictures should be related to the text content and enhance its meaning.
