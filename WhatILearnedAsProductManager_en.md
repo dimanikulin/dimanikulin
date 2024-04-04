@@ -169,26 +169,25 @@ On the top of that, it is quite convenient to keep an [online roadmap](https://g
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 | 1 | Roman Pichler Product Manager templates| [web](https://www.romanpichler.com/) | | Roman Pichler | |
 | 2 | Business Model Canvas template | [web](https://www.strategyzer.com) | | |
-| 3 | Business Model Canvas for FVAHelpers | [local resource](./FVADocX/FVAHelpers.pptx) | 01/12/2022 | Dmytro Nikulin | | 
-| 4 | Information with Business Goals/Drivers/Objectives for FVAHelpers | [local resource](./FVADocX/FVAHelpers-BusinessModelCanvas.docx) | 01/12/2022 |  Dmytro Nikulin | |
-| 5 | Product Road Map | [local resource](./FVADocX/FVAToolSet-ProductRoadMap.pdf) | 01/12/2022 | Dmytro Nikulin | |
-| 6 | Functional Requirements | [local resource](./FVADocX/FunctionalRequirements.xlsx) | 01/12/2022 | Dmytro Nikulin | |
-| 7 | Features | [local resource](./FVADocX/FVAToolSetFeatures.pptx) | 01/12/2022 | Dmytro Nikulin | |
-| 8 | Stakeholders | [local resource](./FVADocX/FVAToolSet-Stakeholders.pptx) | 01/12/2022 | Dmytro Nikulin | |
-| 9 | User Journey | [local resource](./FVADocX/FVAToolSet-UserJourney.pptx) | 01/12/2021 | Dmytro Nikulin | |
-| 10| User Scenario without FVA Tool Set | [YouTube](https://youtu.be/_bLXFdIDZtA) | 01/06/2021 | Dmytro Nikulin | |
-| 11| User Scenario with FVA Tool Set | [YouTube](https://youtu.be/-xnUsO7zW2s) | 01/06/2021 | Dmytro Nikulin | |
-| 12| User Scenario - Checking the results of processing | [YouTube](https://youtu.be/NIsVYyioDnM) | 01/06/2021 | Dmytro Nikulin | |
-| 13| Persona | [local resource](./FVADocX/FVAToolSet-Persona.pdf) | 01/12/2022 | Dmytro Nikulin | |
-| 14| Competitive Analysis Matrix | [local resource](./FVADocX/FVAToolSet-CompetetitiveAnalysisMatrix.pdf) | 01/12/2022 | Dmytro Nikulin | |
-| 15| Product Vision Board | [local resource](./FVADocX/FVAToolSet-ProductVisionBoard.pdf) | 01/12/2022 | Dmytro Nikulin | | 
-| 16| Business Model Canvas | [local resource](./FVADocX/FVAToolSet-BusinessModelCanvas.docx) | 01/12/2022 | Dmytro Nikulin | | 
-| 17| Value Proposition | [local resource](./FVADocX/FVAToolSet-ValueProposition.docx) | 01/12/2022 | Dmytro Nikulin | |
-| 18| Design Thinking | [local resource](./FVADocX/DesignThinking.pptx) | 01/12/2022 | Dmytro Nikulin | |
-| 19| What I learned as an Application Architect |[GitHub](./WhatILearnedAsAppArchitect_en.md) | | | |
-| 20| What I learned as a Delivery Manager |[GitHub](./WhatILearnedAsDeliveryManager_en) | | | |
-| 21| What I learned as a DevOps |[GitHub](./WhatILearnedAsDevOps_en.md) | | | |
-| 22| What I learned as a Software Developer |[GitHub](./WhatILearnedAsSoftwareDeveloper_en.md) | | | |
-| 23| What I learned as a Subject Matter Expert |[GitHub](./WhatILearnedAsSubjectMatterExpert_en.md) | | | |
-| 24| What I Learned As a Tester |[GitHub](./WhatILearnedAsTester_en.md) | | | |
-| 25| Why I decided to create my photo organizer? |[GitHub](./WhyCreatedPhotoOrganizer_en.md) | | | | 
+| 3 | Business Model Canvas for FVAHelpers | [local resource](./fva-helpers/DocX/BusinessModelCanvas.docx) | 01/12/2022 | Dmytro Nikulin | | 
+| 4 | Product Road Map | [local resource](./fva/FVADocX/ProductRoadMap.pdf) | 01/12/2022 | Dmytro Nikulin | |
+| 5 | Functional Requirements | [local resource](./FVADocX/FunctionalRequirements.xlsx) | 01/12/2022 | Dmytro Nikulin | |
+| 6 | Features | [local resource](./FVADocX/FVAToolSetFeatures.pptx) | 01/12/2022 | Dmytro Nikulin | |
+| 7 | Stakeholders | [local resource](./fva/FVADocX/Stakeholders.pptx) | 01/12/2022 | Dmytro Nikulin | |
+| 8 | User Journey | [local resource](./fva/FVADocX/UserJourney.pptx) | 01/12/2021 | Dmytro Nikulin | |
+| 9 | User Scenario without FVA Tool Set | [YouTube](https://youtu.be/_bLXFdIDZtA) | 01/06/2021 | Dmytro Nikulin | |
+| 10| User Scenario with FVA Tool Set | [YouTube](https://youtu.be/-xnUsO7zW2s) | 01/06/2021 | Dmytro Nikulin | |
+| 11| User Scenario - Checking the results of processing | [YouTube](https://youtu.be/NIsVYyioDnM) | 01/06/2021 | Dmytro Nikulin | |
+| 12| Persona | [local resource](./fva/FVADocX/Persona.pdf) | 01/12/2022 | Dmytro Nikulin | |
+| 13| Competitive Analysis Matrix | [local resource](./fva/FVADocX/CompetetitiveAnalysisMatrix.pdf) | 01/12/2022 | Dmytro Nikulin | |
+| 14| Product Vision Board | [local resource](./fva/FVADocX/ProductVisionBoard.pdf) | 01/12/2022 | Dmytro Nikulin | | 
+| 15| Business Model Canvas | [local resource](./fva/FVADocX/BusinessModelCanvas.docx) | 01/12/2022 | Dmytro Nikulin | | 
+| 16| Value Proposition | [local resource](./fva/FVADocX/ValueProposition.docx) | 01/12/2022 | Dmytro Nikulin | |
+| 17| Design Thinking | [local resource](./fva-helpers/DocX/DesignThinking.pptx) | 01/12/2022 | Dmytro Nikulin | |
+| 18| What I learned as an Application Architect |[GitHub](./WhatILearnedAsAppArchitect_en.md) | | | |
+| 19| What I learned as a Delivery Manager |[GitHub](./WhatILearnedAsDeliveryManager_en) | | | |
+| 20| What I learned as a DevOps |[GitHub](./WhatILearnedAsDevOps_en.md) | | | |
+| 21| What I learned as a Software Developer |[GitHub](./WhatILearnedAsSoftwareDeveloper_en.md) | | | |
+| 22| What I learned as a Subject Matter Expert |[GitHub](./WhatILearnedAsSubjectMatterExpert_en.md) | | | |
+| 23| What I Learned As a Tester |[GitHub](./WhatILearnedAsTester_en.md) | | | |
+| 24| Why I decided to create my photo organizer? |[GitHub](./WhyCreatedPhotoOrganizer_en.md) | | | | 
