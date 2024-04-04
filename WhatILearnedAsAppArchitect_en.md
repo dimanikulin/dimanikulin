@@ -162,8 +162,8 @@ In addition, I had to create the FVA License and gained an understanding of what
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 | 1 | A tool to edit diargam in mermaid-js | [Web](https://mermaid-js.github.io/mermaid-live-editor/edit) | | | |
-| 2 | Solution Architecture Document | [local resource](./FVADocX/FVAToolSet-SAD.docx) | | | |
-| 3 | Solution Architecture Document diagrams | [local resource](./FVADocX/FVAToolSet-SADdiagrams.drawio) | | | |
+| 2 | Solution Architecture Document | [local resource](./fva/FVADocX/SAD.docx) | | | |
+| 3 | Solution Architecture Document diagrams | [local resource](./fva/FVADocX/SADdiagrams.drawio) | | | |
 | 4 | What I learned as a Delivery Manager |[GitHub](./WhatILearnedAsDeliveryManager_en.md) | | | |
 | 5 | What I learned as a DevOps |[GitHub](./WhatILearnedAsDevOps_en.md) | | | |
 | 6 | What I learned as a Product Manager |[GitHub](./WhatILearnedAsProductManager_en.md) | | | |
