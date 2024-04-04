@@ -63,6 +63,7 @@ TBD
 TBD 
 
 # Comparison
+TBD to convert to image	
 | #             |TBD |TBD|TBD|TBD|TBD|TBD|TBD|
 | -             |---------- |--------|------|------|------|-----|:------:|
 |Editor         |WordPad  |WordPad|MarkDown|WordPad|both|WordPad|WordPad |
