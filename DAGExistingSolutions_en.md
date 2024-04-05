@@ -141,9 +141,28 @@ With Axivion Suite, users can proactively maintain the integrity and quality of 
 - IDE (Integrated Development Environment) plugins support, allowing developers to seamlessly integrate Axivion Suite into their preferred development environment for streamlined code analysis and optimization
 
 # Comparison of existing solutions
-<img src="./Images/DAGExistingSolutions3.png" alt="DAG Existing Solution 3" />
 
-As we can see from the table above, the existing **solutions** do not provide coverage for levels important for **architecture** governance, such as **DevOps**, **Data**, and **Compliance**. 
+| Function | Bionic | Cast Imaging and Highlight | Axivion  | NDepend               |
+| -------- | -------|--------------------------- |--------- |:---------------------:|
+|The initial scan to create a baseline of the holistic application architecture diagram involves capturing the comprehensive overview of all services, data flows, dependencies, APIs, technology stack, and application layers|+|+|+|+|
+|Creating inventories of all the languages, frameworks, libraries, and databases used in the application|-|+|+|-|
+|The scan after a change to detect drift or erosion (integration into CI/CD pipelines)|+|-|+|+|
+|Tagging the components|-|+|-|-|
+|Reporting the changes (behavioral or structural change)|+|+|+|+|
+|Detection Security level issues|+|+|+|+|
+|Detection Architecture level issues(new data flow, new API, new connection)|+|+|-|+|
+|Detection Compliance level issues|+|-|+|-|
+|Detection DevOps level issues|-|-|-|-|
+|Detection Data level issues|-|-|-|-|
+|Scanning code and configuration|+|+|+|+|
+|Scanning documentation (UML) to get input|-|-|+|-|
+|Scanning DB|-|+|-|+|
+|Saving the results to UML documentation tools|-|-|-|-|
+|Impact analysis|+|+|-|+|
+|Simple to set up|+|+|+|+|
+|Check for cloud Readiness|-|+|-|-|
+
+As we can see from the [table](./Images/DAGExistingSolutions3.png) above, the existing **solutions** do not provide coverage for levels important for **architecture** governance, such as **DevOps**, **Data**, and **Compliance**. 
 Additionally, not all inputs are supported by the overviewed solutions.
 For example, scanning DB is not supported by **Bionic.ai**, and scanning **UML** documentation is not supported at all.
 
