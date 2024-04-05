@@ -52,7 +52,7 @@ My Publications
 |hashnode   |[13/02/2024](https://dimanikulin.hashnode.dev/detecting-architectural-gaps-with-automation-business-context)|[22/03/2024](https://dimanikulin.hashnode.dev/detecting-architectural-gaps-with-automation-existing-solutions)|TBD|TBD|
 |hackernoon |[21/02/2024](https://hackernoon.com/detecting-architectural-gaps-with-automation-business-context)|[29/03/2024](Comment from sheharyarkhan-this submission reads like a big ad)|TBD|
 |linkedin   |[27/02/2024](https://www.linkedin.com/posts/dimanikulin_softwarearchitecture-architecturevisualization-activity-7168137721008308224-9LoR?utm_source=share&utm_medium=member_desktop)|TBD|TBD|
-|dev.to     |[05/03/2024](https://dev.to/dimanikulin/detecting-architectural-gaps-with-automation-business-context-50ed)|TBD|TBD|
+|dev.to     |[05/03/2024](https://dev.to/dimanikulin/detecting-architectural-gaps-with-automation-business-context-50ed)|[05/04/2024](https://dev.to/dimanikulin/detecting-architectural-gaps-with-automation-existing-solutions-35jk)|TBD|
 |medium     |[08/03/2024](https://medium.com/@dimanikulin_43511/detecting-architectural-gaps-with-automation-business-context-256ef701336d)|TBD|TBD|
 |reddit     |[15/03/2024](https://www.reddit.com/r/fva/comments/1bf6uo2/detecting_architectural_gaps_with_automation/)|TBD|TBD|
 |quora      |[19/03/2024](https://www.quora.com/profile/Dima-Nikulin-2/Detecting-Architectural-Gaps-with-Automation-Business-Context-Overview)|TBD|TBD| 
