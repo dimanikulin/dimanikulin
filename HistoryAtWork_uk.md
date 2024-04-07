@@ -141,3 +141,4 @@ Business, Negotiation, Contract, Advertising, Corporate Affairs, Bureaucracy, Co
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
+| 1 | Если бы программисты строили дома. |[DOU](https://dou.ua/forums/topic/35612/) | | | |
