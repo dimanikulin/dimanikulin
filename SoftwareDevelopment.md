@@ -125,7 +125,7 @@ So, in the realm of programming, C++ and guessing can be considered on opposite 
 
 Do you agree with that?
 
-<img src="./Images/C++Guessing.jfif" alt="Programming Languages and Guessing!" />
+<img src="./Images/buildingInStone.jfif" alt="Programming Languages and Guessing!" />
 
 ## Tabs or Spaces
 
