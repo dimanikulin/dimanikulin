@@ -187,7 +187,8 @@ This allows users to gain insights into the technologies and resources utilized 
 Furthermore, the solution enables users to request inventories of specific **elements**, including **languages**, **frameworks**, **libraries**, and **databases**, at any time.
 This feature provides a convenient way to access comprehensive information about the software application's underlying components and dependencies.
 
-An example of text output might be following
+An example of text output might be [following](./Images/DAGBusinessContext3.png)
+
 | # | Level                | Priority              | Issue                  | Suggestion   |
 | - | ---------------------|---------------------- |----------------------- |:-------------:|
 | 1 | Architecture | Medium | BackEnd For FrontEnd services are directly integrated with third-party services (external services) | To decrease the level of dependency on third parties, it is recommended to add an abstraction level |
