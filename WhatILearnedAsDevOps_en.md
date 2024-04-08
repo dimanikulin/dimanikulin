@@ -36,6 +36,40 @@ TODO - to add a bage for each code check
 Please notice the installation packages for Windows is built using Wix;
 Once a release happened the current [documentation generated from the code](https://dimanikulin.github.io/fva/) appeared.
 
+# unit tests
+cmake_minimum_required(VERSION 3.10)
+project(MyProject)
+
+ Enable testing for the project
+enable_testing()
+
+ Add GoogleTest as a subdirectory. You need to have gtest in your project directory.
+add_subdirectory(googletest)
+
+ Add your source files here
+add_executable(MyProject main.cpp)
+
+ Link GoogleTest to your project
+target_link_libraries(MyProject gtest gtest_main)
+
+ Add your tests source files here
+add_executable(MyProjectTests test_main.cpp)
+
+ Link GoogleTest to your tests
+target_link_libraries(MyProjectTests gtest gtest_main)
+
+ Add the tests to CTest's test runner
+add_test(NAME MyProjectTests COMMAND MyProjectTests)
+
+It sets the minimum required version of CMake and the name of the project.
+It enables testing for the project.
+It adds GoogleTest as a subdirectory, so CMake can find the GoogleTest libraries.
+It creates an executable for the project from the source files.
+It links the GoogleTest libraries to the project.
+It creates an executable for the tests from the test source files.
+It links the GoogleTest libraries to the tests.
+It adds the tests to CTest's test runner, so you can run the tests with the ctest command.
+
 # Building the code 
 I use CMake to build the project on different platform CMakeLists.txt
 
@@ -72,6 +106,11 @@ I used [[37]](FVADocMD/REFERENCES.md) to help me to set up the main GitHub actio
 All steps to build a package are called on any push to master or TBD branch.
 More details are located in comments and step names [here](https://github.com/dimanikulin/fva/blob/master/.github/workflows/main.yml).
 TODO explain how to install and cfg on github site
+
+
+https://forum.gitlab.com/t/help-regarding-googletest-and-how-to-integrate-it-with-the-ci-pipeline/46805
+
+https://github.com/pothitos/gtest-demo-gitlab/blob/master/.gitmodules
 
 # Building the code locally
 Still you can use [MS studio solution](https://github.com/dimanikulin/fva/blob/master/FVASW.sln) to build locally on Windows or [CMake](https://github.com/dimanikulin/fva/blob/master/CMakeLists.txt) to build locally on any Windows, Mac or Linux. 
