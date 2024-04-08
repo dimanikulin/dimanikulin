@@ -138,8 +138,6 @@ Business, Negotiation, Contract, Advertising, Corporate Affairs, Bureaucracy, Co
 
 Мораль цієї історії така - *кесареві-кесарево, богу-боже, а ініціатива карається*!
 
-<img src="./Images/TBD.jpg" alt="TBD" />
-
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
