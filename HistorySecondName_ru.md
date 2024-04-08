@@ -50,8 +50,3 @@ work, punctuality, discipline, surnames, workplace anecdotes, humorous stories.
 ПС. История невыдуманная )
 
 <img src="./Images/YuriyNikulin.jpg" alt="Yuriy Nikulin" />
-
-# References
-| # | Name                 | Source                | Release date           |  Author                 | Description   |
-| - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
-| 1 |История связанная с фамилией|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_%D0%B1%D1%8B%D0%BB-%D1%82%D1%83%D1%82-%D0%BF%D0%BE%D1%81%D1%82-%D0%BE-%D1%84%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F%D1%85-%D0%BD%D0%B5%D0%B4%D0%B0%D0%B2%D0%BD%D0%BE-https-activity-6899776405601611776-PJn7?utm_source=share&utm_medium=member_desktop)| 14/02/2022 | Dmytro Nikulin||

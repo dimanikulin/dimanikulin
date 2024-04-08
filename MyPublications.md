@@ -84,6 +84,12 @@ My Publications
 |-----------|---------------------------------------------------------------|----------------------------------------------------------------------|:---------------------------------------------------------------------------------:|
 |TBD        |TBD|TBD|TBD| 
 
+# About me
+|Name       |[Second Name History](./HistorySecondName_ru.md)|[History happended at work](./HistoryAtWork_uk.md)|TBD|
+|-----------|---------------------------------------------------------------|----------------------------------------------------------------------|:---------------------------------------------------------------------------------:|
+|LinkedIn   |[14/02/2022](https://www.linkedin.com/posts/dimanikulin_%D0%B1%D1%8B%D0%BB-%D1%82%D1%83%D1%82-%D0%BF%D0%BE%D1%81%D1%82-%D0%BE-%D1%84%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F%D1%85-%D0%BD%D0%B5%D0%B4%D0%B0%D0%B2%D0%BD%D0%BE-https-activity-6899776405601611776-PJn7?utm_source=share&utm_medium=member_desktop)|TBD|TBD| 
+|LinkedIn   |TBD|TBD|TBD|
+
 # Consolidated publications
 |Name       |Exploring the World of Multimedia Information Retrieval Systems|TBD|TBD|TBD|
 |-----------|---------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------|:----------------------------------------------------------------:|
@@ -99,7 +105,6 @@ My Publications
 - [Interviews](./Interviews.md)
 - [LinkedIn Content](./LinkedInContent.md)
 - [This is when we say "Old, but Gold](./OldButGold.md)
-- [Second Name History](./HistorySecondName_ru.md)
 - [Soft Skills](./SoftSkills.md)
 - [Software Development](./SoftwareDevelopment.md)
 - [War in Ukraine](./WarInUkraine.md)
@@ -107,5 +112,4 @@ My Publications
 - [Work Life Balance](WorkLifeBalance.md)
 
 # Not ready yet
-- [Profile and CV as a code](./ProfileAsCode_en.md) 
-- [History happended at work](./HistoryAtWork_uk.md)
+- [Profile and CV as a code](./ProfileAsCode_en.md)
