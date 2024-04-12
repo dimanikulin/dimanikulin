@@ -319,6 +319,9 @@ Spreading pro-russian narratives and disinformation about the activities of stat
 - Чёрный квартал
 - Запрещённая Украина
 - НачШтабу
+- На самом деле в Днепре
+- Украина новости
+- Бородатая Бабушка
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
