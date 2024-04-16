@@ -1,9 +1,5 @@
 dev KPI = commits + ticketes + docs + PR
 
-metaprograms + social styles + 
-
-https://my.vocabularysize.com/
-
 reminder as not read messages in messangers. email flags does not work. celendar reminder do work
 
 chatGPT translate from russin to eng but not from russin to ukr
