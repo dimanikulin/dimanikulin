@@ -179,6 +179,8 @@ Spreading pro-russian narratives and disinformation about the activities of stat
 | [war_ukr_russ](https://t.me/war_ukr_russ)          |
 | [Владимир Зеленский](https://t.me/zelenskyi_vladimir)|
 | [Уволить ПОНАБа](https://t.me/uvolitPONABa) |
+| [STOP GRAVE](https://t.me/STOPGRAVE) |
+
 
 # Ban in chats
 | Link                                               |
