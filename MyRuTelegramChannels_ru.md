@@ -15,10 +15,9 @@ Russian telegram channels
  
 # For channels
 **For reporting:**
-The channel was created and works to promote and publish fake news about the Russian invasion of Ukraine!
-Spreading pro-russian narratives and disinformation about the activities of state-owned enterprises and government authorities.
-# For bots
+This channel poses a threat of death to residents of peaceful cities and defenders of Ukraine. Here they collect money for drones, which then insidiously kill civilians and rescuers at night. Please, block this channel to prevent Ukrainians deaths.
 
+# For bots
 **For spaming:**
 Добрый день, этот бот рабочий?
 А какая информация Вас интересует?
@@ -29,8 +28,7 @@ Spreading pro-russian narratives and disinformation about the activities of stat
 System alert! Due to inactivity this bot will be blocked. Please contact support team.
 
 **Message for reporting:**
-The bot was created and works to promote and publish fake news about the Russian invasion of Ukraine!
-Spreading pro-russian narratives and disinformation about the activities of state-owned enterprises and government authorities.
+This channel poses a threat of death to residents of peaceful cities and defenders of Ukraine. Here they collect money for drones, which then insidiously kill civilians and rescuers at night. Please, block this channel to prevent Ukrainians deaths.
 # Wip 
 | Link                                               | Status                 |
 | ---------------------------------------------------|:----------------------:|
