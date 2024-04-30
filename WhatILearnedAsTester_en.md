@@ -24,6 +24,9 @@ not really tester job but
 
 Git Hub Copilot
 
+tests are in each dir in dir folder
+integration tests?
+ 
 <img src="./Images/TBD.jpg" alt="TBD" />
 
 # References
