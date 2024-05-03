@@ -28,7 +28,8 @@ This channel poses a threat of death to residents of peaceful cities and defende
 System alert! Due to inactivity this bot will be blocked. Please contact support team.
 
 **Message for reporting:**
-This channel poses a threat of death to residents of peaceful cities and defenders of Ukraine. Here they collect money for drones, which then insidiously kill civilians and rescuers at night. Please, block this channel to prevent Ukrainians deaths.
+Bots that collect coordinates to target strikes or post direct personal information with calls to violence.
+
 # Wip 
 | Link                                               | Status                 |
 | ---------------------------------------------------|:----------------------:|
