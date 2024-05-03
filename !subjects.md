@@ -1,3 +1,5 @@
+call app is not main now
+
 dev KPI = commits + ticketes + docs + PR
 
 reminder as not read messages in messangers. email flags does not work. celendar reminder do work
