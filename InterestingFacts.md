@@ -85,6 +85,20 @@ Here are 7 interesting facts about the number 7:
 Are there other facts?
 <img src="./Images/InterestingFactsAbout7.png" alt="Interesting Facts About 7" />
 
+# Interesting facts about me
+There are a lot of people in my LinkedIn network who know me well.
+
+Let's share four random facts about me and guess which one is not true.
+
+Can you also share something interesting about yourself?
+
+Which one is not true about me?
+- I cannot swim well
+- They called me Winnie the Pooh
+- I dance folk
+- I visited Egypt
+
+
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
@@ -93,3 +107,4 @@ Are there other facts?
 | 3 | Interesting facts about number "12"| [LinkedIn](https://www.linkedin.com/posts/dimanikulin_interestingfacts-activity-7031329081606483968-Xg3L?utm_source=share&utm_medium=member_desktop)| 01/03/2023 | Dmytro Nikulin | | 
 | 4 | Interesting facts about number "13"| [LinkedIn](https://www.linkedin.com/posts/dimanikulin_interestingfacts-activity-7112326331484258304-C2fS?utm_source=share&utm_medium=member_desktop)| 26/09/2023 | Dmytro Nikulin | |
 | 5 | Interesting facts about number "7" | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_numbers-interestingfacts-activity-7178308521065648130-rwAl?utm_source=share&utm_medium=member_desktop)| 26/03/2024 | Dmytro Nikulin | |
+| 6 | Interesting facts about me  | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_there-are-a-lot-of-people-in-my-linkedin-activity-7194653260526333953-wBiT?utm_source=share&utm_medium=member_desktop) | 26/03/2024 | Dmytro Nikulin | |
