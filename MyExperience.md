@@ -56,6 +56,8 @@ Bamboo
 <img src="https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=InVision&logoColor=white"/>
 <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white"/>
 Enterprise Architect
+
+**AI:** ChatGPT, Copilot
  
 **SDLC:** Scrum, Kan Ban, Scaled Agile Framework, Waterfall.
 
