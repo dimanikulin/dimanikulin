@@ -16,6 +16,7 @@ Russian telegram channels
 # For channels
 **For reporting:**
 This channel poses a threat of death to residents of peaceful cities and defenders of Ukraine. Here they collect money for drones, which then insidiously kill civilians and rescuers at night. Please, block this channel to prevent Ukrainians deaths.
+Content from the channel should be removed, because almost every post calls for violence!
 
 # For bots
 **For spaming:**
@@ -180,7 +181,6 @@ Bots that collect coordinates to target strikes or post direct personal informat
 | [Уволить ПОНАБа](https://t.me/uvolitPONABa) |
 | [STOP GRAVE](https://t.me/STOPGRAVE) |
 
-
 # Ban in chats
 | Link                                               |
 | ---------------------------------------------------|
@@ -264,6 +264,9 @@ Bots that collect coordinates to target strikes or post direct personal informat
 | [WAGNER GROUP](https://t.me/wagnernew)             | 
 | [Z - Новости Бывшей Украины](https://t.me/z_novosti)|
 | [ЖИВОВ Z 🇷🇺](https://t.me/zhivoff)               | 
+| [ДОКТОР СОСНОВСКИЙ](https://t.me/dr_alex_sosnowski) |
+| [ТРИБУНАЛ](https://t.me/ua_tribunal) |
+| [Воронеж Z](https://t.me/voronezhZV) |
 
 # Not working
 | Link                                               |
