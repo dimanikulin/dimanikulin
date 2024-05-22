@@ -180,6 +180,7 @@ Bots that collect coordinates to target strikes or post direct personal informat
 | [Владимир Зеленский](https://t.me/zelenskyi_vladimir)|
 | [Уволить ПОНАБа](https://t.me/uvolitPONABa) |
 | [STOP GRAVE](https://t.me/STOPGRAVE) |
+| [УВД ВГА Харьковской области](https://t.me/uvd_vga_kharkov)
 
 # Ban in chats
 | Link                                               |
