@@ -209,7 +209,10 @@ For more information on how to publish, please go [to](https://www.linkedin.com/
 |Pinning story  | -         | -      | -    | +    | -    | -   | -      |
 |Friend Link    | -         | -      | -    | +    | -    | -   | -      |
 |Content Licensing| -       | -      | -    | +    | -    | -   | -      |
+|Tables Support | +         | +      | +    | -    | +    | +   | -      |
 |Found issues   | +         | -      | -    | +    | -    | +   | -      |
+
+[Comparison, part 1](./Images/wheretopublish13.png), [Comparison, part 2](./Images/wheretopublish14.png)
 
 # Analyze
 As seen in the **comparison** table, most platforms offer only a limited set of functions.
