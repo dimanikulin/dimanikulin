@@ -10,6 +10,7 @@ Interesting facts
 - [Interesting facts about number *13*](./InterestingFacts.md#interesting-facts-about-number-13)
 - [Interesting facts about number *7*](./InterestingFacts.md#interesting-facts-about-number-7)
 - [Interesting facts about me](./InterestingFacts.md#interesting-facts-about-me)
+- [Interesting facts about number *14*](./InterestingFacts.md#interesting-facts-about-number-14)
 - [References](./InterestingFacts.md#references)
 
 # Tags
@@ -113,7 +114,7 @@ Here are some interesting facts about the number 14:
 
 Do you know any other facts? Please share other facts in the comments.
 
-<img src="./Images/InterestingFactsAbout14.png" alt="Interesting Facts About 14" />
+<img src="./Images/InterestingFactsAbout14.jpg" alt="Interesting Facts About 14" />
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
