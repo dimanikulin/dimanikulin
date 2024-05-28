@@ -99,6 +99,21 @@ Which one is not true about me?
 - I dance folk
 - I visited Egypt
 
+# Interesting facts about number "14"
+
+Did you know the facts that highlight the number 14's significance and varied roles across different domains?
+
+Here are some interesting facts about the number 14:
+
+- The sum of the first three square numbers (1² + 2² + 3² = 1 + 4 + 9 = 14).
+- Silicon has an atomic number of 14.
+- The term "fortnight" means 14 nights (or two weeks).
+- In traditional Judaism, a boy reaches the age of Bar Mitzvah at 13, but the celebration often occurs in the 14th year.
+- Valentine's Day is celebrated on February 14th.
+
+Do you know any other facts? Please share other facts in the comments.
+
+<img src="./Images/InterestingFactsAbout14.png" alt="Interesting Facts About 14" />
 
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
@@ -109,3 +124,4 @@ Which one is not true about me?
 | 4 | Interesting facts about number "13"| [LinkedIn](https://www.linkedin.com/posts/dimanikulin_interestingfacts-activity-7112326331484258304-C2fS?utm_source=share&utm_medium=member_desktop)| 26/09/2023 | Dmytro Nikulin | |
 | 5 | Interesting facts about number "7" | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_numbers-interestingfacts-activity-7178308521065648130-rwAl?utm_source=share&utm_medium=member_desktop)| 26/03/2024 | Dmytro Nikulin | |
 | 6 | Interesting facts about me  | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_there-are-a-lot-of-people-in-my-linkedin-activity-7194653260526333953-wBiT?utm_source=share&utm_medium=member_desktop) | 26/03/2024 | Dmytro Nikulin | |
+| 7 | Interesting facts about number "14" | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_interestingfacts-numbers-activity-7201133644424396800-xGQA?utm_source=share&utm_medium=member_desktop) | 28/05/2024 | Dmytro Nikulin | |
