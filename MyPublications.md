@@ -80,8 +80,8 @@ My Publications
 |quora      |TBD|TBD|TBD|TBD| 
 
 # Telegram
-|Name       |[Rules I use to work with Telegram](./MyRulesWorkingWithTg_uk.md)|[My Telegram Channel](./MyTelegramChannel_uk.md)|[Russian telegram channels](./MyRuTelegramChannels_ru.md)|
-|-----------|---------------------------------------------------------------|----------------------------------------------------------------------|:---------------------------------------------------------------------------------:|
+|Name       |[Rules I use to work with Telegram](./MyRulesWorkingWithTg_uk.md)|[My Telegram Channel](./MyTelegramChannel_uk.md)|[Russian telegram channels](./MyRuTelegramChannels_ru.md)| [Rules I use to work with Internet](./MyRulesWorkingWithInternet_uk.md) |
+|-----------|-----------------------------------------------------------------|------------------------------------------------|---------------------------------------------------------|:-----------------------------------------------------------------------:|
 |TBD        |TBD|TBD|TBD| 
 
 # About me

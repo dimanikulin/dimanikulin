@@ -1,5 +1,5 @@
 # Headline
-Загальна безпека та правила роботи з телеграм
+Загальна безпека та правила роботи в телеграм
 
 # Table of contents
 - [Tags](./MyRulesWorkingWithTg_uk.md#tags)
