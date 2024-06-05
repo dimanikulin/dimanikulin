@@ -1,3 +1,5 @@
+joke about elrcticity - diod, conder
+
 headers in files means nothing content everything 
 
 VPN
