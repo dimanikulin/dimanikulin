@@ -216,6 +216,21 @@ Do you think this quantity is excessive?
 ## Tags
 commits 
 
+# KPIs for software developers
+They talk a lot about KPIs for software developers, but there is still no good definition.
+
+What do you think is the best KPI for software developers? Can you explain why?
+
+- Commit count - 0%
+- Ticket count - 17%
+- Documentation and pull request - 33%
+- All of them - 50%
+
+TODO TO add inyo table of con
+
+## Tags
+KPI
+
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
@@ -231,3 +246,4 @@ commits
 | 10|Procrastination |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_procrastination-projectrisk-activity-7170691619946541056-Zu2h?utm_source=share&utm_medium=member_desktop) | 05/03/2024 | Dmytro Nikulin | |
 | 11|Delegation Poker Cards |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_agile-scrum-delegation-activity-7173227183098720257-UTef?utm_source=share&utm_medium=member_desktop) | 12/03/2024 | Dmytro Nikulin | |
 | 12|Commit quantity |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_commits-activity-7180822960239239168-P_1m?utm_source=share&utm_medium=member_desktop) | 02/04/2024 | Dmytro Nikulin | |
+| 13|KPI|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_they-talk-a-lot-about-kpis-for-software-developers-activity-7204740366183337985-I2wF?utm_source=share&utm_medium=member_desktop)| 07/06/2024 | Dmytro Nikulin | |
