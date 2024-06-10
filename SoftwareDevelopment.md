@@ -27,6 +27,8 @@ Everything about the Software Development
 - [Tags](./SoftwareDevelopment.md#tags-9)
 - [Commit quantity](./SoftwareDevelopment.md#commit-quantity)
 - [Tags](./SoftwareDevelopment.md#tags-10)
+- [KPIs for software developers](./SoftwareDevelopment.md#kpis-for-software-developers)
+- [Tags](./SoftwareDevelopment.md#tags-11)
 - [References](./SoftwareDevelopment.md#references)
 
 # Tags
@@ -225,8 +227,6 @@ What do you think is the best KPI for software developers? Can you explain why?
 - Ticket count - 17%
 - Documentation and pull request - 33%
 - All of them - 50%
-
-TODO TO add inyo table of con
 
 ## Tags
 KPI
