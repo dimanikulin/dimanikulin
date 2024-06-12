@@ -182,7 +182,8 @@ Bots that collect coordinates to target strikes or post direct personal informat
 | [STOP GRAVE](https://t.me/STOPGRAVE) |
 | [УВД ВГА Харьковской области](https://t.me/uvd_vga_kharkov) |
 | [Naran_official](https://t.me/naran_official) |
- 
+| [🇷🇺МОСКВА - ВоронежZ🇷🇺](https://t.me/mosZOV4at) | 
+| [Родина Мать ZOVет. ](https://t.me/ZOVRodina7) | 
 
 # Ban in chats
 | Link                                               |
