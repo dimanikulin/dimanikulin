@@ -12,7 +12,7 @@ TBD
 - [References](./!Template.md#references)
 
 # Tags
-TBD
+General Security, Telegram, Two-Factor Authentication, Phishing, Blocking, Spam, Online Safety, Scams, Fraud
 
 # Definitions, Acronyms, Abbreviations
 | # | Abbreviation or Acronym | Definition     |
