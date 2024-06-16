@@ -1,9 +1,6 @@
 # Headline
 Загальна безпека та правила роботи в Internet 
 
-# Alternative headline
-TBD
-
 # Table of contents
 - [Tags](./!Template.md#tags)
 - [Definitions, Acronyms, Abbreviations](./!Template.md#definitions-acronyms-abbreviations)
