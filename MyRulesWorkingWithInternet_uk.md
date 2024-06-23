@@ -2,6 +2,9 @@
 Загальна безпека та правила роботи в Internet 
 
 # Table of contents
+TBD
+
+TODO 
 - [Tags](./!Template.md#tags)
 - [Definitions, Acronyms, Abbreviations](./!Template.md#definitions-acronyms-abbreviations)
 - [Overview](./!Template.md#overview)
@@ -13,8 +16,11 @@
 - [VPN](./MyRulesWorkingWithTg_uk.md#vpn)
 - [Комп’ютерні віруси](./MyRulesWorkingWithTg_uk.md#%D0%BA%D0%BE%D0%BC%D0%BF%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%96-%D0%B2%D1%96%D1%80%D1%83%D1%81%D0%B8)
 - [Фактчекінг](./MyRulesWorkingWithTg_uk.md#%D1%84%D0%B0%D0%BA%D1%82%D1%87%D0%B5%D0%BA%D1%96%D0%BD%D0%B3)
-- to add deepfakes
+- [Діпфейки](https://github.com/dimanikulin/dimanikulin/blob/main/MyRulesWorkingWithInternet_uk.md#%D0%B4%D1%96%D0%BF%D1%84%D0%B5%D0%B9%D0%BA%D0%B8)
+- [Приховування IP-адреси під час дзвінків](https://github.com/dimanikulin/dimanikulin/blob/main/MyRulesWorkingWithInternet_uk.md#%D0%BF%D1%80%D0%B8%D1%85%D0%BE%D0%B2%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F-ip-%D0%B0%D0%B4%D1%80%D0%B5%D1%81%D0%B8-%D0%BF%D1%96%D0%B4-%D1%87%D0%B0%D1%81-%D0%B4%D0%B7%D0%B2%D1%96%D0%BD%D0%BA%D1%96%D0%B2)
 - [Особиста інформація](./MyRulesWorkingWithTg_uk.md#%D0%BE%D1%81%D0%BE%D0%B1%D0%B8%D1%81%D1%82%D0%B0-%D1%96%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D1%96%D1%8F)
+
+ToDO to add Контроль додатків
 
 
 # Tags
@@ -110,7 +116,7 @@ VPN (Virtual Private Network) – це віртуальна приватна м�
 - Напишіть спільним друзям у соцмережах і запитайте, чи не отримували вони подібних повідомлень.
 - Використовуйте сучасні антивірусні програми та системи захисту від фішингових атак.
 
-## Особиста інформація
+# Особиста інформація
 
 Що таке персональні дані:
 
