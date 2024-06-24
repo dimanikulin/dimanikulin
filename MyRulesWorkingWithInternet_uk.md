@@ -6,8 +6,6 @@ TBD
 
 TODO 
 - [Tags](./!Template.md#tags)
-- [Definitions, Acronyms, Abbreviations](./!Template.md#definitions-acronyms-abbreviations)
-- [Overview](./!Template.md#overview)
 - [References](./!Template.md#references)
 
 - [Introduction](./MyRulesWorkingWithTg_uk.md#introduction)
@@ -22,14 +20,8 @@ TODO
 
 ToDO to add Контроль додатків
 
-
 # Tags
 General Security, Telegram, Two-Factor Authentication, Phishing, Blocking, Spam, Online Safety, Scams, Fraud
-
-# Definitions, Acronyms, Abbreviations
-| # | Abbreviation or Acronym | Definition     |
-| - | ------------------------|:--------------:|
-| 1 |
 
 # Overview
 TBD 
