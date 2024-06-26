@@ -7,6 +7,7 @@ Soft skiils
 - [Active Listening](./SoftSkills.md#active-listening)
 - [Who are toxic people](./SoftSkills.md#who-are-toxic-people)
 - [English level](./SoftSkills.md#english-level)
+- [Reminder about what to do](TODO)
 - [References](./SoftSkills.md#references)
 
 # Tags
@@ -55,9 +56,20 @@ What specific areas do you focus on refining and improving?
 
 <img src="./Images/englishtestresult.jpg" alt="englishtestresult.jpg" />
 
+# Reminder about what to do
+
+In real life, it is really easy to get lost in things and forget what to do, so we use different reminders to help us.
+What reminder about what to do works best for you?
+
+- Flagged emails - **0%**
+- Calendar reminders - **67%**
+- Unread messages in messengers - **33%**
+- Your option in comments - **0%**
+
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 | 1 | Who are toxic people | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_toxicpeople-activity-7026092332055707648-oYuV?utm_source=share&utm_medium=member_desktop) | 01/02/2023 | Dmytro Nikulin | | 
 | 2 | Active Listening     | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_communication-softskills-activelistening-activity-6972809312763043840-Dv6D?utm_source=share&utm_medium=member_desktop) | 01/10/2023 | Dmytro Nikulin | |
 | 3 | English level        | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_regularly-i-make-it-a-habit-to-assess-and-activity-7185896908903604224-80tI?utm_source=share&utm_medium=member_desktop) | 16/04/2024 | Dmytro Nikulin | |
+| 4 | Reminder about what to do | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_in-real-life-it-is-really-easy-to-get-lost-activity-7211339797997469697-RfOZ?utm_source=share&utm_medium=member_desktop) | 25/06/2024 | Dmytro Nikulin | |
