@@ -18,9 +18,6 @@
 # Tags
 General Security, Telegram, Two-Factor Authentication, Phishing, Blocking, Spam, Online Safety, Scams, Fraud
 
-# Overview
-TBD 
-
 # Introduction
 У сучасному цифрово взаємопов’язаному світі захист особистої та цифрової безпеки є першорядною проблемою.
 Враховуючи розвиток технологічного середовища та нові загрози, вживання профілактичних заходів для захисту є обов’язковим.
