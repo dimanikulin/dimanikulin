@@ -154,3 +154,6 @@ VPN (Virtual Private Network) – це віртуальна приватна м�
 # References
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
+| 1 | Список российских телеграм каналов |[github](./MyRuTelegramChannels_ru.md) | | Dmytro Nikulin | |
+| 2 | Мой телеграм канал | [github](./MyTelegramChannel_uk.md) | | Dmytro Nikulin | |
+| 3 | Загальна безпека та правила роботи в телеграм | [github](./MyRulesWorkingWithTg_uk.md) | | Dmytro Nikulin | |
