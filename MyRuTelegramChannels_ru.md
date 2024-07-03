@@ -185,6 +185,8 @@ Bots that collect coordinates to target strikes or post direct personal informat
 | [🇷🇺МОСКВА - ВоронежZ🇷🇺](https://t.me/mosZOV4at) | 
 | [Родина Мать ZOVет. ](https://t.me/ZOVRodina7) | 
 | [НачШтабу](https://t.me/nach_shtabu) |
+| [Кладбище фейков](https://t.me/FAKEcemetery) |
+| [Кремлевский кейс](https://t.me/politkremlin) |
 
 # Ban in chats
 | Link                                               |
