@@ -187,6 +187,7 @@ Bots that collect coordinates to target strikes or post direct personal informat
 | [НачШтабу](https://t.me/nach_shtabu) |
 | [Кладбище фейков](https://t.me/FAKEcemetery) |
 | [Кремлевский кейс](https://t.me/politkremlin) |
+| [Крымский СМЕРШ](https://t.me/cremeasmersh) |
 
 # Ban in chats
 | Link                                               |
