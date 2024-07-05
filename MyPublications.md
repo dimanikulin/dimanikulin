@@ -60,7 +60,7 @@ My Publications
 # How, What and Where to publish
 |Name       |[What To Publish, 1](./PublishWhat1_en.md)|[What To Publish, 2](./PublishWhat2_en.md)|[Where To Publish 1](./PublishWhere1_en.md)|[Where To Publish 2](./PublishWhere2_en.md)|
 |-----------|---|---|---|:-----------:|
-|hashnode   |TBD|TBD|TBD|TBD|
+|hashnode   |[05/07/2024](https://dimanikulin.hashnode.dev/what-content-to-create-and-how-to-publish-it-part-1)|TBD|TBD|TBD|
 |hackernoon |TBD|TBD|TBD|TBD|
 |linkedin   |TBD|TBD|TBD|TBD|
 |dev.to     |TBD|TBD|TBD|TBD|
