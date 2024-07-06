@@ -1,5 +1,5 @@
 # Headline
-How to publish your content?
+What Content to Create and How to Publish It, Part 2
 
 # Alternative headline 
 Crafting Engaging and Polished Publications: A Comprehensive Guide

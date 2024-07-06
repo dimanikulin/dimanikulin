@@ -2,7 +2,7 @@
 **Optimizing Publication Success**: Key Metrics, Recommendations, and Structural Essentials
 
 # Alternative headline 
-**What and how to publish**
+**What Content to Create and How to Publish It, Part 1**
 
 # Table of contents
 - [Tags](./PublishWhat1_en.md#tags)
