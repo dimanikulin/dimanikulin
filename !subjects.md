@@ -9,6 +9,8 @@ call app is not main now
 chatGPT translate from russin to eng but not from russin to ukr
 can not pass IQ tests
 
+it compared CoAP and LwM2M with description of libs
+
 уровень контент количество просмотров
 
 People are created to make mistakes but great people can learn from mistakes. 
