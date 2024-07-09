@@ -4,8 +4,6 @@ headers in files means nothing content everything
 
 VPN
 
-call app is not main now
-
 chatGPT translate from russin to eng but not from russin to ukr
 can not pass IQ tests
 
@@ -37,5 +35,3 @@ presents from EPAM
 если у вас зависимость от лайков на ваши посты в соц сетях следиту делаете ли посты что б
 
 RecursiveDrinking.jpg
-
-I don't jump from job to job just for salary
