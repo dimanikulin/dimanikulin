@@ -98,7 +98,7 @@ Telegram, Two-Factor Authentication, Blocking, Spam, Scams, Fraud
 
 Доступні дві мови, я обираю англійську як більш поширену порівняно із українською.
 
-<img src="./Images/TgReport.png" alt="TgReport" />
+<img src="./Images/Tg-Report.png" alt="TgReport" />
 
 # Підроблені облікові записи Telegram або шахраї
 Шахраям у **Telegram** вдалося різними способами маніпулювати додатком для отримання злочинної вигоди. 
