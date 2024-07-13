@@ -46,7 +46,7 @@ Telegram, Two-Factor Authentication, Blocking, Spam, Scams, Fraud
 - **Дзвінки** → Peer-to-peer – Мої контакти
 - **Пересилання повідомлень** → Хто може додавати посилання на мій обліковий запис під час надсилання моїх повідомлень – Мої контакти
 
-<img src="./Images/TBD.jpg" alt="TBD" />
+<img src="./Images/Tg-Security.png" alt="Tg-Security" />
 
 Також налаштуйте додатковий захист акаунту: 
 
