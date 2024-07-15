@@ -7,7 +7,7 @@ Soft skiils
 - [Active Listening](./SoftSkills.md#active-listening)
 - [Who are toxic people](./SoftSkills.md#who-are-toxic-people)
 - [English level](./SoftSkills.md#english-level)
-- [Reminder about what to do](TODO)
+- [Reminder about what to do](./SoftSkills.md#reminder-about-what-to-do)
 - [References](./SoftSkills.md#references)
 
 # Tags
