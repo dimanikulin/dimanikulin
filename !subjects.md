@@ -2,8 +2,6 @@ joke about elrcticity - diod, conder
 
 headers in files means nothing content everything 
 
-VPN
-
 chatGPT translate from russin to eng but not from russin to ukr
 can not pass IQ tests
 
