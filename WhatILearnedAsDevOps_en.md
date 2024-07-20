@@ -36,7 +36,7 @@ I extended it with dirs with images as I did not want to commit them because of 
 * [Code QL](.github/workflows/codeqlanalysis.yml) Please see [[38]](./REFERENCES.md) TBD what for
 * [code Checks](.github/workflows/codeChecks.yml) TBD what for
 * [code factor](https://www.codefactor.io/repository/github/dimanikulin/fva/issues) TBD what for
-TODO - to add a bage for each code check
+TBD - to add a bage for each code check
 
 
 Please notice the installation packages for Windows is built using Wix;
@@ -111,7 +111,7 @@ I used [[37]](FVADocMD/REFERENCES.md) to help me to set up the main GitHub actio
 &nbsp;&nbsp;&nbsp; Once code change is pushed to GitHub, [main workflow](https://github.com/dimanikulin/fva/blob/master/.github/workflows/main.yml) is being executed and you will have new [Installation packages](https://github.com/dimanikulin/fva/releases) to use.
 All steps to build a package are called on any push to master or TBD branch.
 More details are located in comments and step names [here](https://github.com/dimanikulin/fva/blob/master/.github/workflows/main.yml).
-TODO explain how to install and cfg on github site
+TBD- explain how to install and cfg on github site
 
 
 https://forum.gitlab.com/t/help-regarding-googletest-and-how-to-integrate-it-with-the-ci-pipeline/46805
