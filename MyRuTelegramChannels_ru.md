@@ -188,6 +188,10 @@ Bots that collect coordinates to target strikes or post direct personal informat
 | [Кладбище фейков](https://t.me/FAKEcemetery) |
 | [Кремлевский кейс](https://t.me/politkremlin) |
 | [Крымский СМЕРШ](https://t.me/cremeasmersh) |
+| [От Мариуполя до Карпат](https://t.me/osvedomitell_alex) |
+| [ZАЧИСТКА](https://t.me/zachistka_ua) |
+| [ИНКУБАТОР ХОХЛОВ](https://t.me/incato2) |
+| [ИНКУБАТОР ХОХЛОВ (РЕЗЕРВ)](https://t.me/incato22) |
 
 # Ban in chats
 | Link                                               |
