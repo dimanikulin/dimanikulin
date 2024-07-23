@@ -192,6 +192,9 @@ Bots that collect coordinates to target strikes or post direct personal informat
 | [ZАЧИСТКА](https://t.me/zachistka_ua) |
 | [ИНКУБАТОР ХОХЛОВ](https://t.me/incato2) |
 | [ИНКУБАТОР ХОХЛОВ (РЕЗЕРВ)](https://t.me/incato22) |
+| [ПУТИН МОЙ ПРЕЗИДЕНТ](https://t.me/bratsavaleriacccr) |
+| [tedivi](https://t.me/tedivi) |
+| [Сущность чернигова](https://t.me/sysnost_hernigova) |
 
 # Ban in chats
 | Link                                               |
