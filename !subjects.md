@@ -1,3 +1,17 @@
+VS Code
+Notepad++Portable
+Sublime
+CuteMarkEdPortable_0.11.3.paf.exe
+SqlitemanPortable
+SQLiteStudio
+SQLiteTool
+putty
+PuTTYPortable
+NSIeditor1011
+JSONedit_0_9_14
+DBFPlus
+CppcheckPortable
+
 joke about elrcticity - diod, conder
 
 headers in files means nothing content everything 
