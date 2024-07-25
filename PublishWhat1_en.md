@@ -21,7 +21,7 @@
 - ["References" Chapter](./PublishWhat1_en.md#references-chapter)
 
 # Tags
-Publication Metrics, Content Engagement, Publication Strategy, Writing Guidelines, Document Structure, Publication Optimization, Audience Interaction
+Publication Metrics, Content Engagement, Publication Strategy, Writing Guidelines, Document Structure, Publication Optimization, Audience Engagement
 
 # Overview
 Mastering the Art of Publication: 
