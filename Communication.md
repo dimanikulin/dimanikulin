@@ -43,7 +43,7 @@ messenger ithumor
 ## Tags
 online ithumor
 
-#VPNs
+# VPNs
 VPNs seem to be indispensable in our private and work lives.
 They keep our connections safe and provide access to restricted networks. 
 
