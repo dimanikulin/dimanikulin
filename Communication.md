@@ -7,7 +7,7 @@ Communication
 - [Overview](./Communication.md#overview)
 - [We need more Messengers!](./Communication.md#we-need-more-messengers)
 - [What does it mean for me to be online?](./Communication.md#what-does-it-mean-for-me-to-be-online)
-- TBD VPN 
+- [VPNs](./Communication.md#vpns)
 - [References](./Communication.md#references)
 
 # Tags
