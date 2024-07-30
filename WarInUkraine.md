@@ -14,6 +14,7 @@ War in Ukraine!
 - [Які питання ставили хлопці з GlobalLogic Тарасу Чмуту](./WarInUkraine.md#%D1%8F%D0%BA%D1%96-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%BD%D1%8F-%D1%81%D1%82%D0%B0%D0%B2%D0%B8%D0%BB%D0%B8-%D1%85%D0%BB%D0%BE%D0%BF%D1%86%D1%96-%D0%B7-globallogic-%D1%82%D0%B0%D1%80%D0%B0%D1%81%D1%83-%D1%87%D0%BC%D1%83%D1%82%D1%83)
 - [junior is trying to find a job in summer in Ukraine in war](./WarInUkraine.md#junior-is-trying-to-find-a-job-in-summer-in-ukraine-in-war)
 - [Що мені допомогло минулої зими під час blackout-ів](./WarInUkraine.md#%D1%89%D0%BE-%D0%BC%D0%B5%D0%BD%D1%96-%D0%B4%D0%BE%D0%BF%D0%BE%D0%BC%D0%BE%D0%B3%D0%BB%D0%BE-%D0%BC%D0%B8%D0%BD%D1%83%D0%BB%D0%BE%D1%97-%D0%B7%D0%B8%D0%BC%D0%B8-%D0%BF%D1%96%D0%B4-%D1%87%D0%B0%D1%81-blackout-%D1%96%D0%B2)
+TBD
 - [References](./WarInUkraine.md#references)
 
 # Tags
@@ -117,6 +118,19 @@ Invest(hire) in them now and you will have nice ROI soon!
 
 <img src="./Images/BLUETTI AC50S.jfif" alt="BLUETTI AC50S"/>
 
+# DOU and BackAlive bank
+Я тут щось знайшов.
+
+Хтось у спільноті може вгадати де це, і з чим та машинка пов'язана?
+
+Та ще, за кожну вподобайку, комент та репост – надсилаю відповідно 20/50/100 гривень туди.
+
+Так-так, саме туди.
+
+## Tags
+
+doucommunity dou savelife backalive
+
 # References
 | # | Name                   | Source                | Release date           |  Author                 | Description   |
 | - | -----------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
@@ -130,3 +144,4 @@ Invest(hire) in them now and you will have nice ROI soon!
 | 8 |Які питання ставили хлопці з GlobalLogic Тарасу Чмуту|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_globallogic-armukrainenow-staywithukraine-activity-7058710292825874433-_gHi?utm_source=share&utm_medium=member_desktop)|01/05/2023 | Dmytro Nikulin||
 | 9 |junior is trying to find a job in summer in Ukraine in war|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_ukrainewar-ukraine-summer-activity-6957738620485005312-kqEc?utm_source=share&utm_medium=member_desktop)|01/07/2022 | Dmytro Nikulin||
 | 10|Що мені допомогло минулої зими під час blackout-ів|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_%D1%89%D0%BE-%D0%BC%D0%B5%D0%BD%D1%96-%D0%B4%D0%BE%D0%BF%D0%BE%D0%BC%D0%BE%D0%B3%D0%BB%D0%BE-%D0%BC%D0%B8%D0%BD%D1%83%D0%BB%D0%BE%D1%97-%D0%B7%D0%B8%D0%BC%D0%B8-%D0%BF%D1%96%D0%B4-%D1%87%D0%B0%D1%81-blackout-%D1%96%D0%B2-activity-7129735104486080512-MALD?utm_source=share&utm_medium=member_desktop)|13/11/2023 | Dmytro Nikulin| |
+| 11|DOU and BackAlive bank |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_staywithukraine-stoprussia-russiaterroriststate-activity-7223923409699655680-70jL?utm_source=share&utm_medium=member_desktop)|30/07/2024 | Dmytro Nikulin| |
