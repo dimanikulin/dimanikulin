@@ -127,6 +127,8 @@ Invest(hire) in them now and you will have nice ROI soon!
 
 Так-так, саме туди.
 
+<img src="./Images/me.jfif" alt="me"/>
+
 ## Tags
 
 doucommunity dou savelife backalive
