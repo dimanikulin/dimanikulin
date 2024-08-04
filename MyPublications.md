@@ -25,6 +25,10 @@ TBD
 |[What are Multimedia IR systems?](./MultimediaIRSystems_en.md)| [28/06/2022](https://dev.to/dimanikulin/what-are-multimedia-ir-systems-5c7nv) TBD/TBD/TBD/TBD | [29/06/2022](https://dimanikulin.hashnode.dev/what-are-multimedia-ir-systems) TBD/TBD/TBD/TBD | [01/07/2022](https://medium.com/@dimanikulin_43511/what-are-multimedia-ir-systems-531366920642) TBD/TBD/TBD/TBD | was deleted as spam N/A | [03/07/2022](https://www.quora.com/profile/Dima-Nikulin-2/What-are-Multimedia-IR-Systems-Lets-briefly-overview-the-Multimedia-IR-systems-According-to-the-Wikipedia-https) TBD/TBD/TBD/TBD | N/A | N/A |
 |[Multimedia IR systems Analyze](./MultimediaIRSystemsAnalyze_en.md)|[07/07/2022](https://dev.to/dimanikulin/multimedia-ir-systems-analyze-4e17) TBD/TBD/TBD/TBD | [09/07/2022](https://dimanikulin.hashnode.dev/multimedia-ir-systems-analyze) TBD/TBD/TBD/TBD | [10/07/2022](https://medium.com/@dimanikulin_43511/multimedia-ir-systems-analyze-67d40a5537c5) TBD/TBD/TBD/TBD | was deleted as spam N/A | [13/07/2022](https://www.quora.com/profile/Dima-Nikulin-2/Multimedia-IR-Systems-analyze-Let-us-compare-several-multimedia-IR-systems-by-covering-requirements-and-needs-we-identi) TBD/TBD/TBD/TBD | N/A | N/A |
 |[What are Multimedia Organizers?](./MultimediaOrganizers_en.md)| [18/09/2022](https://dev.to/dimanikulin/what-are-the-photo-organizers-1na9) TBD/TBD/TBD/TBD | [19/09/2022](https://dimanikulin.hashnode.dev/what-are-the-photo-organizers) TBD/TBD/TBD/TBD | [20/09/2022](https://medium.com/@dimanikulin_43511/multimedia-organizers-functions-e8def4e7d550) TBD/TBD/TBD/TBD | [20/08/2022](https://www.reddit.com/r/fva/comments/xkum82/what_are_the_multimedia_organizers/) TBD/TBD/TBD/TBD | [22/09/2022](https://www.quora.com/profile/Dima-Nikulin-2/What-are-the-Multimedia-Organizers-Multimedia-Organizers-functions-They-currently-perform-the-search-in-photo-set) TBD/TBD/TBD/TBD | N/A | N/A |
+|[Analyze of Multimedia Organizers](./MultimediaOrganizersAnalyze_en.md)| TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
+|[Search Requests for Multimedia](./MultimediaSearchRequests_en.md)| TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
+|[Enriching the Multimedia](./MultimediaEnriching_en.md)| TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
+|[Tagging Your Multimedia](./MultimediaTagging_en.md)| TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
 
 # Own product, its history and what I learned, 1
 
@@ -68,18 +72,6 @@ TBD
 |-----------|---|---|---|:-----------:|
 |hashnode   |[05/07/2024](https://dimanikulin.hashnode.dev/what-content-to-create-and-how-to-publish-it-part-1)|TBD|TBD|TBD|
 |hackernoon |[27/07/2024](https://hackernoon.com/what-content-to-create-and-how-to-publish-it-part-1)|TBD|TBD|TBD|
-|linkedin   |TBD|TBD|TBD|TBD|
-|dev.to     |TBD|TBD|TBD|TBD|
-|medium     |TBD|TBD|TBD|TBD|
-|reddit     |TBD|TBD|TBD|TBD|
-|quora      |TBD|TBD|TBD|TBD|
-
-# Multimedia, Multimedia IR systems and Multimedia Organizers, 2
-
-|Name       |[Analyze of Multimedia Organizers](./MultimediaOrganizersAnalyze_en.md)|[Search Requests for Multimedia](./MultimediaSearchRequests_en.md)|[Enriching the Multimedia](./MultimediaEnriching_en.md)|[Tagging Your Multimedia](./MultimediaTagging_en.md)|
-|-----------|---------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------|:----------------------------------------------------------------:|
-|hashnode   |TBD|TBD|TBD|TBD|
-|hackernoon |TBD|TBD|TBD|TBD|
 |linkedin   |TBD|TBD|TBD|TBD|
 |dev.to     |TBD|TBD|TBD|TBD|
 |medium     |TBD|TBD|TBD|TBD|
