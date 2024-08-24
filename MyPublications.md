@@ -38,9 +38,13 @@ TBD
 |[What I Learned As DevOps](./WhatILearnedAsDevOps_en.md)| TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
 |[What I Learned As Tester](./WhatILearnedAsTester_en.md)| TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
 
-# Detecting Architectural Gaps with Automation
+|[Detecting Architectural Gaps with Automation - Business Context](./DAGBusinessContext_en.md)
+|[Detecting Architectural Gaps with Automation - Existing Solutions](./DAGExistingSolutions_en.md)
+|[Detecting Architectural Gaps with Automation - Proposed Solution](./DAGProposedSolution_en.md)
 
-|Name       |[Business Context](./DAGBusinessContext_en.md)|[Existing Solutions](./DAGExistingSolutions_en.md)|[Proposed Solution](./DAGProposedSolution_en.md)|
+#
+
+|Name       |
 |-----------|---------------------------------------------------------------|----------------------------------------------------------------------|:---------------------------------------------------------------------------------:|
 |hashnode   |[13/02/2024](https://dimanikulin.hashnode.dev/detecting-architectural-gaps-with-automation-business-context)|[22/03/2024](https://dimanikulin.hashnode.dev/detecting-architectural-gaps-with-automation-existing-solutions)|[03/05/2024](https://dimanikulin.hashnode.dev/detecting-architectural-gaps-with-automation-proposed-solution)|
 |hackernoon |[21/02/2024](https://hackernoon.com/detecting-architectural-gaps-with-automation-business-context)|[29/03/2024](Comment from sheharyarkhan-this submission reads like a big ad)|[23/05/2024](https://hackernoon.com/detecting-architectural-gaps-with-automation-proposed-solution)|
