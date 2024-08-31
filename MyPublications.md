@@ -40,20 +40,10 @@ TBD
 |[Detecting Architectural Gaps with Automation - Business Context](./DAGBusinessContext_en.md)| [05/03/2024](https://dev.to/dimanikulin/detecting-architectural-gaps-with-automation-business-context-50ed) TBD/TBD/TBD/TBD | [13/02/2024](https://dimanikulin.hashnode.dev/detecting-architectural-gaps-with-automation-business-context) TBD/TBD/TBD/TBD | [08/03/2024](https://medium.com/@dimanikulin_43511/detecting-architectural-gaps-with-automation-business-context-256ef701336d) TBD/TBD/TBD/TBD | [15/03/2024](https://www.reddit.com/r/fva/comments/1bf6uo2/detecting_architectural_gaps_with_automation/) TBD/TBD/TBD/TBD | [19/03/2024](https://www.quora.com/profile/Dima-Nikulin-2/Detecting-Architectural-Gaps-with-Automation-Business-Context-Overview) TBD/TBD/TBD/TBD | [21/02/2024](https://hackernoon.com/detecting-architectural-gaps-with-automation-business-context) TBD/TBD/TBD/TBD | [27/02/2024](https://www.linkedin.com/posts/dimanikulin_softwarearchitecture-architecturevisualization-activity-7168137721008308224-9LoR?utm_source=share&utm_medium=member_desktop) TBD/TBD/TBD/TBD |
 |[Detecting Architectural Gaps with Automation - Existing Solutions](./DAGExistingSolutions_en.md)| [05/04/2024](https://dev.to/dimanikulin/detecting-architectural-gaps-with-automation-existing-solutions-35jk) TBD/TBD/TBD/TBD | [22/03/2024](https://dimanikulin.hashnode.dev/detecting-architectural-gaps-with-automation-existing-solutions) TBD/TBD/TBD/TBD | [09/04/2024](https://medium.com/@dimanikulin_43511/detecting-architectural-gaps-with-automation-existing-solutions-126dc655e11f) TBD/TBD/TBD/TBD | [16/04/2024](https://www.reddit.com/r/fva/comments/1c59jei/detecting_architectural_gaps_with_automation/) TBD/TBD/TBD/TBD | [23/04/2024](https://www.quora.com/profile/Dima-Nikulin-2/Detecting-Architectural-Gaps-with-Automation-Existing-Solutions-Introduction-In-the-rapidly-evolving-landscape-of-so) TBD/TBD/TBD/TBD | [29/03/2024](Comment from sheharyarkhan-this submission reads like a big ad) TBD/TBD/TBD/TBD | [12/04/2024](https://www.linkedin.com/posts/dimanikulin_activity-7184438022925414400-57ZO?utm_source=share&utm_medium=member_desktop) TBD/TBD/TBD/TBD |
 |[Detecting Architectural Gaps with Automation - Proposed Solution](./DAGProposedSolution_en.md) | [31/05/2024](https://dev.to/dimanikulin/detecting-architectural-gaps-with-automation-proposed-solution-35dg) TBD/TBD/TBD/TBD | [03/05/2024](https://dimanikulin.hashnode.dev/detecting-architectural-gaps-with-automation-proposed-solution) TBD/TBD/TBD/TBD | [04/06/2024](https://medium.com/@dimanikulin_43511/detecting-architectural-gaps-with-automation-proposed-solution-f80adbc829ce) TBD/TBD/TBD/TBD | [11/06/2024](https://www.reddit.com/r/fva/comments/1ddbfm1/detecting_architectural_gaps_with_automation/) TBD/TBD/TBD/TBD | [18/06/2024](https://www.quora.com/profile/Dima-Nikulin-2/Detecting-Architectural-Gaps-with-Automation-Proposed-Solution-Introduction-In-the-ever-evolving-realm-of-software-d) TBD/TBD/TBD/TBD | [23/05/2024](https://hackernoon.com/detecting-architectural-gaps-with-automation-proposed-solution) TBD/TBD/TBD/TBD | [14/06/2024](https://www.linkedin.com/posts/dimanikulin_softwarearchitecture-integrationstrategies-activity-7207288570758279169-ZzBa?utm_source=share&utm_medium=member_desktop) TBD/TBD/TBD/TBD |
-
-|[What To Publish, 1](./PublishWhat1_en.md)|
-
-# How, What and Where to publish
-
-|[What To Publish, 2](./PublishWhat2_en.md)|[Where To Publish 1](./PublishWhere1_en.md)|[Where To Publish 2](./PublishWhere2_en.md)|
-|-----------|---|---|---|:-----------:|
-|hashnode   |[05/07/2024](https://dimanikulin.hashnode.dev/what-content-to-create-and-how-to-publish-it-part-1)|TBD|TBD|TBD|
-|hackernoon |[27/07/2024](https://hackernoon.com/what-content-to-create-and-how-to-publish-it-part-1)|TBD|TBD|TBD|
-|linkedin   |TBD|TBD|TBD|TBD|
-|dev.to     |TBD|TBD|TBD|TBD|
-|medium     |TBD|TBD|TBD|TBD|
-|reddit     |TBD|TBD|TBD|TBD|
-|quora      |TBD|TBD|TBD|TBD|
+|[What To Publish, 1](./PublishWhat1_en.md)|TBD/TBD/TBD/TBD | [05/07/2024](https://dimanikulin.hashnode.dev/what-content-to-create-and-how-to-publish-it-part-1) TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | [27/07/2024](https://hackernoon.com/what-content-to-create-and-how-to-publish-it-part-1) TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
+|[What To Publish, 2](./PublishWhat2_en.md)|TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
+|[Where To Publish 1](./PublishWhere1_en.md)|TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
+|[Where To Publish 2](./PublishWhere2_en.md)|TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
 
 # Telegram
 
