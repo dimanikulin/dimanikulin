@@ -65,22 +65,6 @@ TBD
 |LinkedIn   |[27/01/2023](https://www.linkedin.com/posts/dimanikulin_activity-7024663781666349057-Hw3_/?utm_source=share&utm_medium=member_desktop)|TBD|TBD|TBD|
 |dou.eu     |[20/02/2023](https://dou.eu/community/posts/what-are-multimedia-information-retrieval-systems)|TBD|TBD|TBD|
 
-# LinkedIn posts
-
-- [ChatGPT](./ChatGPT.md)
-- [Communication](./Communication.md)
-- [Fishing](./Fishing.md)
-- [Holidays](/Holidays.md)
-- [Interesting facts](./InterestingFacts.md)
-- [Interviews](./Interviews.md)
-- [LinkedIn Content](./LinkedInContent.md)
-- [This is when we say "Old, but Gold](./OldButGold.md)
-- [Soft Skills](./SoftSkills.md)
-- [Software Development](./SoftwareDevelopment.md)
-- [War in Ukraine](./WarInUkraine.md)
-- [Work in GlobalLogic](./WorkInGL.md)
-- [Work Life Balance](WorkLifeBalance.md)
-
 # Not ready yet
 
 - [Profile and CV as a code](./ProfileAsCode_en.md)
