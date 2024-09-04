@@ -44,12 +44,10 @@ TBD
 |[What To Publish, 2](./PublishWhat2_en.md)|TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
 |[Where To Publish 1](./PublishWhere1_en.md)|TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
 |[Where To Publish 2](./PublishWhere2_en.md)|TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
-
-# Telegram
-
-|Name       |[Rules I use to work with Telegram](./MyRulesWorkingWithTg_uk.md)|[My Telegram Channel](./MyTelegramChannel_uk.md)|[Russian telegram channels](./MyRuTelegramChannels_ru.md)| [Rules I use to work with Internet](./MyRulesWorkingWithInternet_uk.md) |
-|-----------|-----------------------------------------------------------------|------------------------------------------------|---------------------------------------------------------|:-----------------------------------------------------------------------:|
-|TBD        |TBD|TBD|TBD|
+|[Rules I use to work with Telegram](./MyRulesWorkingWithTg_uk.md)|TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
+|[My Telegram Channel](./MyTelegramChannel_uk.md)|TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
+|[Russian telegram channels](./MyRuTelegramChannels_ru.md)|TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
+|[Rules I use to work with Internet](./MyRulesWorkingWithInternet_uk.md)|TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
 
 # About me
 
