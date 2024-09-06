@@ -50,14 +50,4 @@ TBD
 |[Rules I use to work with Internet](./MyRulesWorkingWithInternet_uk.md)|TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
 |[Second Name History](./HistorySecondName_ru.md)| TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | [14/02/2022](https://www.linkedin.com/posts/dimanikulin_%D0%B1%D1%8B%D0%BB-%D1%82%D1%83%D1%82-%D0%BF%D0%BE%D1%81%D1%82-%D0%BE-%D1%84%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F%D1%85-%D0%BD%D0%B5%D0%B4%D0%B0%D0%B2%D0%BD%D0%BE-https-activity-6899776405601611776-PJn7?utm_source=share&utm_medium=member_desktop) TBD/TBD/TBD/TBD |
 |[History happended at work](./HistoryAtWork_uk.md)| TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
-
-# Consolidated publications
-
-|Name       |Exploring the World of Multimedia Information Retrieval Systems|TBD|TBD|TBD|
-|-----------|---------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------|:----------------------------------------------------------------:|
-|LinkedIn   |[27/01/2023](https://www.linkedin.com/posts/dimanikulin_activity-7024663781666349057-Hw3_/?utm_source=share&utm_medium=member_desktop)|TBD|TBD|TBD|
-|dou.eu     |[20/02/2023](https://dou.eu/community/posts/what-are-multimedia-information-retrieval-systems)|TBD|TBD|TBD|
-
-# Not ready yet
-
-- [Profile and CV as a code](./ProfileAsCode_en.md)
+|[Profile and CV as a code](./ProfileAsCode_en.md) | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
