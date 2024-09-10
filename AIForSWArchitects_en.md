@@ -37,7 +37,7 @@ TBD
 # Preparation
 
 TBD
-Here we need to write something about anonimitation
+Here we need to write something about anonimitation, so AI that you use for assitance will not find out the details for commercial project if any.
 
 <img src="./Images/TBD.jpg" alt="TBD" />
 
