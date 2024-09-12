@@ -12,6 +12,8 @@ JSONedit_0_9_14
 DBFPlus
 CppcheckPortable
 
+qt creator (probably with AI) help a lot in code review - not suggested for using
+
 joke about elrcticity - diod, conder
 
 headers in files means nothing content everything 
