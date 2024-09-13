@@ -37,7 +37,9 @@ TBD
 # Preparation
 
 TBD
-Here we need to write something about anonimitation, so AI that you use for assitance will not find out the details for commercial project if any.
+Here we need to write something about business case anonymization, so AI that you use for assitance will not find out the details for commercial project if any.
+
+Regarding the removal of any PII (Personally Identifiable Information) from doc,
 
 <img src="./Images/TBD.jpg" alt="TBD" />
 
