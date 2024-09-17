@@ -26,7 +26,7 @@ TBD
 
 # Introduction
 
-At [DOU Day 2024](TODO to put a link) I found quite interesting the [ChatGPT Solutions Architect Assistent](https://chatgpt.com/g/g-J6uBbvDrm-solutions-architect-assistent)
+At [DOU Day 2024](https://dou.ua/dou-day-2024/) I found quite interesting the [ChatGPT Solutions Architect Assistent](https://chatgpt.com/g/g-J6uBbvDrm-solutions-architect-assistent)
 
 It gave me undersnading on how I can use AI to [create architecture vision](https://github.com/dovchar/architecture-vision-GPTs?tab=readme-ov-file) from scratch spending hours but not days.  
 
@@ -55,33 +55,17 @@ It kept such chapters as
 
 # Assitance
 
+The assitante is located [here](https://chatgpt.com/g/g-J6uBbvDrm-solutions-architect-assistent) and the communication with it is in a form like with **ChatGPT** - Prompt from **User** and Response from **AI**. So I put in a table form
+
 ## Defining the architecture drivers
 
-First it suggested to define **the architecture drivers**
+First it suggested to define **the architecture drivers**.
 
-**Me** Hi, I need to create an architectural vision
-
-**AI** What type of help do you need to create the architecture vision? Please choose one of the following:
-
-RFP (Request for Proposal)
-RFI (Request for Information)
-Text of customer request
-
-**Me** 1
-
-**AI**
-
-Since you've chosen RFP (Request for Proposal), we can now proceed by defining the architecture drivers, which include the following steps:
-
-Business Case and Business Goals
-Constraints
-Main Use Cases
-Main Features
-Domain Diagram
-Quality Attribute Scenarios
-Let's begin by defining the business case and business goals.
-
-Could you provide details or key points from the RFP that define the business case and goals?
+| # | My Prompt            | AI Response  |
+| - | ---------------------|:------------:|
+|   | Hi, I need to create an architectural vision | What type of help do you need to create the architecture vision? Please choose one of the following: RFP (Request for Proposal), RFI (Request for Information), Text of customer request |
+|   | 1| Since you've chosen RFP (Request for Proposal), we can now proceed by defining the architecture drivers, which include the following steps: Business Case and Business Goals, Constraints, Main Use Cases, Main Features, Domain Diagram, Quality Attribute,  Scenarios. Let's begin by defining the business case and business goals. Could you provide details or key points from the RFP that define the business case and goals? |
+|   | TBD | TBD |
 
 # Conclusion
 
@@ -99,5 +83,6 @@ For each work I performed I noticed the time I spent and here a full table to de
 
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
-<https://github.com/dovchar/architecture-vision-GPTs?tab=readme-ov-file>
-<https://chatgpt.com/g/g-J6uBbvDrm-solutions-architect-assistent>
+|   | DOU Day 2024         | [DOU](https://dou.ua/dou-day-2024/) |  | DOU | |
+|   | ChatGPT Solutions Architect Assistent | [ChatGPT](https://chatgpt.com/g/g-J6uBbvDrm-solutions-architect-assistent) | | Probably SoftServe | |
+|   | How to create architecture vision using AI | [gihub](https://github.com/dovchar/architecture-vision-GPTs) | | | |
