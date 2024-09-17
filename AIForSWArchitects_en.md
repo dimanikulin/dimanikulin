@@ -10,8 +10,8 @@ TBD
 
 - [Tags](./AIForSWArchitects_en.md#tags)
 - [Definitions, Acronyms, Abbreviations](./AIForSWArchitects_en.md#definitions-acronyms-abbreviations)
-- [Overview](./AIForSWArchitects_en.md#overview)
 - [Introduction](./AIForSWArchitects_en.md#introduction)
+TBD
 - [References](./AIForSWArchitects_en.md#references)
 
 # Tags
@@ -24,39 +24,40 @@ TBD
 | - | ------------------------|:--------------:|
 | 1 |
 
-# Overview
-
-TBD
-
-or ---
-
 # Introduction
 
-TBD
+At [DOU Day 2024](TODO to put a link) I found quite interesting the [ChatGPT Solutions Architect Assistent](https://chatgpt.com/g/g-J6uBbvDrm-solutions-architect-assistent)
+
+It gave me undersnading on how I can use AI to [create architecture vision](https://github.com/dovchar/architecture-vision-GPTs?tab=readme-ov-file) from scratch spending hours but not days.  
+
+So I decided to try it on my project to start.
 
 # Preparation
 
 ## Anonymization
 
-15 mins spent
-Here we need to write something about business case anonymization, so AI that you use for assitance will not find out the details for commercial project if any.
+Here we need to write sabout business case anonymization, so **AI** that you use for assitance will not find out the details for commercial project if any.
 
-Regarding the removal of any PII (Personally Identifiable Information) from doc,
+What you need to do at least is to remove any **PII** (*Personally Identifiable Information*) from input documentation.
 
-## Prepare input doc
+So I created *Sample case anonymizated.docx* from *Sample case.docx*.
 
-30 mins spent
+## Preparation for input docs
+
+As input documentation for creation architecture vision the following artifacts might be considered:
 
 - RFP (Request for Proposal)
 - RFI (Request for Information)
 - Text of customer request
 
-I used ChatGPT to help me to create business case from anonymizated input doc.
+Becacause I did not have any from those documents for my *Sample Case* I used *ChatGPT* (not Assistant meontioned previpsly) to help me to create business case(*Sample case anonymizated RFP.docx*) from anonymizated input doc (*Sample case anonymizated.docx*).
 It kept such chapters as
 
 # Assitance
 
-10:30 13/09
+## Defining the architecture drivers
+
+First it suggested to define **the architecture drivers**
 
 **Me** Hi, I need to create an architectural vision
 
@@ -81,6 +82,16 @@ Quality Attribute Scenarios
 Let's begin by defining the business case and business goals.
 
 Could you provide details or key points from the RFP that define the business case and goals?
+
+# Conclusion
+
+For each work I performed I noticed the time I spent and here a full table to describe that.
+
+| # | Name                 | Time Spent | Description   |
+| - | ---------------------|------------|:-------------:|
+|   | Anonymization        | 15 minutes | |
+|   | Prepare for input doc| 30 mins spent TBD | |
+|   | Architecture drivers | 15 mins spent TBD | |
 
 <img src="./Images/TBD.jpg" alt="TBD" />
 
