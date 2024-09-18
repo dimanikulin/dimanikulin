@@ -1,10 +1,12 @@
-# Headline
-TBD 
+s# Headline
+TBD
 
 # Alternative headline
+
 TBD
 
 # Table of contents
+
 - [Tags](./!Template.md#tags)
 - [Definitions, Acronyms, Abbreviations](./!Template.md#definitions-acronyms-abbreviations)
 - [Overview](./!Template.md#overview)
@@ -12,22 +14,28 @@ TBD
 - [References](./!Template.md#references)
 
 # Tags
+
 TBD
 
 # Definitions, Acronyms, Abbreviations
+
 | # | Abbreviation or Acronym | Definition     |
 | - | ------------------------|:--------------:|
 | 1 |
 
 # Overview
-TBD 
+
+TBD
 
 or ---
+
 # Introduction
-TBD 
+
+TBD
 
 <img src="./Images/TBD.jpg" alt="TBD" />
 
 # References
+
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
