@@ -1,7 +1,9 @@
 # Headline
+
 Holidays
 
 # Table of contents
+
 - [Tags](./Holidays.md#tags)
 - [Overview](./Holidays.md#overview)
 - [What is the best gift for Ukrainian people for Christmas and New Year?](./Holidays.md#what-is-the-best-gift-for-ukrainian-people-for-christmas-and-new-year)
@@ -10,14 +12,17 @@ Holidays
 - [References](./Holidays.md#references)
 
 # Tags
+
 holidays
 
 # Overview
-TBD 
+
+TBD
 
 ---
 
 # What is the best gift for Ukrainian people for Christmas and New Year?
+
 What is the best gift for Ukrainian people for Christmas and New Year?
 
 - Patriot defense system **8%**
@@ -26,7 +31,7 @@ What is the best gift for Ukrainian people for Christmas and New Year?
 
 Any other options I forgot to mention?
 
-# З Днем Вишиванки!
+# З Днем Вишиванки
 
 З Днем Вишиванки!
 
@@ -41,18 +46,21 @@ Any other options I forgot to mention?
 <img src="./Images/Vishivanka.jpg" alt="Vishivanka" />
 
 # What is the best gift for Ukrainian people for Christmas and New Year 2?
- - Taurus rockets **0%**
- - Nuclear weapon **0%**
- - pUTINs visit of Kobzon concert **0%**
+
+- Taurus rockets **0%**
+- Nuclear weapon **0%**
+- pUTINs visit of Kobzon concert **0%**
 
 Any other options I forgot to mention?
 
 ## Tags
+
 globallogic ukraine nationalholiday
 
 # References
+
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 | 1 |What is the best gift for Ukrainian people for Christmas and New Year?|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_armukrainenow-warinukraine-activity-7012374950275637249-Wpcn?utm_source=share&utm_medium=member_desktop)|01/12/2022| Dmytro Nikulin||
-| 2 |З Днем Вишиванки!| [LinkedIn](https://www.linkedin.com/posts/dimanikulin_globallogic-ukraine-nationalholiday-activity-7064859572955398144-xxKg?utm_source=share&utm_medium=member_desktop)| 18/05/2023 | Dmytro Nikulin|| 
+| 2 |З Днем Вишиванки!| [LinkedIn](https://www.linkedin.com/posts/dimanikulin_globallogic-ukraine-nationalholiday-activity-7064859572955398144-xxKg?utm_source=share&utm_medium=member_desktop)| 18/05/2023 | Dmytro Nikulin||
 | 3 |What is the best gift for Ukrainian people for Christmas and New Year?|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_activity-7145329226500521984-2up9?utm_source=share&utm_medium=member_desktop) | 26/12/2022| Dmytro Nikulin||

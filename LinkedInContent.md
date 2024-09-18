@@ -1,7 +1,9 @@
 # Headline
+
 LinkedIn content
 
 # Table of contents
+
 - [Tags](./LinkedInContent.md#tags)
 - [Overview](./LinkedInContent.md#overview)
 - [Just Joined LinkedIn](./LinkedInContent.md#just-joined-linkedin)
@@ -9,18 +11,20 @@ LinkedIn content
 - [References](./LinkedInContent.md#references)
 
 # Tags
+
 LinkedIn Content
 
 # Overview
-TBD 
+
+TBD
 
 ---
 
 # Just Joined LinkedIn
+
 Наболело...
 
 <img src="./Images/JustJoinedLinkedIn.jpg" alt="Just Joined LinkedIn" />
-
 
 # What do you think about content posted in LinkedIn?
 
@@ -40,7 +44,8 @@ Please share your opinion in the comments.
 16 Votes
 
 # References
+
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 | 1 | Just Joined LinkedIn (На русском) |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_%D0%BD%D0%B0%D0%B1%D0%BE%D0%BB%D0%B5%D0%BB%D0%BE-activity-6896460037422686208-xicr?utm_source=share&utm_medium=member_desktop)| 16/02/2022 | Dmytro Nikulin |  |
-| 2 | What do you think about content posted in LinkedIn? | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_linkedin-content-activity-7061244365477752832-VDm0?utm_source=share&utm_medium=member_desktop) | 08/05/2023 | Dmytro Nikulin |  | 
+| 2 | What do you think about content posted in LinkedIn? | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_linkedin-content-activity-7061244365477752832-VDm0?utm_source=share&utm_medium=member_desktop) | 08/05/2023 | Dmytro Nikulin |  |
