@@ -73,7 +73,7 @@ For each work I performed I noticed the time I spent and here a full table to de
 
 | # | Name                 | Time Spent | Description   |
 | - | ---------------------|------------|:-------------:|
-|   | Anonymization        | 15 minutes | |
+|   | Anonymization        | 120(before me) +15 minutes | |
 |   | Prepare for input doc| 30 mins spent TBD | |
 |   | Architecture drivers | 15 mins spent TBD | |
 
