@@ -1,10 +1,13 @@
 # Headline
+
 **Detecting Architectural Gaps** with Automation: Comprehensive Overview of Proposed Software Solution's Architecture and Integration
 
-# Alternative headline 
+# Alternative headline
+
 **Detecting Architectural Gaps** with Automation - Proposed Solution
 
 # Table of contents
+
 - [Tags](./DAGProposedSolution_en.md#tags)
 - [Definitions, Acronyms, Abbreviations](./DAGProposedSolution_en.md#definitions-acronyms-abbreviations)
 - [Overview](./DAGProposedSolution_en.md#overview)
@@ -28,9 +31,11 @@
 - [References](./DAGProposedSolution_en.md#references)
 
 # Tags
+
 Software Architecture, Integration Strategies, Deployment Scenarios, Context Diagrams, Functional Decomposition, CI/CD Pipelines
 
 # Definitions, Acronyms, Abbreviations
+
 | # | Abbreviation or Acronym | Definition     |
 | - | ------------------------|:--------------:|
 | 1 | API | is a computing interface to a software component or a system, that defines how other components or systems can use it. It defines the kinds of calls or requests that can be made, how to make them, the data formats that should be used, the conventions to follow, etc|
@@ -45,20 +50,23 @@ Software Architecture, Integration Strategies, Deployment Scenarios, Context Dia
 | 10| UML | The Unified Modeling Language (UML) is a general-purpose, developmental, modeling language in the field of software engineering that is intended to provide a standard way to visualize the design of a system.|
 
 # Overview
-This article delves into a comprehensive analysis of a proposed software solution, encompassing its architecture, integration strategies, and deployment scenarios. 
+
+This article delves into a comprehensive analysis of a proposed software solution, encompassing its architecture, integration strategies, and deployment scenarios.
 
 From context diagrams that define solution boundaries to the intricate web of interactions with external systems, users, and data, we examine how the solution bridges the gap between users and technology.
-Discover how the solution's functional decomposition and integration layers abstract complexities, enabling extensibility and modifiability. 
+Discover how the solution's functional decomposition and integration layers abstract complexities, enabling extensibility and modifiability.
 Explore the role of the user interface, data layer, processing layer, and the deployment view across on-premise and cloud environments.
 Furthermore, learn about the integration with UML design tools, cloud services, and CI/CD pipelines, showcasing the solution's adaptability to industry best practices.
-Whether you're an architect, developer, or IT enthusiast, this article offers a comprehensive guide to understanding the inner workings of a forward-looking software solution. 
+Whether you're an architect, developer, or IT enthusiast, this article offers a comprehensive guide to understanding the inner workings of a forward-looking software solution.
 
 # Introduction
+
 In the ever-evolving realm of software development, the quest for a robust and seamlessly integrated solution stands as a paramount pursuit.
 This article embarks on a comprehensive journey into the depths of a proposed software solution, meticulously scrutinizing its architecture, integration strategies, and deployment modalities.
 Through this exploration, we illuminate the symbiotic dance between users and technology, offering a roadmap for architects, developers, and IT aficionados alike to navigate the labyrinth of a forward-thinking software solution.
 
 # The Context View for Standalone Application
+
 A **context diagram (view)** defines the solution's boundaries and connections with third parties, such as external systems, users, and data.
 
 As shown in the context diagram above, there is an interaction between **Users** and the **Proposed Solution**.
@@ -73,17 +81,20 @@ Finally, Report Storage is employed to save the outputs extracted from the **Arc
 <img src="./Images/DAGProposedSolution1.png" alt="DAG Proposed Solution 1.png" />
 
 # The Context View for a Separate Step in CI/CD
+
 The sole distinction between the previous view and the **Context View** for a **Separate Step** in **CI/CD** is the integration of the proposed solution with the existing **CI/CD** pipeline.
 
 <img src="./Images/DAGProposedSolution2.png" alt="DAG Proposed Solution 2.png" />
 
 # Functional View
+
 The functional diagram below illustrates the high-level functional decomposition of the proposed solution.
 An agenda is provided below to explain the color coding used in the functional decomposition diagram.
 
 <img src="./Images/DAGProposedSolution3.png" alt="DAG Proposed Solution 3.png" />
 
 ## Integration Layer
+
 The function of the integration layer is to abstract and segregate the system from external components, enhancing system extensibility and modifiability.
 
 The following components are involved:
@@ -96,10 +107,12 @@ The following components are involved:
 - Reports Plugins: An engine designed to generate reports in a flexible manner and store them in an external report storage.
 
 ## User Interface
-The user interface function interacts with users in two modes: **architects** and **administrator** mode. 
+
+The user interface function interacts with users in two modes: **architects** and **administrator** mode.
 It utilizes a web interface that is compatible with desktop browsers.
 
 ## Data Layer
+
 The data layer function maintains the following types of data:
 
 - Architecture Baselines: This feature records the history of architecture changes, allowing users to track and view past changes. It is accessible for viewing from the architects' panel.
@@ -107,13 +120,15 @@ The data layer function maintains the following types of data:
 - User Configuration: This includes user profiles and access rights, which can be modified from the administrator panel.
 
 ## Processing Layer
+
 The processing layer serves as a fundamental function within systems, tasked with processing input data to identify architecture problems.
 Configuration of this layer takes place through the architect panel, where checks against the input are initiated.
-Additionally, it collaborates with the reports plugins engine for report storage. 
+Additionally, it collaborates with the reports plugins engine for report storage.
 Furthermore, the extracted architecture is preserved in **Architecture** baselines, enabling architects to review it at a later time.
 It is worth noting that **Machine Learning (ML)** might be employed during processing to enhance the quality of reports.
 
 # Deployment View
+
 The deployment view illustrates how a solution is intended to be deployed, encompassing its flows and the supporting components.
 
 ## Deployment View - On-Premises
@@ -130,12 +145,14 @@ The **User Interface** component is presented as a web service, while the **Proc
 Reports plugins and integration points are designed as dynamic libraries that can be easily added, removed, and configured at runtime.
 
 ## Deployment View - Cloud
+
 <img src="./Images/DAGProposedSolution5.png" alt="DAG Proposed Solution 5.png" />
 
 **Cloud deployment** involves the utilization of two computing nodes for installation.
 Due to the potentially high **CPU usage** of the Machine Learning process, it is recommended to allocate a dedicated machine for this purpose within the cloud pipeline.
 
-# Integration with UML Design Tools:
+# Integration with UML Design Tools
+
 As previously mentioned, the proposed solution should seamlessly integrate with offline **UML design** tools, including:
 
 - Microsoft Visio
@@ -175,7 +192,7 @@ On the other hand, integration with **Enterprise Architect** will involve the us
 # Integration with AWS, Azure, or GCP
 
 This section outlines how the proposed solution can seamlessly integrate with **AWS**, **Azure**, or **GCP**.
-Given the potential enhancements **Machine Learning** can offer in terms of result quality, it is advisable to allocate a dedicated compute node for **ML** tasks. 
+Given the potential enhancements **Machine Learning** can offer in terms of result quality, it is advisable to allocate a dedicated compute node for **ML** tasks.
 However, in scenarios where the on-premise environment lacks the capability to support **ML** calculations, a viable solution is to leverage a **Cloud Environment** for both **ML** computation and the overall computing needs.
 
 Drawing from the deployment flows previously described, each component should be matched with the appropriate cloud provider service.
@@ -189,6 +206,7 @@ For instance, in the context of **AWS**:
 Similar mapping strategies can be applied for **Azure** and **GCP**, ensuring that each component seamlessly integrates with the suitable services provided by the respective cloud platforms.
 
 # Dependency Analysis Tool
+
 Dependency identification plays a crucial role in architecture analysis.
 It dissects the entire codebase into components and elucidates their interactions.
 Given that similar functions are already available in tools like **JDeps**, leveraging their output would logically bolster the implementation of the **proposed solution**.
@@ -223,13 +241,13 @@ This extension entails invoking the proposed solution for architecture analysis.
 Consequently, the augmented pipeline would resemble the second pipeline depicted in the provided diagram.
 
 # References
+
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 | 1 | Why data drift detection is important and how do you automate it in 5 simple steps | [web](https://towardsdatascience.com/why-data-drift-detection-is-important-and-how-do-you-automate-it-in-5-simple-steps-96d611095d93)| 1/11/2021 | Srikanth Machiraju | |
-| 2 | Detecting data drift using Amazon SageMaker | [web](https://aws.amazon.com/blogs/architecture/detecting-data-drift-using-amazon-sagemaker/)| 03/05/2022 | Shibu Nair, Zorina Alliata, Péter Molnár, and Joe Pazak | |
+| 2 | Detecting data drift using Amazon SageMaker | [web](https://aws.amazon.com/blogs/architecture/detecting-data-drift-using-amazon-sagemaker/)| 03/05/2022 | Shibu Nair, Zorina Alliata, Pï¿½ter Molnï¿½r, and Joe Pazak | |
 | 3 | Manipulate the Visio file format programmatically | [web](https://learn.microsoft.com/en-us/office/client-developer/visio/how-to-manipulate-the-visio-file-format-programmatically)| 04/03/2023 | Microsoft | |
 | 4 | Enterprise Architect API | [Pdf document](https://sparxsystems.com/resources/user-guides/15.1/automation/automation.pdf)| 20/01/2020 | Sparx Systems | |
 | 5 | Java class dependency analyzer | [web](https://docs.oracle.com/javase/9/tools/jdeps.htm#JSWOR690)| | | |
-| 6 | Detecting Architectural Gaps with Automation : Business Context | [GitHub](./DAGBusinessContext_en.md) |  | Dmytro Nikulin | | 
-| 7 | Detecting Architectural Gaps with Automation : Existing Solutions | [GitHub](./DAGExistingSolutions_en.md) |  | Dmytro Nikulin | | 
- 
+| 6 | Detecting Architectural Gaps with Automation : Business Context | [GitHub](./DAGBusinessContext_en.md) |  | Dmytro Nikulin | |
+| 7 | Detecting Architectural Gaps with Automation : Existing Solutions | [GitHub](./DAGExistingSolutions_en.md) |  | Dmytro Nikulin | |

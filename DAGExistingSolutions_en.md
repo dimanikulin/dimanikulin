@@ -1,10 +1,13 @@
 # Headline
+
 **Detecting Architectural Gaps** with Automation: Powerful Tools for Real-Time Architecture Analysis: Bionic.ai, Castsoftware, Axivion, and NDepend Offer Comprehensive Solutions
 
-# Alternative headline 
+# Alternative headline
+
 **Detecting Architectural Gaps** with Automation - Existing Solutions
 
 # Table of contents
+
 - [Tags](./DAGExistingSolutions_en.md#tags)
 - [Definitions, Acronyms, Abbreviations](./DAGExistingSolutions_en.md#definitions-acronyms-abbreviations)
 - [Overview](./DAGExistingSolutions_en.md#overview)
@@ -23,9 +26,11 @@
 - [References](./DAGExistingSolutions_en.md#references)
 
 # Tags
+
 Bionic.ai Castsoftware Axivion NDepend softwarearchitecture applicationanalysis impactanalysis codeanalysis staticcodeanalysis architecturemaintenance
 
 # Definitions, Acronyms, Abbreviations
+
 | # | Abbreviation or Acronym | Definition     |
 | - | ------------------------|:--------------:|
 | 1 | API | is a computing interface to a software component or a system, that defines how other components or systems can use it. It defines the kinds of calls or requests that can be made, how to make them, the data formats that should be used, the conventions to follow, etc|
@@ -39,27 +44,30 @@ Bionic.ai Castsoftware Axivion NDepend softwarearchitecture applicationanalysis 
 | 9 | Compliance | In general, compliance means conforming to a rule, such as a specification, policy, standard or law. Compliance has traditionally been explained by reference to the deterrence theory, according to which punishing a behavior will decrease the violations both by the wrongdoer and by others.|
 | 10| DevOps | DevOps is the combination of cultural philosophies, practices, and tools that increases an organization's ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes.|
 | 11| Jenkins | Jenkins is an open source automation server. It helps automate the parts of software development related to building, testing, and deploying, facilitating continuous integration and continuous delivery. It is a server-based system that runs in servlet containers such as Apache Tomcat.|
-| 12| Microservices | A microservice architecture – a variant of the SOA structural style – arranges an application as a collection of loosely-coupled services. In a microservices architecture, services are fine-grained and the protocols are lightweight. The goal is that teams can bring their services to life independent of others|
+| 12| Microservices | A microservice architecture ï¿½ a variant of the SOA structural style ï¿½ arranges an application as a collection of loosely-coupled services. In a microservices architecture, services are fine-grained and the protocols are lightweight. The goal is that teams can bring their services to life independent of others|
 | 13| MISRA C | MISRA C is a set of software development guidelines for the C programming language developed by The MISRA Consortium. Its aims are to facilitate code safety, security, portability and reliability in the context of embedded systems, specifically those systems programmed in ISO C / C90 / C99.|
 | 14| OLAP | Online analytical processing (OLAP) is a technology that organizes large business databases and supports complex analysis. It can be used to perform complex analytical queries without negatively affecting transactional systems.|
-| 15| OLTP | OLTP or Online Transaction Processing is a type of data processing that consists of executing a number of transactions occurring concurrently—online banking, shopping, order entry, or sending text messages, for example.|
+| 15| OLTP | OLTP or Online Transaction Processing is a type of data processing that consists of executing a number of transactions occurring concurrentlyï¿½online banking, shopping, order entry, or sending text messages, for example.|
 | 16| SCA | Static Code Analysis - One of the capabilities of the CI/CD pipeline. Its purpose is to check the code using a predefined set of rules. SCA usually is performed between Build and Test stages.|
 | 17| SOA | In software engineering, service-oriented architecture is an architectural style that focuses on discrete services instead of a monolithic design|
 | 18| UML | The Unified Modeling Language (UML) is a general-purpose, developmental, modeling language in the field of software engineering that is intended to provide a standard way to visualize the design of a system.|
 
 # Overview
-Discover how four cutting-edge tools-Bionic.ai, Castsoftware Highlight, Cast Imaging, Axivion Suite, and NDepend-revolutionize the way applications are analyzed and their architecture is maintained in real-time. 
-From creating baseline architectures to detecting drifts, erosions, and security and compliance issues, these tools offer diverse features such as interactive architecture views, impact analysis, and integration with CI/CD pipelines. 
-Dive into the comparison of their functionalities and understand how they address different levels of architectural governance, ensuring optimal application performance and development. 
+
+Discover how four cutting-edge tools-Bionic.ai, Castsoftware Highlight, Cast Imaging, Axivion Suite, and NDepend-revolutionize the way applications are analyzed and their architecture is maintained in real-time.
+From creating baseline architectures to detecting drifts, erosions, and security and compliance issues, these tools offer diverse features such as interactive architecture views, impact analysis, and integration with CI/CD pipelines.
+Dive into the comparison of their functionalities and understand how they address different levels of architectural governance, ensuring optimal application performance and development.
 
 # Introduction
-In the rapidly evolving landscape of software development, maintaining the integrity and coherence of application architectures is paramount. 
-With the proliferation of complex systems and frequent updates, ensuring that software architectures remain resilient against drifts, erosions, and compliance lapses has become a daunting challenge. 
+
+In the rapidly evolving landscape of software development, maintaining the integrity and coherence of application architectures is paramount.
+With the proliferation of complex systems and frequent updates, ensuring that software architectures remain resilient against drifts, erosions, and compliance lapses has become a daunting challenge.
 However, innovative solutions like Bionic.ai, Castsoftware, NDepend, and Axivion Suite are revolutionizing the way organizations approach architecture governance and code quality management.
 As organizations navigate the complexities of modern software development, these innovative solutions provide indispensable tools for ensuring architectural coherence, compliance adherence, and code quality excellence.
 Through their diverse feature sets and integrative approaches, they herald a new era of architecture governance and software development efficiency.
- 
+
 # Bionic.ai
+
 [Bionic](https://www.bionic.ai/) is a platform designed to analyze the **architecture** of applications and their dependencies in real-time.
 Initially, it creates a **baseline** of the architecture during the initial scan.
 Subsequently, whenever a **change occurs**, the **next scan** is triggered to detect any drift or erosion.
@@ -68,6 +76,7 @@ Upon detecting a change, Bionic.ai suggests the context and thoroughly analyzes 
 As a result, it generates comprehensive software **architecture** diagrams, encompassing deployment, logical, and flow views.
 
 ## Main features
+
 - Facilitates checking if architecture rules and standards are applied
 - Aids in identifying any structural or behavioral changes
 - Conducts code and document scans during the initial or scheduled stages
@@ -79,29 +88,35 @@ As a result, it generates comprehensive software **architecture** diagrams, enco
 <img src="./Images/DAGExistingSolutions1.png" alt="DAG Existing Solution 1" />
 
 # Castsoftware Highlight
+
 [Cast Highlight](https://www.castsoftware.com/products/highlight) is an application designed to automatically analyze the source code.
 
-## Main features:
+## Main features
+
 - Analyzes the code to identify processes/applications suitable for refactoring, retirement, or rebuilding.
 - Provides a readiness percentage for migrating to the cloud based on the analysis.
 
-# Castsoftware Cast Imaging 
+# Castsoftware Cast Imaging
+
 [Cast Imaging](https://www.castsoftware.com/imaging) is an application that creates visualizations of **architecture**, offering several levels of detailed views ranging from services level up to code/classes level.
 It defines data flows from the high-level application perspective down to the database level.
 When changes occur, it provides the impact analysis, such as a list of components affected by the breaking of component communication.
 Additionally, it creates inventories of **databases**, **libraries/frameworks**, and **languages**.
 
 ## Main features
+
 - Performs reverse engineering of code, databases, and application dependencies.
 - Generates holistic architecture views and blueprints.
 - Interactive mode for exploring architecture views.
 - Tagging feature to group components based on criteria, enabling easy component search and filtering after tagging is completed.
 
 # NDepend
-[NDepend](https://www.workshell.co.uk/products/netdepends/) is an application designed to analyze **C#** code, checking it against best practices and rules created by developers and architects. 
+
+[NDepend](https://www.workshell.co.uk/products/netdepends/) is an application designed to analyze **C#** code, checking it against best practices and rules created by developers and architects.
 The tool enables users to manage dependencies through the creation of graphs and matrices.
 
 ## Main features
+
 - Utilize built-in rules and customize them according to specific needs.
 - Investigate application structure and library linkages.
 - Seamless integration into the CI/CD process, enabling real-time identification of code and architecture issues.
@@ -110,7 +125,8 @@ The tool enables users to manage dependencies through the creation of graphs and
 <img src="./Images/DAGExistingSolutions2.png" alt="DAG Existing Solution 2" />
 
 # Axivion Suite
-[Axivion Suite](https://www.axivion.com/en/) is a powerful static code analysis tool that empowers users to thoroughly examine software **architecture**, ensuring prevention of **drifts** and **erosions**. 
+
+[Axivion Suite](https://www.axivion.com/en/) is a powerful static code analysis tool that empowers users to thoroughly examine software **architecture**, ensuring prevention of **drifts** and **erosions**.
 The platform offers customizable reporting with a reporting API, providing flexibility in generating reports.
 Axivion also includes an editor that allows users to create or customize rules for comprehensive code checking.
 
@@ -131,6 +147,7 @@ Supported Metrics:
 With Axivion Suite, users can proactively maintain the integrity and quality of their **software architecture** by adhering to industry-leading compliance standards and monitoring key metrics.
 
 ## Main Features
+
 - Code checks for clones, identifying duplicated code segments to ensure code efficiency.
 - Detection of unreachable code and cycles, improving code reliability and performance.
 - Supported on three major operating systems - MacOS, Windows, and Linux, for seamless usage across platforms.
@@ -162,11 +179,12 @@ With Axivion Suite, users can proactively maintain the integrity and quality of 
 |Simple to set up|+|+|+|+|
 |Check for cloud Readiness|-|+|-|-|
 
-As we can see from the [table](./Images/DAGExistingSolutions3.png) above, the existing **solutions** do not provide coverage for levels important for **architecture** governance, such as **DevOps**, **Data**, and **Compliance**. 
+As we can see from the [table](./Images/DAGExistingSolutions3.png) above, the existing **solutions** do not provide coverage for levels important for **architecture** governance, such as **DevOps**, **Data**, and **Compliance**.
 Additionally, not all inputs are supported by the overviewed solutions.
 For example, scanning DB is not supported by **Bionic.ai**, and scanning **UML** documentation is not supported at all.
 
 # References
+
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 | 1 | Bionic | [Web](https://www.bionic.ai/) | | | |
@@ -174,5 +192,5 @@ For example, scanning DB is not supported by **Bionic.ai**, and scanning **UML**
 | 3 | Castsoftware Image | [Web](https://www.castsoftware.com/imaging) | | | |
 | 4 | Netdepends | [Web](https://www.workshell.co.uk/products/netdepends/) | | | |
 | 5 | Axivion | [Web](https://www.axivion.com/en/) | | | |
-| 6 | Detecting Architectural Gaps with Automation : Business Context | [GitHub](./DAGBusinessContext_en.md) |  | Dmytro Nikulin | | 
-| 7 | Detecting Architectural Gaps with Automation : Proposed Solution | [GitHub](./DAGProposedSolution_en.md) |  | Dmytro Nikulin | | 
+| 6 | Detecting Architectural Gaps with Automation : Business Context | [GitHub](./DAGBusinessContext_en.md) |  | Dmytro Nikulin | |
+| 7 | Detecting Architectural Gaps with Automation : Proposed Solution | [GitHub](./DAGProposedSolution_en.md) |  | Dmytro Nikulin | |
