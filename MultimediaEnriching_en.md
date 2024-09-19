@@ -1,16 +1,20 @@
 # Headline
+
 Enriching the Multimedia
- 
+
 # Table of contents
+
 - [Tags](./MultimediaEnriching_en.md#tags)
 - [Overview](./MultimediaEnriching_en.md#overview)
 - [Definitions, Acronyms, Abbreviations](./MultimediaEnriching_en.md#definitions-acronyms-abbreviations)
 - [References](./MultimediaEnriching_en.md#references)
 
 # Tags
+
 TBD
 
 # Definitions, Acronyms, Abbreviations
+
 | # | Abbreviation or Acronym | Definition     |
 | - | ------------------------|:--------------:|
 | 1 | API                     |is a computing interface to a software component or a system, that defines how other components or systems can use it. It defines the kinds of calls or requests that can be made, how to make them, the data formats that should be used, the conventions to follow, etc                |
@@ -22,7 +26,7 @@ TBD
 | 7 | [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) |The Document Object Model (DOM) is a [cross-platform](https://en.wikipedia.org/wiki/Cross-platform) and [language-independent](https://en.wikipedia.org/wiki/Language-independent_specification) interface that treats an [XML](https://en.wikipedia.org/wiki/XML) or [HTML](https://en.wikipedia.org/wiki/HTML) document as a [tree structure](https://en.wikipedia.org/wiki/Tree_structure) wherein each [node](https://en.wikipedia.org/wiki/Node_(computer_science)) is an [object](https://en.wikipedia.org/wiki/Object_(computer_science)) representing a part of the document.  |
 | 8 | [Facial recognition](https://en.wikipedia.org/wiki/Facial_recognition_system)| A facial recognition system is a technology capable of [identifying](https://en.wikipedia.org/wiki/Identification_of_human_individuals) or [verifying](https://en.wikipedia.org/wiki/Authentication) a person from a [digital image](https://en.wikipedia.org/wiki/Digital_image) or a [video frame](https://en.wikipedia.org/wiki/Film_frame) from a video source.|
 | 9 | [Geo positions](https://en.wikipedia.org/wiki/Geographic_coordinate_system)| A geographic [coordinate system](https://en.wikipedia.org/wiki/Coordinate_system) (GCS) is a coordinate system associated with [positions](https://en.wikipedia.org/wiki/Position_(geometry)) on [Earth](https://en.wikipedia.org/wiki/Earth) (geographic position)|
-| 10| [Google Maps](https://en.wikipedia.org/wiki/Google_Maps)| Google Maps is a [web mapping](https://en.wikipedia.org/wiki/Web_mapping) service developed by [Google](https://en.wikipedia.org/wiki/Google). It offers [satellite imagery](https://en.wikipedia.org/wiki/Satellite_imagery), [aerial photography](https://en.wikipedia.org/wiki/Aerial_photography), street maps, 360° [interactive panoramic](https://en.wikipedia.org/wiki/Interactive_panorama) views of streets ([Street View](https://en.wikipedia.org/wiki/Google_Street_View)), real-time traffic conditions, and [route planning](https://en.wikipedia.org/wiki/Route_planner) for traveling by foot, car, bicycle and air (in [beta](https://en.wikipedia.org/wiki/Software_release_life_cycle#Beta)), or [public transportation](https://en.wikipedia.org/wiki/Public_transportation).|
+| 10| [Google Maps](https://en.wikipedia.org/wiki/Google_Maps)| Google Maps is a [web mapping](https://en.wikipedia.org/wiki/Web_mapping) service developed by [Google](https://en.wikipedia.org/wiki/Google). It offers [satellite imagery](https://en.wikipedia.org/wiki/Satellite_imagery), [aerial photography](https://en.wikipedia.org/wiki/Aerial_photography), street maps, 360ï¿½ [interactive panoramic](https://en.wikipedia.org/wiki/Interactive_panorama) views of streets ([Street View](https://en.wikipedia.org/wiki/Google_Street_View)), real-time traffic conditions, and [route planning](https://en.wikipedia.org/wiki/Route_planner) for traveling by foot, car, bicycle and air (in [beta](https://en.wikipedia.org/wiki/Software_release_life_cycle#Beta)), or [public transportation](https://en.wikipedia.org/wiki/Public_transportation).|
 | 11| [GPS](https://en.wikipedia.org/wiki/Global_Positioning_System)| The Global Positioning System (GPS), originally NAVSTAR GPS, is a satellite-based [radio navigation](https://en.wikipedia.org/wiki/Radionavigation-satellite_service) system owned by the [United States](https://en.wikipedia.org/wiki/United_States) government and operated by the [United States Space Force](https://en.wikipedia.org/wiki/United_States_Space_Force).|
 | 12| [HTML](https://en.wikipedia.org/wiki/HTML)|Hypertext Markup Language (HTML) is the standard [markup language](https://en.wikipedia.org/wiki/Markup_language) for documents designed to be displayed in a [web browser](https://en.wikipedia.org/wiki/Web_browser). |
 | 13| [images.google.com](https://images.google.com/)|[Google](https://en.wikipedia.org/wiki/Google) Images is a search service owned by Google that allows users to search the [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web) for [image](https://en.wikipedia.org/wiki/Image) content. |
@@ -31,13 +35,15 @@ TBD
 | 16| [serpapi.com](https://serpapi.com/)|API to get search engine results with ease. |
 
 # Overview
-TBD 
+
+TBD
 
 ---
 
 <img src="./Images/TBD.jpg" alt="TBD" />
 
 # References
+
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 | 1 | Analyze of Multimedia organizers |[GitHub](./MultimediaOrganizersAnalyze_en.md)| | Dmytro Nikulin | |

@@ -1,20 +1,24 @@
 # Headline
+
 The Comparison of Private Multimedia IR Systems
- 
+
 # Table of contents
+
 - [Tags](./MultimediaIRSystemsAnalyze_en.md#tags)
 - [Overview](./MultimediaIRSystemsAnalyze_en.md#overview)
 - [Introduction](./MultimediaIRSystemsAnalyze_en.md#introduction)
-- [Comparison](./MultimediaIRSystemsAnalyze_en.md#comparison) 
+- [Comparison](./MultimediaIRSystemsAnalyze_en.md#comparison)
 - [Definitions, Acronyms, Abbreviations](./MultimediaIRSystemsAnalyze_en.md#definitions-acronyms-abbreviations)
 - [Well implemented features](./MultimediaIRSystemsAnalyze_en.md#well-implemented-features)
 - [To be developed features](./MultimediaIRSystemsAnalyze_en.md#to-be-developed-features)
 - [References](./MultimediaIRSystemsAnalyze_en.md#references)
 
 # Tags
+
 Multimedia IR systems, Synology Moments, Mylio, Google Photos, digiKam, Apple photo
 
 # Definitions, Acronyms, Abbreviations
+
 | # | Abbreviation or Acronym | Definition     |
 | - | ------------------------|:--------------:|
 | 1 | Apple Photo             |is a [photo management](https://en.wikipedia.org/wiki/Image_organizer) and [editing](https://en.wikipedia.org/wiki/Image_editing) application developed by [Apple](https://en.wikipedia.org/wiki/Apple_Inc.). |
@@ -27,14 +31,16 @@ Multimedia IR systems, Synology Moments, Mylio, Google Photos, digiKam, Apple ph
 | 8 | [Mylio](https://mylio.com/tour/)| Mylio has a suite of tools to help you locate and consolidate your images across a variety of locations, including external hard drives, online services.|
 
 # Overview
+
 This article delves into the comparison of several private multimedia IR systems, meticulously evaluating them based on user requirements and preferences.
 Our analysis begins by acknowledging the spectrum of user preferences regarding multimedia IR systems.
 We embark on our comparative journey by scrutinizing prominent contenders in the realm of private multimedia IR systems, each offering unique features and functionalities to cater to distinct user needs.
-Our evaluation extends beyond superficial attributes to delve into the implementation of key features crucial for an enriching user experience. 
+Our evaluation extends beyond superficial attributes to delve into the implementation of key features crucial for an enriching user experience.
 Looking ahead, we outline the evolving landscape of multimedia IR systems and identify emerging user demands that necessitate further development.
 In essence, our comprehensive analysis aims to empower users with the insights needed to navigate the diverse landscape of private multimedia IR systems effectively.
 
 # Introduction
+
 In the digital age, the proliferation of multimedia content has necessitated the development of robust information retrieval (IR) systems tailored to the diverse needs of users.
 Recognizing the varying inclinations of users towards offline and online systems, as well as proprietary and open-source platforms, we aim to provide insights for informed decision-making.
 While some users gravitate towards online systems seamlessly integrated with cloud storage for accessibility and convenience, others favor the autonomy and security offered by offline solutions.
@@ -44,45 +50,51 @@ From enhancing search capabilities for events and objects to incorporating emoti
 By shedding light on strengths, weaknesses, and future trajectories, we endeavor to facilitate informed decision-making and foster an enriched multimedia experience.
 
 # Comparison
+
 Let's compare several **multimedia IR** systems by going over the above-mentioned requirements and needs.
 The best approach here would be to choose one offline and one online system, since some users could feel free to use **multimedia IR** systems that are integrated with online storage (like Cloud ones), while others want to utilize offline **Multimedia IR** systems.
 Similarly, the proprietary and open systems should be included in the comparison.
 <img src="Images/ComparisonoftheprivateMultimediaIRsystems.gif" alt="ComparisonoftheprivateMultimediaIRsystems.gif" />
 Below is the list of them with brief descriptions:
-* **[Synology Moments](https://www.synology.com/en-global/dsm/feature/moments)** – a system that is aimed at collecting all user’s images and videos in one secure location and organizing them in an entirely new way. Synology Moments is the brand-new photo solution for personal and home and personal use, offering a modern browsing experience with the image recognition technique.
-* **[Mylio](https://mylio.com/)** – a free application that can be used to organize images, videos and other data types. This program can be used on any Mac, iOS, Windows and Android device. Mylio can automatically arrange the files depending on the calendar app and can run without the Internet to operate.
-* **[Google Photos](https://en.wikipedia.org/wiki/Google_Photos)** – a photo sharing and storage service, developed by Google. The service automatically analyzes photos, identifying various visual features and subjects. Users can search for anything in photos, with the service returning results in three major categories: People, Places, and Things.
-* **[digiKam](https://docs.kde.org/trunk5/en/digikam-doc/digikam/index.html)** – a free and open-source photo organizing software that can handle more than 100K images. The program has all the photo organizing functionality needed, such as uploading, deleting and sorting images.
-* **[Apple photo](https://en.wikipedia.org/wiki/Apple_Photos)** – a photo management and editing application, developed by Apple.
+
+- **[Synology Moments](https://www.synology.com/en-global/dsm/feature/moments)** ï¿½ a system that is aimed at collecting all userï¿½s images and videos in one secure location and organizing them in an entirely new way. Synology Moments is the brand-new photo solution for personal and home and personal use, offering a modern browsing experience with the image recognition technique.
+- **[Mylio](https://mylio.com/)** ï¿½ a free application that can be used to organize images, videos and other data types. This program can be used on any Mac, iOS, Windows and Android device. Mylio can automatically arrange the files depending on the calendar app and can run without the Internet to operate.
+- **[Google Photos](https://en.wikipedia.org/wiki/Google_Photos)** ï¿½ a photo sharing and storage service, developed by Google. The service automatically analyzes photos, identifying various visual features and subjects. Users can search for anything in photos, with the service returning results in three major categories: People, Places, and Things.
+- **[digiKam](https://docs.kde.org/trunk5/en/digikam-doc/digikam/index.html)** ï¿½ a free and open-source photo organizing software that can handle more than 100K images. The program has all the photo organizing functionality needed, such as uploading, deleting and sorting images.
+- **[Apple photo](https://en.wikipedia.org/wiki/Apple_Photos)** ï¿½ a photo management and editing application, developed by Apple.
 <img src="Images/ComparisonofprivateMultimediaIRsystems.png" alt="ComparisonofprivateMultimediaIRsystems.png" />
+
 <img src="Images/ComparisonofprivateMultimediaIRsystems2.png" alt="ComparisonofprivateMultimediaIRsystems2.png" />
 
 # Well implemented features
-The comparison table demonstrates, how well the following features have been implemented: 
 
-* keeping/browsing functions for the multimedia content of private photo albums; 
-* extensive photo editing capabilities;
-* search by date/time (using metadata);
-* search by location (using metadata);
-* search by people (using face recognition technology over multimedia data content);
-* search by rating/marks (using metadata);
-* search by feedback and by comments. 
+The comparison table demonstrates, how well the following features have been implemented:
+
+- keeping/browsing functions for the multimedia content of private photo albums;
+- extensive photo editing capabilities;
+- search by date/time (using metadata);
+- search by location (using metadata);
+- search by people (using face recognition technology over multimedia data content);
+- search by rating/marks (using metadata);
+- search by feedback and by comments.
 
 From the user's perspective, all of the aforementioned features are well-developed and do not need to be improved upon or replaced by any other software.
 
 # To be developed features
+
 In order to meet user demands, the following set of searching features must be developed:
 
-* search by events (currently possible through tagging only);
-* search by objects/subjects (only a few systems can recognize the objects on the photos);
-* search by emotions;
-* similar photos search (only a few systems are able to provide the search by a similar photo);
-* search by a photo author (is possible by applying tagging only);
-* search by a combination of color or texture (only a few systems can perform this).
+- search by events (currently possible through tagging only);
+- search by objects/subjects (only a few systems can recognize the objects on the photos);
+- search by emotions;
+- similar photos search (only a few systems are able to provide the search by a similar photo);
+- search by a photo author (is possible by applying tagging only);
+- search by a combination of color or texture (only a few systems can perform this).
 
 Although the most recent **multimedia IR** systems may provide search operations, providing tagging must be implemented at a much earlier level than import.
 
 # References
+
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 | 1 | What is Multimedia Data?|[repo](./MultimediaData_en.md)| 01/01/2022            | Dmytro Nikulin | |
@@ -91,6 +103,6 @@ Although the most recent **multimedia IR** systems may provide search operations
 | 4 | Synology Moments     |[Web](https://www.synology.com/en-global/dsm/feature/moments)| 01/01/2021 | Synology       | |
 | 5 | Tour Mylio           |[Web](https://mylio.com/)|                      | Mylio          | |
 | 6 | Google Photos        |[Web](https://en.wikipedia.org/wiki/Google_Photos)| | Wikipedia   | |
-| 7 | A Beginner’s Guide To Google Photos |[Web](https://www.theedublogger.com/google-photos-guide/)| 08/07/2020| Sue Waters     | |
+| 7 | A Beginnerï¿½s Guide To Google Photos |[Web](https://www.theedublogger.com/google-photos-guide/)| 08/07/2020| Sue Waters     | |
 | 8 | The digiKam Handbook |[Web](https://www.digikam.org/documentation/)| | The digiKam developers team | |
 | 9 | Apple Photos         |[Web](https://en.wikipedia.org/wiki/Apple_Photos)|  | Wikipedia      | |
