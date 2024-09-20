@@ -1,16 +1,20 @@
 # Headline
+
 Tagging for Multimedia
 
 # Table of contents
+
 - [Tags](./MultimediaTagging_en.md#tags)
 - [Definitions, Acronyms, Abbreviations](./MultimediaTagging_en.md#definitions-acronyms-abbreviations)
 - [Overview](./MultimediaTagging_en.md#overview)
 - [References](./MultimediaTagging_en.md#references)
 
 # Tags
+
 TBD
 
 # Definitions, Acronyms, Abbreviations
+
 | # | Abbreviation or Acronym | Definition     |
 | - | ------------------------|:--------------:|
 | 1 | [Exif](https://en.wikipedia.org/wiki/Exif)| Exchangeable image file [format](https://en.wikipedia.org/wiki/File_format) (officially Exif, according to JEIDA/JEITA/CIPA specifications) is a standard that specifies the [formats](https://en.wikipedia.org/wiki/File_format) for [images](https://en.wikipedia.org/wiki/Image), [sound](https://en.wikipedia.org/wiki/Sound), and ancillary tags used by [digital cameras](https://en.wikipedia.org/wiki/Digital_camera) (including [smartphones](https://en.wikipedia.org/wiki/Smartphone)), [scanners](https://en.wikipedia.org/wiki/Image_scanner) and other systems handling image and sound files recorded by digital cameras.|
@@ -21,13 +25,15 @@ TBD
 | 6 | [Tagging](https://en.wikipedia.org/wiki/Tag_(metadata))| In [information systems](https://en.wikipedia.org/wiki/Information_system), a tag is a [keyword or term](https://en.wikipedia.org/wiki/Index_term) assigned to a piece of information (such as an [Internet bookmark](https://en.wikipedia.org/wiki/Bookmark_(World_Wide_Web)), [digital image](https://en.wikipedia.org/wiki/Digital_image), database [record](https://en.wikipedia.org/wiki/Record_(computer_science)), or [computer file](https://en.wikipedia.org/wiki/Computer_file)). This kind of [metadata](https://en.wikipedia.org/wiki/Metadata) helps describe an item and allows it to be found again by browsing or searching.|
 
 # Overview
-TBD 
+
+TBD
 
 ---
- 
+
 <img src="./Images/TBD.jpg" alt="TBD" />
 
 # References
+
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 | 1 | Tag your media       | [Web](https://helpx.adobe.com/elements-organizer/using/tag-media.html) | |Adobe |Learn how tagging and using people, places, or events tags lets you easily organize your media by managing your files and making them more search friendly.|
