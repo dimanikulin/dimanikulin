@@ -50,8 +50,16 @@ As input documentation for creation architecture vision the following artifacts 
 - RFI (Request for Information)
 - Text of customer request
 
-Becacause I did not have any from those documents for my *Sample Case* I used *ChatGPT* (not Assistant meontioned previpsly) to help me to create business case(*Sample case anonymizated RFP.docx*) from anonymizated input doc (*Sample case anonymizated.docx*).
-It kept such chapters as
+Becacause I did not have any from those documents for my *Sample Case* I used *ChatGPT* (not Assistant meontioned previpsly) to help me to create business case(*Sample case anonymizated - Business case.docx*) from anonymizated input doc (*Sample case anonymizated.docx*).
+Business case description kept such chapters as
+
+- Company
+- Project
+- Decision Makers
+- Product History
+- Schedule
+- Features
+- Actors
 
 # Assitance
 
@@ -73,8 +81,8 @@ For each work I performed I noticed the time I spent and here a full table to de
 
 | # | Name                 | Time Spent | Description   |
 | - | ---------------------|------------|:-------------:|
-|   | Anonymization        | 120(before me) +15 minutes | |
-|   | Prepare for input doc| 30 mins spent TBD | |
+|   | Anonymization        | 120 (before me) +15 minutes | |
+|   | Prepare for input doc| 45 mins spent TBD | |
 |   | Architecture drivers | 15 mins spent TBD | |
 
 <img src="./Images/TBD.jpg" alt="TBD" />
