@@ -1,7 +1,9 @@
 # Headline
+
 This is when we say "Old, but Gold"
 
 # Table of contents
+
 - [Tags](./OldButGold.md#tags)
 - [Overview](./OldButGold.md#overview)
 - [Windows 95](./OldButGold.md#windows-95)
@@ -12,10 +14,12 @@ This is when we say "Old, but Gold"
 - [References](./OldButGold.md#references)
 
 # Tags
+
 oldschool old
 
 # Overview
-TBD 
+
+TBD
 
 ---
 
@@ -30,15 +34,17 @@ If you can guess, we are the same age
 <img src="./Images/windows95.jpg" alt="TBD" />
 
 # Miranda
+
 Can you guess what it is?
 
 If you know what is this - we are the same age )
 
-Based on https://www.linkedin.com/feed/update/urn:li:activity:6947599537733558272/?commentUrn=urn%3Ali%3Acomment%3A(activity%3A6947599537733558272%2C6951864730680487936)&dashCommentUrn=urn%3Ali%3Afsd_comment%3A(6951864730680487936%2Curn%3Ali%3Aactivity%3A6947599537733558272
+Based on <https://www.linkedin.com/feed/update/urn:li:activity:6947599537733558272/?commentUrn=urn%3Ali%3Acomment%3A(activity%3A6947599537733558272%2C6951864730680487936)&dashCommentUrn=urn%3Ali%3Afsd_comment%3A(6951864730680487936%2Curn%3Ali%3Aactivity%3A6947599537733558272>
 
 <img src="./Images/Miranda.jpg" alt="Miranda.jpg" />
 
 # BSOD
+
 Can you guess what is this without googling?
 
 I have seen that a lot.
@@ -46,9 +52,11 @@ I have seen that a lot.
 <img src="./Images/BSOD.jpg" alt="BSOD.jpg" />
 
 # First Mobile Phone
+
 This is my first mobile phone.
 
 It had no:
+
 - color screen
 - music
 - internet connection
@@ -75,6 +83,7 @@ If you can guess, we are the same age.
 <img src="./Images/WindowsNT40.jfif" alt="TBD" />
 
 # References
+
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 | 1 | Windows 95           |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_oldschool-old-activity-7048925594268352512-c-4G?utm_source=share&utm_medium=member_desktop) | 01/04/2023| Dmytro Nikulin||
