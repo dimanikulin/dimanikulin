@@ -13,3 +13,7 @@
 - [War in Ukraine](./WarInUkraine.md)
 - [Work in GlobalLogic](./WorkInGL.md)
 - [Work Life Balance](WorkLifeBalance.md)
+
+| # | Post name            | Topic                 |  Release date, reactions   |  Post                 | Tags   |
+| - | ---------------------|---------------------- |-----------------| ----------------------- |:-------------:|
+| 1 | TBD  | TBD |  | TBD | TBD  |
