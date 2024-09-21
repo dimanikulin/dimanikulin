@@ -52,7 +52,7 @@ Please see [this link](./MyEducation.md) for details regarding education, cource
 I am looking to collaborate on developing [my product](https://github.com/dimanikulin/fva) because the development is in a hot stage.
 
 Everyone can try themselves in different roles to learn something new and to help me, such as: [Product Manager](./WhatILearnedAsProductManager_en.md), [Delivery Manager](./WhatILearnedAsDeliveryManager_en.md),
-[Application Architect](./WhatILearnedAsAppArchitect_en.md), [Software Developer](./WhatILearnedAsSoftwareDeveloper_en.md), [DevOps](./WhatILearnedAsDevOps_en.md) and [Subject Matter Expert](./WhatILearnedAsSubjectMatterExpert_en.md). 
+[Application Architect](./WhatILearnedAsAppArchitect_en.md), [Software Developer](./WhatILearnedAsSoftwareDeveloper_en.md), [DevOps](./WhatILearnedAsDevOps_en.md) and [Subject Matter Expert](./WhatILearnedAsSubjectMatterExpert_en.md).
 
 <div>
 <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=dimanikulin&show_icons=true&theme=transparent"/>
@@ -66,8 +66,8 @@ Everyone can try themselves in different roles to learn something new and to hel
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/dimanikulin?style=social">
   <img alt="Profile commit activity" src="https://img.shields.io/github/commit-activity/m/dimanikulin/dimanikulin">
   <img alt="FVA commit activity" src="https://img.shields.io/github/commit-activity/m/dimanikulin/fva">
-  <img alt="Profile last commit" src="https://img.shields.io/github/last-commit/dimanikulin/dimanikulin"> 
-  <img alt="FVA last commit" src="https://img.shields.io/github/last-commit/dimanikulin/fva"> 
+  <img alt="Profile last commit" src="https://img.shields.io/github/last-commit/dimanikulin/dimanikulin">
+  <img alt="FVA last commit" src="https://img.shields.io/github/last-commit/dimanikulin/fva">
 </p>
 
 ---

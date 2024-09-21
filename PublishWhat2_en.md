@@ -1,10 +1,13 @@
 # Headline
+
 What Content to Create and How to Publish It, Part 2
 
-# Alternative headline 
+# Alternative headline
+
 Crafting Engaging and Polished Publications: A Comprehensive Guide
 
 # Table of contents
+
 - [Tags](./PublishWhat2_en.md#tags)
 - [Definitions, Acronyms, Abbreviations](./PublishWhat2_en.md#definitions-acronyms-abbreviations)
 - [Overview](./PublishWhat2_en.md#overview)
@@ -20,11 +23,13 @@ Crafting Engaging and Polished Publications: A Comprehensive Guide
 - [Language](./PublishWhat2_en.md#language)
 - [Checklist](./PublishWhat2_en.md#checklist)
 - [References](./PublishWhat2_en.md#references)
- 
+
 # Tags
+
 Content Optimization, Writing Tips, Publishing Strategies, Proofreading Techniques, Online Publishing, Audience Engagement, Writing Checklist
 
 # Definitions, Acronyms, Abbreviations
+
 | # | Abbreviation or Acronym | Definition     |
 | - | ------------------------|:--------------:|
 | 1 | [Google](https://en.wikipedia.org/wiki/Google)| Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include [online advertising technologies](https://en.wikipedia.org/wiki/Online_advertising), a [search engine](https://en.wikipedia.org/wiki/Search_engine), [cloud computing](https://en.wikipedia.org/wiki/Cloud_computing), software, and hardware.|
@@ -32,14 +37,16 @@ Content Optimization, Writing Tips, Publishing Strategies, Proofreading Techniqu
 | 3 | TL;DR                   | TL;DR or tl;dr, short for "too long; didn't read", is internet slang often used to introduce a summary of an online post or news article. It is also used as an informal interjection indicating that a block of text has been ignored due to its length. |
 
 # Overview
+
 In today's digital landscape, creating compelling and polished content is essential for capturing and retaining audience attention.
 This comprehensive guide offers invaluable insights and strategies for optimizing your content across various platforms.
 From refining your writing and formatting techniques to maximizing audience engagement and platform-specific publishing, this guide covers everything you need to know to elevate your content creation game.
-Whether you're a seasoned writer or just starting out, follow these tips and best practices to ensure your publications stand out in a crowded online space. 
+Whether you're a seasoned writer or just starting out, follow these tips and best practices to ensure your publications stand out in a crowded online space.
 
 ---
 
 # Size
+
 The publication should not be overly dense or difficult to read.
 When considering a typical piece intended for public consumption, I propose aiming for an ideal publication size of under **2500** words.
 
@@ -47,10 +54,12 @@ On the other hand, the size should not be too small, where it can be consumed in
 I would suggest **800** words as the smallest size for a publication.
 
 # No formatting symbols
+
 An important point to note is the absence of any formatting symbols in the publication, such as **</br>** or **&nbsp;&nbsp;**.
 These symbols may appear if you copy your content from another document format.
 
 # Citations
+
 There is a recommendation for **citations** to be formatted as in-line links, with any recommended reading listed separately.
 
 # Tables
@@ -65,6 +74,7 @@ Last but not least, I would suggest using tables as images, as many publication 
 Still, keeping the source of tables will provide you with the ability to update table images in case of a change.
 
 # Pictures
+
 Please notice a really important point: **fewer** pictures mean **fewer** views.
 Certainly, all pictures should be related to the text content and enhance its meaning.
 
@@ -73,6 +83,7 @@ I suggest having a featured image as a title image. It might be interactive, lik
 I would prefer **album** orientation to be album rather than **book** orientation. It will use the user's screen more efficiently.
 
 # Plagiarism
+
 Please note that readers prefer content to be **100% original.**
 They expect **0% plagiarism** or duplicate content, and all sources must be properly cited.
 
@@ -81,8 +92,9 @@ When using a quote or definition from another source, it must be cited using an 
 You can use this [website](www.copyscape.com) to check for **plagiarism**.
 
 # Make Proofreading
+
 *And yes,* your content should not have any punctuation or syntax mistakes.
-Also, there should not be any formatting issues. 
+Also, there should not be any formatting issues.
 To make it possible, you will need to **proofread** the content.
 
 How do I do that?
@@ -93,7 +105,7 @@ Also, **Hashnode** has an online proofreading option, so you can post there firs
 
 # Publishing on Multiple Platforms
 
-I publish my content on different platforms — seven for now.
+I publish my content on different platforms ï¿½ seven for now.
 When I join a platform, the first thing I do is read the requirements on how to publish there.
 The content you publish should be relevant and applicable to the platform.
 For example, I don't use **Facebook** to post programming stuff.
@@ -107,6 +119,7 @@ Usually, I first publish my content on **Hackernoon** as they check my content t
 <img src="./Images/wheretopublish11.png" alt="where to publish 1" />
 
 # Time and Frequency of Publication
+
 It is quite important to select the proper day and time for publication.
 I usually publish on Mondays and Thursdays, typically between **10 AM** and **3 PM** my local time, **Ukrainian** time.
 It should definitely not be early in the morning or late at night.
@@ -118,9 +131,11 @@ Additionally, if there is another important event on the platform at the time of
 Regarding frequency, I publish one to two times per week to avoid overloading my readers and to ensure they don't forget about me.
 
 # Language
+
 I would recommend using **English** where possible because it is the most widely known language.
 
 # Checklist
+
 As you can see, there are a lot of items not to forget about.
 That's why I use a checklist to help me remember important points.
 Here it is:
@@ -144,9 +159,10 @@ Here it is:
 - Are there any pictures?
 
 # References
+
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 | 1 | What and how to publish, part 1 |[GitHub](./PublishWhat1_en.md) | | | |
 | 2 | Where to publish, part 1 |[GitHub](./PublishWhere1_en.md) | | | |
 | 3 | Where to publish, part 2 |[GitHub](./PublishWhere2_en.md) | | | |
-| 4 | Your complete guide to writing for hacker noon | [web](https://help.hackernoon.com/your-complete-guide-to-writing-for-hacker-noon) | | | | 
+| 4 | Your complete guide to writing for hacker noon | [web](https://help.hackernoon.com/your-complete-guide-to-writing-for-hacker-noon) | | | |

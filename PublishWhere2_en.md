@@ -1,26 +1,31 @@
 # Headline
+
 Where to publish, part 2
 
 # Table of contents
+
 - [Tags](./PublishWhere2_en.md#tags)
 - [Definitions, Acronyms, Abbreviations](./PublishWhere2_en.md#definitions-acronyms-abbreviations)
 - [Overview](./PublishWhere2_en.md#overview)
 - [References](./PublishWhere2_en.md#references)
 
 # Tags
+
 TBD
 
 # Definitions, Acronyms, Abbreviations
+
 TBD
 
 # Overview
-TBD 
+
+TBD
 
 ---
 
 Here, I will continue describing my experience working with sites and platforms where I publish content.
 
-First of all I was interested in publishing on EU platforms. 
+First of all I was interested in publishing on EU platforms.
 So I tried to search for them and found **Open Research Europe**, **scirp.org** and **eu-opensci.org**.
 But they did not look for me to be for usual developer but for scientists to publish the research results.
 
@@ -44,26 +49,33 @@ Finally I selected following platforms to publish and to descrive here:
 TBD
 
 # dou.eu
+
 TBD
 
 # dou.ua
+
 TBD
 Ukrainian resource
 
 # dev.ua
-TBD 
+
+TBD
 Ukrainian resource
 
-# FreeCodeCamp 
+# FreeCodeCamp
+
 FreeCodeCamp is an open-source community that offers coding challenges and curriculum for web development, data science, and more.
 It also has a publication on Medium where you can publish your articles.
-TBD 
+TBD
 
 # codeproject
-TBD 
+
+TBD
 
 # Comparison
-TBD to convert to image	
+
+TBD to convert to image 
+
 | #             |TBD |TBD|TBD|TBD|TBD|TBD|TBD|
 | -             |---------- |--------|------|------|------|-----|:------:|
 |Editor         |WordPad  |WordPad|MarkDown|WordPad|both|WordPad|WordPad |
@@ -92,7 +104,8 @@ TBD to convert to image
 |Found issues   |          |       |     |     |     |    |      |
 
 # Analyze
-TBD 
+
+TBD
 As seen in the **comparison** table, most platforms offer only a limited set of functions.
 **However**, **Hackernoon**, **Hashnode**, and **Medium** stand out for providing a broader variety of functions.
 Personally, I find certain functions to be crucial, including **Tags**, **Human review**, **Syntax checking**, **Article stats**, and **Series.**
@@ -110,6 +123,7 @@ Slashdot - Slashdot is a news website that covers technology and science topics.
 VentureBeat - VentureBeat is a website that covers technology and business news. It offers a platform for writers to publish their articles and connect with a community of readers.
 
 # References
+
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 | 1 | What and how to publish, part 1 |[GitHub](./PublishWhat1_en.md) | | | |

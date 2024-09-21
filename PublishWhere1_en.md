@@ -1,7 +1,9 @@
 # Headline
+
 Where to publish, part 1
 
 # Table of contents
+
 - [Tags](./PublishWhere1_en.md#tags)
 - [Overview](./PublishWhere1_en.md#overview)
 - [hackernoon](./PublishWhere1_en.md#hackernoon)
@@ -15,9 +17,11 @@ Where to publish, part 1
 - [Analyze](./PublishWhere1_en.md#analyze)
 
 # Tags
+
 Content Publishing Platforms, Hackernoon, Hashnode, Dev.to, Medium, Reddit, Quora, LinkedIn, Comparative Analysis, Features, Tags, Challenges
 
 # Overview
+
 Exploring Content Publishing Platforms: A Comprehensive Analysis of Features and Challenges for Hackernoon, Hashnode, Dev.to, Medium, Reddit, Quora, and LinkedIn.
 
 ---
@@ -59,7 +63,7 @@ For each story, it provides the following options:
 - **TL;DR** - Post Description
 - **First Seen At** - a link to the original story, only for republished stories
 
-It provides a full review cycle, including human review, which takes up to one week. 
+It provides a full review cycle, including human review, which takes up to one week.
 I have tried to publish three times without success, and the reasons for rejection were: too small, not current, non-working links, and spelling errors.
 
 For another story, it stated, *Promoting links in stories, @username? You would need to enter our brand as an author program instead.*
@@ -67,9 +71,8 @@ This meant too many links to one domain inside a story.
 
 In one more case, there was the following:
 
-They asked me to confirm that my article starts the way it should - *Your article appears to start abruptly. By that I mean, it seems like an introductory part of the article is missing.* 
+They asked me to confirm that my article starts the way it should - *Your article appears to start abruptly. By that I mean, it seems like an introductory part of the article is missing.*
 After 3 days, they rejected my article with *Unresponsive contributor.*
-
 
 Please note that it might generate the wrong **TL;DR.**
 In my case, it generated a **TL;DR** based on part of the text, not the whole publication.
@@ -79,10 +82,10 @@ Sometimes import works not well, it deletes space symbols, adds newline symbols,
 For more information on how to publish, please go [to](https://help.hackernoon.com/how-do-i-get-published).
 
 # hashnode
+
 [Hashnode](https://hashnode.com/) is a platform for developers to share their knowledge and connect with other developers in the community. It offers features like customizable blogs, newsletters, and discussions.
 
 *Begin a blog, share knowledge, attain creator independence, and grow your career.*
-
 
 It has a content editor like WordPad.
 
@@ -113,6 +116,7 @@ For each story, it provides the possibility to:
 For more information on how to publish, please go [to](https://support.hashnode.com/en/articles/6420682-writing-a-blog-post)
 
 # dev.to
+
 [dev.to](dev.to) is a community-based platform for software developers where they can share their knowledge and learn from others.
 
 It features a content editor in Markdown format.
@@ -122,13 +126,13 @@ For each story, it provides the possibility to:
 - Add **tags**
 - Add a **cover image**
 - Add a **canonical URL**
-- Change the meta tag **canonical_url** if this post was first published elsewhere (like your own blog) - https://yoursite.com/post-title
+- Change the meta tag **canonical_url** if this post was first published elsewhere (like your own blog) - <https://yoursite.com/post-title>
 - Schedule **publication** at a date with the format *mm/dd/yyyy --:--*
 - Fill up a series - Will this post be part of a series? You can give the series a unique name. (The series becomes visible once it has multiple posts)
 
 For more information on how to publish, please [visit](https://dev.to/devteam/writing-your-first-post-on-dev-3m13)
 
-# Medium 
+# Medium
 
 <img src="./Images/wheretopublish12.png" alt="TBD" />
 
@@ -145,7 +149,7 @@ For each story, it provides the following possibilities:
 - Pin **story:** Pinning a story keeps it at the top of the page until you specify otherwise. Pin this story to the top of your profile.
 - Set **SEO Title:** The SEO Title is used in place of your Title on search engine results pages, such as a Google search. SEO titles over 60 characters will be truncated. SEO titles between 40 and 50 characters with commonly searched words have the best click-through rates.
 - Set **SEO Description:** The SEO Description is used in place of your Subtitle on search engine results pages. Good SEO descriptions utilize keywords, summarize the story, and are between 140-156 characters long.
-- Add **Friend Link:** This link guarantees anyone free access to your story, even if they’ve read all of their complimentary stories for this month. Learn more.
+- Add **Friend Link:** This link guarantees anyone free access to your story, even if theyï¿½ve read all of their complimentary stories for this month. Learn more.
 - Set **Content Licensing**
 - Customize **Story Link**
 - Customize **Canonical Link:** To set URL to show if this story was originally published elsewhere.
@@ -156,6 +160,7 @@ Please note that it removed bolding in the text I copied from GitHub.
 For more information on how to publish, please go [to](https://help.medium.com/hc/en-us/articles/213904978-Add-a-draft-or-post-to-publication)
 
 # Reddit
+
 [Reddit](https://www.reddit.com/) is a network of communities where people can delve into their interests, hobbies, and passions.
 
 It has a content editor with two modes: Markdown and a usual editor similar to Wordpad.
@@ -165,6 +170,7 @@ For each story, it provides the option to add a title and content.
 For more information on how to publish, please go [to](https://support.reddithelp.com/hc/en-us/articles/360060422572-How-do-I-post-on-Reddit-)
 
 # Quora
+
 [Quora](https://www.quora.com/) is a place to gain and share knowledge.
 It's a platform to ask questions and connect with people who contribute unique insights and quality answers.
 Quora features a content editor similar to Wordpad.
@@ -184,6 +190,7 @@ It features a content editor similar to Wordpad, allowing you to add an article,
 For more information on how to publish, please go [to](https://www.linkedin.com/help/linkedin/answer/a522427#:~:text=Click%20Write%20article%20in%20the,you%20to%20the%20publishing%20tool.).
 
 # Comparison
+
 | #             |Hackernoon |hashnode|dev.to|medium|reddit|quora|linkedin|
 | -             |---------- |--------|------|------|------|-----|:------:|
 |Editor         |WordPad  |WordPad|MarkDown|WordPad|both|WordPad|WordPad |
@@ -215,12 +222,14 @@ For more information on how to publish, please go [to](https://www.linkedin.com/
 [Comparison, part 1](./Images/wheretopublish13.png), [Comparison, part 2](./Images/wheretopublish14.png)
 
 # Analyze
+
 As seen in the **comparison** table, most platforms offer only a limited set of functions.
 **However**, **Hackernoon**, **Hashnode**, and **Medium** stand out for providing a broader variety of functions.
 Personally, I find certain functions to be crucial, including **Tags**, **Human review**, **Syntax checking**, **Article stats**, and **Series.**
 It's worth noting that some platforms have issues, which I discovered during use."
 
 # References
+
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 | 1 | What and how to publish, part 1 |[GitHub](./PublishWhat1_en.md) | | | |
