@@ -1,7 +1,9 @@
 # Headline
+
 Everything about the Software Development
 
 # Table of contents
+
 - [Tags](./SoftwareDevelopment.md#tags)
 - [Definitions, Acronyms, Abbreviations](./SoftwareDevelopment.md#definitions-acronyms-abbreviations)
 - [Overview](./SoftwareDevelopment.md#overview)
@@ -32,16 +34,19 @@ Everything about the Software Development
 - [References](./SoftwareDevelopment.md#references)
 
 # Tags
-Software Development 
+
+Software Development
 
 # Definitions, Acronyms, Abbreviations
+
 | # | Abbreviation or Acronym | Definition     |
 | - | ------------------------|:--------------:|
 | 1 | CV | TBD
 | 2 | Scrum | TBD |
 
 # Overview
-TBD 
+
+TBD
 
 ---
 
@@ -50,6 +55,7 @@ TBD
 <img src="./Images/JoinedProjectWithScrum.jpg" alt="JoinedProjectWithScrum" />
 
 ## Tags
+
 Scrum
 
 # Software Complexity
@@ -57,10 +63,12 @@ Scrum
 <img src="./Images/SoftwareComplexity.jpg" alt="Software Complexity" />
 
 ## Tags
+
 Software Complexity
 
 # Which title describes better a real job?
-I have seen a lot of different titles in CV, social networks like "Consultant", "Consulting" etc. 
+
+I have seen a lot of different titles in CV, social networks like "Consultant", "Consulting" etc.
 From my side it is difficult to understand what "IT Consultant" really does and knows.
 
 Which title describes better a real job?
@@ -71,9 +79,11 @@ Which title describes better a real job?
 87 Votes
 
 ## Tags
+
 itconsulting cv
 
 # What do you usually do to provide accurate estimations?
+
 I have had significant experience in software development, yet I still struggle with estimation.
 
 What I usually do is multiply my estimations by 2-3, but even that approach doesn't always work.
@@ -81,6 +91,7 @@ What I usually do is multiply my estimations by 2-3, but even that approach does
 I have rarely come across a developer who is consistently good at estimating.
 
 So what do you usually do to provide accurate estimations?
+
 - Break tasks into smaller parts **56%**
 - Use historical data **10%**
 - Involve the team **16%**
@@ -89,6 +100,7 @@ So what do you usually do to provide accurate estimations?
 Please share your opinions in the comments.
 
 ## Tags
+
 experience softwaredevelopment estimation
 
 # C++ death
@@ -111,10 +123,10 @@ So, when was the first time you heard that your language/technology X would die?
 Please share in the comments your programming language/technology that was predicted to die but didn't.
 
 ## Tags
+
 programminglanguage technologytrends cpplus prediction
 
-
-# Programming Languages and Guessing!
+# Programming Languages and Guessing
 
 In a broader sense, the relationship between programming languages and the role of guessing can depend on the nature of the language.
 It's not that guessing is universally opposed to programming; rather, different languages may encourage different approaches to problem-solving.
@@ -133,7 +145,7 @@ Do you agree with that?
 
 "Tabs vs Spaces" - "Holy war" or settled matter?
 
-The "Tabs vs Spaces" holy war has been a long-standing debate among software developers regarding whether to use "tabs" or "spaces" for code indentation. 
+The "Tabs vs Spaces" holy war has been a long-standing debate among software developers regarding whether to use "tabs" or "spaces" for code indentation.
 Some developers prefer tabs, while others favor spaces.
 
 The choice between them is largely a matter of personal preference.
@@ -143,6 +155,7 @@ So, what is your preference and why?
 <img src="./Images/tabsvsspaces.jpg" alt="tabs vs spaces" />
 
 # UIQ
+
 About 15 years ago, I used to program for a rare operating system called UIQ.
 It was used for Sony Ericsson smartphones with touchable screens.
 The C++ language was used to make UI programming possible, as well as backend programming.
@@ -153,12 +166,14 @@ Can you share your experience with old operating systems, libraries, languages, 
 <img src="./Images/UIQ3.jpg" alt="UIQ" />
 
 ## Tags
+
 old
 
 # Gmail
+
 About 20 years ago, I created an email account on Gmail. At that time, it was quite simple in terms of the number of functions, but it was exceptionally fast and stable. Over the years, Gmail has added new features, and surprisingly, I have faced no issues. This means it has maintained a Service Level Agreement (SLA) of 99.9999% since I first got it.
 
-For me, it stands as a great example of wide functional software with high performance and stability. 
+For me, it stands as a great example of wide functional software with high performance and stability.
 I want to express my gratitude to Google for providing such a reliable service!
 
 Can you provide other examples of functional software known for high performance and stability?
@@ -168,9 +183,11 @@ PS. No, I am not an advertiser for Google.
 <img src="./Images/gmail.jpg" alt="gmail" />
 
 ## Tags
+
 gmail sla email goodservice
 
 # Procrastination
+
 What is procrastination?
 
 By my definition, procrastination is a state in which you postpone doing something complex until later. Initially, you prioritize easy tasks over difficult ones.
@@ -183,6 +200,7 @@ Additionally, can you explain the advantages of procrastination?
 <img src="./Images/procrastination.jpg" alt="procrastination" />
 
 ## Tags
+
 procrastination projectrisk
 
 # Delegation Poker Cards
@@ -199,13 +217,15 @@ These are Delegation Poker Cards.
 
 Delegation Poker is a technique used in Agile and Scrum methodologies for team collaboration and decision-making regarding task delegation and empowerment.
 It involves a card-based game where team members discuss and vote on the level of authority and decision-making power they have regarding specific tasks or responsibilities.
-Delegation Poker helps teams clarify roles and responsibilities, promotes transparency, and ensures that everyone understands the level of empowerment they have within the team. 
+Delegation Poker helps teams clarify roles and responsibilities, promotes transparency, and ensures that everyone understands the level of empowerment they have within the team.
 It encourages open communication and collaboration, leading to better decision-making and more efficient task execution.
 
 ## Tags
-agile scrum delegation 
+
+agile scrum delegation
 
 # Commit quantity
+
 Typically, I utilize small commits to both create and update the code.
 
 I prefer small commits over large ones for several reasons: they are easier to understand when reading them, quicker to review, and more conducive to testing.
@@ -216,9 +236,11 @@ Do you think this quantity is excessive?
 <img src="./Images/Commits.jpg" alt="Commits" />
 
 ## Tags
-commits 
+
+commits
 
 # KPIs for software developers
+
 They talk a lot about KPIs for software developers, but there is still no good definition.
 
 What do you think is the best KPI for software developers? Can you explain why?
@@ -229,9 +251,11 @@ What do you think is the best KPI for software developers? Can you explain why?
 - All of them - 50%
 
 ## Tags
+
 KPI
 
 # References
+
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 | 1 |Just joined a project with Scrum|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_activity-6937092837654081540-brUA?utm_source=share&utm_medium=member_desktop)| 01/05/2022 | Dmytro Nikulin||

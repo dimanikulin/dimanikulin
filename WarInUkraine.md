@@ -1,7 +1,9 @@
 # Headline
+
 War in Ukraine!
 
 # Table of contents
+
 - [Tags](./WarInUkraine.md#tags)
 - [Overview](./WarInUkraine.md#overview)
 - [Первый пост с 24 февраля 2022 года](./WarInUkraine.md#%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9-%D0%BF%D0%BE%D1%81%D1%82-%D1%81-24-%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8F-2022-%D0%B3%D0%BE%D0%B4%D0%B0)
@@ -19,9 +21,11 @@ TODO
 - [References](./WarInUkraine.md#references)
 
 # Tags
+
 armukrainenow staywithukraine stoprussia stopwar russiaterroriststate warinukraine ukrainewar ukraine
 
 # Overview
+
 Engaging in everyday conversations at unusual times.
 Exploring how Russians handle defeat in chess and their behavior in real-life conflicts.
 Options for Putin's future endeavors with humor and percentages.
@@ -29,28 +33,32 @@ A set of questions for Taras Chmut, with some restrictions on topic areas.
 Listing questions posed to Taras Chmut by individuals from GlobalLogic during a recent meeting.
 A humorous take on junior job seekers in Ukraine during times of conflict.
 
-TBD 
+TBD
 
 ---
 
 # Первый пост с 24 февраля 2022 года
+
 Да, я говорил, что на Линкеде нет места для политоты.
 Но так-то было до 24 февраля
 
 <img src="./Images/RussansInUkraine.jpg" alt="UsualTalks" />
 
 # Usual talks in unsual time
+
 Обычный разговор, в "необычное" время.
 
 <img src="./Images/UsualTalks.jpg" alt="UsualTalks" />
 
 # Summer time
+
 Summer is definitely a time for vacation, relaxing ...
 But there are some "nuances"
 
 <img src="./Images/SummerTime.jpg" alt="SummerTime" />
 
 # How russians play chess?
+
 Yes, it is not really easy to resign.
 Even when you just play chess and when you have already lost.
 When I am loosing chess game I am saying "thank you, well played" and I am getting upset.
@@ -61,6 +69,7 @@ Another example what rUSSIANS do when they loose the "GAME" on real battle field
 <img src="./Images/RussansInGame.jpg" alt="Russans In Game" />
 
 # А на куди зибеться пУТЕНг?
+
 Яник зибався на ростов.
 А на куди зибеться пУТЕНг?
 
@@ -70,6 +79,7 @@ Another example what rUSSIANS do when they loose the "GAME" on real battle field
 - До жиріка **84%**
 
 # Яскрава місячна ніч
+
 Яскрава місячна ніч.
 Звичайна людина: Красива ніч. Романтика.
 Українець: Добре буде видно "Шахеди"
@@ -90,6 +100,7 @@ Another example what rUSSIANS do when they loose the "GAME" on real battle field
 <img src="./Images/QuestionsToTarasChmut.png" alt="Questions To Taras Chmut"/>
 
 # Які питання ставили хлопці з GlobalLogic Тарасу Чмуту
+
 Місяць тому мене запитали, які питання ставили хлопці з GlobalLogic Тарасу Чмуту на зустрічі з ним.
 
 Ось вони.
@@ -99,12 +110,14 @@ Another example what rUSSIANS do when they loose the "GAME" on real battle field
 <img src="./Images/QuestionsToTarasChmut2.png" alt= "Questions To Taras Chmut 2"/>
 
 # junior is trying to find a job in summer in Ukraine in war
+
 When junior is trying to find a job in summer... in Ukraine.... in war.
 Invest(hire) in them now and you will have nice ROI soon!
 
 <img src="./Images/FindJobInSummer.png" alt="FindJobInSummer.png" />
 
 # Що мені допомогло минулої зими під час blackout-ів
+
 - Запас питної та технічної води на 3 дні
 - Сухи пайки, консерви, сублімовані продукти (каші)
 - BLUETTI AC50S Blue
@@ -120,6 +133,7 @@ Invest(hire) in them now and you will have nice ROI soon!
 <img src="./Images/BLUETTI AC50S.jfif" alt="BLUETTI AC50S"/>
 
 # DOU and BackAlive bank
+
 Я тут щось знайшов.
 
 Хтось у спільноті може вгадати де це, і з чим та машинка пов'язана?
@@ -134,23 +148,24 @@ Invest(hire) in them now and you will have nice ROI soon!
 
 doucommunity dou savelife backalive
 
-
 # DOU and BackAlive bank 2
+
 У минулому пості (лінк у коментах) я викладав фото машини і питав, де вона і з чим вона пов'язана.
 На жаль, ніхто не дав відповіді.
 
 Це місце – Київ, ВДНГ.
-А машина - приз за донат на спільний збір DOU та Повернись Живим - https://lnkd.in/gyXbFGAh
+А машина - приз за донат на спільний збір DOU та Повернись Живим - <https://lnkd.in/gyXbFGAh>
 Тож прошу долучитися до збору.
 
 Дуже вдячний за підтримку у розповсюдженні минулого посту.
 Він набрав багато вподобайок, коментів та репостів.
 Також буду вдячний за репости, вподобайки та коменті для цього поста.
 
-І так, як обіцяв, переказав "туди" 2000 грн за сумою вподобайок, коментів та репостів. 
+І так, як обіцяв, переказав "туди" 2000 грн за сумою вподобайок, коментів та репостів.
 Скрін переказу у коментах.
 
 # References
+
 | # | Name                   | Source                | Release date           |  Author                 | Description   |
 | - | -----------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 | 1 |Первый пост с 24 февраля|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_%D0%B4%D0%B0-%D1%8F-%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D0%BB-%D1%87%D1%82%D0%BE-%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%BA%D0%B5%D0%B4%D0%B5-%D0%BD%D0%B5%D1%82-%D0%BC%D0%B5%D1%81%D1%82%D0%B0-%D0%B4%D0%BB%D1%8F-activity-6927370042426707968-O7jY?utm_source=share&utm_medium=member_desktop)|01/02/2022| Dmytro Nikulin||
