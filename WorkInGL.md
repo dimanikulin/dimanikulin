@@ -1,7 +1,9 @@
 # Headline
+
 Working in GL
 
 # Table of contents
+
 - [Tags](./WorkInGL.md#tags)
 - [Overview](./WorkInGL.md#overview)
 - [Presents in GlobalLogic for an employer](./WorkInGL.md#presents-in-globallogic-for-an-employer)
@@ -28,20 +30,24 @@ Working in GL
 - [References](./WorkInGL.md#references)
 
 # Tags
+
 GlobalLogic Work
 
 # Overview
+
 In this article, the author expresses gratitude to GlobalLogic for their thoughtful birthday presents over the years.
 The significance of these gifts is highlighted in the context of recent events related to war.
 The author also shares insights into interactions with notable individuals, including Olena Zelenska, and provides a link to a white paper discussing software architecture and design.
 Additionally, the article touches on the mental health program 'Ти як?', featuring Olena Zelenska.
-The content reflects the author's appreciation for GlobalLogic's support and their personal experiences. 
+The content reflects the author's appreciation for GlobalLogic's support and their personal experiences.
 
 ---
 
-# Presents in GlobalLogic for an employer 
+# Presents in GlobalLogic for an employer
+
 Each year in GlobalLogic an employer gets the present for birthday.
 I have got following 5:
+
 - Backpack;
 - Multitool knife;
 - Belt bag;
@@ -57,26 +63,31 @@ P.S. Here I meant GL Ukraine.
 <img src="./Images/GLPresents.jpg" alt="PresentsInGL" />
 
 ## Tags
+
 ukraine, war
 
-# Cool people create cool music!
+# Cool people create cool music
 
-https://www.youtube.com/watch?v=KFLl5cD9zp0
+<https://www.youtube.com/watch?v=KFLl5cD9zp0>
 
 # Taras Chmut and GlobalLogic )))
 
 ## Tags
+
 warinukraine
 
-#  Top Interviewer in Kyiv in C/C++
+# Top Interviewer in Kyiv in C/C++
+
 I won't get frozen this winter because I have got this present from GlobalLogic as a Top Interviewer in Kyiv in C/C++
 
 # 7000 people in GL Ukraine
 
 ## Tags
-GlobalLogicUkraine 
+
+GlobalLogicUkraine
 
 # Люксембург, Люксембург
+
 Вгадайте, що за фільм.
 
 Якби у вас була можливість, то що б ви запитали режисера та акторів цього фільму?
@@ -95,6 +106,7 @@ GlobalLogicUkraine
 <img src="./Images/OlenaZelenska.jfif" alt="Olena Zelenska" />
 
 # A white paper on GlobalLogic Insights
+
 I have just published a white paper on [Globallogic Insights](https://www.globallogic.com/insights/white-papers/detecting-architectural-gaps-with-automation/)
 
 In this paper, I delve into various manual architecture review methods and propose automated alternatives that not only reduce the time and resources required but also yield better outcomes.
@@ -112,24 +124,29 @@ I would like to extend my special thanks to Orkhan Gasimov for his valuable assi
 Enjoy your reading experience!
 
 ## Tags
+
 whitepaper softwarearchitecture softwaredesign
 
 # Олена Зеленська 2
+
 Нещодавно співробітники GlobalLogic Ukraine мали нагоду поспілкуватися з Першою Леді, Оленою Зеленською, Оксаною Збітнєвою та Олегом Романчуком, експертами Програми “Ти як?”
 
 Могли заздалегідь поставити запитання щодо програми “Ти як?”.
 
 Мені особисто спілкування сподобалося корисністю та форматом.
 
-https://www.facebook.com/olenazelenska.official/posts/pfbid025TUqBC1FcR1CnMt3eGDS8JHx9eXwJAnQDDRbrm9KomuZ3D62DLgdDbSHQMWh6ev4l
+<https://www.facebook.com/olenazelenska.official/posts/pfbid025TUqBC1FcR1CnMt3eGDS8JHx9eXwJAnQDDRbrm9KomuZ3D62DLgdDbSHQMWh6ev4l>
 
 ## Tags
+
 mentalhealth mentalhealthsupport zelensky
 
-# Presents in GlobalLogic for an employer 2 
+# Presents in GlobalLogic for an employer 2
+
 Each year in GlobalLogic an employer gets the present for birthday.
 
 I have got following 6:
+
 - Backpack;
 - Multitool knife;
 - Belt bag;
@@ -144,21 +161,24 @@ P.S. Here I meant GL Ukraine.
 <img src="./Images/GLPresents.jfif" alt="PresentsInGL" />
 
 ## Tags
+
 ukraine, war
 
-# Дмитро Антонов 
+# Дмитро Антонов
 
 Якби у вас була така можливість, то що б ви запитали у Дмитра Антонова, пілота Авіаційно-наукового Технічного Комплексу АНТОНОВ?
 
 <img src="./Images/Antonov.jfif" alt="Antonov" />
 
 # Сергій Жадан
+
 Якби у вас була така можливість, то що б ви запитали у Сергія Жадана:
 письменника, волонтера, музиканта, засновника благодійного фонду, популяризатора міста-сонця Харкова в цілому та району ХТЗ зокрема?
 
 <img src="./Images/gadan.jfif" alt="gadan" />
 
 # Interview number
+
 or **Top Interviewer in Kyiv in C/C++, 2022**
 
 Do you think 81 interviews per year is a lot?
@@ -172,6 +192,7 @@ In 2022 it was quite the same
 <img src="./Images/NumberOfInterviews.jpg" alt="Number Of Interviews" />
 
 # Top Interviewer in Kyiv in C/C++
+
 Third time in a row, I have been nominated as a Top Interviewer in Kyiv for C/C++.
 
 This year, I conducted 56 interviews in 2023, averaging one interview per week.
@@ -179,9 +200,11 @@ This year, I conducted 56 interviews in 2023, averaging one interview per week.
 <img src="./Images/TrustedInterviewers.jpg" alt="Trusted Interviewers" />
 
 ## Tags
+
 interview award
 
 # References
+
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 | 1 | Presents in GlobalLogic for an employer | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_ukraine-war-globallogic-activity-6942043429455458304-eXr4?utm_source=share&utm_medium=member_desktop) | 01/06/2022 | Dmytro Nikulin | |
@@ -195,7 +218,7 @@ interview award
 | 9 | Олена Зеленська | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_%D1%8F%D0%BA%D0%B1%D0%B8-%D1%83-%D0%B2%D0%B0%D1%81-%D0%B1%D1%83%D0%BB%D0%B0-%D1%82%D0%B0%D0%BA%D0%B0-%D0%BC%D0%BE%D0%B6%D0%BB%D0%B8%D0%B2%D1%96%D1%81%D1%82%D1%8C-%D1%82%D0%BE-%D1%89%D0%BE-%D0%B1-activity-7094210810255675392-Cj5E?utm_source=share&utm_medium=member_desktop ) | 07/08/2023 | Dmytro Nikulin | |
 | 10| Олена Зеленська2 | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_%D0%BE%D0%BB%D0%B5%D0%BD%D0%B0-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D1%81%D1%8C%D0%BA%D0%B0-%D0%B4%D0%B1%D0%B0%D1%82%D0%B8-%D0%BF%D1%80%D0%BE-%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5-%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2-activity-7101818614164389889-NNuc?utm_source=share&utm_medium=member_desktop) | 28/08/2023 | Dmytro Nikulin | |
 | 11| Presents in GlobalLogic for an employer 2 | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_ukraine-war-globallogic-activity-7104355502528077825-Afg6?utm_source=share&utm_medium=member_desktop) | 04/09/2023 | Dmytro Nikulin | |
-| 12| Дмитро Антонов | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_%D1%8F%D0%BA%D0%B1%D0%B8-%D1%83-%D0%B2%D0%B0%D1%81-%D0%B1%D1%83%D0%BB%D0%B0-%D1%82%D0%B0%D0%BA%D0%B0-%D0%BC%D0%BE%D0%B6%D0%BB%D0%B8%D0%B2%D1%96%D1%81%D1%82%D1%8C-%D1%82%D0%BE-%D1%89%D0%BE-%D0%B1-activity-7122467952146153472-vlmd?utm_source=share&utm_medium=member_desktop) | 24/10/2023 | Dmytro Nikulin | | 
+| 12| Дмитро Антонов | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_%D1%8F%D0%BA%D0%B1%D0%B8-%D1%83-%D0%B2%D0%B0%D1%81-%D0%B1%D1%83%D0%BB%D0%B0-%D1%82%D0%B0%D0%BA%D0%B0-%D0%BC%D0%BE%D0%B6%D0%BB%D0%B8%D0%B2%D1%96%D1%81%D1%82%D1%8C-%D1%82%D0%BE-%D1%89%D0%BE-%D0%B1-activity-7122467952146153472-vlmd?utm_source=share&utm_medium=member_desktop) | 24/10/2023 | Dmytro Nikulin | |
 | 13| Сергій Жадан | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_warinukraine-activity-7138062207447138304-r2jI?utm_source=share&utm_medium=member_desktop) | 06/12/2023 | Dmytro Nikulin | |
 | 14| Top Interviewer in Kyiv in C/C++, 2022 | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_globallogic-interviewer-cplusplus-activity-7038422433585860608-Tr0W?utm_source=share&utm_medium=member_desktop) | 01/03/2023 | Dmytro Nikulin | |
 | 15| Top Interviewer in Kyiv in C/C++, 2023 | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_globallogic-interview-award-activity-7150529520310087681-ya3A?utm_source=share&utm_medium=member_desktop) | 01/01/2024 | Dmytro Nikulin | |

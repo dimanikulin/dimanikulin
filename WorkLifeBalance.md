@@ -1,7 +1,9 @@
 # Headline
+
 Work-life Balance
 
 # Table of contents
+
 - [Tags](./WorkLifeBalance.md#tags)
 - [Overview](./WorkLifeBalance.md#overview)
 - [Playing chess](./WorkLifeBalance.md#playing-chess)
@@ -15,14 +17,17 @@ Work-life Balance
 - [References](./WorkLifeBalance.md#references)
 
 # Tags
+
 wellbeing worklifebalance workload relaxation Chess MedicalInsurance
 
 # Overview
-TBD 
+
+TBD
 
 ---
 
 # Playing chess
+
 What do I usually do to switch context and relax before engaging in the next brain activity?
 I play chess!
 You might wonder, but moving the chess pieces from one cell to another helps me relax.
@@ -34,6 +39,7 @@ Now, I'm curious to know what you do to employ a similar approach?
 <img src="./Images/chess.jpg" alt="chess" />
 
 # Insurance case
+
 Про страхову медицину – бо наболіло.
 
 Спершу історія.
@@ -61,6 +67,7 @@ Now, I'm curious to know what you do to employ a similar approach?
 Підсумок для мене: Зрозумів, що протокольність – не тільки добре, але ще й погано)
 
 Ну тобто, нежить лікаря плюс мінус можуть лікувати без зайвих відвідувань медичних установ, але якщо трохи складніше - готуйся до квестів:
+
 - А давай спробуємо ось це, і ще ось це, і трохи ось це.
 - Ну якщо не працює, то тоді це, це і це.
 - Нічого не спрацювало? Ну тоді йди до іншого лікаря.
@@ -88,6 +95,7 @@ In the options, 'W&P' equals to 'Work And Personal'
 28 votes
 
 ## Tags
+
 wellbeing insurance medicalcare
 
 # Playing chess 2
@@ -100,8 +108,9 @@ And yes, when I start competing, I am prepared beforehand to lose, just in case.
 <img src="./Images/chess.jpg" alt="chess" />
 
 # Cleanup
+
 I have a somewhat strange habit that I would describe as 'cleaning the environment.'
-From time to time, I perform clean-ups of my working and personal environments. 
+From time to time, I perform clean-ups of my working and personal environments.
 
 Why? It makes my environments more searchable and structured. What do I mean by 'environments'? It could be anything - data on hard drives, items on the table, clothes, etc.
 
@@ -110,9 +119,11 @@ Do you have the same habit?
 <img src="./Images/cleanup.jpg" alt="cleanup" />
 
 ## Tags
-habits cleaningmotivation cleanbeauty 
+
+habits cleaningmotivation cleanbeauty
 
 # References
+
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 | 1 | Playing chess        |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_worklifebalance-workload-relax-activity-7084787080802836480-jGcU?utm_source=share&utm_medium=member_desktop) | 12/07/2023 | Dmytro Nikulin | |

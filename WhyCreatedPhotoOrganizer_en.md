@@ -1,16 +1,20 @@
 # Headline
+
 Why I decided to create my photo organizer?
 
 # Table of contents
+
 - [Tags](./WhyCreatedPhotoOrganizer_en.md#tags)
 - [Definitions, Acronyms, Abbreviations](./WhyCreatedPhotoOrganizer_en.md#definitions-acronyms-abbreviations)
 - [Overview](./WhyCreatedPhotoOrganizer_en.md#overview)
 - [References](./WhyCreatedPhotoOrganizer_en.md#references)
 
 # Tags
+
 Multimedia data, Photo album, Multimedia information retrieval (IR) systems, Multimedia organizer, Metadata
 
 # Definitions, Acronyms, Abbreviations
+
 | # | Abbreviation or Acronym | Definition     |
 | - | ------------------------|:--------------:|
 | 1 | [Synology Moments](https://www.synology.com/en-global/dsm/feature/moments)|It gathers all your photos and videos in one private place and organize them in an entirely new way. Synology Moments is the brand-new photo solution for personal and home use, offering a modern browsing experience with the image recognition technique. |
@@ -20,9 +24,10 @@ Multimedia data, Photo album, Multimedia information retrieval (IR) systems, Mul
 | 5 | [digiKam](https://www.digikam.org/about/)|digiKam is an advanced open-source digital photo management application that runs on Linux, Windows, and MacOS. The application provides a comprehensive set of tools for importing, managing, editing, and sharing photos and raw files. |
 
 # Overview
+
 In this article, the author shares their personal experience of managing a growing photo album in the digital age.
 They highlight the challenges they faced in searching and organizing multimedia data and their quest to find a suitable multimedia information retrieval (IR) system.
-The author also discusses their journey of creating their own multimedia organizer to address their needs and the challenges they encountered along the way. 
+The author also discusses their journey of creating their own multimedia organizer to address their needs and the challenges they encountered along the way.
 
 ---
 
@@ -33,18 +38,18 @@ Given that, the size of my photo album increased significantly. However, I think
 
 <img src="./Images/Anaveragefamilyphotoalbum.gif" alt="Anaveragefamilyphotoalbum.gif" />
 
-Once my friend and I decided to recall an event we both attended. We took my photo album and tried to search there. 
+Once my friend and I decided to recall an event we both attended. We took my photo album and tried to search there.
 At that time my album kept more than 30 thousand items inside. That search process looked like
 <img src="./Images/Asearchinphotoalbumwith30thousandphotos.gif" alt="Asearchinphotoalbumwith30thousandphotos.gif" />
 
-Of course, we didn't find anything. Therefore, I started looking for a solution to be able to search in [Multimedia Data](./MultimediaData_en.md) automatically. 
-The solution I found were [Multimedia IR Systems](./MultimediaIRSystems_en.md). 
+Of course, we didn't find anything. Therefore, I started looking for a solution to be able to search in [Multimedia Data](./MultimediaData_en.md) automatically.
+The solution I found were [Multimedia IR Systems](./MultimediaIRSystems_en.md).
 
-I decided to use [digiKam](https://www.digikam.org/) <img src="./Images/digiKam.png" alt="digiKam.png" width="20" height="20"/> as Offline [Multimedia IR systems](./MultimediaIRSystems_en.md) 
+I decided to use [digiKam](https://www.digikam.org/) <img src="./Images/digiKam.png" alt="digiKam.png" width="20" height="20"/> as Offline [Multimedia IR systems](./MultimediaIRSystems_en.md)
 and [Synology Moments](https://www.synology.com/en-global/dsm/feature/moments) <img src="./Images/SynologyMoments.png" alt="SynologyMoments.png" height="20" /> as Online [Multimedia IR systems](./MultimediaIRSystems_en.md).
 Please note, that they were selected solely based on the author's criteria, and there is no aim to advertise to anyone.
 
-Then I started using it... 
+Then I started using it...
 
 What I discovered in a flash is that current [Multimedia IR systems](./MultimediaIRSystems_en.md) do not provide a flexible and automated functionality to import [Multimedia Data](./MultimediaData_en.md) into [Multimedia IR systems](./MultimediaIRSystems_en.md).
 
@@ -52,11 +57,12 @@ But that wasn't the only problem.
 
 I realized that I need [Multimedia Organizer](./MultimediaOrganizers_en.md) as well.
 Unfortunately, I didn't find a [Multimedia Organizer](./MultimediaOrganizers_en.md) that could fully satisfy my needs (fixing problem metadata, working with **digiKam** and **Synology** etc.)
-That's why I started creating my [product](https://github.com/dimanikulin/fva) to cover my needs. 
+That's why I started creating my [product](https://github.com/dimanikulin/fva) to cover my needs.
 
 Honestly, I didn't expect that it would be so hard and in the meantime so interesting.
 
 # References
+
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 | 1 | What is multimedia data?|[repo](./MultimediaData_en.md)| 01/01/2022            | Dmytro Nikulin |  |
@@ -74,4 +80,4 @@ Honestly, I didn't expect that it would be so hard and in the meantime so intere
 | 13| What I learned as a Product Manager |[GitHub](./WhatILearnedAsProductManager_en.md) | | | |
 | 14| What I learned as a Software Developer |[GitHub](./WhatILearnedAsSoftwareDeveloper_en.md) | | | |
 | 15| What I Learned As a Subject Matter Expert |[GitHub](./WhatILearnedAsSubjectMatterExpert_en.md) | | | |
-| 16| What I Learned As Tester |[GitHub](./WhatILearnedAsTester_en.md) | | | | 
+| 16| What I Learned As Tester |[GitHub](./WhatILearnedAsTester_en.md) | | | |

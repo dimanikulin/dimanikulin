@@ -1,22 +1,27 @@
 # Headline
+
 What I Learned As a Tester
- 
+
 # Table of contents
+
 - [Tags](./WhatILearnedAsTester_en.md#tags)
 - [Definitions, Acronyms, Abbreviations](./WhatILearnedAsTester_en.md#definitions-acronyms-abbreviations)
 - [Overview](./WhatILearnedAsTester_en.md#overview)
 - [References](./WhatILearnedAsTester_en.md#references)
 
 # Tags
+
 TBD
 
 # Definitions, Acronyms, Abbreviations
+
 | # | Abbreviation or Acronym | Definition     |
 | - | ------------------------|:--------------:|
 | 1 |
 
 # Overview
-TBD 
+
+TBD
 
 ---
 
@@ -26,10 +31,11 @@ Git Hub Copilot
 
 tests are in each dir in dir folder
 integration tests?
- 
+
 <img src="./Images/TBD.jpg" alt="TBD" />
 
 # References
+
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 | 1 | What I learned as an Application Architect |[GitHub](./WhatILearnedAsAppArchitect_en.md) | | | |
@@ -38,5 +44,6 @@ integration tests?
 | 4 | What I learned as a Product Manager |[GitHub](./WhatILearnedAsProductManager_en.md) | | | |
 | 5 | What I learned as a Software Developer |[GitHub](./WhatILearnedAsSoftwareDeveloper_en.md) | | | |
 | 6 | What I Learned As a Subject Matter Expert |[GitHub](./WhatILearnedAsSubjectMatterExpert_en.md) | | | |
-| 7 | Why I decided to create my photo organizer? |[GitHub](./WhyCreatedPhotoOrganizer_en.md ) | | | | 
+| 7 | Why I decided to create my photo organizer? |[GitHub](./WhyCreatedPhotoOrganizer_en.md ) | | | |
+
                          5
