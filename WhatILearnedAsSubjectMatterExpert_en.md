@@ -1,7 +1,9 @@
 # Headline
+
 What I learned as a Subject Matter Expert while creating my product
 
 # Table of contents
+
 - [Tags](./WhatILearnedAsSubjectMatterExpert_en.md#tags)
 - [Definitions, Acronyms, Abbreviations](./WhatILearnedAsSubjectMatterExpert_en.md#definitions-acronyms-abbreviations)
 - [Overview](./WhatILearnedAsSubjectMatterExpert_en.md#overview)
@@ -15,9 +17,11 @@ What I learned as a Subject Matter Expert while creating my product
 - [References](./WhatILearnedAsSubjectMatterExpert_en.md#references)
 
 # Tags
+
 Multimedia IR Systems, Metadata, Multimedia Organizers, digiKam, Google Photos, Multimedia Data, Photo Album.
 
 # Definitions, Acronyms, Abbreviations
+
 | # | Abbreviation or Acronym | Definition     |
 | - | ------------------------|:--------------:|
 | 1 | [digiKam](https://www.digikam.org/about/)|digiKam is an advanced open-source digital photo management application that runs on Linux, Windows, and MacOS. The application provides a comprehensive set of tools for importing, managing, editing, and sharing photos and raw files. |
@@ -33,61 +37,68 @@ Multimedia IR Systems, Metadata, Multimedia Organizers, digiKam, Google Photos, 
 | 11| [XMP](https://en.wikipedia.org/wiki/Extensible_Metadata_Platform)|The Extensible Metadata Platform (XMP) is an [ISO standard](https://en.wikipedia.org/wiki/List_of_International_Organization_for_Standardization_standards), originally created by [Adobe Systems Inc.](https://en.wikipedia.org/wiki/ADBE), for the creation, processing and interchange of standardized and custom metadata for digital documents and data sets. |
 
 # Overview
-This article discusses the author's experience with Multimedia IR systems and the importance of metadata in maximizing the efficiency of multimedia data search. 
-The author describes their analysis and comparison of various Multimedia IR systems before selecting the most suitable one. 
-The article emphasizes the significance of metadata as a primary information source used by these systems for search following different criteria. 
-The article provides examples of incorrect search results caused by inconsistent or non-existent metadata. 
-The author also highlights the role of Multimedia Organizers and their integration with Multimedia IR systems to provide automation for importing new photo sets into existing photo albums. 
-Finally, the article discusses the FVA Tool Set's integration with offline Multimedia IR systems through digiKam and online Multimedia IR systems through Google Photos. 
- 
+
+This article discusses the author's experience with Multimedia IR systems and the importance of metadata in maximizing the efficiency of multimedia data search.
+The author describes their analysis and comparison of various Multimedia IR systems before selecting the most suitable one.
+The article emphasizes the significance of metadata as a primary information source used by these systems for search following different criteria.
+The article provides examples of incorrect search results caused by inconsistent or non-existent metadata.
+The author also highlights the role of Multimedia Organizers and their integration with Multimedia IR systems to provide automation for importing new photo sets into existing photo albums.
+Finally, the article discusses the FVA Tool Set's integration with offline Multimedia IR systems through digiKam and online Multimedia IR systems through Google Photos.
+
 ---
 
 # Multimedia IR systems
+
 My first step in the role of an SME was getting to know what [Multimedia Data](./MultimediaData_en.md) is.
 I started learning it as I understood that my whole photo album is [Multimedia Data](./MultimediaData_en.md) itself.
-Then I realised that I need to use a solution to search for [Multimedia Data](./MultimediaData_en.md) - [Multimedia IR systems](./MultimediaIRSystems_en.md). 
+Then I realised that I need to use a solution to search for [Multimedia Data](./MultimediaData_en.md) - [Multimedia IR systems](./MultimediaIRSystems_en.md).
 However, there are many [Multimedia IR systems](./MultimediaIRSystems_en.md), and it was a long way to select one of them to start searching more efficiently.
-Thus, several [Multimedia IR systems](./MultimediaIRSystems_en.md), that are present on the market and available for end users, were analyzed. 
+Thus, several [Multimedia IR systems](./MultimediaIRSystems_en.md), that are present on the market and available for end users, were analyzed.
 
 I described the process of analysis and comparison for [Multimedia IR systems](./MultimediaIRSystems_en.md) [here](./MultimediaIRSystemsAnalyze_en.md).
 Consequently, I was able to choose the most suitable system for me.
 
 # Metadata
+
 A short usage of these systems gave me an understanding that [Multimedia IR systems](./MultimediaIRSystems_en.md) significantly rely on the [metadata](https://en.wikipedia.org/wiki/Metadata) as a main information source that is used for a search following different criteria, like device, time, location, etc.
 Therefore, the presence and consistency of [metadata](https://en.wikipedia.org/wiki/Metadata) are very important for [Multimedia IR systems](./MultimediaIRSystems_en.md) to operate, as well as for other purposes, please see [Three Cheers for Embedded Metadata](https://siarchives.si.edu/blog/three-cheers-embedded-metadata) for more details.
 Working experience with one of those systems shows that search results might be incomplete or even incorrect due to inconsistent or not-existing [metadata](https://en.wikipedia.org/wiki/Metadata).
 [Metadata](https://en.wikipedia.org/wiki/Metadata) is usually kept inside each file as a header with a predefined format.
 There are plenty of [metadata](https://en.wikipedia.org/wiki/Metadata) formats like [Exif](https://en.wikipedia.org/wiki/Exif), [IPTC](https://en.wikipedia.org/wiki/International_Press_Telecommunications_Council) or [XMP](https://en.wikipedia.org/wiki/Extensible_Metadata_Platform).
 
-The reasons for incorrect and absent [metadata](https://en.wikipedia.org/wiki/Metadata) are quite different - from not setting proper data on the device that takes photos to privacy issues. 
-This [resource](https://digitalarch.org/blog/2017/4/7/ykag6k2fvln7g1j02923n0c7zdrryg) describes [metadata](https://en.wikipedia.org/wiki/Metadata) importance in more detail and there is information about other reasons for incorrect and absent [metadata](https://en.wikipedia.org/wiki/Metadata). 
+The reasons for incorrect and absent [metadata](https://en.wikipedia.org/wiki/Metadata) are quite different - from not setting proper data on the device that takes photos to privacy issues.
+This [resource](https://digitalarch.org/blog/2017/4/7/ykag6k2fvln7g1j02923n0c7zdrryg) describes [metadata](https://en.wikipedia.org/wiki/Metadata) importance in more detail and there is information about other reasons for incorrect and absent [metadata](https://en.wikipedia.org/wiki/Metadata).
 
-# Examples of incorrect search results 
-Let's consider two examples of incorrect search results. 
-In the first case, we tried to search for photos with existing **Geo** positions and to see them on a map. 
+# Examples of incorrect search results
+
+Let's consider two examples of incorrect search results.
+In the first case, we tried to search for photos with existing **Geo** positions and to see them on a map.
 A search returned four photos taken near **Ghana**, marked by a red circle.
 <img src="./Images/AnalyzeofprivateMultimediaIRsystems.png" alt="AnalyzeofprivateMultimediaIRsystems.png" />
 In fact, nobody took photos near **Ghana**.
 
-In the second case, we searched for photos taken in **2011**. 
+In the second case, we searched for photos taken in **2011**.
 We got one video that was recognized as **March 2020**, underlined in red.
 <img src="./Images/AnalyzeofprivateMultimediaIRsystems2.png" alt="AnalyzeofprivateMultimediaIRsystems2.png" />
-The system has provided such results due to incorrect [metadata](https://en.wikipedia.org/wiki/Metadata). 
+The system has provided such results due to incorrect [metadata](https://en.wikipedia.org/wiki/Metadata).
 
 # Multimedia Organizers
+
 That being the case, I understood that [Multimedia IR systems](./MultimediaIRSystems_en.md) are not so effective without other tools, often called [Multimedia Organizers](./MultimediaOrganizers_en.md).
 Usually, [Multimedia Organizers](./MultimediaOrganizers_en.md) provide automation for importing a new photo set into existing photo albums and it is not an implemented feature in [Multimedia IR systems](./MultimediaIRSystems_en.md).
-In addition, they might identify and address some issues that shall be fixed before a user starts searching data using the [Multimedia IR systems](./MultimediaIRSystems_en.md). 
+In addition, they might identify and address some issues that shall be fixed before a user starts searching data using the [Multimedia IR systems](./MultimediaIRSystems_en.md).
 
-# Integration 
-Then I started studying [Multimedia IR systems](./MultimediaIRSystems_en.md) the **FVA Tool Set** shall integrate with. 
+# Integration
+
+Then I started studying [Multimedia IR systems](./MultimediaIRSystems_en.md) the **FVA Tool Set** shall integrate with.
 Integration with offline [Multimedia IR systems](./MultimediaIRSystems_en.md) is implemented through integration with [digiKam](https://www.digikam.org/about/), and integration with online [Multimedia IR systems](./MultimediaIRSystems_en.md) is implemented through integration with [Google Photos](https://en.wikipedia.org/wiki/Google_Photos).
 As [Multimedia IR systems](./MultimediaIRSystems_en.md) perform a search by certain criteria, based on multimedia [metadata](https://en.wikipedia.org/wiki/Metadata), the FVA Software shall be able to work with the same multimedia [metadata](https://en.wikipedia.org/wiki/Metadata) to be integrated with [Multimedia IR systems](./MultimediaIRSystems_en.md).
 <img src="Images/IntegrationFVA.png" alt="IntegrationFVA.png" />
 
 ## Integration with digiKam
-For [digiKam](https://www.digikam.org/about/), I found that the **Collections** setting shall be used to define how it is configured to search through [multimedia data](https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-39940-9_1008). 
-**Monitor the albums for external changes (requires restart)** setting shall be enabled. 
+
+For [digiKam](https://www.digikam.org/about/), I found that the **Collections** setting shall be used to define how it is configured to search through [multimedia data](https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-39940-9_1008).
+**Monitor the albums for external changes (requires restart)** setting shall be enabled.
 Taking into account this setting, [digiKam](https://www.digikam.org/about/) will pick up external changes in the collection as soon as FVA Tool Set puts it in.
 
 <img src="Images/IntegrationDigiKam.png" alt="IntegrationDigiKam.png" />
@@ -95,22 +106,24 @@ Taking into account this setting, [digiKam](https://www.digikam.org/about/) will
 However, from the **FVA Tool Set** side, it is required to provide a possibility to configure storage in a way to be able to put [multimedia data](https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-39940-9_1008) processed and to be integrated with [digiKam](https://www.digikam.org/about/).
 Therefore, a separate [UI](https://en.wikipedia.org/wiki/User_interface) screen shall be created to ask a user what storage location, [digiKam](https://www.digikam.org/about/) should be used for incoming [multimedia data](https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-39940-9_1008).
 
-For example, a directory **C:\FVA** is selected for **Local Collections** as shown in the picture above. 
+For example, a directory **C:\FVA** is selected for **Local Collections** as shown in the picture above.
 Therefore, when a user wants to integrate [multimedia data](https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-39940-9_1008) after processing by FVA Tool Set, he/she shall be able to select the **C:\FVA** directory as a directory in [UI](https://en.wikipedia.org/wiki/User_interface) to put the processed [multimedia data](https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-39940-9_1008) in.
 As soon as it is done, **FVA Tool Set** will put [multimedia data](https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-39940-9_1008) into a selected directory and the **Multimedia IR system** will be able to search through it.
 
 ## Integration with Google Photos
-Integration with [Google Photos](https://en.wikipedia.org/wiki/Google_Photos) is implemented in the same way. 
-First of all, it's worth noting that [Google Photos](https://en.wikipedia.org/wiki/Google_Photos) shall be configured to be integrated with **FVA Tool Set**. 
+
+Integration with [Google Photos](https://en.wikipedia.org/wiki/Google_Photos) is implemented in the same way.
+First of all, it's worth noting that [Google Photos](https://en.wikipedia.org/wiki/Google_Photos) shall be configured to be integrated with **FVA Tool Set**.
 Thus, appropriate file types and folders shall be set up as in the figure below:
 
 <img src="Images/IntegrationGooglePhoto.png" alt="IntegrationGooglePhoto.png" />
 
-For example, **Pictures** and **fromDevices** directories are selected for the folder settings as shown above. 
-It means that when a user wants to integrate [multimedia data]((https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-39940-9_1008)) after processing by **FVA Tool Set**, he/she shall be able to select the **fromDevices** or **Pictures** directory on the [UI](https://en.wikipedia.org/wiki/User_interface) screen, as a directory to put processed [multimedia data](https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-39940-9_1008) in. 
+For example, **Pictures** and **fromDevices** directories are selected for the folder settings as shown above.
+It means that when a user wants to integrate [multimedia data]((https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-39940-9_1008)) after processing by **FVA Tool Set**, he/she shall be able to select the **fromDevices** or **Pictures** directory on the [UI](https://en.wikipedia.org/wiki/User_interface) screen, as a directory to put processed [multimedia data](https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-39940-9_1008) in.
 As soon as it is done, **FVA Tool Set** will put [multimedia data](https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-39940-9_1008) into a selected directory and [Google Photos](https://en.wikipedia.org/wiki/Google_Photos) will be able to search through it as soon as it synchronizes [multimedia data](https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-39940-9_1008).
 
 # References
+
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 | 1 | What is multimedia data?|[repo](./MultimediaData_en.md)| 01/01/2022      | Dmytro Nikulin |  |
@@ -130,4 +143,4 @@ As soon as it is done, **FVA Tool Set** will put [multimedia data](https://link.
 | 15| What I learned as a Product Manager |[GitHub](./WhatILearnedAsProductManager_en.md) | | | |
 | 16| What I learned as a Software Developer |[GitHub](./WhatILearnedAsSoftwareDeveloper_en.md) | | | |
 | 17| What I Learned As a Tester |[GitHub](./WhatILearnedAsTester_en.md) | | | |
-| 18| Why I decided to create my photo organizer? |[GitHub](./WhyCreatedPhotoOrganizer_en.md) | | | | 
+| 18| Why I decided to create my photo organizer? |[GitHub](./WhyCreatedPhotoOrganizer_en.md) | | | |

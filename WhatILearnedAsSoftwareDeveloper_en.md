@@ -1,7 +1,9 @@
 # Headline
+
 What I learned as a Software Developer while creating my product
 
 # Table of contents
+
 - [Tags](./WhatILearnedAsSoftwareDeveloper_en.md#tags)
 - [Overview](./WhatILearnedAsSoftwareDeveloper_en.md#overview)
 - [Code quality](./WhatILearnedAsSoftwareDeveloper_en.md#code-quality)
@@ -12,9 +14,11 @@ What I learned as a Software Developer while creating my product
 - [References](./WhatILearnedAsSoftwareDeveloper_en.md#references)
 
 # Tags
+
 Software development, code quality, code review, coding standards, documentation practices, C++, Python, implementation status, UI development, QT library, QWidgets, QML, UI languages, SQLite, CSV, C++ and Python integration, riff parser, metadata formats, maintainability
 
 # Definitions, Acronyms, Abbreviations
+
 | # | Abbreviation or Acronym | Definition     |
 | - | ------------------------|:--------------:|
 | 1 | [Dictionary](https://en.wikibooks.org/wiki/A-level_Computing/AQA/Paper_1/Fundamentals_of_data_structures/Dictionaries)|A dictionary is a general-purpose data structure for storing a group of objects. A dictionary has a set of keys and each key has a single associated value. When presented with a key, the dictionary will return the associated value. |
@@ -26,48 +30,52 @@ Software development, code quality, code review, coding standards, documentation
 | 7 | [UI](https://en.wikipedia.org/wiki/User_interface)| is the space where interactions between humans and machines occur. The goal of this interaction is to allow effective operation and control of the machine from the human end, whilst the machine simultaneously feeds back information that aids the operators' [decision-making](https://en.wikipedia.org/wiki/Decision-making) process|
 
 # Overview
+
 This article delves into the importance of code quality, documentation, and UI development in the creation of the FVA Software.
-It explores the use of automated tools, manual code review, and Python checks to ensure code adherence. 
+It explores the use of automated tools, manual code review, and Python checks to ensure code adherence.
 The significance of clear code documentation for both C++ and Python is emphasized.
 The transition from QWidgets to QML for UI implementation is discussed, along with the benefits of utilizing the QT library.
 The evolution of internal metadata formats in the software is explored, highlighting the challenges and decisions made along the way.
-Overall, the article provides insights into building a robust and maintainable software product. 
+Overall, the article provides insights into building a robust and maintainable software product.
 
 ---
 
 # Code quality
+
 Before creating the code, it is crucial to prioritize its **quality**.
 It should be the foremost consideration in the development process.
 To ensure **code quality**, we can utilize automated tools that help with code analysis.
 However, it's important to note that automated tools may not cover all the necessary rules.
 As a result, manual code review becomes essential to enforce coding standards.
 Personally, I have dedicated significant time to code reviewing and checking for adherence to [code style](https://github.com/dimanikulin/fva/blob/master/CodeStyle.md).
-Additionally, I have employed **Python** to create additional code checks. 
+Additionally, I have employed **Python** to create additional code checks.
 It is worth mentioning that not all rules can be checked automatically, requiring manual effort in certain cases.
 
 # Code documentation
+
 "*Now, hold on!*" you might ask,
-"*Are we jumping straight into coding?*" 
+"*Are we jumping straight into coding?*"
 My answer is a resounding "*Nope*".
 
-Before embarking on the coding phase, it is vital to consider **code documentation**. 
+Before embarking on the coding phase, it is vital to consider **code documentation**.
 Since the **FVA Software** employs two programming languages, it is imperative to establish clear documentation rules for both [C++](https://github.com/dimanikulin/fva/blob/master/CodeDocumentation.md) and **Python**.
 
-Consequently, I have familiarized myself with documenting **C++** code using **Doxygen** markdown and have gained proficiency in generating documentation based on **Doxygen** markdown. 
+Consequently, I have familiarized myself with documenting **C++** code using **Doxygen** markdown and have gained proficiency in generating documentation based on **Doxygen** markdown.
 It's quite remarkable how confident I am now in configuring **Doxygen**.
 
 <img src="./Images/CodeDocumentation.png" alt="CodeDocumentation"/>
 
 # Implementation
+
 Finally, we can proceed to the coding phase!
-For the development of **FVA Software**, I have chosen the versatile [QT](https://en.wikipedia.org/wiki/Qt_(software)) library, which supports multiple operating systems such as **Windows**, **macOS**, and **Linux Ubuntu**. 
+For the development of **FVA Software**, I have chosen the versatile [QT](https://en.wikipedia.org/wiki/Qt_(software)) library, which supports multiple operating systems such as **Windows**, **macOS**, and **Linux Ubuntu**.
 Since the software requires a user interface ([UI](https://en.wikipedia.org/wiki/User_interface)), I initially utilized **QWidgets**, including components like **QWizard** and **QWizardPage**.
 
 However, I soon realized that employing **QML** would offer a more streamlined approach for [UI](https://en.wikipedia.org/wiki/User_interface) implementation.
 Therefore, my plan is to transition from **QWidgets** to **QML**.
 
-I was pleasantly surprised by the ease of utilizing **QT** for creating a multimedia content [player](https://github.com/dimanikulin/fva/blob/master/FVAPlayer). 
-The flexibility of [QT](https://en.wikipedia.org/wiki/Qt_(software)) allows me to work with multiple [UI](https://en.wikipedia.org/wiki/User_interface) languages. 
+I was pleasantly surprised by the ease of utilizing **QT** for creating a multimedia content [player](https://github.com/dimanikulin/fva/blob/master/FVAPlayer).
+The flexibility of [QT](https://en.wikipedia.org/wiki/Qt_(software)) allows me to work with multiple [UI](https://en.wikipedia.org/wiki/User_interface) languages.
 To facilitate this, [QT](https://en.wikipedia.org/wiki/Qt_(software)) suggests using the following components:
 
 - [QTranslator](https://doc.qt.io/qt-5/qtranslator.html);
@@ -76,7 +84,7 @@ To facilitate this, [QT](https://en.wikipedia.org/wiki/Qt_(software)) suggests u
 - [QtextDecoder](https://doc.qt.io/qt-5/qtextdecoder.html);
 - [QtextEncoder](https://doc.qt.io/qt-5/qtextencoder.html).
 
-Additionally, I discovered that working with **SQLite** using [QT](https://en.wikipedia.org/wiki/Qt_(software)) is remarkably straightforward. 
+Additionally, I discovered that working with **SQLite** using [QT](https://en.wikipedia.org/wiki/Qt_(software)) is remarkably straightforward.
 
 However, I later made the decision to switch from **SQLite** to [CSV](https://github.com/dimanikulin/fva/blob/master/FVACommonLib/fvacsvfile.h) for data storage.
 
@@ -85,17 +93,18 @@ As my project involves working with two programming [languages](https://github.c
 Last but not least, I acquired knowledge on how to create a [riff parser](https://github.com/dimanikulin/fva/blob/master/FVACommonLib/fvariffparser.h), adding another valuable capability to the project.
 
 # History of internal metadata formats
+
 The history of **internal metadata** formats in FVA Software reveals the evolution of how the software stored and managed metadata.
 Initially, the metadata was kept at the file system level inside the Photo Album.
 Each folder in the Photo Album had two files: **folderDescription.json** and **description.csv**.
 
-The **folderDescription.json** file stored information that was common to all files within a folder, such as 
+The **folderDescription.json** file stored information that was common to all files within a folder, such as
 **device ID**, **tags**, **people**, **place**, and **event**.
 
 <img src="./Images/FvaInternalMetadata.png" alt="FvaInternalMetadata"/>
 
 On the other hand, **description.csv** was used to store information about files under a folder that had different **internal metadata**.
-It had columns for 
+It had columns for
 
 - Name
 - Place
@@ -105,33 +114,34 @@ It had columns for
 - Description
 - Scaner
 
-However, this approach of storing metadata at the file system level had limitations in terms of flexibility and maintainability. 
+However, this approach of storing metadata at the file system level had limitations in terms of flexibility and maintainability.
 Adding or modifying a column in **folderDescription.json** or **description.csv** would require updating the entire photo album file system structure.
 
-To address these limitations, the decision was made to move the **folderDescription.json** and **description.csv** files to an **SQLite** database. 
-The database schema was designed to store the same information as before. 
-During the import of new files to the photo album, the **FVA software** created **SQL** updates to the database. 
+To address these limitations, the decision was made to move the **folderDescription.json** and **description.csv** files to an **SQLite** database.
+The database schema was designed to store the same information as before.
+During the import of new files to the photo album, the **FVA software** created **SQL** updates to the database.
 These **SQL** updates were saved to be able to recreate the **SQL** at any time.
 Although this approach improved flexibility and maintainability compared to the file system approach, merging folders in the photo album still caused significant changes in the **SQL** updates.
 
-Finally, it was decided to consolidate all the information into a single **CSV** file for **internal metadata**. 
+Finally, it was decided to consolidate all the information into a single **CSV** file for **internal metadata**.
 This **CSV** file does not keep track of which folder a file is stored in, allowing for easier merging of folders without issues.
 However, it results in some duplication of information since common information for all files in a folder is simply copied.
 
 "*And what did you learn?*" you might ask.
-The lesson learned is that before implementation, it is crucial to consider how easily you will maintain product changes. 
+The lesson learned is that before implementation, it is crucial to consider how easily you will maintain product changes.
 
 The history of internal metadata formats in FVA Software demonstrates the importance of designing a system architecture that is flexible and maintainable from the start.
- 
+
 # References
+
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
-| 1 | FVA Tool Set features | [local resource](./FVADocX/FVAToolSetFeatures.pptx) | 01/06/2022 | Dmytro Nikulin | | 
+| 1 | FVA Tool Set features | [local resource](./FVADocX/FVAToolSetFeatures.pptx) | 01/06/2022 | Dmytro Nikulin | |
 | 2 | What I learned as an Application Architect |[GitHub](./WhatILearnedAsAppArchitect_en.md) | | | |
 | 3 | What I learned as a Delivery Manager |[GitHub](./WhatILearnedAsDeliveryManager_en) | | | |
 | 4 | What I learned as a DevOps |[GitHub](./WhatILearnedAsDevOps_en.md) | | | |
 | 5 | What I learned as a Product Manager |[GitHub](./WhatILearnedAsProductManager_en.md) | | | |
 | 6 | What I learned as a Subject Matter Expert |[GitHub](./WhatILearnedAsSubjectMatterExpert_en.md) | | | |
 | 7 | What I Learned As a Tester |[GitHub](./WhatILearnedAsTester_en.md) | | | |
-| 8 | Why I decided to create my photo organizer? |[GitHub](./WhyCreatedPhotoOrganizer_en.md) | | | | 
-| 9 | Modern C++ Template |[GitHub](https://github.com/filipdutescu/modern-cpp-template/blob/master/.github/workflows/release.yml) | | | | 
+| 8 | Why I decided to create my photo organizer? |[GitHub](./WhyCreatedPhotoOrganizer_en.md) | | | |
+| 9 | Modern C++ Template |[GitHub](https://github.com/filipdutescu/modern-cpp-template/blob/master/.github/workflows/release.yml) | | | |
