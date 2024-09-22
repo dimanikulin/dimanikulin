@@ -14,6 +14,6 @@
 - [Work in GlobalLogic](./WorkInGL.md)
 - [Work Life Balance](WorkLifeBalance.md)
 
-| # | Post name            | Topic                 |  Release date, reactions   |  Post                 | Tags   |
+| # | Topic            | Post name         |  Release date, reactions   | Tags         | Picture    |  Post | TBD |
 | - | ---------------------|---------------------- |-----------------| ----------------------- |:-------------:|
 | 1 | TBD  | TBD |  | TBD | TBD  |
