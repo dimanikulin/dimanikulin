@@ -116,7 +116,36 @@ Core Features of MedConnect IoT Platform:
 
 # 8. Solution advisory subject
 
-TBD
+*Goal*:
+
+- To have a well defined big data lake(s) with clear boundaries.
+- The data lake(s) should have the capability to ingest the data in batch mode and real time pipeline with appropriate frequency/rate
+- The data lake(s) should store the data in the right format which is ideal for the relevant use cases
+
+*In Scope*:
+
+- Identify required Enterprise Data Producing systems
+- Data Producer Onboarding
+- Data Ingestion (push/pull, batch/streaming/API)
+- Archiving and Format Optimization
+- Transformation and Enrichment
+- Polyglot Storage
+- Access Interfaces (API, Export, Analytics Tools, etc.)
+- Identify Enterprise Data Consumer systems
+- Data Consumer Onboarding
+- Administration and Operational Tools
+- Data Warehouse Capability
+- Enterprise Data Governance
+- Enabling Data Science and other internal teams to effectively access/consume the data
+- Enabling various BI reports to effectively access/consume the data
+
+*Out-Of-Scope*:
+
+- Core Artificial Intelligence /Machine Learning/Data Science Capabilities
+- Core Reporting Capabilities
+- Surrounding Transactional Systems/Feature System/Teams’ Capabilities and Roadmaps
+- Market Study/Business Value Analysis
+- Data Producing/Consuming systems not identified as key/required systems
 
 <img src="./Images/TBD.jpg" alt="TBD" />
 
