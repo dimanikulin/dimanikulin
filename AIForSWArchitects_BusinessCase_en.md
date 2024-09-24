@@ -73,10 +73,10 @@ TBD
 
 *Milestones:*
 
-*2019*: Initial research and development; prototype launched for internal testing.
-*2020*: Early-stage trials conducted with select hospitals and healthcare institutions.
-*2021*: Public beta released; partnerships established with device manufacturers.
-*2023*: Official product launch; integrated AI analytics platform goes live with healthcare provider integration.
+- *2019*: Initial research and development; prototype launched for internal testing.
+- *2020*: Early-stage trials conducted with select hospitals and healthcare institutions.
+- *2021*: Public beta released; partnerships established with device manufacturers.
+- *2023*: Official product launch; integrated AI analytics platform goes live with healthcare provider integration.
 
 TBD
 
@@ -85,40 +85,34 @@ TBD
 Project Timeline:
 
 TBD
-*Q1 2024*: Requirements gathering and stakeholder alignment.
-*Q2 2024*: Platform development kickoff with core feature integration.
-*Q3 2024*: Alpha testing with healthcare professionals and selected patients.
-*Q4 2024*: Beta release and validation, including feedback and iteration phase.
-*Q1 2025*: Full-scale product launch, including marketing and sales rollout.
-*Q2 2025*: Post-launch support, user training, and feature enhancement based on feedback.
+
+- *Q1 2024*: Requirements gathering and stakeholder alignment.
+- *Q2 2024*: Platform development kickoff with core feature integration.
+- *Q3 2024*: Alpha testing with healthcare professionals and selected patients.
+- *Q4 2024*: Beta release and validation, including feedback and iteration phase.
+- *Q1 2025*: Full-scale product launch, including marketing and sales rollout.
+- *Q2 2025*: Post-launch support, user training, and feature enhancement based on feedback.
 
 # 6. Features
 
 Core Features of MedConnect IoT Platform:
 
-*Real-Time Data Collection*: Integration with wearable and not wearable devices (smartwatches, glucose monitors, blood pressure monitors). Captures heart rate, glucose levels, blood pressure, and other vital signs.
-*Predictive Analytics & AI*: Uses machine learning to analyze data trends and predict potential health risks. Provides alerts for healthcare providers if intervention is required.
-*Remote Patient Monitoring (RPM)*: Enables healthcare providers to monitor patients remotely.
-*Data Dashboard for Providers:* A centralized dashboard for clinicians to monitor patient health. Provides historical data, trend analysis, and personalized health insights.
-*Patient Mobile App*: Allows patients to view their health data in real-time, receive medication reminders, and get proactive health tips.
-*Device Interoperability*: Supports integration with multiple medical devices, ensuring flexibility for patients and healthcare providers.
+- *Real-Time Data Collection*: Integration with wearable and not wearable devices (smartwatches, glucose monitors, blood pressure monitors). Captures heart rate, glucose levels, blood pressure, and other vital signs.
+- *Predictive Analytics & AI*: Uses machine learning to analyze data trends and predict potential health risks. Provides alerts for healthcare providers if intervention is required.
+- *Remote Patient Monitoring (RPM)*: Enables healthcare providers to monitor patients remotely.
+- *Data Dashboard for Providers:* A centralized dashboard for clinicians to monitor patient health. Provides historical data, trend analysis, and personalized health insights.
+- *Patient Mobile App*: Allows patients to view their health data in real-time, receive medication reminders, and get proactive health tips.
+- *Device Interoperability*: Supports integration with multiple medical devices, ensuring flexibility for patients and healthcare providers.
 
 # 7. Actors
 
-Primary Actors:
+*Primary Actors*:
 
-Patients:
-Chronic disease patients who use the IoT platform for continuous monitoring.
-Primary beneficiaries of personalized health insights and real-time data tracking.
-Healthcare Providers:
-Doctors, nurses, and specialists who use the platform to monitor and treat patients remotely.
-They receive alerts on potential health risks and can adjust treatment plans accordingly.
-Healthcare Institutions (Hospitals/Clinics):
-Institutions benefit by reducing hospital admissions, improving patient outcomes, and lowering healthcare costs.
-Medical Device Manufacturers:
-Providers of smart medical devices that integrate with the platform, enabling data capture from patients.
-Insurance Companies:
-Can leverage the platform’s data to optimize healthcare costs, adjust premiums, and offer wellness programs to policyholders.
+- *Patients*: Chronic disease patients who use the IoT platform for continuous monitoring. Primary beneficiaries of personalized health insights and real-time data tracking.
+- *Healthcare Providers*: Doctors, nurses, and specialists who use the platform to monitor and treat patients remotely. They receive alerts on potential health risks and can adjust treatment plans accordingly.
+- *Healthcare Institutions (Hospitals/Clinics)*: Institutions benefit by reducing hospital admissions, improving patient outcomes, and lowering healthcare costs.
+- *Medical Device Manufacturers*: Providers of smart medical devices that integrate with the platform, enabling data capture from patients.
+- *Insurance Companies*: Can leverage the platform’s data to optimize healthcare costs, adjust premiums, and offer wellness programs to policyholders.
 
 # 8. Solution advisory subject
 
