@@ -84,7 +84,7 @@ For each work I performed I noticed the time I spent and here a full table to de
 | # | Name                 | Time Spent | Description   |
 | - | ---------------------|------------|:-------------:|
 |   | Anonymization        | 120 (before me) +15 minutes | |
-|   | Prepare for input doc| 75 mins spent TBD | |
+|   | Input doc prepation  | 90 mins spent TBD | |
 |   | Architecture drivers | 15 mins spent TBD | |
 
 <img src="./Images/TBD.jpg" alt="TBD" />

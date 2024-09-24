@@ -116,7 +116,9 @@ Core Features of MedConnect IoT Platform:
 
 # 8. Solution advisory objective
 
-*Goal*:
+*Goal*: Create unified data platform.
+
+*Drivers*:
 
 - To have a well defined big data lake(s) with clear boundaries.
 - The data lake(s) should have the capability to ingest the data in batch mode and real time pipeline with appropriate frequency/rate
