@@ -64,7 +64,7 @@ The MedConnect IoT platform provides an integrated solution that captures real-t
 - *Chief Financial Officer (CFO)*: Manages the financial viability of the project and budget allocation.
 - *Product Manager:* Oversees the platform's development, ensuring timely feature releases and customer alignment.
 - *Healthcare Providers*: Input from doctors, specialists, and nurses to guide product features based on clinical needs.
-TBD
+- *Health Applications*: Input from devices.
 - *Patients*: As end-users, they contribute through feedback and real-world testing.
 
 # 4. Product History
@@ -77,14 +77,11 @@ TBD
 - *2020*: Early-stage trials conducted with select hospitals and healthcare institutions.
 - *2021*: Public beta released; partnerships established with device manufacturers.
 - *2023*: Official product launch; integrated AI analytics platform goes live with healthcare provider integration.
-
-TBD
+- *2024*: Migration to unified Data Platform.
 
 # 5. Schedule
 
 Project Timeline:
-
-TBD
 
 - *Q1 2024*: Requirements gathering and stakeholder alignment.
 - *Q2 2024*: Platform development kickoff with core feature integration.
