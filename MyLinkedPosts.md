@@ -14,6 +14,6 @@
 - [Work in GlobalLogic](./WorkInGL.md)
 - [Work Life Balance](WorkLifeBalance.md)
 
-| # | Topic            | Post name         |  Release date, reactions   | Tags         | Picture    |  Post | TBD |
-| - | ---------------------|---------------------- |-----------------| ----------------------- |:-------------:|
-| 1 | TBD  | TBD |  | TBD | TBD  |
+| # | Topic            | Post name               | Tags             | Picture      |   Release date, reactions   |  Post      |
+| - | -----------------|-------------------------|------------------| -------------|-------------|:-------------:|
+| 1 | Working with GPT | Everyone must know that |                  | TBD    | [24/04/2023](https://www.linkedin.com/posts/dimanikulin_humor-chatgpt-chatgpttutorial-activity-7056156667721191424-rcxW?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD}  | |
