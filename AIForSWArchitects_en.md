@@ -65,7 +65,9 @@ TBD to use all the docs from initial case
 
 # Assitance
 
-The assitante is located [here](https://chatgpt.com/g/g-J6uBbvDrm-solutions-architect-assistent) and the communication with it is in a form like with **ChatGPT** - Prompt from **User** and Response from **AI**. So I put in a table form
+The assitante is located [here](https://chatgpt.com/g/g-J6uBbvDrm-solutions-architect-assistent) and the communication with it is in a form like with **ChatGPT** - Prompt from **User** and Response from **AI**. So I put in a table form.
+
+First I just wanted to try it out and just went from start to the end of assistance in way in suggested and without any clarification from my side. The result a put into [Round 1](./AIForSWArchitects_Round1.md)
 
 ## Business goals
 
