@@ -69,46 +69,6 @@ The assitante is located [here](https://chatgpt.com/g/g-J6uBbvDrm-solutions-arch
 
 First I just wanted to try it out and just went from start to the end of assistance in way in suggested and without any clarification from my side. The result a put into [Round 1](./AIForSWArchitects_Round1.md)
 
-## Business goals
-
-First it suggested to define **Essential business goals**.
-
-| # | My Prompt            | AI Response  |
-| - | ---------------------|:------------:|
-|   | Hi, Can you help me in solution architect advisory? | What type of help do you need? |
-|   | To advise a customer on how to create unified data platform.| Great! For advising on a unified data platform, we need to create an architecture vision document. Could you provide additional information like: Request for Proposal (RFP), Request for Information (RFI), Text of the customer request. Let me know which one you have. |
-|   | 1 | Please share the Request for Proposal (RFP) document or key details from it so I can assist you in defining the architecture vision for the unified data platform. |
-|   | I sent [business case](./AIForSWArchitects_BusinessCase_en.md) | Thank you for sharing the details. Based on the RFP, we will proceed with defining the architecture vision for the MedConnect IoT Platform's Unified Data Platform. The first step is to define Architecture Drivers, which include business goals, constraints, and use cases. Let's begin with defining the main business goals. + Description Priority in form of a Table below. Would you like to proceed with defining constraints, or should we continue working on business goals?|
-
-### Essential business goals for the solution
-
-Description and its Priority
-
-- Create a unified data platform to support real-time and batch data ingestion. - **Hard**
-- Enable scalable data storage optimized for healthcare data (vital signs, historical records). - **Hard**
-- Provide seamless data access for healthcare providers, patients, and analytics teams. - **Soft**
-- Ensure compliance with healthcare standards (e.g., HIPAA) for data security and privacy. - **Hard**
-- Support predictive analytics to enable proactive healthcare decision-making. - **Soft**
-- Optimize data storage and minimize the need for cross-environment data copying. - **Soft**
-
-## Risks
-
-| # | My Prompt            | AI Response  |
-| - | ---------------------|:------------:|
-|   | What are key risks?  |The key risks associated with the MedConnect IoT Platform's Unified Data Platform project can stem from various technical, operational, and business challenges. Below are potential risks based on the RFP: See table below. Would you like to continue with defining constraints, or should we explore further details on these risks? |
-
-### The section outlines key design risks for the solution
-
-| # | Risk Description     | Mitigation Strategy  |
-| - | ---------------------|:------------:|
-|   | *Data Security & Privacy Compliance*: Ensuring the platform adheres to HIPAA and other healthcare data standards. | Implement end-to-end encryption, audit trails, and regular compliance checks. Engage security experts.|
-|   | *Integration with Multiple Devices*: Difficulty in ensuring compatibility with diverse IoT devices and healthcare systems.| Establish strong partnerships with device manufacturers. Use open standards for device interoperability.|
-|   | *Scalability for Real-Time Data Processing*: The system might struggle to handle large volumes of data in real-time from numerous devices.| Design a scalable, distributed architecture using cloud-native solutions (e.g., auto-scaling, load balancing).|
-|   | *Data Quality & Accuracy*: Risk of low-quality or incorrect data affecting predictive analytics and healthcare decisions. | Implement rigorous data validation, monitoring tools, and introduce feedback loops to correct inaccuracies.|
-|   | *High Initial Costs*: Setting up a cloud-based platform with real-time and batch data ingestion capabilities may have high upfront costs. | Develop a phased implementation plan and optimize cloud resource usage to lower costs.|
-|   | *Third-Party Dependency: Reliance on third-party devices and cloud services, leading to potential service disruptions. | Include backup service providers and design failover strategies for critical services.|
-|   | *Cross-Environment Data Consistency: Potential issues with data consistency across multiple environments. | Design robust data synchronization mechanisms and minimize data copying through efficient storage solutions.|
-
 # Conclusion
 
 For each work I performed I noticed the time I spent and here a full table to describe that.
