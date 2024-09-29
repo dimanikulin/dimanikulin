@@ -74,6 +74,25 @@ Description and its Priority
 |   | *Third-Party Dependency: Reliance on third-party devices and cloud services, leading to potential service disruptions. | Include backup service providers and design failover strategies for critical services.|
 |   | *Cross-Environment Data Consistency: Potential issues with data consistency across multiple environments. | Design robust data synchronization mechanisms and minimize data copying through efficient storage solutions.|
 
+## Constraints
+
+The section enumerates the main business and technical constraints for the solution.
+
+### Description Priority
+
+| # | Risk Description     | Priority     |
+| - | ---------------------|:------------:|
+| 1 | The platform must comply with HIPAA and other healthcare regulations regarding data security and privacy. | Hard |
+| 2 | The data platform should integrate with multiple IoT devices and smart medical devices for data ingestion. | Hard |
+| 3 | The solution must ensure 99.9% uptime for healthcare providers accessing patient data. | Hard |
+| 4 | Data storage should support polyglot persistence to store different data formats for diverse use cases. | Soft |
+| 5 | The platform should support real-time and batch processing with minimal latency for critical healthcare data.| Hard |
+| 6 | Ensure cross-environment data consistency without redundant data copying across cloud platforms. | Soft |
+| 7 | The system must minimize storage costs by using efficient data formats and compression techniques. |Soft |
+| 8 | Third-party cloud services (e.g., AWS, GCP, Azure) should be integrated as the primary infrastructure. | Hard |
+
+Would you like to proceed with defining the main use cases, or should we continue working on these constraints?
+
 <img src="./Images/TBD.jpg" alt="TBD" />
 
 # References
