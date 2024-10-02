@@ -22,7 +22,7 @@ TBD
 
 | # | Abbreviation or Acronym | Definition     |
 | - | ------------------------|:--------------:|
-| 1 |
+| 1 | | |
 
 # Overview
 
@@ -32,37 +32,35 @@ or ---
 
 # Introduction
 
-TBD
+This is what we started from:
 
-## Business goals
+- **Me** - Hi, Can you help me in solution architect advisory?
+- **AI** - What type of help do you need?
+- **Me** - To advise a customer on how to create unified data platform.
+- **AI** - Great! For advising on a unified data platform, we need to create an architecture vision document. Could you provide additional information like: Request for Proposal (RFP), Request for Information (RFI), Text of the customer request. Let me know which one you have.
+- **Me** - RFP
+- **AI** - Please share the Request for Proposal (RFP) document or key details from it so I can assist you in defining the architecture vision for the unified data platform.
+- **Me** - Sent [business case](./AIForSWArchitects_BusinessCase_en.md).
+- **AI** - Thank you for sharing the details. Based on the RFP, we will proceed with defining the architecture vision for the MedConnect IoT Platform's Unified Data Platform. The first step is to define Architecture Drivers, which include business goals, constraints, and use cases. Let's begin with defining the main business goals.
 
-First it suggested to define **Essential business goals**.
+At each step it suggested to clarify current step response or go to next step.
 
-| # | My Prompt            | AI Response  |
+# Essential business goals for the solution
+
+| # | Description          | Priority  |
 | - | ---------------------|:------------:|
-|   | Hi, Can you help me in solution architect advisory? | What type of help do you need? |
-|   | To advise a customer on how to create unified data platform.| Great! For advising on a unified data platform, we need to create an architecture vision document. Could you provide additional information like: Request for Proposal (RFP), Request for Information (RFI), Text of the customer request. Let me know which one you have. |
-|   | 1 | Please share the Request for Proposal (RFP) document or key details from it so I can assist you in defining the architecture vision for the unified data platform. |
-|   | I sent [business case](./AIForSWArchitects_BusinessCase_en.md) | Thank you for sharing the details. Based on the RFP, we will proceed with defining the architecture vision for the MedConnect IoT Platform's Unified Data Platform. The first step is to define Architecture Drivers, which include business goals, constraints, and use cases. Let's begin with defining the main business goals. + Description Priority in form of a Table below. Would you like to proceed with defining constraints, or should we continue working on business goals?|
+| - | Create a unified data platform to support real-time and batch data ingestion. | Hard |
+| - | Enable scalable data storage optimized for healthcare data (vital signs, historical records). | Hard |
+| - | Provide seamless data access for healthcare providers, patients, and analytics teams. | Soft |
+| - | Ensure compliance with healthcare standards (e.g., HIPAA) for data security and privacy. | Hard |
+| - | Support predictive analytics to enable proactive healthcare decision-making. | Soft |
+| - | Optimize data storage and minimize the need for cross-environment data copying. |Soft |
 
-### Essential business goals for the solution
+- **AI** - Would you like to proceed with defining constraints, or should we continue working on business goals?
+- **Me** - What are key risks?
+- **AI** - The key risks associated with the MedConnect IoT Platform's Unified Data Platform project can stem from various technical, operational, and business challenges. Below are potential risks based on the RFP
 
-Description and its Priority
-
-- Create a unified data platform to support real-time and batch data ingestion. - **Hard**
-- Enable scalable data storage optimized for healthcare data (vital signs, historical records). - **Hard**
-- Provide seamless data access for healthcare providers, patients, and analytics teams. - **Soft**
-- Ensure compliance with healthcare standards (e.g., HIPAA) for data security and privacy. - **Hard**
-- Support predictive analytics to enable proactive healthcare decision-making. - **Soft**
-- Optimize data storage and minimize the need for cross-environment data copying. - **Soft**
-
-## Risks
-
-| # | My Prompt            | AI Response  |
-| - | ---------------------|:------------:|
-|   | What are key risks?  |The key risks associated with the MedConnect IoT Platform's Unified Data Platform project can stem from various technical, operational, and business challenges. Below are potential risks based on the RFP: See table below. Would you like to continue with defining constraints, or should we explore further details on these risks? |
-
-### The section outlines key design risks for the solution
+# Key design risks for the solution
 
 | # | Risk Description     | Mitigation Strategy  |
 | - | ---------------------|:------------:|
@@ -74,11 +72,11 @@ Description and its Priority
 |   | *Third-Party Dependency: Reliance on third-party devices and cloud services, leading to potential service disruptions. | Include backup service providers and design failover strategies for critical services.|
 |   | *Cross-Environment Data Consistency: Potential issues with data consistency across multiple environments. | Design robust data synchronization mechanisms and minimize data copying through efficient storage solutions.|
 
-## Constraints
+- **AI** - Would you like to continue with defining constraints, or should we explore further details on these risks?
+- **Me** - Constraints
+- **AI** - The section enumerates the main business and technical constraints for the solution.
 
-The section enumerates the main business and technical constraints for the solution.
-
-### Description Priority
+# Constraints
 
 | # | Risk Description     | Priority     |
 | - | ---------------------|:------------:|
@@ -91,22 +89,23 @@ The section enumerates the main business and technical constraints for the solut
 | 7 | The system must minimize storage costs by using efficient data formats and compression techniques. |Soft |
 | 8 | Third-party cloud services (e.g., AWS, GCP, Azure) should be integrated as the primary infrastructure. | Hard |
 
-Would you like to proceed with defining the main use cases, or should we continue working on these constraints?
+- **AI** - Would you like to proceed with defining the main use cases, or should we continue working on these constraints?
+- **Me** - Main use cases
 
-## Main use cases
+# Main use cases
 
-Let's define the main use cases for the unified data platform. Do you prefer the output in Markdown format or PlantUML? - markdown
+- **AI** -  Let's define the main use cases for the unified data platform. Do you prefer the output in Markdown format or PlantUML? - **Me** - Markdown
 
 | # | Use Case Name     | Description | Actor     |
 | - | ------------------|-------------|:------------:|
-|1 |Patient Data Ingestion | Capture real-time health data (e.g., glucose levels, blood pressure) from wearable and home devices.| Patients, Medical Devices |
-|2| Real-Time Data Monitoring | Healthcare providers monitor patient vitals in real-time, receiving alerts for critical changes.| Healthcare Providers |
-|3| Predictive Analytics & Alerts | Use AI algorithms to predict potential health risks and trigger alerts to doctors for interventions.| Healthcare Providers |
-|4| Data Access & Analytics Dashboard | Enable healthcare providers to access patient history, trends, and analytics through a dashboard.| Healthcare Providers |
-|5| Patient Data Access | Patients can view their own health data, trends, and receive personalized insights via a mobile app.| Patients |
-|6| Data Export to Third-Party Systems | Export patient data to external healthcare systems or insurance companies for further analysis. | Insurance Companies |
-|7| Data Storage & Archiving | Store and archive patient health data, ensuring compliance with healthcare regulations like HIPAA.| Data Platform |
-|8| Data Sharing Across Environments | Synchronize and share data across cloud environments without duplicating or losing information.| Data Platform, Cloud Providers |
+| 1 |Patient Data Ingestion | Capture real-time health data (e.g., glucose levels, blood pressure) from wearable and home devices.| Patients, Medical Devices |
+| 2 | Real-Time Data Monitoring | Healthcare providers monitor patient vitals in real-time, receiving alerts for critical changes.| Healthcare Providers |
+| 3 | Predictive Analytics & Alerts | Use AI algorithms to predict potential health risks and trigger alerts to doctors for interventions.| Healthcare Providers |
+| 4 | Data Access & Analytics Dashboard | Enable healthcare providers to access patient history, trends, and analytics through a dashboard.| Healthcare Providers |
+| 5 | Patient Data Access | Patients can view their own health data, trends, and receive personalized insights via a mobile app.| Patients |
+| 6 | Data Export to Third-Party Systems | Export patient data to external healthcare systems or insurance companies for further analysis. | Insurance Companies |
+| 7 | Data Storage & Archiving | Store and archive patient health data, ensuring compliance with healthcare regulations like HIPAA.| Data Platform |
+| 8 | Data Sharing Across Environments | Synchronize and share data across cloud environments without duplicating or losing information.| Data Platform, Cloud Providers |
 
 <img src="./Images/TBD.jpg" alt="TBD" />
 
