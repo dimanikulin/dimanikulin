@@ -94,7 +94,7 @@ At each step it suggested to clarify current step response or go to next step.
 
 # Main use cases
 
-- **AI** -  Let's define the main use cases for the unified data platform. Do you prefer the output in Markdown format or PlantUML? - **Me** - Markdown
+- **AI** - Let's define the main use cases for the unified data platform. Do you prefer the output in Markdown format or PlantUML? - - **Me** - Markdown
 
 | # | Use Case Name     | Description | Actor     |
 | - | ------------------|-------------|:------------:|
@@ -106,6 +106,40 @@ At each step it suggested to clarify current step response or go to next step.
 | 6 | Data Export to Third-Party Systems | Export patient data to external healthcare systems or insurance companies for further analysis. | Insurance Companies |
 | 7 | Data Storage & Archiving | Store and archive patient health data, ensuring compliance with healthcare regulations like HIPAA.| Data Platform |
 | 8 | Data Sharing Across Environments | Synchronize and share data across cloud environments without duplicating or losing information.| Data Platform, Cloud Providers |
+
+- **AI** - Would you like to proceed with defining main features, or should we refine these use cases further?
+- **Me** - Main features
+
+# Main Features
+
+- **AI** - The section enumerates solution major features.
+
+- 1 Real-time health data ingestion from multiple IoT and smart medical devices.
+- 2 Predictive analytics using AI/ML for identifying potential health risks.
+- 3 Centralized data storage optimized for healthcare data with polyglot persistence.
+- 4 Real-time alerts to healthcare providers for critical patient conditions.
+- 5 Role-based data access via web dashboards for healthcare providers and mobile apps for patients.
+- 6 Data archiving and HIPAA-compliant storage of sensitive healthcare information.
+- 7 Cross-cloud data sharing and synchronization to eliminate redundant data copying.
+- 8 Integration with third-party systems like insurance companies for data export.
+
+- **AI** - Would you like to proceed with defining quality attribute scenarios, or continue working on main features?
+- **Me** - Quality attribute scenarious
+
+# Quality attribute scenarious
+
+- **AI** - The section lists and prioritizes the quality attribute scenarios pertinent to the designed solution.
+
+| # | Quality Attribute   | Scenario |  Business Priority  | Related To |
+| - | ------------------|-------------|-------------|:------------:|
+| 1 | Security | Patient health data must be encrypted during transmission and storage, ensuring compliance with HIPAA. | High |  Data Storage, Access |
+| 2 | Availability | The system must maintain 99.9% uptime to ensure healthcare providers can access patient data at all times. |  High |  Data Access, Monitoring |
+| 3 | Performance |  Real-time patient monitoring must process data within 2 seconds of ingestion from IoT devices. |  High |  Real-Time Monitoring |
+| 4 | Interoperability |  The platform must support integration with diverse IoT devices from different manufacturers seamlessly. |  Medium |  Device Integration |
+| 5 | Scalability |  The platform should scale to support up to 10,000 concurrent devices without degrading performance. |  High |  Data Ingestion |
+| 6 | Usability |  Healthcare providers should be able to access patient data in 3 clicks or fewer from the dashboard. |  Medium |  Data Dashboard |
+| 7 | Maintainability |  The platform must allow updates to AI models without affecting the real-time data pipeline. |  Medium |  Predictive Analytics |
+| 8 | Reliability |  Data synchronization between cloud environments must ensure no data loss even during network disruptions. |  High |  Data Sharing |
 
 <img src="./Images/TBD.jpg" alt="TBD" />
 
