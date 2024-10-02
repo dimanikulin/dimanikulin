@@ -93,6 +93,21 @@ The section enumerates the main business and technical constraints for the solut
 
 Would you like to proceed with defining the main use cases, or should we continue working on these constraints?
 
+## Main use cases
+
+Let's define the main use cases for the unified data platform. Do you prefer the output in Markdown format or PlantUML? - markdown
+
+| # | Use Case Name     | Description | Actor     |
+| - | ------------------|-------------|:------------:|
+|1 |Patient Data Ingestion | Capture real-time health data (e.g., glucose levels, blood pressure) from wearable and home devices.| Patients, Medical Devices |
+|2| Real-Time Data Monitoring | Healthcare providers monitor patient vitals in real-time, receiving alerts for critical changes.| Healthcare Providers |
+|3| Predictive Analytics & Alerts | Use AI algorithms to predict potential health risks and trigger alerts to doctors for interventions.| Healthcare Providers |
+|4| Data Access & Analytics Dashboard | Enable healthcare providers to access patient history, trends, and analytics through a dashboard.| Healthcare Providers |
+|5| Patient Data Access | Patients can view their own health data, trends, and receive personalized insights via a mobile app.| Patients |
+|6| Data Export to Third-Party Systems | Export patient data to external healthcare systems or insurance companies for further analysis. | Insurance Companies |
+|7| Data Storage & Archiving | Store and archive patient health data, ensuring compliance with healthcare regulations like HIPAA.| Data Platform |
+|8| Data Sharing Across Environments | Synchronize and share data across cloud environments without duplicating or losing information.| Data Platform, Cloud Providers |
+
 <img src="./Images/TBD.jpg" alt="TBD" />
 
 # References
