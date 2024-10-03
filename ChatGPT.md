@@ -1,6 +1,3 @@
-
-Took idea from [DOU](https://dou.ua/forums/topic/43131/?from=tg&utm_source=telegram&utm_medium=social)
-
 # ChatGPT in CV
 
 Nowadays, many people include their experience with ChatGPT in their CVs as a way to showcase their skills and expertise in various domains.
@@ -47,6 +44,5 @@ What about you? Do you consider ChatGPT a useful tool?
 
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
-| 1 | 100+ ChatGPT Prompts for Software Developers | [DOU](https://dou.ua/forums/topic/43131/?from=tg&utm_source=telegram&utm_medium=social) | 20/04/2023 | DOU | |
 | 3 | ChatGPT in CV | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_chatgpt-cv-skills-activity-7086958836036644864-hpB6?utm_source=share&utm_medium=member_desktop) | 18/07/2023 | Dmytro Nikulin | |
 | 4 | Do you consider ChatGPT a useful tool? | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_chatgpt-activity-7109428850933022721-HDKN?utm_source=share&utm_medium=member_desktop) | 18/09/2023 | Dmytro Nikulin | |
