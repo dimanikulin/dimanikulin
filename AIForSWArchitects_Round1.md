@@ -45,7 +45,9 @@ This is what we started from:
 
 At each step it suggested to clarify current step response or go to next step.
 
-# Essential business goals for the solution
+# Architecture Drivers
+
+## Essential business goals for the solution
 
 | # | Description          | Priority  |
 | - | ---------------------|:------------:|
@@ -60,7 +62,7 @@ At each step it suggested to clarify current step response or go to next step.
 - **Me** - What are key risks?
 - **AI** - The key risks associated with the MedConnect IoT Platform's Unified Data Platform project can stem from various technical, operational, and business challenges. Below are potential risks based on the RFP
 
-# Key design risks for the solution
+## Key design risks for the solution
 
 | # | Risk Description     | Mitigation Strategy  |
 | - | ---------------------|:------------:|
@@ -76,7 +78,7 @@ At each step it suggested to clarify current step response or go to next step.
 - **Me** - Constraints
 - **AI** - The section enumerates the main business and technical constraints for the solution.
 
-# Constraints
+## Constraints
 
 | # | Risk Description     | Priority     |
 | - | ---------------------|:------------:|
@@ -92,7 +94,7 @@ At each step it suggested to clarify current step response or go to next step.
 - **AI** - Would you like to proceed with defining the main use cases, or should we continue working on these constraints?
 - **Me** - Main use cases
 
-# Main use cases
+## Main use cases
 
 - **AI** - Let's define the main use cases for the unified data platform. Do you prefer the output in Markdown format or PlantUML? - - **Me** - Markdown
 
@@ -110,7 +112,7 @@ At each step it suggested to clarify current step response or go to next step.
 - **AI** - Would you like to proceed with defining main features, or should we refine these use cases further?
 - **Me** - Main features
 
-# Main Features
+## Main Features
 
 - **AI** - The section enumerates solution major features.
 
@@ -126,7 +128,7 @@ At each step it suggested to clarify current step response or go to next step.
 - **AI** - Would you like to proceed with defining quality attribute scenarios, or continue working on main features?
 - **Me** - Quality attribute scenarious
 
-# Quality attribute scenarious
+## Quality attribute scenarious
 
 - **AI** - The section lists and prioritizes the quality attribute scenarios pertinent to the designed solution.
 
@@ -140,6 +142,8 @@ At each step it suggested to clarify current step response or go to next step.
 | 6 | Usability |  Healthcare providers should be able to access patient data in 3 clicks or fewer from the dashboard. |  Medium |  Data Dashboard |
 | 7 | Maintainability |  The platform must allow updates to AI models without affecting the real-time data pipeline. |  Medium |  Predictive Analytics |
 | 8 | Reliability |  Data synchronization between cloud environments must ensure no data loss even during network disruptions. |  High |  Data Sharing |
+
+# Solution Design
 
 <img src="./Images/TBD.jpg" alt="TBD" />
 
