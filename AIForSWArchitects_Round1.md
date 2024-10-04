@@ -143,7 +143,78 @@ At each step it suggested to clarify current step response or go to next step.
 | 7 | Maintainability |  The platform must allow updates to AI models without affecting the real-time data pipeline. |  Medium |  Predictive Analytics |
 | 8 | Reliability |  Data synchronization between cloud environments must ensure no data loss even during network disruptions. |  High |  Data Sharing |
 
+- **AI** - Would you like to proceed to the solution design, or continue working on quality attribute scenarios?
+- **Me** - Solution design
+
 # Solution Design
+
+- **AI** - Let's start the Solution Design by defining the Context View. This view provides a high-level overview of the system and its external dependencies.
+
+## Context View
+
+### Intent
+
+The Context View outlines the interaction between the MedConnect IoT platform and external systems, actors, and services. It addresses key architecture drivers such as real-time data ingestion, device interoperability, and secure data access.
+
+### Context
+
+The MedConnect IoT platform operates in a healthcare environment where patients, healthcare providers, and external services interact with the system. It ingests data from medical devices, processes it in real-time, and provides insights to healthcare professionals while ensuring compliance with HIPAA and other healthcare regulations.
+
+### Representation
+
+Below is a description of the primary system components and external systems interacting with the platform:
+
+- **Patients** – Users who wear or interact with medical devices that provide continuous monitoring of vital signs.
+- **Healthcare Providers** – Doctors, nurses, and medical staff access the platform to monitor patient data.
+- **Medical Devices** – IoT-enabled wearables and home devices (e.g., glucose monitors, blood pressure monitors) send data to the platform.
+- **Data Platform** – The core component responsible for data ingestion, processing, storage, and analytics.
+- **Cloud Infrastructure** – The cloud environment that hosts the platform, supporting scalable storage and real-time processing.
+- **Third-Party Systems** – Insurance companies and healthcare institutions may access patient data through APIs for reporting and analysis.
+
+- **AI** - Would you like to proceed with detailing the Solution Decomposition View, or refine the Context View?
+- **Me** - Solution decomposition view
+
+## Solution Decomposition View
+
+### Intent
+
+The Solution Decomposition View breaks down the MedConnect IoT platform into its major components, showcasing how the system is structured to handle data ingestion, storage, processing, and interaction with external services. It focuses on real-time data pipelines, storage, and access mechanisms while maintaining scalability, performance, and compliance with healthcare standards.
+
+### Context
+
+This view builds upon the Context View, focusing on the internal components of the MedConnect IoT platform, how they interact, and the technologies employed to support large-scale data ingestion, real-time processing, and multi-environment data consistency.
+
+### Representation
+
+#### Ingestion Layer
+
+- *Real-Time Ingestion Engine*: Responsible for ingesting data from IoT devices in real-time.
+- *Batch Data Ingestion:* Handles periodic data ingestion from healthcare institutions or non-time-sensitive sources.
+- *API Gateway:* Interfaces for external systems (e.g., healthcare providers, third-party apps) to send or receive data.
+
+#### Processing Layer
+
+Stream Processing Engine: Processes real-time data streams for critical health insights and triggers alerts for healthcare providers.
+Batch Processing Engine: Used for non-real-time tasks like aggregating historical data for trend analysis.
+AI/ML Engine: Runs predictive algorithms to detect health risks and generate insights based on the collected data.
+Storage Layer
+
+Data Lake: Stores raw, unprocessed data from IoT devices, supporting both real-time and batch storage requirements.
+Polyglot Persistence: Optimizes data storage with various databases (e.g., SQL for structured data, NoSQL for unstructured data) based on data types and use cases.
+Data Archiving & Compliance Storage: Ensures long-term data storage for regulatory compliance (e.g., HIPAA).
+Data Access Layer
+
+Provider Dashboard: Allows healthcare providers to access patient data, view trends, and monitor real-time alerts.
+Patient Mobile App: Enables patients to view their health data, receive notifications, and get proactive health tips.
+Analytics & BI Tools: Provides access for data science teams, enabling them to run reports, generate insights, and perform advanced analytics.
+Security & Compliance
+
+Data Encryption: Ensures end-to-end encryption for data in transit and at rest, aligning with healthcare regulations.
+Access Control & Auditing: Implements role-based access for different users (e.g., doctors, patients) and maintains audit trails for compliance.
+Cross-Environment Synchronization
+
+Data Sync Service: Manages data synchronization across cloud environments, minimizing redundancy and ensuring consistency without the need for cross-platform data copies.
+Would you like to proceed with the Deployment View, or refine this Solution Decomposition View further?
 
 <img src="./Images/TBD.jpg" alt="TBD" />
 
