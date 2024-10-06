@@ -188,33 +188,39 @@ This view builds upon the Context View, focusing on the internal components of t
 
 #### Ingestion Layer
 
-- *Real-Time Ingestion Engine*: Responsible for ingesting data from IoT devices in real-time.
-- *Batch Data Ingestion:* Handles periodic data ingestion from healthcare institutions or non-time-sensitive sources.
-- *API Gateway:* Interfaces for external systems (e.g., healthcare providers, third-party apps) to send or receive data.
+- **Real-Time Ingestion Engine**: Responsible for ingesting data from IoT devices in real-time.
+- **Batch Data Ingestion:** Handles periodic data ingestion from healthcare institutions or non-time-sensitive sources.
+- **API Gateway:** Interfaces for external systems (e.g., healthcare providers, third-party apps) to send or receive data.
 
 #### Processing Layer
 
-Stream Processing Engine: Processes real-time data streams for critical health insights and triggers alerts for healthcare providers.
-Batch Processing Engine: Used for non-real-time tasks like aggregating historical data for trend analysis.
-AI/ML Engine: Runs predictive algorithms to detect health risks and generate insights based on the collected data.
-Storage Layer
+- **Stream Processing Engine**: Processes real-time data streams for critical health insights and triggers alerts for healthcare providers.
+- **Batch Processing Engine**: Used for non-real-time tasks like aggregating historical data for trend analysis.
+- **AI/ML Engine**: Runs predictive algorithms to detect health risks and generate insights based on the collected data.
 
-Data Lake: Stores raw, unprocessed data from IoT devices, supporting both real-time and batch storage requirements.
-Polyglot Persistence: Optimizes data storage with various databases (e.g., SQL for structured data, NoSQL for unstructured data) based on data types and use cases.
-Data Archiving & Compliance Storage: Ensures long-term data storage for regulatory compliance (e.g., HIPAA).
-Data Access Layer
+#### Storage Layer
 
-Provider Dashboard: Allows healthcare providers to access patient data, view trends, and monitor real-time alerts.
-Patient Mobile App: Enables patients to view their health data, receive notifications, and get proactive health tips.
-Analytics & BI Tools: Provides access for data science teams, enabling them to run reports, generate insights, and perform advanced analytics.
-Security & Compliance
+- **Data Lake**: Stores raw, unprocessed data from IoT devices, supporting both real-time and batch storage requirements.
+- **Polyglot Persistence**: Optimizes data storage with various databases (e.g., SQL for structured data, NoSQL for unstructured data) based on data types and use cases.
+- **Data Archiving & Compliance Storage**: Ensures long-term data storage for regulatory compliance (e.g., HIPAA).
 
-Data Encryption: Ensures end-to-end encryption for data in transit and at rest, aligning with healthcare regulations.
-Access Control & Auditing: Implements role-based access for different users (e.g., doctors, patients) and maintains audit trails for compliance.
-Cross-Environment Synchronization
+#### Data Access Layer
 
-Data Sync Service: Manages data synchronization across cloud environments, minimizing redundancy and ensuring consistency without the need for cross-platform data copies.
-Would you like to proceed with the Deployment View, or refine this Solution Decomposition View further?
+- **Provider Dashboard:** Allows healthcare providers to access patient data, view trends, and monitor real-time alerts.
+- **Patient Mobile App:** Enables patients to view their health data, receive notifications, and get proactive health tips.
+- **Analytics & BI Tools:** Provides access for data science teams, enabling them to run reports, generate insights, and perform advanced analytics.
+
+#### Security & Compliance
+
+- **Data Encryption**: Ensures end-to-end encryption for data in transit and at rest, aligning with healthcare regulations.
+- **Access Control & Auditing**: Implements role-based access for different users (e.g., doctors, patients) and maintains audit trails for compliance.
+
+#### Cross-Environment Synchronization
+
+- **Data Sync Service**: Manages data synchronization across cloud environments, minimizing redundancy and ensuring consistency without the need for cross-platform data copies.
+
+- **AI** - Would you like to proceed with the Deployment View, or refine this Solution Decomposition View further?
+- **Me** -
 
 <img src="./Images/TBD.jpg" alt="TBD" />
 
