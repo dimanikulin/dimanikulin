@@ -50,7 +50,7 @@ As input documentation for creation architecture vision the following artifacts 
 - RFI (Request for Information)
 - Text of customer request
 
-Becacause I did not have any from those documents for my *Sample Case* I used *ChatGPT* (not Assistant meontioned previpsly) to help me to create [business case](./AIForSWArchitects_BusinessCase_en.md) from anonymizated input doc (*Sample case anonymizated.docx*).
+Becacause I did not have any from those documents for my *Sample Case* I used *ChatGPT* (not Assistant meontioned previpsly) to help me to create [business case](./AIForSWArchitects_BusinessCase_Round1_en.md) from anonymizated input doc (*Sample case anonymizated.docx*).
 Business case description kept such chapters as
 
 - Company
@@ -67,7 +67,7 @@ TBD to use all the docs from initial case
 
 The assitante is located [here](https://chatgpt.com/g/g-J6uBbvDrm-solutions-architect-assistent) and the communication with it is in a form like with **ChatGPT** - Prompt from **User** and Response from **AI**.
 
-First I just wanted to try it out and just went from start to the end of assistance in way in suggested and without any clarification from my side. The result a put into [Round 1](./AIForSWArchitects_Round1.md)
+First I just wanted to try it out and just went from start to the end of assistance in way in suggested and without any clarification from my side. The result a put into [Round 1](./AIForSWArchitects_Assistance_Round1.md)
 
 # Conclusion
 
