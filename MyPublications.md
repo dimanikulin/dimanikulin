@@ -2,13 +2,9 @@
 
 My Publications
 
-# Table of contents
-
-- [Not ready yet](./MyPublications.md#not-ready-yet)
-
 ---
 
-Format is {Reviews/Likes/Comments/Reposts}
+Format is *{Reviews/Likes/Comments/Reposts}*
 
 |Name       | dev.to | hashnode   | medium     |reddit     | quora      | hackernoon | linkedin |
 |-----------|--------|------------|------------|-----------|------------|------------|:--------:|
@@ -46,5 +42,3 @@ Format is {Reviews/Likes/Comments/Reposts}
 |[Russian telegram channels](./MyRuTelegramChannels_ru.md)|TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
 |[Rules I use to work with Internet](./MyRulesWorkingWithInternet_uk.md)|TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
 |[AI For Software Architects](./AIForSWArchitects_en.md)| TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
-
-TODO MyLinkedPosts.md
