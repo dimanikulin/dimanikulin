@@ -28,7 +28,7 @@ Format is {Reviews/Likes/Comments/Reposts}
 |[What To Publish, 1](./PublishWhat1_en.md)|TBD/TBD/TBD/TBD | [05/07/2024](https://dimanikulin.hashnode.dev/what-content-to-create-and-how-to-publish-it-part-1) {2/0/0/0} | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | [27/07/2024](https://hackernoon.com/what-content-to-create-and-how-to-publish-it-part-1) {263/4/0/0} | TBD/TBD/TBD/TBD |
 |[What To Publish, 2](./PublishWhat2_en.md)|TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
 |[Where To Publish 1](./PublishWhere1_en.md)|TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
-|[Second Name History](./HistorySecondName_ru.md)| TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | [14/02/2022](https://www.linkedin.com/posts/dimanikulin_%D0%B1%D1%8B%D0%BB-%D1%82%D1%83%D1%82-%D0%BF%D0%BE%D1%81%D1%82-%D0%BE-%D1%84%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F%D1%85-%D0%BD%D0%B5%D0%B4%D0%B0%D0%B2%D0%BD%D0%BE-https-activity-6899776405601611776-PJn7?utm_source=share&utm_medium=member_desktop) {6500/16/4/0} |
+|[Second Name History](./HistorySecondName_ru.md)| NA | NA | NA | NA | NA | NA | [14/02/2022](https://www.linkedin.com/posts/dimanikulin_%D0%B1%D1%8B%D0%BB-%D1%82%D1%83%D1%82-%D0%BF%D0%BE%D1%81%D1%82-%D0%BE-%D1%84%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F%D1%85-%D0%BD%D0%B5%D0%B4%D0%B0%D0%B2%D0%BD%D0%BE-https-activity-6899776405601611776-PJn7?utm_source=share&utm_medium=member_desktop) {6500/16/4/0} |
 
 # Not ready yet
 
