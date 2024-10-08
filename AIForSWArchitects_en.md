@@ -61,13 +61,14 @@ Business case description kept such chapters as
 - Features
 - Actors
 
-TBD to use all the docs from initial case
-
 # Assitance
 
 The assitante is located [here](https://chatgpt.com/g/g-J6uBbvDrm-solutions-architect-assistent) and the communication with it is in a form like with **ChatGPT** - Prompt from **User** and Response from **AI**.
 
 First I just wanted to try it out and just went from start to the end of assistance in way in suggested and without any clarification from my side. The result a put into [Round 1](./AIForSWArchitects_Assistance_Round1.md)
+So It did provide a lot of output but output was not aligned well with real Business Case. And I thought the reason of being output too common and not aligned eith Business Case - the Business Case itself as it also was too common.
+
+And new version of [business case](./AIForSWArchitects_BusinessCase_Round2_en.md) appeared with more details and much more targeted.
 
 # Conclusion
 
@@ -75,10 +76,11 @@ For each work I performed I noticed the time I spent and here a full table to de
 
 | # | Name                 | Time Spent | Description   |
 | - | ---------------------|------------|:-------------:|
-|   | Anonymization        | 120 (before me) +15 minutes | |
-|   | Input doc prepation  | 90 mins | |
-|   | Business goals | 15 mins  | |
-|   | Risks | 15 mins | |
+| 1 | Anonymization        | 120 (before me) +15 minutes | |
+| 2 | Input doc prepation, round 1 | 90 mins | |
+| 3 | Assitance, round 1 | 60 mins  | |
+| 4 | Input doc prepation, round 2 | TBD | |
+| 5 | Assitance, round 2 | TBD  | |
 
 <img src="./Images/TBD.jpg" alt="TBD" />
 
