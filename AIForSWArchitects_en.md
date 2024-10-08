@@ -61,7 +61,7 @@ Business case description kept such chapters as
 - Features
 - Actors
 
-# Assitance
+# Assistance
 
 The assitante is located [here](https://chatgpt.com/g/g-J6uBbvDrm-solutions-architect-assistent) and the communication with it is in a form like with **ChatGPT** - Prompt from **User** and Response from **AI**.
 

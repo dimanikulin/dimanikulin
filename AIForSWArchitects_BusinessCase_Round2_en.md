@@ -49,10 +49,10 @@ TBD
 *Project Objective*: The MedConnect IoT platform aims to collect, monitor, and analyze data from patients with chronic diseases such as diabetes, hypertension, and cardiovascular diseases. By leveraging smart medical devices and wearable technology, the platform will enable continuous patient monitoring, reduce hospital admissions, and support remote diagnosis and treatment plans.
 
 *Problem Statement*:
-Chronic disease patients require constant monitoring, which is challenging due to limited healthcare resources and rising patient numbers. Traditional healthcare methods focus on reactive rather than proactive care. Patients often face delayed treatments because of lack of real-time insights, resulting in higher medical costs and poor health outcomes.
+Currently there are two platforms under data platform umbrella - one on Azure (Patient and Usage Data) and another on AWS (Sleep Data). AWS receive the data from IoT sensors, performs aggregation of that data and exposes it for the client apps. Patient and Usage Data is hosted on Azure cloud, it is derived from Patient Data and its main focus is product & company-wide analytics, ML models learning and future product development cases. Having two Clouds is too costly for us. It also reduce data managibility, security and collaboration.
 
 *Solution*:
-The MedConnect IoT platform provides an integrated solution that captures real-time data from wearable devices, smart monitors, and connected home-based medical devices. The platform uses advanced AI and machine learning algorithms to analyze patient data, offering predictive insights and personalized care recommendations to healthcare providers.
+We would like to leverage numerous advantages from data consolidation in a single cloud, including improved data management, enhanced analytics capabilities, cost efficiencies, better data security, and streamlined collaboration within an organization.
 
 # 3. Decision Makers
 
@@ -121,6 +121,8 @@ Core Features of MedConnect IoT Platform:
 - The data lake(s) should have the capability to ingest the data in batch mode and real time pipeline with appropriate frequency/rate
 - The data lake(s) should store the data in the right format which is ideal for the relevant use cases
 
+This also includes consolidation of data per cloud and per environment. There is a need to explore solutions and architecture of the future state platform(s) in which the need to copy data from one platform to another, one environment to another, is effectively managed, minimized and potentially eliminated.
+
 *In Scope*:
 
 - Identify required Enterprise Data Producing systems
@@ -146,7 +148,24 @@ Core Features of MedConnect IoT Platform:
 - Market Study/Business Value Analysis
 - Data Producing/Consuming systems not identified as key/required systems
 
-This also includes consolidation of data per cloud and per environment. There is a need to explore solutions and architecture of the future state platform(s) in which the need to copy data from one platform to another, one environment to another, is effectively managed, minimized and potentially eliminated.
+# 9. Current technical state
+
+Now size of AWS is ~20TB, Azure is ~5TB. Data includes among other - patient data, sensor data, click stream, and data like order data, supply chain data from the IT data platform.
+
+There are < 4 000 devices; < 120 000 IoT sensors; each IoT sensor sends the data each 20-60 seconds.
+
+We have Java, .Net, NodeJS and Python in our technology portfolio.
+
+# 10. Future technical state
+
+Today we have < 10 external partners but going to grow 5x times in next 3 years.
+
+We're looking forward to introduce SLAs.
+
+This is very important to be able to perform cross-location analytics together with ability of ML team to leverage from the cross-location data.
+
+At the end of the day we would like to make our AI/ML teams to work in isolated environments to not interfer with each other. Data access policies should be supported in such case (e.g. we should be able to configure what kind of information should be available and what is not).
+The future plan is to reuse environments feature to expose the data for external partners.
 
 <img src="./Images/TBD.jpg" alt="TBD" />
 
