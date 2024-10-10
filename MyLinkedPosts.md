@@ -1,6 +1,5 @@
 # LinkedIn posts
 
-- [ChatGPT](./ChatGPT.md)
 - [Communication](./Communication.md)
 - [Fishing](./Fishing.md)
 - [Holidays](/Holidays.md)
