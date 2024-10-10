@@ -24,13 +24,14 @@ TBD
 | - | ------------------------|:--------------:|
 | 1 | | |
 
-# Overview
-
-TBD
-
-or ---
+---
 
 # Introduction
+
+- **Me** - Hey!
+- **AI** - How can I assist you today? What type of help do you need?
+- **Me** - Can you help me in solution architect advisory?
+- **AI** - Of course! I'd be happy to help with your solution architect needs. Could you clarify what type of assistance you're looking for? For example, are you working on: 1. Creating an architecture vision for a project? 2. Evaluating or assessing an existing architecture? 3. Documenting architecture decisions (ADR)? 4. Solution design or specific technical guidance? 5. Any other specific need? Let me know what you need, and I can guide you from there!
 
 <img src="./Images/TBD.jpg" alt="TBD" />
 
