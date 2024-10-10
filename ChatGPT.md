@@ -1,23 +1,3 @@
-# ChatGPT in CV
-
-Nowadays, many people include their experience with ChatGPT in their CVs as a way to showcase their skills and expertise in various domains.
-
-However, in my opinion, this practice may seem excessive.
-
-Why?
-
-Because it's akin to listing the ability to move one's body as a skill.
-
-Is it OK to mention ChatGPT in CV?
-
-- Yes **0%**
-- No **100%**
-- ChatGPT knows answer **0%**
-
-## Tags
-
-cv skills
-
 # Do you consider ChatGPT a useful tool?
 
 I have been using ChatGPT for 6 months and would like to share my experience working with it.
@@ -44,5 +24,5 @@ What about you? Do you consider ChatGPT a useful tool?
 
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
-| 3 | ChatGPT in CV | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_chatgpt-cv-skills-activity-7086958836036644864-hpB6?utm_source=share&utm_medium=member_desktop) | 18/07/2023 | Dmytro Nikulin | |
+
 | 4 | Do you consider ChatGPT a useful tool? | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_chatgpt-activity-7109428850933022721-HDKN?utm_source=share&utm_medium=member_desktop) | 18/09/2023 | Dmytro Nikulin | |
