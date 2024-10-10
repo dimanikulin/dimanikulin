@@ -65,9 +65,13 @@ Business case description kept such chapters as
 
 The assitante is located [here](https://chatgpt.com/g/g-J6uBbvDrm-solutions-architect-assistent) and the communication with it is in a form like with **ChatGPT** - Prompt from **User** and Response from **AI**.
 
-First I just wanted to try it out and just went from start to the end of assistance in way in suggested and without any clarification from my side. The result a put into [Round 1](./AIForSWArchitects_Assistance_Round1.md).
+Cause the [Assistance model](https://chatgpt.com/g/g-J6uBbvDrm-solutions-architect-assistent) has been updating (in dev state)
+
+I have had to update my business case description and assitance output in progress of assitance.
 
 ## Round 1
+
+First I just wanted to try it out and just went from start to the end of assistance in way in suggested and without any clarification from my side. The result I have put into [Round 1](./AIForSWArchitects_Assistance_Round1.md).
 
 This is what we started from:
 
@@ -84,17 +88,19 @@ At each step it suggested to clarify current step response or go to next step.
 
 ## Round 2
 
-So It did provide a lot of output but output was not aligned well with real Business Case. And I thought the reason of being output too common and not aligned eith Business Case - the Business Case itself as it also was too common.
+So It did provide first a lot of output but output was not aligned well with real Business Case. And I thought the reason of being output too common and not aligned eith Business Case - the Business Case itself as it also was too common.
 
 And new version of [business case](./AIForSWArchitects_BusinessCase_Round2_en.md) appeared with more details and much more targeted.
 
-Cause the [Assistance model](https://chatgpt.com/g/g-J6uBbvDrm-solutions-architect-assistent) has been updating (in dev state) I have had to update my [business case](./AIForSWArchitects_BusinessCase_Round2_en.md) in progress of assitance.
+The result I have put into [Round 1](./AIForSWArchitects_Assistance_Round2.md).
 
 ## Round 3
 
 # Conclusion
 
 For each work I performed I noticed the time I spent and here a full table to describe that.
+
+TODO to put a links to documets
 
 | # | Name                 | Time Spent | Description   |
 | - | ---------------------|------------|:-------------:|
