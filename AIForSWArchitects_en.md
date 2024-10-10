@@ -88,6 +88,8 @@ So It did provide a lot of output but output was not aligned well with real Busi
 
 And new version of [business case](./AIForSWArchitects_BusinessCase_Round2_en.md) appeared with more details and much more targeted.
 
+Cause the [Assistance model](https://chatgpt.com/g/g-J6uBbvDrm-solutions-architect-assistent) has been updating (in dev state) I have had to update my [business case](./AIForSWArchitects_BusinessCase_Round2_en.md) in progress of assitance.
+
 ## Round 3
 
 # Conclusion
