@@ -1,3 +1,39 @@
+# Headline
+
+TBD
+
+# Alternative headline
+
+TBD
+
+# Table of contents
+
+- [Tags](./!Template.md#tags)
+- [Definitions, Acronyms, Abbreviations](./!Template.md#definitions-acronyms-abbreviations)
+- [Overview](./!Template.md#overview)
+- [Introduction](./!Template.md#introduction)
+- [References](./!Template.md#references)
+
+# Tags
+
+TBD
+
+# Definitions, Acronyms, Abbreviations
+
+| # | Abbreviation or Acronym | Definition     |
+| - | ------------------------|:--------------:|
+| 1 |
+
+# Overview
+
+TBD
+
+or ---
+
+# Introduction
+
+TBD
+
 З чого починати загальний пошук акаунту людини в соцмережах?
 
 Розвідка соціальних мереж (SOCMINT) - це різновид розвідки з відкритим кодом (OSINT), яка стосується збору та аналізу даних з веб-сайтів соціальних мереж.
@@ -72,3 +108,10 @@ geohints.com
 Доступний прямо в браузері і не потребує входу в WhatsApp
 Можна отримати ідентифікатор профілю, опис, електронну пошту, веб-сайт, місцезнаходження тощо. Працює не тільки для бізнесу, але й для особистих профіль.
 whatsapp.checkleaked.cc
+
+<img src="./Images/TBD.jpg" alt="TBD" />
+
+# References
+
+| # | Name                 | Source                | Release date           |  Author                 | Description   |
+| - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
