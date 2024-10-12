@@ -1,40 +1,6 @@
-# Headline
 
-The Art of Phishing: How Scammers Are Trying to Reel You In
-
-# Table of contents
-
-- [Tags](./Fishing.md#tags)
-- [Overview](./Fishing.md#overview)
-- [Attempt 0](./Fishing.md#attempt-0)
-- [Attempt 1](./Fishing.md#attempt-1)
-- [Attempt 2](./Fishing.md#attempt-2)
-- [Attempt 3](./Fishing.md#attempt-3)
-- [Attempt 4](./Fishing.md#attempt-4)
-- [Sensitive or confidential language](./Fishing.md#sensitive-or-confidential-language)
-- [References](./Fishing.md#references)
-
-# Tags
-
+tags
 fishing staysafe emailsecurity internetsecurity
-
-# Overview
-
-The art of phishing is constantly evolving, and scammers are finding new ways to trick unsuspecting victims.
-This article explores some of the latest tactics used in phishing attacks.
-
----
-
-# Attempt 0
-
-Dear fishers, thank you!
-
-But I will reject your gift ($3.5M) again
-
-And will do it again and again.
-
-<img src="./Images/fishing00.jpg" alt="fishing 00" />
-<img src="./Images/fishing01.jpg" alt="fishing 01" />
 
 # Attempt 1
 
@@ -94,11 +60,6 @@ Stay safe!
 
 <img src="./Images/fishing06.jpg" alt="fishing 06" />
 
-# References
-
-| # | Name                 | Source                | Release date           |  Author                 | Description   |
-| - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
-| 1 | Attempt 0 | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_fishing-activity-6993092454992211969-Ucgz?utm_source=share&utm_medium=member_desktop)|01/12/2022|Dmytro Nikulin||
 | 2 | Attempt 1 | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_fishing-activity-6939455519191404544-mWpp?utm_source=share&utm_medium=member_desktop)|01/06/2022|Dmytro Nikulin||
 | 3 | Attempt 2 | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_it-is-so-easy-to-get-really-big-money-now-activity-6935298599983443968-1GRA?utm_source=share&utm_medium=member_desktop)|01/05/2022|Dmytro Nikulin||
 | 4 | Attempt 3 | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_that-is-probably-first-time-when-i-reject-activity-6885883352952438784-CEq-?utm_source=share&utm_medium=member_desktop)|01/01/2022|Dmytro Nikulin||
