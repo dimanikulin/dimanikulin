@@ -115,12 +115,26 @@ Core Features of MedConnect IoT Platform:
 
 *Goal*: Create unified data platform.
 
-*Drivers*:
+*Business Goals/Drivers*:
 
-- To have a well defined big data lake(s) with clear boundaries.
-- The data lake(s) should have the capability to ingest the data in batch mode and real time pipeline with appropriate frequency/rate
-- The data lake(s) should store the data in the right format which is ideal for the relevant use cases
+| # | Description | Priority (Hard/Soft) |
+|---|-------------|:---------------------:|
+| | Data consolidation in a single cloud | Hard |
+| | Improved data management | Hard |
+| | Enhanced analytics capabilities | Hard |
+| | Cost efficiencies | Soft |
+| | Better data security | Soft |
+| | Streamlined collaboration within an organization | Soft|
 
+*Constraints*:
+
+| # | Description | Priority (Hard/Soft) |
+|---|-------------|:---------------------:|
+| | As target cloud only AWS or MS Azure shall be used | Hard |
+| | Big data lake(s) with clear boundaries shall be defined | Soft  |
+| | The data lake(s) should have the capability to ingest the data in batch mode and real time pipeline with appropriate frequency/rate - 120 000 IoT sensors; each IoT sensor sends the data each 20-60 seconds| Hard |
+
+The data lake(s) should store the data in the right format which is ideal for the relevant use cases
 This also includes consolidation of data per cloud and per environment. There is a need to explore solutions and architecture of the future state platform(s) in which the need to copy data from one platform to another, one environment to another, is effectively managed, minimized and potentially eliminated.
 
 *In Scope*:
