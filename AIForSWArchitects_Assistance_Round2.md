@@ -81,7 +81,23 @@ Would you like to list them out, or should I guide you further on structuring th
 
 - **AI** - Perfect! Go ahead and list the business goals, and I will structure them for you.
 
-- **Me** - Provided Business Goals/Drivers from [business case](./AIForSWArchitects_BusinessCase_Round2_en.md)
+- **Me** - Provided Business Goals/Drivers from [business case 2](./AIForSWArchitects_BusinessCase_Round2_en.md)
+
+- **AI** - With the business goals defined, we can now proceed to the constraints. Please list them as well, and I will organize those next.
+
+- **Me** - Provided Constrains from [business case 2](./AIForSWArchitects_BusinessCase_Round2_en.md)
+
+- **AI** - Now that we have the business goals and constraints outlined, we can proceed to define the main use cases.
+Would you prefer the use cases in *Markdown* format or *Plant UML* for better visualization?
+
+- **Me** - Markdown
+
+- **AI** - Great! Let's move on to defining the main use cases. Could you provide details on the use cases you want to include, such as:
+- The use case name.
+- A description of what the use case does.
+- The actors (who or what interacts with the system).
+
+- **Me** - Provided Use Cases [business case 2](./AIForSWArchitects_BusinessCase_Round2_en.md)
 
 <img src="./Images/TBD.jpg" alt="TBD" />
 
