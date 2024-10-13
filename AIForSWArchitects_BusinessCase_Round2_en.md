@@ -134,6 +134,19 @@ Core Features of MedConnect IoT Platform:
 | | Big data lake(s) with clear boundaries shall be defined | Soft  |
 | | The data lake(s) should have the capability to ingest the data in batch mode and real time pipeline with appropriate frequency/rate - 120 000 IoT sensors; each IoT sensor sends the data each 20-60 seconds| Hard |
 
+*Main Use Cases*:
+
+| # | Use Case Name     | Description | Actor     |
+| - | ------------------|-------------|:------------:|
+| 1 |Patient Data Ingestion | Capture real-time health data (e.g., glucose levels, blood pressure) from wearable and home devices.| Patients, Medical Devices |
+| 2 | Real-Time Data Monitoring | Healthcare providers monitor patient vitals in real-time, receiving alerts for critical changes.| Healthcare Providers |
+| 3 | Predictive Analytics & Alerts | Use AI algorithms to predict potential health risks and trigger alerts to doctors for interventions.| Healthcare Providers |
+| 4 | Data Access & Analytics Dashboard | Enable healthcare providers to access patient history, trends, and analytics through a dashboard.| Healthcare Providers |
+| 5 | Patient Data Access | Patients can view their own health data, trends, and receive personalized insights via a mobile app.| Patients |
+| 6 | Data Export to Third-Party Systems | Export patient data to external healthcare systems or insurance companies for further analysis. | Insurance Companies |
+| 7 | Data Storage & Archiving | Store and archive patient health data, ensuring compliance with healthcare regulations like HIPAA.| Data Platform |
+| 8 | Data Sharing Across Environments | Synchronize and share data across cloud environments without duplicating or losing information.| Data Platform, Cloud Providers |
+
 The data lake(s) should store the data in the right format which is ideal for the relevant use cases
 This also includes consolidation of data per cloud and per environment. There is a need to explore solutions and architecture of the future state platform(s) in which the need to copy data from one platform to another, one environment to another, is effectively managed, minimized and potentially eliminated.
 
