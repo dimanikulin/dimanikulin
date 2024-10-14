@@ -97,7 +97,11 @@ Would you prefer the use cases in *Markdown* format or *Plant UML* for better vi
 - A description of what the use case does.
 - The actors (who or what interacts with the system).
 
-- **Me** - Provided Use Cases [business case 2](./AIForSWArchitects_BusinessCase2_en.md)
+- **Me** - Provided Use Cases from [business case 2](./AIForSWArchitects_BusinessCase2_en.md)
+
+- **AI** - With the main use cases defined, we can now proceed to list the main features of the solution. Would you like to list them, or should I guide you on structuring the features?
+
+- **Me** - Provided main features from [business case 2](./AIForSWArchitects_BusinessCase2_en.md)
 
 <img src="./Images/TBD.jpg" alt="TBD" />
 
