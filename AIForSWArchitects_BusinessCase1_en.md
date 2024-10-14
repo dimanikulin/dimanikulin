@@ -94,12 +94,14 @@ Project Timeline:
 
 Core Features of MedConnect IoT Platform:
 
-- *Real-Time Data Collection*: Integration with wearable and not wearable devices (smartwatches, glucose monitors, blood pressure monitors). Captures heart rate, glucose levels, blood pressure, and other vital signs.
-- *Predictive Analytics & AI*: Uses machine learning to analyze data trends and predict potential health risks. Provides alerts for healthcare providers if intervention is required.
-- *Remote Patient Monitoring (RPM)*: Enables healthcare providers to monitor patients remotely.
-- *Data Dashboard for Providers:* A centralized dashboard for clinicians to monitor patient health. Provides historical data, trend analysis, and personalized health insights.
-- *Patient Mobile App*: Allows patients to view their health data in real-time, receive medication reminders, and get proactive health tips.
-- *Device Interoperability*: Supports integration with multiple medical devices, ensuring flexibility for patients and healthcare providers.
+| #  | Description                                                                                                     |
+|----|-----------------------------------------------------------------------------------------------------------------|
+| 1  | Real-Time Data Collection: Integration with wearable and non-wearable devices (smartwatches, glucose monitors, blood pressure monitors) to capture vital signs like heart rate, glucose levels, and blood pressure. |
+| 2  | Predictive Analytics & AI: Uses machine learning to analyze data trends and predict potential health risks, sending alerts to healthcare providers for necessary interventions. |
+| 3  | Remote Patient Monitoring (RPM): Enables healthcare providers to monitor patients remotely.                      |
+| 4  | Data Dashboard for Providers: A centralized dashboard for clinicians to monitor patient health, providing historical data, trend analysis, and personalized health insights. |
+| 5  | Patient Mobile App: Allows patients to view their health data in real-time, receive medication reminders, and get proactive health tips. |
+| 6  | Device Interoperability: Supports integration with multiple medical devices, offering flexibility for patients and healthcare providers. |
 
 # 7. Actors
 
