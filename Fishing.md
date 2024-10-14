@@ -4,14 +4,6 @@ fishing staysafe emailsecurity internetsecurity
 
 # Attempt 1
 
-This time they did not propose to send a big amount of money to me just for sharing my account info.
-
-This time they did not propose a big prize for me just for providing my credit card information.
-
-Instead, they used actor name (Peter Pine) to contact them � for me it�s the best fishing attack for now.
-
-<img src="./Images/fishing02.jpg" alt="fishing 02" />
-
 # Attempt 2
 
 It is so easy to get really big money now.
@@ -60,7 +52,7 @@ Stay safe!
 
 <img src="./Images/fishing06.jpg" alt="fishing 06" />
 
-| 2 | Attempt 1 | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_fishing-activity-6939455519191404544-mWpp?utm_source=share&utm_medium=member_desktop)|01/06/2022|Dmytro Nikulin||
+| 2 | Attempt 1 | ||Dmytro Nikulin||
 | 3 | Attempt 2 | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_it-is-so-easy-to-get-really-big-money-now-activity-6935298599983443968-1GRA?utm_source=share&utm_medium=member_desktop)|01/05/2022|Dmytro Nikulin||
 | 4 | Attempt 3 | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_that-is-probably-first-time-when-i-reject-activity-6885883352952438784-CEq-?utm_source=share&utm_medium=member_desktop)|01/01/2022|Dmytro Nikulin||
 | 5 | Attempt 4 | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_fishing-activity-7054716495364300801-_-1z?utm_source=share&utm_medium=member_desktop)|24/04/2023|Dmytro Nikulin||
