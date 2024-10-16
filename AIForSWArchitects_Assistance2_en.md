@@ -28,13 +28,17 @@ TBD
 
 # Introduction
 
-- **Me** - Hey!
-- **AI** - How can I assist you today? What type of help do you need?
-- **Me** - Can you help me in solution architect advisory?
-- **AI** - Of course! I'd be happy to help with your solution architect needs. Could you clarify what type of assistance you're looking for? For example, are you working on: 1. Creating an architecture vision for a project? 2. Evaluating or assessing an existing architecture? 3. Documenting architecture decisions (ADR)? 4. Solution design or specific technical guidance? 5. Any other specific need? Let me know what you need, and I can guide you from there!
-- **Me** - Solution design
+**Me** - Hey!
 
-- **AI** -
+**AI** - How can I assist you today? What type of help do you need?
+
+**Me** - Can you help me in solution architect advisory?
+
+**AI** - Of course! I'd be happy to help with your solution architect needs. Could you clarify what type of assistance you're looking for? For example, are you working on: 1. Creating an architecture vision for a project? 2. Evaluating or assessing an existing architecture? 3. Documenting architecture decisions (ADR)? 4. Solution design or specific technical guidance? 5. Any other specific need? Let me know what you need, and I can guide you from there!
+
+**Me** - Solution design
+
+**AI** -
 Great! To assist you effectively with the solution design, let's break the process into key steps:
 
 **Step 1: Define Architecture Drivers**
@@ -64,9 +68,9 @@ We'll define a timeline for delivering the solution and the skillset needed for 
 
 To start, I need to ask: Do you have any specific business goals or constraints already identified? If not, I can guide you through that process as well.
 
-- **Me** - I have business goals and contains as well
+**Me** - I have business goals and contains as well
 
-- **AI** - Excellent! Let's move forward with defining the business goals and constraints.
+**AI** - Excellent! Let's move forward with defining the business goals and constraints.
 
 Step 1: Define Business Goals
 Please provide me with the business goals you have, or if you'd like, I can help format them for you. We’ll list them along with their priority (Hard or Soft).
@@ -77,37 +81,38 @@ Once you provide the business goals, we’ll proceed to constraints.
 
 Would you like to list them out, or should I guide you further on structuring them?
 
-- **Me** - I will list them
+**Me** - I will list them
 
-- **AI** - Perfect! Go ahead and list the business goals, and I will structure them for you.
+**AI** - Perfect! Go ahead and list the business goals, and I will structure them for you.
 
-- **Me** - Provided Business Goals/Drivers from [business case 2](./AIForSWArchitects_BusinessCase2_en.md)
+**Me** - Provided Business Goals/Drivers from [business case 2](./AIForSWArchitects_BusinessCase2_en.md)
 
-- **AI** - With the business goals defined, we can now proceed to the constraints. Please list them as well, and I will organize those next.
+**AI** - With the business goals defined, we can now proceed to the constraints. Please list them as well, and I will organize those next.
 
-- **Me** - Provided Constrains from [business case 2](./AIForSWArchitects_BusinessCase2_en.md)
+**Me** - Provided Constrains from [business case 2](./AIForSWArchitects_BusinessCase2_en.md)
 
-- **AI** - Now that we have the business goals and constraints outlined, we can proceed to define the main use cases.
+**AI** - Now that we have the business goals and constraints outlined, we can proceed to define the main use cases.
 Would you prefer the use cases in *Markdown* format or *Plant UML* for better visualization?
 
-- **Me** - Markdown
+**Me** - Markdown
 
-- **AI** - Great! Let's move on to defining the main use cases. Could you provide details on the use cases you want to include, such as:
+**AI** - Great! Let's move on to defining the main use cases. Could you provide details on the use cases you want to include, such as:
+
 - The use case name.
 - A description of what the use case does.
 - The actors (who or what interacts with the system).
 
-- **Me** - Provided Use Cases from [business case 2](./AIForSWArchitects_BusinessCase2_en.md)
+**Me** - Provided Use Cases from [business case 2](./AIForSWArchitects_BusinessCase2_en.md)
 
-- **AI** - With the main use cases defined, we can now proceed to list the main features of the solution. Would you like to list them, or should I guide you on structuring the features?
+**AI** - With the main use cases defined, we can now proceed to list the main features of the solution. Would you like to list them, or should I guide you on structuring the features?
 
-- **Me** - Provided main features from [business case 1](./AIForSWArchitects_BusinessCase1_en.md)
+**Me** - Provided main features from [business case 1](./AIForSWArchitects_BusinessCase1_en.md)
 
-- **AI** -  With the main features defined, the next step is to outline the Quality Attribute Scenarios—these are important to ensure non-functional aspects like performance, security, and scalability are well-documented.
+**AI** -  With the main features defined, the next step is to outline the Quality Attribute Scenarios—these are important to ensure non-functional aspects like performance, security, and scalability are well-documented.
 
 Would you like to move on to Quality Attribute Scenarios next, or is there anything else you want to adjust before proceeding?
 
-- **Me** - Quality Attribute Scenarios
+**Me** - Quality Attribute Scenarios
 
 Let's move on to defining Quality Attribute Scenarios.
 
@@ -129,6 +134,8 @@ They are non-functional requirements that are both testable and measurable, focu
 
 **Next Step:**
 Please provide key quality attributes that are important for your solution (e.g., performance, security, availability, etc.), and any specific scenarios you have in mind. I will help structure them into a table format.
+
+**Me** - Provided Quality Attribute Scenarios from [business case 2](./AIForSWArchitects_BusinessCase2_en.md)
 
 <img src="./Images/TBD.jpg" alt="TBD" />
 

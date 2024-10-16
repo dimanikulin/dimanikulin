@@ -45,9 +45,11 @@ or ---
 | - | Support predictive analytics to enable proactive healthcare decision-making. | Soft |
 | - | Optimize data storage and minimize the need for cross-environment data copying. |Soft |
 
-- **AI** - Would you like to proceed with defining constraints, or should we continue working on business goals?
-- **Me** - What are key risks?
-- **AI** - The key risks associated with the MedConnect IoT Platform's Unified Data Platform project can stem from various technical, operational, and business challenges. Below are potential risks based on the RFP
+**AI** - Would you like to proceed with defining constraints, or should we continue working on business goals?
+
+**Me** - What are key risks?
+
+**AI** - The key risks associated with the MedConnect IoT Platform's Unified Data Platform project can stem from various technical, operational, and business challenges. Below are potential risks based on the RFP
 
 ## Key design risks for the solution
 
@@ -61,9 +63,11 @@ or ---
 |   | *Third-Party Dependency: Reliance on third-party devices and cloud services, leading to potential service disruptions. | Include backup service providers and design failover strategies for critical services.|
 |   | *Cross-Environment Data Consistency: Potential issues with data consistency across multiple environments. | Design robust data synchronization mechanisms and minimize data copying through efficient storage solutions.|
 
-- **AI** - Would you like to continue with defining constraints, or should we explore further details on these risks?
-- **Me** - Constraints
-- **AI** - The section enumerates the main business and technical constraints for the solution.
+**AI** - Would you like to continue with defining constraints, or should we explore further details on these risks?
+
+**Me** - Constraints
+
+**AI** - The section enumerates the main business and technical constraints for the solution.
 
 ## Constraints
 
@@ -78,12 +82,15 @@ or ---
 | 7 | The system must minimize storage costs by using efficient data formats and compression techniques. |Soft |
 | 8 | Third-party cloud services (e.g., AWS, GCP, Azure) should be integrated as the primary infrastructure. | Hard |
 
-- **AI** - Would you like to proceed with defining the main use cases, or should we continue working on these constraints?
-- **Me** - Main use cases
+**AI** - Would you like to proceed with defining the main use cases, or should we continue working on these constraints?
+
+**Me** - Main use cases
 
 ## Main use cases
 
-- **AI** - Let's define the main use cases for the unified data platform. Do you prefer the output in Markdown format or PlantUML? - - **Me** - Markdown
+**AI** - Let's define the main use cases for the unified data platform. Do you prefer the output in Markdown format or PlantUML?
+
+**Me** - Markdown
 
 | # | Use Case Name     | Description | Actor     |
 | - | ------------------|-------------|:------------:|
@@ -96,12 +103,13 @@ or ---
 | 7 | Data Storage & Archiving | Store and archive patient health data, ensuring compliance with healthcare regulations like HIPAA.| Data Platform |
 | 8 | Data Sharing Across Environments | Synchronize and share data across cloud environments without duplicating or losing information.| Data Platform, Cloud Providers |
 
-- **AI** - Would you like to proceed with defining main features, or should we refine these use cases further?
-- **Me** - Main features
+**AI** - Would you like to proceed with defining main features, or should we refine these use cases further?
+
+**Me** - Main features
 
 ## Main Features
 
-- **AI** - The section enumerates solution major features.
+**AI** - The section enumerates solution major features.
 
 - 1 Real-time health data ingestion from multiple IoT and smart medical devices.
 - 2 Predictive analytics using AI/ML for identifying potential health risks.
@@ -112,12 +120,13 @@ or ---
 - 7 Cross-cloud data sharing and synchronization to eliminate redundant data copying.
 - 8 Integration with third-party systems like insurance companies for data export.
 
-- **AI** - Would you like to proceed with defining quality attribute scenarios, or continue working on main features?
-- **Me** - Quality attribute scenarious
+**AI** - Would you like to proceed with defining quality attribute scenarios, or continue working on main features?
+
+**Me** - Quality attribute scenarious
 
 ## Quality attribute scenarious
 
-- **AI** - The section lists and prioritizes the quality attribute scenarios pertinent to the designed solution.
+**AI** - The section lists and prioritizes the quality attribute scenarios pertinent to the designed solution.
 
 | # | Quality Attribute   | Scenario |  Business Priority  | Related To |
 | - | ------------------|-------------|-------------|:------------:|
@@ -130,12 +139,13 @@ or ---
 | 7 | Maintainability |  The platform must allow updates to AI models without affecting the real-time data pipeline. |  Medium |  Predictive Analytics |
 | 8 | Reliability |  Data synchronization between cloud environments must ensure no data loss even during network disruptions. |  High |  Data Sharing |
 
-- **AI** - Would you like to proceed to the solution design, or continue working on quality attribute scenarios?
-- **Me** - Solution design
+**AI** - Would you like to proceed to the solution design, or continue working on quality attribute scenarios?
+
+**Me** - Solution design
 
 # Solution Design
 
-- **AI** - Let's start the Solution Design by defining the Context View. This view provides a high-level overview of the system and its external dependencies.
+**AI** - Let's start the Solution Design by defining the Context View. This view provides a high-level overview of the system and its external dependencies.
 
 ## Context View
 
@@ -158,8 +168,9 @@ Below is a description of the primary system components and external systems int
 - **Cloud Infrastructure** – The cloud environment that hosts the platform, supporting scalable storage and real-time processing.
 - **Third-Party Systems** – Insurance companies and healthcare institutions may access patient data through APIs for reporting and analysis.
 
-- **AI** - Would you like to proceed with detailing the Solution Decomposition View, or refine the Context View?
-- **Me** - Solution decomposition view
+**AI** - Would you like to proceed with detailing the Solution Decomposition View, or refine the Context View?
+
+**Me** - Solution decomposition view
 
 ## Solution Decomposition View
 
@@ -206,8 +217,9 @@ This view builds upon the Context View, focusing on the internal components of t
 
 - **Data Sync Service**: Manages data synchronization across cloud environments, minimizing redundancy and ensuring consistency without the need for cross-platform data copies.
 
-- **AI** - Would you like to proceed with the Deployment View, or refine this Solution Decomposition View further?
-- **Me** -
+**AI** - Would you like to proceed with the Deployment View, or refine this Solution Decomposition View further?
+
+**Me** -
 
 <img src="./Images/TBD.jpg" alt="TBD" />
 
