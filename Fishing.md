@@ -2,19 +2,7 @@
 tags
 fishing staysafe emailsecurity internetsecurity
 
-# Attempt 1
-
 # Attempt 2
-
-It is so easy to get really big money now.
-
-I can receive a payment with amount 10 Million US Dollars.
-
-What I need is just to send my address, bank name and address, account name and number, Swift Code etc.
-
-However, I need to reject this nice offer because I do not know what to do with such big money. )))
-
-<img src="./Images/fishing03.jpg" alt="fishing 03" />
 
 # Attempt 3
 
@@ -52,8 +40,6 @@ Stay safe!
 
 <img src="./Images/fishing06.jpg" alt="fishing 06" />
 
-| 2 | Attempt 1 | ||Dmytro Nikulin||
-| 3 | Attempt 2 | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_it-is-so-easy-to-get-really-big-money-now-activity-6935298599983443968-1GRA?utm_source=share&utm_medium=member_desktop)|01/05/2022|Dmytro Nikulin||
 | 4 | Attempt 3 | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_that-is-probably-first-time-when-i-reject-activity-6885883352952438784-CEq-?utm_source=share&utm_medium=member_desktop)|01/01/2022|Dmytro Nikulin||
 | 5 | Attempt 4 | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_fishing-activity-7054716495364300801-_-1z?utm_source=share&utm_medium=member_desktop)|24/04/2023|Dmytro Nikulin||
 | 6 | Sensitive or confidential language | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_staysafe-fishing-activity-7071738520201027584-TmuQ?utm_source=share&utm_medium=member_desktop)|06/06/2023|Dmytro Nikulin||
