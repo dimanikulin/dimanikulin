@@ -101,7 +101,34 @@ Would you prefer the use cases in *Markdown* format or *Plant UML* for better vi
 
 - **AI** - With the main use cases defined, we can now proceed to list the main features of the solution. Would you like to list them, or should I guide you on structuring the features?
 
-- **Me** - Provided main features from [business case 2](./AIForSWArchitects_BusinessCase2_en.md)
+- **Me** - Provided main features from [business case 1](./AIForSWArchitects_BusinessCase1_en.md)
+
+- **AI** -  With the main features defined, the next step is to outline the Quality Attribute Scenarios—these are important to ensure non-functional aspects like performance, security, and scalability are well-documented.
+
+Would you like to move on to Quality Attribute Scenarios next, or is there anything else you want to adjust before proceeding?
+
+- **Me** - Quality Attribute Scenarios
+
+Let's move on to defining Quality Attribute Scenarios.
+
+What are **Quality Attribute Scenarios?**
+
+They are non-functional requirements that are both testable and measurable, focused on aspects such as performance, security, usability, reliability, and scalability. Each scenario includes:
+
+*Source of stimulus:* Who or what generates the stimulus (e.g., a user or a system event).
+*Stimulus:* The action that triggers a response (e.g., a user request, system failure).
+*Environment:* Where the scenario takes place (e.g., normal operation, under load).
+*Artifact:* The system or component affected.
+*Response:* What the system does in response to the stimulus.
+*Response Measure:* How to measure the system's response (e.g., response time, uptime).
+
+**Example Quality Attribute Scenarios:**
+*Performance:* The system must process 10,000 concurrent data inputs from IoT devices without exceeding a response time of 2 seconds.
+*Availability:* The system must maintain 99.9% uptime, ensuring minimal downtime for healthcare providers accessing patient data.
+*Security:* All patient data must be encrypted during transit and storage, ensuring compliance with HIPAA regulations.
+
+**Next Step:**
+Please provide key quality attributes that are important for your solution (e.g., performance, security, availability, etc.), and any specific scenarios you have in mind. I will help structure them into a table format.
 
 <img src="./Images/TBD.jpg" alt="TBD" />
 
