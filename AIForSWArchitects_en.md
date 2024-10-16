@@ -65,9 +65,7 @@ Business case description kept such chapters as
 
 The assitante is located [here](https://chatgpt.com/g/g-J6uBbvDrm-solutions-architect-assistent) and the communication with it is in a form like with **ChatGPT** - Prompt from **User** and Response from **AI**.
 
-Cause the [Assistance model](https://chatgpt.com/g/g-J6uBbvDrm-solutions-architect-assistent) has been updating (in dev state)
-
-I have had to update my business case description and assitance output in progress of assitance.
+Cause the [Assistance model](https://chatgpt.com/g/g-J6uBbvDrm-solutions-architect-assistent) has been updating (in dev state) I have had to update my business case description and assitance output in progress of assitance.
 
 ## Round 1
 
@@ -75,14 +73,21 @@ First I just wanted to try it out and just went from start to the end of assista
 
 This is what we started from:
 
-- **Me** - Hi, Can you help me in solution architect advisory?
-- **AI** - What type of help do you need?
-- **Me** - To advise a customer on how to create unified data platform.
-- **AI** - Great! For advising on a unified data platform, we need to create an architecture vision document. Could you provide additional information like: Request for Proposal (RFP), Request for Information (RFI), Text of the customer request. Let me know which one you have.
-- **Me** - RFP
-- **AI** - Please share the Request for Proposal (RFP) document or key details from it so I can assist you in defining the architecture vision for the unified data platform.
-- **Me** - Sent [business case](./AIForSWArchitects_BusinessCase1_en.md).
-- **AI** - Thank you for sharing the details. Based on the RFP, we will proceed with defining the architecture vision for the MedConnect IoT Platform's Unified Data Platform. The first step is to define Architecture Drivers, which include business goals, constraints, and use cases. Let's begin with defining the main business goals.
+**Me** - Hi, Can you help me in solution architect advisory?
+
+**AI** - What type of help do you need?
+
+**Me** - To advise a customer on how to create unified data platform.
+
+**AI** - Great! For advising on a unified data platform, we need to create an architecture vision document. Could you provide additional information like: Request for Proposal (RFP), Request for Information (RFI), Text of the customer request. Let me know which one you have.
+
+**Me** - RFP
+
+**AI** - Please share the Request for Proposal (RFP) document or key details from it so I can assist you in defining the architecture vision for the unified data platform.
+
+**Me** - Sent [business case](./AIForSWArchitects_BusinessCase1_en.md).
+
+**AI** - Thank you for sharing the details. Based on the RFP, we will proceed with defining the architecture vision for the MedConnect IoT Platform's Unified Data Platform. The first step is to define Architecture Drivers, which include business goals, constraints, and use cases. Let's begin with defining the main business goals.
 
 At each step it suggested to clarify current step response or go to next step.
 
