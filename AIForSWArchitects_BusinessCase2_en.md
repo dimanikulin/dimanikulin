@@ -147,6 +147,8 @@ Core Features of MedConnect IoT Platform:
 | 7 | Data Storage & Archiving | Store and archive patient health data, ensuring compliance with healthcare regulations like HIPAA.| Data Platform |
 | 8 | Data Sharing Across Environments | Synchronize and share data across cloud environments without duplicating or losing information.| Data Platform, Cloud Providers |
 
+*Quality Attribute Scenarios*:
+
 The data lake(s) should store the data in the right format which is ideal for the relevant use cases
 This also includes consolidation of data per cloud and per environment. There is a need to explore solutions and architecture of the future state platform(s) in which the need to copy data from one platform to another, one environment to another, is effectively managed, minimized and potentially eliminated.
 
