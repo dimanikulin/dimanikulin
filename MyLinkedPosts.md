@@ -1,5 +1,6 @@
 # LinkedIn posts
 
+- [Fishing](./Fishing.md)
 - [Holidays](/Holidays.md)
 - [Interesting facts](./InterestingFacts.md)
 - [Interviews](./Interviews.md)
