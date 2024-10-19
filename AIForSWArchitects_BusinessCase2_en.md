@@ -149,6 +149,17 @@ Core Features of MedConnect IoT Platform:
 
 *Quality Attribute Scenarios*:
 
+| # | Quality Attribute   | Scenario |  Business Priority  | Related To |
+| - | ------------------|-------------|-------------|:------------:|
+| 1 | Security | Patient health data must be encrypted during transmission and storage, ensuring compliance with HIPAA. | High |  Data Storage, Access |
+| 2 | Availability | The system must maintain 99.9% uptime to ensure healthcare providers can access patient data at all times. |  High |  Data Access, Monitoring |
+| 3 | Performance |  Real-time patient monitoring must process data within 2 seconds of ingestion from IoT devices. |  High |  Real-Time Monitoring |
+| 4 | Scalability |  The platform should scale to support up to 50 external partners in next 3 years |  High |  Data Consuming |
+| 5 | Scalability |  The platform should scale to support up to 4 000 devices with 120 000 IoT sensors(each IoT sensor sends the data each 20-60 seconds) without degrading performance. |  High |  Data Ingestion |
+| 6 | Availability |  To be able to perform cross-location analytics together with ability of ML team to leverage from the cross-location data. |  High |  Predictive Analytics |
+| 7 | Maintainability |  The platform must allow updates to AI models without affecting the real-time data pipeline. |  Medium |  Predictive Analytics |
+| 8 | Reliability |  Data synchronization between cloud environments must ensure no data loss even during network disruptions. |  High | Data Sharing |
+
 The data lake(s) should store the data in the right format which is ideal for the relevant use cases
 This also includes consolidation of data per cloud and per environment. There is a need to explore solutions and architecture of the future state platform(s) in which the need to copy data from one platform to another, one environment to another, is effectively managed, minimized and potentially eliminated.
 
@@ -181,8 +192,6 @@ This also includes consolidation of data per cloud and per environment. There is
 
 Now size of AWS is ~20TB, Azure is ~5TB. Data includes among other - patient data, sensor data, click stream, and data like order data, supply chain data from the IT data platform.
 
-There are < 4 000 devices; < 120 000 IoT sensors; each IoT sensor sends the data each 20-60 seconds.
-
 We have Java, .Net, NodeJS and Python in our technology portfolio.
 
 # 10. Future technical state
@@ -190,8 +199,6 @@ We have Java, .Net, NodeJS and Python in our technology portfolio.
 Today we have < 10 external partners but going to grow 5x times in next 3 years.
 
 We're looking forward to introduce SLAs.
-
-This is very important to be able to perform cross-location analytics together with ability of ML team to leverage from the cross-location data.
 
 At the end of the day we would like to make our AI/ML teams to work in isolated environments to not interfer with each other. Data access policies should be supported in such case (e.g. we should be able to configure what kind of information should be available and what is not).
 The future plan is to reuse environments feature to expose the data for external partners.
