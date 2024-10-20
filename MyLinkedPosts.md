@@ -1,7 +1,8 @@
 # LinkedIn posts
 
-- [Fishing](./Fishing.md)
-- [Holidays](/Holidays.md)
+TODO Table of contents
+
+- [Holidays](./Holidays.md)
 - [Interesting facts](./InterestingFacts.md)
 - [Interviews](./Interviews.md)
 - [LinkedIn Content](./LinkedInContent.md)
@@ -12,9 +13,21 @@
 - [Work in GlobalLogic](./WorkInGL.md)
 - [Work Life Balance](WorkLifeBalance.md)
 
+# Entertainment
+
 | # | Topic | Post name   | Tags           | Picture     | Release date, reactions |  Post    | Links         |
 | - | ------|-------------|----------------|-------------|-------------------------|----------|:-------------:|
-| 1 | Working with GPT | Everyone must know that| DOU Humor | <img src="./Images/ChatGPTAsk.png" alt="ChatGPTAsk" /> | [24/04/2023](https://www.linkedin.com/posts/dimanikulin_humor-chatgpt-chatgpttutorial-activity-7056156667721191424-rcxW?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD} | When you work with GPT and you ask it to do something, please start your request with "Can you please" or "Could you please" because machines will not forget it... | [DOU, 100+ ChatGPT Prompts for Software Developers](https://dou.ua/forums/topic/43131/?from=tg&utm_source=telegram&utm_medium=social) |
+| | Holidays | What is the best gift for Ukrainian people for Christmas and New Year? | holidays | | [01/12/2022](https://www.linkedin.com/posts/dimanikulin_armukrainenow-warinukraine-activity-7012374950275637249-Wpcn?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD} | - Patriot defense system **8%**, - Atacms **16%**, - pUTINs visit of Kobzon concert **76%**. Any other options I forgot to mention?| |
+|  | Holidays | З Днем Вишиванки! | holidays | <img src="./Images/Vishivanka.jpg" alt="Vishivanka" /> | [18/05/2023](https://www.linkedin.com/posts/dimanikulin_globallogic-ukraine-nationalholiday-activity-7064859572955398144-xxKg?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD} | Цю футболку-вишиванку я отримав завдяки GlobalLogic та Дню Незалежності України. У 2018 році мені надійшов лист від GlobalLogic з пропозицією обрати спортивний захід з переліку марафонів. Я обрав забіг у Пирогово, який відбувся 24 серпня 2018 року. Там я та ця яскрава футболка-вишиванка поєдналися. Фото було зроблено у офісі. До речі, шорти були блакитні.А у вас є цікаві історії, пов'язані з вишиванками? | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+
+# Work
+
+| # | Topic | Post name   | Tags           | Picture     | Release date, reactions |  Post    | Links         |
+| - | ------|-------------|----------------|-------------|-------------------------|----------|:-------------:|
+|  | Working with GPT | Everyone must know that| DOU Humor | <img src="./Images/ChatGPTAsk.png" alt="ChatGPTAsk" /> | [24/04/2023](https://www.linkedin.com/posts/dimanikulin_humor-chatgpt-chatgpttutorial-activity-7056156667721191424-rcxW?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD} | When you work with GPT and you ask it to do something, please start your request with "Can you please" or "Could you please" because machines will not forget it... | [DOU, 100+ ChatGPT Prompts for Software Developers](https://dou.ua/forums/topic/43131/?from=tg&utm_source=telegram&utm_medium=social) |
 | | Working with GPT | ChatGPT in CV | cv skills | | [18/07/2023](https://www.linkedin.com/posts/dimanikulin_chatgpt-cv-skills-activity-7086958836036644864-hpB6?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD} | Nowadays, many people include their experience with ChatGPT in their CVs as a way to showcase their skills and expertise in various domains. However, in my opinion, this practice may seem excessive. Why? Because it's akin to listing the ability to move one's body as a skill. Is it OK to mention ChatGPT in CV? - Yes **0%** - No **100%** - ChatGPT knows answer **0%**|  |
 | | Working with GPT | Do you consider ChatGPT a useful tool? | | | [18/09/2023](https://www.linkedin.com/posts/dimanikulin_chatgpt-activity-7109428850933022721-HDKN?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD} | I have been using ChatGPT for 6 months and would like to share my experience working with it. So far, it has helped me with: - Proofreading, - Creating tags, headlines, and chapter descriptions from text, - Converting my text from upper case to lower case, - Generating poems, - Finding the top 10 sites to publish IT content, - Providing interesting facts about various topics,- Suggesting suitable images for provided text. The only thing it did not help me with was finding my social s  tyle. What about you? Do you consider ChatGPT a useful tool? - Yes **80%**, - No **12%**, - Never tried it **8%** | |
 | | Communication | We need more Messengers | messenger ithumor | <img src="./Images/MoreMessengers.jpg" alt="More Messengers" /> | [01/03/2023](https://www.linkedin.com/posts/dimanikulin_messenger-ithumor-activity-7040961774296154112-Tg-G?utm_source=share&utm_medium=member_desktop)  {TBD/TBD/TBD/TBD} | Guys from big IT Companies, we need "much more" messengers on our devices! Because I have "only" 6 on my laptop - Facebook messenger, Microsoft Skype and Teams, Google Chat, Twitter, Slack and Telegram. And "only" 8 on my smartphone. And there are additionally two email clients by the way. How many messengers there are on your devices? Which ones I missed? | |
@@ -26,9 +39,3 @@
 | | Fishing | Attempt 3 | fishing staysafe emailsecurity internetsecurity | <img src="./Images/fishing04.jpg" alt="fishing 04" /> | [01/01/2022](https://www.linkedin.com/posts/dimanikulin_that-is-probably-first-time-when-i-reject-activity-6885883352952438784-CEq-?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD} | That is probably first time when I reject the high-paying job and WFH mode. They sent me an email with a job description. Also they even provided me a password and nice attachment to open so I could start working immediately. Not this time, sorry guys ;-) | |
 | | Fishing | Attempt 4 | fishing staysafe emailsecurity internetsecurity | <img src="./Images/fishing05.jpg" alt="fishing 05" /> | [24/04/2023](https://www.linkedin.com/posts/dimanikulin_fishing-activity-7054716495364300801-_-1z?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD} | The most boring proposal so far. This time they did not propose big money neither high-paying job with WFH. They just wanted to warn me about disk space. | |
 | | Fishing | Sensitive or confidential language | fishing staysafe emailsecurity internetsecurity | <img src="./Images/fishing06.jpg" alt="fishing 06" /> | [06/06/2023](https://www.linkedin.com/posts/dimanikulin_staysafe-fishing-activity-7071738520201027584-TmuQ?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD} | It is unfortunately true that some people may use sensitive or confidential language (Confidential! Sensitive Information!) in their messages as a tactic to deceive or manipulate others, and they may not be concerned about the consequences of doing so. If you receive a message that you suspect may be fraudulent or deceptive, it is important to exercise caution and to verify the authenticity of the message before taking any action. This may involve double-checking the source of the message, looking for signs of phishing or other scams, or seeking guidance from a trusted authority or expert. By taking these precautions, you can help protect yourself from potential harm and avoid falling victim to scams or other types of fraud. Stay safe! | |
-
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
