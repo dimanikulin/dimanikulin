@@ -2,7 +2,6 @@
 
 TODO Table of contents
 
-- [Holidays](./Holidays.md)
 - [Interesting facts](./InterestingFacts.md)
 - [Interviews](./Interviews.md)
 - [LinkedIn Content](./LinkedInContent.md)
