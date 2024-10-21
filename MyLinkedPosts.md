@@ -19,6 +19,8 @@ TODO Table of contents
 | - | ------|-------------|----------------|-------------|-------------------------|----------|:-------------:|
 | | Holidays | What is the best gift for Ukrainian people for Christmas and New Year? | holidays | | [01/12/2022](https://www.linkedin.com/posts/dimanikulin_armukrainenow-warinukraine-activity-7012374950275637249-Wpcn?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD} | - Patriot defense system **8%**, - Atacms **16%**, - pUTINs visit of Kobzon concert **76%**. Any other options I forgot to mention?| |
 |  | Holidays | З Днем Вишиванки! | holidays | <img src="./Images/Vishivanka.jpg" alt="Vishivanka" /> | [18/05/2023](https://www.linkedin.com/posts/dimanikulin_globallogic-ukraine-nationalholiday-activity-7064859572955398144-xxKg?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD} | Цю футболку-вишиванку я отримав завдяки GlobalLogic та Дню Незалежності України. У 2018 році мені надійшов лист від GlobalLogic з пропозицією обрати спортивний захід з переліку марафонів. Я обрав забіг у Пирогово, який відбувся 24 серпня 2018 року. Там я та ця яскрава футболка-вишиванка поєдналися. Фото було зроблено у офісі. До речі, шорти були блакитні.А у вас є цікаві історії, пов'язані з вишиванками? | |
+|  | Holidays | What is the best gift for Ukrainian people for Christmas and New Year 2?| globallogic ukraine national | | [26/12/2022](https://www.linkedin.com/posts/dimanikulin_activity-7145329226500521984-2up9?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD} | - Taurus rockets **0%**; - Nuclear weapon **0%**; - pUTINs visit of Kobzon concert **0%**. Any other options I forgot to mention? | |
+
 | | | | | | | | |
 | | | | | | | | |
 | | | | | | | | |
