@@ -2,8 +2,7 @@
 
 TODO Table of contents
 
-- [Interesting facts](./InterestingFacts.md)
-- [Interviews](./Interviews.md)
+- [Interesting facts](./MyLinkedPosts_InterestingFacts.md) TODO to convert to table
 - [LinkedIn Content](./LinkedInContent.md)
 - [This is when we say "Old, but Gold](./OldButGold.md)
 - [Soft Skills](./SoftSkills.md)
@@ -19,10 +18,6 @@ TODO Table of contents
 | | Holidays | What is the best gift for Ukrainian people for Christmas and New Year? | holidays | | [01/12/2022](https://www.linkedin.com/posts/dimanikulin_armukrainenow-warinukraine-activity-7012374950275637249-Wpcn?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD} | - Patriot defense system **8%**, - Atacms **16%**, - pUTINs visit of Kobzon concert **76%**. Any other options I forgot to mention?| |
 |  | Holidays | З Днем Вишиванки! | holidays | <img src="./Images/Vishivanka.jpg" alt="Vishivanka" /> | [18/05/2023](https://www.linkedin.com/posts/dimanikulin_globallogic-ukraine-nationalholiday-activity-7064859572955398144-xxKg?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD} | Цю футболку-вишиванку я отримав завдяки GlobalLogic та Дню Незалежності України. У 2018 році мені надійшов лист від GlobalLogic з пропозицією обрати спортивний захід з переліку марафонів. Я обрав забіг у Пирогово, який відбувся 24 серпня 2018 року. Там я та ця яскрава футболка-вишиванка поєдналися. Фото було зроблено у офісі. До речі, шорти були блакитні.А у вас є цікаві історії, пов'язані з вишиванками? | |
 |  | Holidays | What is the best gift for Ukrainian people for Christmas and New Year 2?| globallogic ukraine national | | [26/12/2022](https://www.linkedin.com/posts/dimanikulin_activity-7145329226500521984-2up9?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD} | - Taurus rockets **0%**; - Nuclear weapon **0%**; - pUTINs visit of Kobzon concert **0%**. Any other options I forgot to mention? | |
-
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
 
 # Work
 
@@ -45,3 +40,7 @@ TODO Table of contents
 | | Fishing | Attempt 3 | fishing staysafe emailsecurity internetsecurity | <img src="./Images/fishing04.jpg" alt="fishing 04" /> | [01/01/2022](https://www.linkedin.com/posts/dimanikulin_that-is-probably-first-time-when-i-reject-activity-6885883352952438784-CEq-?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD} | That is probably first time when I reject the high-paying job and WFH mode. They sent me an email with a job description. Also they even provided me a password and nice attachment to open so I could start working immediately. Not this time, sorry guys ;-) | |
 | | Fishing | Attempt 4 | fishing staysafe emailsecurity internetsecurity | <img src="./Images/fishing05.jpg" alt="fishing 05" /> | [24/04/2023](https://www.linkedin.com/posts/dimanikulin_fishing-activity-7054716495364300801-_-1z?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD} | The most boring proposal so far. This time they did not propose big money neither high-paying job with WFH. They just wanted to warn me about disk space. | |
 | | Fishing | Sensitive or confidential language | fishing staysafe emailsecurity internetsecurity | <img src="./Images/fishing06.jpg" alt="fishing 06" /> | [06/06/2023](https://www.linkedin.com/posts/dimanikulin_staysafe-fishing-activity-7071738520201027584-TmuQ?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD} | It is unfortunately true that some people may use sensitive or confidential language (Confidential! Sensitive Information!) in their messages as a tactic to deceive or manipulate others, and they may not be concerned about the consequences of doing so. If you receive a message that you suspect may be fraudulent or deceptive, it is important to exercise caution and to verify the authenticity of the message before taking any action. This may involve double-checking the source of the message, looking for signs of phishing or other scams, or seeking guidance from a trusted authority or expert. By taking these precautions, you can help protect yourself from potential harm and avoid falling victim to scams or other types of fraud. Stay safe! | |
+| | LinkedIn content | Just Joined LinkedIn | LinkedIn Content | <img src="./Images/JustJoinedLinkedIn.jpg" alt="Just Joined LinkedIn" /> | [16/02/2022](https://www.linkedin.com/posts/dimanikulin_%D0%BD%D0%B0%D0%B1%D0%BE%D0%BB%D0%B5%D0%BB%D0%BE-activity-6896460037422686208-xicr?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD} | Наболело... | |
+| | LinkedIn content | What do you think about content posted in LinkedIn? | LinkedIn Content | | [08/05/2023](https://www.linkedin.com/posts/dimanikulin_linkedin-content-activity-7061244365477752832-VDm0?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD} | About a year ago, I posted a picture about LI content and received a lot of responses. So.. What do you think about content posted in LinkedIn? Please share your opinion in the comments. - Dating  **31%**; - Asking for agreement or disagreement **19%**; - Memes from the 20th century **44%**; - Pet photos **6%**; 16 Votes | |
+
+| | | | | | | | |
