@@ -97,7 +97,7 @@ So It did provide first a lot of output but output was not aligned well with rea
 
 And new version of [business case](./AIForSWArchitects_BusinessCase2_en.md) appeared with more details and much more targeted.
 
-The result I have put into [Round 1](./AIForSWArchitects_Assistance2_en.md).
+The result I have put into [Round 2](./AIForSWArchitects_Assistance2_en.md).
 
 ## Round 3
 
@@ -112,8 +112,10 @@ TODO to put a links to documets
 | 1 | Anonymization        | 120 (before me) +15 minutes | |
 | 2 | Input doc prepation, round 1 | 90 mins | |
 | 3 | Assitance, round 1 | 60 mins  | |
-| 4 | Input doc prepation, round 2 | 30 + 10 | |
-| 5 | Assitance, round 2 | TBD  | |
+| 4 | Input doc prepation, round 2 | 30 + 30 | |
+| 5 | Assitance, round 2 | 15 mins  | |
+| 6 | Input doc prepation, round 3 | TBD | |
+| 7 | Assitance, round 3 | TBD | |
 
 <img src="./Images/TBD.jpg" alt="TBD" />
 
