@@ -51,6 +51,15 @@ As input documentation for creation architecture vision the following artifacts 
 - Text of customer request
 
 Becacause I did not have any from those documents for my *Sample Case* I used *ChatGPT* (not Assistant meontioned previpsly) to help me to create [business case](./AIForSWArchitects_BusinessCase1_en.md) from anonymizated input doc (*Sample case anonymizated.docx*).
+
+# Assistance
+
+The assitante is located [here](https://chatgpt.com/g/g-J6uBbvDrm-solutions-architect-assistent) and the communication with it is in a form like with **ChatGPT** - Prompt from **User** and Response from **AI**.
+
+Cause the [Assistance model](https://chatgpt.com/g/g-J6uBbvDrm-solutions-architect-assistent) has been updating (in dev state) I have had to update my business case description and assitance output in progress of assitance.
+
+## Round 1
+
 Business case description kept such chapters as
 
 - Company
@@ -60,14 +69,6 @@ Business case description kept such chapters as
 - Schedule
 - Features
 - Actors
-
-# Assistance
-
-The assitante is located [here](https://chatgpt.com/g/g-J6uBbvDrm-solutions-architect-assistent) and the communication with it is in a form like with **ChatGPT** - Prompt from **User** and Response from **AI**.
-
-Cause the [Assistance model](https://chatgpt.com/g/g-J6uBbvDrm-solutions-architect-assistent) has been updating (in dev state) I have had to update my business case description and assitance output in progress of assitance.
-
-## Round 1
 
 First I just wanted to try it out and just went from start to the end of assistance in way in suggested and without any clarification from my side. The result I have put into [Round 1](./AIForSWArchitects_Assistance1_en.md).
 
@@ -100,6 +101,12 @@ And new version of [business case](./AIForSWArchitects_BusinessCase2_en.md) appe
 The result I have put into [Round 2](./AIForSWArchitects_Assistance2_en.md).
 
 ## Round 3
+
+As it still did not provide the assitance I need I decided to have one more round with it.
+
+And new version of [business case](./AIForSWArchitects_BusinessCase3_en.md) appeared with more details and much more targeted.
+
+The result I have put into [Round 2](./AIForSWArchitects_Assistance3_en.md).
 
 # Conclusion
 
