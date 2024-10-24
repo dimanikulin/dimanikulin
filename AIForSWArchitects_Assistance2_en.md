@@ -85,11 +85,11 @@ Would you like to list them out, or should I guide you further on structuring th
 
 **AI** - Perfect! Go ahead and list the business goals, and I will structure them for you.
 
-**Me** - Provided Business Goals/Drivers from [business case 2](./AIForSWArchitects_BusinessCase2_en.md)
+**Me** - Provided Business Goals/Drivers from [Assistance Input 2](./AIForSWArchitects_Input2_en.md)
 
 **AI** - With the business goals defined, we can now proceed to the constraints. Please list them as well, and I will organize those next.
 
-**Me** - Provided Constrains from [business case 2](./AIForSWArchitects_BusinessCase2_en.md)
+**Me** - Provided Constrains from [Assistance Input 2](./AIForSWArchitects_Input2_en.md)
 
 **AI** - Now that we have the business goals and constraints outlined, we can proceed to define the main use cases.
 Would you prefer the use cases in *Markdown* format or *Plant UML* for better visualization?
@@ -102,11 +102,11 @@ Would you prefer the use cases in *Markdown* format or *Plant UML* for better vi
 - A description of what the use case does.
 - The actors (who or what interacts with the system).
 
-**Me** - Provided Use Cases from [business case 2](./AIForSWArchitects_BusinessCase2_en.md)
+**Me** - Provided Use Cases from [Assistance Input 2](./AIForSWArchitects_Input2_en.md)
 
 **AI** - With the main use cases defined, we can now proceed to list the main features of the solution. Would you like to list them, or should I guide you on structuring the features?
 
-**Me** - Provided main features from [business case 1](./AIForSWArchitects_BusinessCase1_en.md)
+**Me** - Provided main features from [Assitance Input 1](./AIForSWArchitects_Input1_en.md)
 
 **AI** -  With the main features defined, the next step is to outline the Quality Attribute Scenarios—these are important to ensure non-functional aspects like performance, security, and scalability are well-documented.
 
@@ -135,7 +135,7 @@ They are non-functional requirements that are both testable and measurable, focu
 **Next Step:**
 Please provide key quality attributes that are important for your solution (e.g., performance, security, availability, etc.), and any specific scenarios you have in mind. I will help structure them into a table format.
 
-**Me** - Provided Quality Attribute Scenarios from [business case 2](./AIForSWArchitects_BusinessCase2_en.md)
+**Me** - Provided Quality Attribute Scenarios from [Assistance Input 2](./AIForSWArchitects_Input2_en.md)
 
 <img src="./Images/TBD.jpg" alt="TBD" />
 
