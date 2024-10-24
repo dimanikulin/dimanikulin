@@ -32,6 +32,8 @@ or ---
 
 # Introduction
 
+<https://www.youtube.com/live/8sC8x79iyP8>
+
 Розвідка соціальних мереж (SOCMINT) - це різновид розвідки з відкритим кодом (OSINT), яка стосується збору та аналізу даних з веб-сайтів соціальних мереж. Вона охоплює всі соціальні медіа-платформи, а не лише соціальні мережі.
 
 З чого починати загальний пошук акаунту людини в соцмережах?
@@ -49,6 +51,7 @@ or ---
 оно должно быть уникальным, Иванов или Джон даст мало результатов
 
 - іменем користувача
+
 WhatsMyName (<https://whatsmyname.app/>) by name
 Namecheckup (<https://namecheckup.com/>) domain names cjec
 Sherlock (<https://github.com/sherlock-project/sherlock>) Hunt down social media accounts by username across 400+ social networks
