@@ -28,6 +28,11 @@ TODO Table of contents
 | | Communication | We need more Messengers | messenger ithumor | <img src="./Images/MoreMessengers.jpg" alt="More Messengers" /> | [01/03/2023](https://www.linkedin.com/posts/dimanikulin_messenger-ithumor-activity-7040961774296154112-Tg-G?utm_source=share&utm_medium=member_desktop)  {TBD/TBD/TBD/TBD} | Guys from big IT Companies, we need "much more" messengers on our devices! Because I have "only" 6 on my laptop - Facebook messenger, Microsoft Skype and Teams, Google Chat, Twitter, Slack and Telegram. And "only" 8 on my smartphone. And there are additionally two email clients by the way. How many messengers there are on your devices? Which ones I missed? | |
 | | Communication | What does it mean for me to be online? | online ithumor | <img src="./Images/BeingOnline.jpg" alt="BeingOnline" /> | [01/03/2023](https://www.linkedin.com/posts/dimanikulin_online-messenger-nokia-activity-7008705718677573632-aA2C?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD}| | |
 | | Communication | VPNs | | | [16/07/2024](https://www.linkedin.com/posts/dimanikulin_vpns-safework-vpnclient-activity-7218879732392554496-n-Pg?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD} | VPNs seem to be indispensable in our private and work lives. They keep our connections safe and provide access to restricted networks. As a result, it has become normal to have more than one VPN client installed on your device. For example, I currently have three clients installed on my laptop. What is the maximum number of VPN clients you have or have had on your device? - 2; - 3; - more than 3; - What is a VPN? | |
+| | This is when we say "Old, but Gold" | Windows 95 | oldschool old | <img src="./Images/windows95.jpg" alt="TBD" /> | [01/04/2023](https://www.linkedin.com/posts/dimanikulin_oldschool-old-activity-7048925594268352512-c-4G?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD} |Can you guess what is this without googling? I used that a lot when I started programming. If you can guess, we are the same age. | |
+| | This is when we say "Old, but Gold" | | oldschool old | | | | |
+| | This is when we say "Old, but Gold" | | oldschool old | | | | |
+| | This is when we say "Old, but Gold" | | oldschool old | | | | |
+| | This is when we say "Old, but Gold" | | oldschool old | | | | |
 
 # Other
 

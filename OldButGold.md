@@ -1,38 +1,3 @@
-# Headline
-
-This is when we say "Old, but Gold"
-
-# Table of contents
-
-- [Tags](./OldButGold.md#tags)
-- [Overview](./OldButGold.md#overview)
-- [Windows 95](./OldButGold.md#windows-95)
-- [Miranda](./OldButGold.md#miranda)
-- [BSOD](./OldButGold.md#bsod)
-- [First Mobile Phone](./OldButGold.md#first-mobile-phone)
-- [Windows NT 4.0](./OldButGold.md#windows-nt-40)
-- [References](./OldButGold.md#references)
-
-# Tags
-
-oldschool old
-
-# Overview
-
-TBD
-
----
-
-# Windows 95
-
-Can you guess what is this without googling?
-
-I used that a lot when I started programming.
-
-If you can guess, we are the same age
-
-<img src="./Images/windows95.jpg" alt="TBD" />
-
 # Miranda
 
 Can you guess what it is?
@@ -86,7 +51,7 @@ If you can guess, we are the same age.
 
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
-| 1 | Windows 95           |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_oldschool-old-activity-7048925594268352512-c-4G?utm_source=share&utm_medium=member_desktop) | 01/04/2023| Dmytro Nikulin||
+| 1 | Windows 95           | | | Dmytro Nikulin||
 | 2 | Miranda NG           |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_old-activity-7016323085142224896-OyzK?utm_source=share&utm_medium=member_desktop) | 01/01/2023| Dmytro Nikulin||
 | 3 | BSoD                 |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_oldschool-oldtech-activity-7066684307964125184-hZG4?utm_source=share&utm_medium=member_desktop)| 25/05/2023 | Dmytro Nikulin||
 | 4 | First Mobile Phone   |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_oldisgold-oldschool-first-activity-7078993334840569858-vZp0?utm_source=share&utm_medium=member_desktop)| 26/06/2023 | Dmytro Nikulin||
