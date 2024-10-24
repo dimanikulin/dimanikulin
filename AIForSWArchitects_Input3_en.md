@@ -30,24 +30,83 @@ TBD
 
 TBD
 
-##############################################################################
+# Project Overview
+
+There are two data platforms in AWS and Azure Clouds.
+The customer wants to consolidate the data in a single cloud.
+
+The data lake should store the data in the right format which is ideal for the relevant use cases.
+This also includes consolidation of data per cloud and per environment.
+There is a need to explore solutions and architecture of the future state platform in which the need to copy data from one platform to another, one environment to another, is effectively managed, minimized and potentially eliminated.
+
+# Business Goals
+
+High-level goals the customer wants to achieve (e.g., cost reduction, improved performance, or streamlined management).
+
+- to improve data management,
+- to enhance analytics capabilities,
+- to reduce the costs,
+- to improve data security,
+- to have streamlined collaboration within an organization
+
+# Scope of Migration
+
+*In Scope*:
+
+- Identify required Enterprise Data Producing systems
+- Data Producer Onboarding
+- Data Ingestion (push/pull, batch/streaming/API)
+- Archiving and Format Optimization
+- Transformation and Enrichment
+- Polyglot Storage
+- Access Interfaces (API, Export, Analytics Tools, etc.)
+- Identify Enterprise Data Consumer systems
+- Data Consumer Onboarding
+- Administration and Operational Tools
+- Data Warehouse Capability
+- Enterprise Data Governance
+- Enabling Data Science and other internal teams to effectively access/consume the data
+- Enabling various BI reports to effectively access/consume the data
+
+*Out-Of-Scope*:
+
+- Core Artificial Intelligence /Machine Learning/Data Science Capabilities
+- Core Reporting Capabilities
+- Surrounding Transactional Systems/Feature System/Teams’ Capabilities and Roadmaps
+- Market Study/Business Value Analysis
+- Data Producing/Consuming systems not identified as key/required systems
+
+TBD
+Types of data involved (structured, unstructured, databases, etc.).
+Volume of data to be migrated.
+Specific services or applications tied to the data in each cloud (databases, analytics tools, storage services, etc.).
+
+# Current Cloud Infrastructure
+
+Cloud platforms currently in use (e.g., AWS, Azure, Google Cloud).
+Key services in use (compute, storage, databases).
+Any dependencies (integrations, third-party services, etc.).
+
+# Target Cloud Platform
+
+The chosen target cloud platform.
+Desired architecture on the target cloud (e.g., data lakes, specific cloud services to use, etc.).
+
+# Business or Technical Constraints
+
+Timelines, budgets, regulatory requirements (e.g., GDPR, HIPAA), or data retention rules.
+Technical constraints such as bandwidth, data formats, or latency requirements.
+
+# Quality Requirements
+
+Performance, security, reliability, and compliance requirements for the migration.
+Downtime tolerance and requirements for data integrity during migration.
+
+# Key Stakeholders
+
+People or teams responsible for decision-making, data management, and technical implementation.
 
 #####################################################################
-
-# Business case and business goals
-
-*Goal*: Create unified data platform.
-
-*Business Goals/Drivers*:
-
-| # | Description | Priority (Hard/Soft) |
-|---|-------------|:---------------------:|
-| | Data consolidation in a single cloud | Hard |
-| | Improved data management | Hard |
-| | Enhanced analytics capabilities | Hard |
-| | Cost efficiencies | Soft |
-| | Better data security | Soft |
-| | Streamlined collaboration within an organization | Soft|
 
 # Constraints (business, technical, legal, etc.)
 
@@ -78,40 +137,10 @@ TBD
 | 2 | Availability | The system must maintain 99.9% uptime to ensure healthcare providers can access patient data at all times. |  High |  Data Access, Monitoring |
 | 3 | Performance |  Real-time patient monitoring must process data within 2 seconds of ingestion from IoT devices. |  High |  Real-Time Monitoring |
 | 4 | Scalability |  The platform should scale to support up to 50 external partners in next 3 years |  High |  Data Consuming |
-| 5 | Scalability |  The platform should scale to support up to 4 000 devices with 120 000 IoT sensors(each IoT sensor sends the data each 20-60 seconds) without degrading performance. |  High |  Data Ingestion |
+| 5 | Scalability |  The platform should scale to support up to 4 000 devices with 120 000 IoT sensors(each IoT sensor sends the data each 20-60 seconds) without degrading performance. | High |  Data Ingestion |
 | 6 | Availability |  To be able to perform cross-location analytics together with ability of ML team to leverage from the cross-location data. |  High |  Predictive Analytics |
 | 7 | Maintainability |  The platform must allow updates to AI models without affecting the real-time data pipeline. |  Medium |  Predictive Analytics |
 | 8 | Reliability |  Data synchronization between cloud environments must ensure no data loss even during network disruptions. |  High | Data Sharing |
-
-# Other information
-
-The data lake(s) should store the data in the right format which is ideal for the relevant use cases
-This also includes consolidation of data per cloud and per environment. There is a need to explore solutions and architecture of the future state platform(s) in which the need to copy data from one platform to another, one environment to another, is effectively managed, minimized and potentially eliminated.
-
-*In Scope*:
-
-- Identify required Enterprise Data Producing systems
-- Data Producer Onboarding
-- Data Ingestion (push/pull, batch/streaming/API)
-- Archiving and Format Optimization
-- Transformation and Enrichment
-- Polyglot Storage
-- Access Interfaces (API, Export, Analytics Tools, etc.)
-- Identify Enterprise Data Consumer systems
-- Data Consumer Onboarding
-- Administration and Operational Tools
-- Data Warehouse Capability
-- Enterprise Data Governance
-- Enabling Data Science and other internal teams to effectively access/consume the data
-- Enabling various BI reports to effectively access/consume the data
-
-*Out-Of-Scope*:
-
-- Core Artificial Intelligence /Machine Learning/Data Science Capabilities
-- Core Reporting Capabilities
-- Surrounding Transactional Systems/Feature System/Teams’ Capabilities and Roadmaps
-- Market Study/Business Value Analysis
-- Data Producing/Consuming systems not identified as key/required systems
 
 # Current technical state
 
