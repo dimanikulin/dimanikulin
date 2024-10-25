@@ -33,15 +33,13 @@ TBD
 # Project Overview
 
 There are two data platforms in AWS and Azure Clouds.
-The customer wants to consolidate the data in a single cloud.
+The customer wants to create unified data platform and to migrate data from 2 Clouds into single one based on unified data platform.
 
 The data lake should store the data in the right format which is ideal for the relevant use cases.
 This also includes consolidation of data per cloud and per environment.
 There is a need to explore solutions and architecture of the future state platform in which the need to copy data from one platform to another, one environment to another, is effectively managed, minimized and potentially eliminated.
 
 # Business Goals
-
-High-level goals the customer wants to achieve (e.g., cost reduction, improved performance, or streamlined management).
 
 - to improve data management,
 - to enhance analytics capabilities,
@@ -76,10 +74,33 @@ High-level goals the customer wants to achieve (e.g., cost reduction, improved p
 - Market Study/Business Value Analysis
 - Data Producing/Consuming systems not identified as key/required systems
 
-TBD
-Types of data involved (structured, unstructured, databases, etc.).
-Volume of data to be migrated.
-Specific services or applications tied to the data in each cloud (databases, analytics tools, storage services, etc.).
+## Types of data involved
+
+- Raw data files
+- Structured data
+- Unstructured
+
+## Volume of data to be migrated
+
+Now size of AWS is ~20TB, Azure is ~5TB. Data includes among other - patient data, sensor data, click stream, and data like order data, supply chain data from the IT data platform.
+
+## Specific services or applications
+
+### AWS
+
+- KAFKA - Data ingestions and flow control
+- Aurora - Device raw data
+- S3 - Raw data files
+- Cassandra - Device Sessions and Info
+- Aurora RDS - User data, products, orders
+- AWS Transfer for SFTP
+
+### Azure
+
+- SQL Servers and DB - Structured data for BI
+- Azure Data factories - Unstructured data for BI
+- Storage/batch - Flow control for batch processing
+- Events Hubs/Streams - Flow control for stream processing
 
 # Current Cloud Infrastructure
 
@@ -143,8 +164,6 @@ People or teams responsible for decision-making, data management, and technical 
 | 8 | Reliability |  Data synchronization between cloud environments must ensure no data loss even during network disruptions. |  High | Data Sharing |
 
 # Current technical state
-
-Now size of AWS is ~20TB, Azure is ~5TB. Data includes among other - patient data, sensor data, click stream, and data like order data, supply chain data from the IT data platform.
 
 We have Java, .Net, NodeJS and Python in our technology portfolio.
 
