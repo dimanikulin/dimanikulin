@@ -86,6 +86,8 @@ Now size of AWS is ~20TB, Azure is ~5TB. Data includes among other - patient dat
 
 ## Specific services or applications
 
+Nothing special.
+
 ### AWS
 
 - KAFKA - Data ingestions and flow control
@@ -103,6 +105,24 @@ Now size of AWS is ~20TB, Azure is ~5TB. Data includes among other - patient dat
 - Events Hubs/Streams - Flow control for stream processing
 
 # Current Cloud Infrastructure
+
+## AWS
+
+- KAFKA - Data ingestions and flow control
+- Aurora - Device raw data
+- S3 - Raw data files
+- Cassandra - Device Sessions and Info
+- Aurora RDS - User data, products, orders
+- AWS Transfer for SFTP
+
+## Azure
+
+- SQL Servers and DB - Structured data for BI
+- Azure Data factories - Unstructured data for BI
+- Storage/batch - Flow control for batch processing
+- Events Hubs/Streams - Flow control for stream processing
+
+## Integration
 
 Cloud platforms currently in use (e.g., AWS, Azure, Google Cloud).
 Key services in use (compute, storage, databases).
