@@ -3,7 +3,6 @@
 TODO Table of contents
 
 - [Interesting facts](./MyLinkedPosts_InterestingFacts.md) TODO to convert to table
-- [This is when we say "Old, but Gold](./OldButGold.md)
 - [Soft Skills](./SoftSkills.md)
 - [Software Development](./SoftwareDevelopment.md)
 - [War in Ukraine](./WarInUkraine.md)
