@@ -135,41 +135,30 @@ Nothing special.
 - Hockey application
 - Customer feedfack application
 
+Today we have < 10 external partners but going to grow 5x times in next 3 years.
+
 # Target Cloud Platform
 
 As target cloud only AWS or MS Azure shall be used. When any selected the motivation shall be provided.
+
 Big data lake(s) with clear boundaries shall be defined. The data lake(s) should have the capability to ingest the data in batch mode and real time pipeline with appropriate frequency/rate - 120 000 IoT sensors (each IoT sensor sends the data each 20-60 seconds)
+
+At the end of the day we would like to make our AI/ML teams to work in isolated environments to not interfer with each other. Data access policies should be supported in such case (e.g. we should be able to configure what kind of information should be available and what is not).
+The future plan is to reuse environments feature to expose the data for external partners.
 
 # Business or Technical Constraints
 
-Timelines, budgets, regulatory requirements (e.g., GDPR, HIPAA), or data retention rules.
-Technical constraints such as bandwidth, data formats, or latency requirements.
+There is no limit for budget but project shall be done in 4 months.
+
+| # | Description | Priority (Hard/Soft) |
+|---|-------------|:---------------------:|
+| | As target cloud only AWS or MS Azure shall be used | Hard |
+| | Big data lake(s) with clear boundaries shall be defined | Soft  |
+| | The data lake(s) should have the capability to ingest the data in batch mode and real time pipeline with appropriate frequency/rate - 120 000 IoT sensors; each IoT sensor sends the data each 20-60 seconds| Hard |
+| | Data migration shall comply both GDPR and HIPAA | Hard |
+| | Data shall be retained for 3 years | Hard |  
 
 # Quality Requirements
-
-Performance, security, reliability, and compliance requirements for the migration.
-Downtime tolerance and requirements for data integrity during migration.
-
-# Key Stakeholders
-
-People or teams responsible for decision-making, data management, and technical implementation.
-
-#####################################################################
-
-# Main use cases
-
-| # | Use Case Name     | Description | Actor     |
-| - | ------------------|-------------|:------------:|
-| 1 |Patient Data Ingestion | Capture real-time health data (e.g., glucose levels, blood pressure) from wearable and home devices.| Patients, Medical Devices |
-| 2 | Real-Time Data Monitoring | Healthcare providers monitor patient vitals in real-time, receiving alerts for critical changes.| Healthcare Providers |
-| 3 | Predictive Analytics & Alerts | Use AI algorithms to predict potential health risks and trigger alerts to doctors for interventions.| Healthcare Providers |
-| 4 | Data Access & Analytics Dashboard | Enable healthcare providers to access patient history, trends, and analytics through a dashboard.| Healthcare Providers |
-| 5 | Patient Data Access | Patients can view their own health data, trends, and receive personalized insights via a mobile app.| Patients |
-| 6 | Data Export to Third-Party Systems | Export patient data to external healthcare systems or insurance companies for further analysis. | Insurance Companies |
-| 7 | Data Storage & Archiving | Store and archive patient health data, ensuring compliance with healthcare regulations like HIPAA.| Data Platform |
-| 8 | Data Sharing Across Environments | Synchronize and share data across cloud environments without duplicating or losing information.| Data Platform, Cloud Providers |
-
-# Quality attribute scenarios
 
 | # | Quality Attribute   | Scenario |  Business Priority  | Related To |
 | - | ------------------|-------------|-------------|:------------:|
@@ -182,18 +171,31 @@ People or teams responsible for decision-making, data management, and technical 
 | 7 | Maintainability |  The platform must allow updates to AI models without affecting the real-time data pipeline. |  Medium |  Predictive Analytics |
 | 8 | Reliability |  Data synchronization between cloud environments must ensure no data loss even during network disruptions. |  High | Data Sharing |
 
+TBD
+Performance, security, reliability, and compliance requirements for the migration.
+Downtime tolerance and requirements for data integrity during migration.
+
+# Key Stakeholders
+
+- *CEO & Founder*: Oversees strategic decisions and high-level vision for MedConnect.
+- *Chief Medical Officer (CMO)*: Ensures the platform aligns with clinical requirements and enhances patient outcomes.
+- *Chief Technology Officer (CTO)*: Responsible for technological infrastructure, security, and data analytics.
+- *Chief Financial Officer (CFO)*: Manages the financial viability of the project and budget allocation.
+- *Product Manager:* Oversees the platform's development, ensuring timely feature releases and customer alignment.
+- *Healthcare Providers*: Input from doctors, specialists, and nurses to guide product features based on clinical needs. They receive alerts on potential health risks and can adjust treatment plans accordingly.
+- *Health Applications*: Input from devices.
+- *Patients*: As end-users, they contribute through feedback and real-world testing. Primary beneficiaries of personalized health insights and real-time data tracking.
+- *Medical Device Manufacturers*: Providers of smart medical devices that integrate with the platform, enabling data capture from patients.
+
+#####################################################################
+
 # Current technical state
 
 We have Java, .Net, NodeJS and Python in our technology portfolio.
 
 # Future technical state
 
-Today we have < 10 external partners but going to grow 5x times in next 3 years.
-
 We're looking forward to introduce SLAs.
-
-At the end of the day we would like to make our AI/ML teams to work in isolated environments to not interfer with each other. Data access policies should be supported in such case (e.g. we should be able to configure what kind of information should be available and what is not).
-The future plan is to reuse environments feature to expose the data for external partners.
 
 <img src="./Images/TBD.jpg" alt="TBD" />
 
