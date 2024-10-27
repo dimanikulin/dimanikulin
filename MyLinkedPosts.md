@@ -3,7 +3,6 @@
 TODO Table of contents
 
 - [Interesting facts](./MyLinkedPosts_InterestingFacts.md) TODO to convert to table
-- [Soft Skills](./SoftSkills.md)
 - [Software Development](./SoftwareDevelopment.md)
 - [War in Ukraine](./WarInUkraine.md)
 - [Work in GlobalLogic](./WorkInGL.md)
