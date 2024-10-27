@@ -124,14 +124,21 @@ Nothing special.
 
 ## Integration
 
-Cloud platforms currently in use (e.g., AWS, Azure, Google Cloud).
-Key services in use (compute, storage, databases).
-Any dependencies (integrations, third-party services, etc.).
+- Matlab Production Server (ML)
+- Azure data platform is intergrated to AWS data platform
+- Power BI
+- Devices and their sensors
+- Customer Portal
+- Health and sport applications
+- Notification services
+- Ratings application
+- Hockey application
+- Customer feedfack application
 
 # Target Cloud Platform
 
-The chosen target cloud platform.
-Desired architecture on the target cloud (e.g., data lakes, specific cloud services to use, etc.).
+As target cloud only AWS or MS Azure shall be used. When any selected the motivation shall be provided.
+Big data lake(s) with clear boundaries shall be defined. The data lake(s) should have the capability to ingest the data in batch mode and real time pipeline with appropriate frequency/rate - 120 000 IoT sensors (each IoT sensor sends the data each 20-60 seconds)
 
 # Business or Technical Constraints
 
@@ -148,14 +155,6 @@ Downtime tolerance and requirements for data integrity during migration.
 People or teams responsible for decision-making, data management, and technical implementation.
 
 #####################################################################
-
-# Constraints (business, technical, legal, etc.)
-
-| # | Description | Priority (Hard/Soft) |
-|---|-------------|:---------------------:|
-| | As target cloud only AWS or MS Azure shall be used | Hard |
-| | Big data lake(s) with clear boundaries shall be defined | Soft  |
-| | The data lake(s) should have the capability to ingest the data in batch mode and real time pipeline with appropriate frequency/rate - 120 000 IoT sensors; each IoT sensor sends the data each 20-60 seconds| Hard |
 
 # Main use cases
 
