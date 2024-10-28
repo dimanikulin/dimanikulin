@@ -3,9 +3,9 @@
 TODO Table of contents
 
 - [Interesting facts](./MyLinkedPosts_InterestingFacts.md) TODO to convert to table
-- [Software Development](./SoftwareDevelopment.md)
-- [War in Ukraine](./WarInUkraine.md)
-- [Work in GlobalLogic](./WorkInGL.md)
+- [Software Development](./SoftwareDevelopment.md) TODO to convert to table
+- [War in Ukraine](./WarInUkraine.md) TODO to convert to table
+- [Work in GlobalLogic](./WorkInGL.md) TODO to convert to table
 - [Work Life Balance](WorkLifeBalance.md)
 
 # Entertainment
@@ -15,6 +15,14 @@ TODO Table of contents
 | | Holidays | What is the best gift for Ukrainian people for Christmas and New Year? | holidays | | [01/12/2022](https://www.linkedin.com/posts/dimanikulin_armukrainenow-warinukraine-activity-7012374950275637249-Wpcn?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD} | - Patriot defense system **8%**, - Atacms **16%**, - pUTINs visit of Kobzon concert **76%**. Any other options I forgot to mention?| |
 |  | Holidays | З Днем Вишиванки! | holidays | <img src="./Images/Vishivanka.jpg" alt="Vishivanka" /> | [18/05/2023](https://www.linkedin.com/posts/dimanikulin_globallogic-ukraine-nationalholiday-activity-7064859572955398144-xxKg?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD} | Цю футболку-вишиванку я отримав завдяки GlobalLogic та Дню Незалежності України. У 2018 році мені надійшов лист від GlobalLogic з пропозицією обрати спортивний захід з переліку марафонів. Я обрав забіг у Пирогово, який відбувся 24 серпня 2018 року. Там я та ця яскрава футболка-вишиванка поєдналися. Фото було зроблено у офісі. До речі, шорти були блакитні.А у вас є цікаві історії, пов'язані з вишиванками? | |
 |  | Holidays | What is the best gift for Ukrainian people for Christmas and New Year 2?| globallogic ukraine national | | [26/12/2022](https://www.linkedin.com/posts/dimanikulin_activity-7145329226500521984-2up9?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD} | - Taurus rockets **0%**; - Nuclear weapon **0%**; - pUTINs visit of Kobzon concert **0%**. Any other options I forgot to mention? | |
+| | Interesting facts | Interesting facts about number "6" | interestingfacts numbers | <img src="./Images/GL6Years.png" alt="GL 6 Years" /> | [01/04/2023](https://www.linkedin.com/posts/dimanikulin_interestingfacts-numbers-globallogic-activity-7051457743555104769-pDkY?utm_source=share&utm_medium=member_desktop) | - In many cultures, 6 is considered to be a lucky number; - Six is the smallest perfect number, which means that the sum of its factors (1, 2, and 3) equals 6.; - The average human hand has six bones in each finger, except for the thumb, which has two bones; - I have reached the 6th Anniversary in GlobalLogic recently. Are there other facts? Something else? please share in comments other facts. | |
+| | Interesting facts | Interesting facts about number "11" | interestingfacts numbers | <img src="./Images/InterestingFactsAbout11.jpg" alt="Interesting Facts About 11" /> | [01/08/2023](https://www.linkedin.com/posts/dimanikulin_interestingfacts-activity-6967512359246393344-drW-?utm_source=share&utm_medium=member_desktop) | - 11 *11 = 121, 11* 111 = 1221, 1111 * 11 = 12221...; - Football team has 11 members; - Eleven is the name of main character in "Stranger Things" TV show; - I have reached 11 K connections now ) Are there other facts? Something else? please share in comments other facts.| |
+
+| | Interesting facts | | interestingfacts numbers | | | | |
+| | Interesting facts | | interestingfacts numbers | | | | |
+| | Interesting facts | | interestingfacts numbers | | | | |
+| | Interesting facts | | interestingfacts numbers | | | | |
+| | Interesting facts | | interestingfacts numbers | | | | |
 
 # Work
 
