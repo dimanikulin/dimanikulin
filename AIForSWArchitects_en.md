@@ -120,9 +120,9 @@ TODO to put a links to documets
 | 2 | Input doc prepation, round 1 | 90 mins | |
 | 3 | Assitance, round 1 | 60 mins  | |
 | 4 | Input doc prepation, round 2 | 30 + 30 | |
-| 5 | Assitance, round 2 | 15 mins  | |
-| 6 | Input doc prepation, round 3 | TBD | |
-| 7 | Assitance, round 3 | TBD | |
+| 5 | Assitance, round 2 | 30 mins  | |
+| 6 | Input doc prepation, round 3 | 30 + 15 | |
+| 7 | Assitance, round 3 | 15 | |
 
 <img src="./Images/TBD.jpg" alt="TBD" />
 
