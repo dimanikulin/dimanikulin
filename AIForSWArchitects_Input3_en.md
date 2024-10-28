@@ -170,10 +170,8 @@ There is no limit for budget but project shall be done in 4 months.
 | 6 | Availability |  To be able to perform cross-location analytics together with ability of ML team to leverage from the cross-location data. |  High |  Predictive Analytics |
 | 7 | Maintainability |  The platform must allow updates to AI models without affecting the real-time data pipeline. |  Medium |  Predictive Analytics |
 | 8 | Reliability |  Data synchronization between cloud environments must ensure no data loss even during network disruptions. |  High | Data Sharing |
-
-TBD
-Performance, security, reliability, and compliance requirements for the migration.
-Downtime tolerance and requirements for data integrity during migration.
+| 9 | Availability | No downtime is expected during migration | High | Migration |
+| 10 | Security | Patient health data must be encrypted during migration and storage, ensuring compliance with HIPAA. | High | Migration |
 
 # Key Stakeholders
 
