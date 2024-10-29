@@ -1,42 +1,3 @@
-# Headline
-
-Work-life Balance
-
-# Table of contents
-
-- [Tags](./WorkLifeBalance.md#tags)
-- [Overview](./WorkLifeBalance.md#overview)
-- [Playing chess](./WorkLifeBalance.md#playing-chess)
-- [Insurance case](./WorkLifeBalance.md#insurance-case)
-- [What does work-life balance mean for you?](./WorkLifeBalance.md#what-does-work-life-balance-mean-for-you)
-- [Tags](./WorkLifeBalance.md#tags-1)
-- [Playing chess 2](./WorkLifeBalance.md#playing-chess-2)
-- [Cleanup](./WorkLifeBalance.md#cleanup)
-- [Tags](./WorkLifeBalance.md#tags-2)
-- [Definitions, Acronyms, Abbreviations](./WorkLifeBalance.md#definitions-acronyms-abbreviations)
-- [References](./WorkLifeBalance.md#references)
-
-# Tags
-
-wellbeing worklifebalance workload relaxation Chess MedicalInsurance
-
-# Overview
-
-TBD
-
----
-
-# Playing chess
-
-What do I usually do to switch context and relax before engaging in the next brain activity?
-I play chess!
-You might wonder, but moving the chess pieces from one cell to another helps me relax.
-
-And I have noticed a direct correlation between the amount of glucose I consume and the number of chess games I win. It seems that the more sugar I consume, the more successful I am in chess.
-
-Now, I'm curious to know what you do to employ a similar approach?
-
-<img src="./Images/chess.jpg" alt="chess" />
 
 # Insurance case
 
@@ -83,6 +44,10 @@ Now, I'm curious to know what you do to employ a similar approach?
 
 <img src="./Images/tabletki.jfif" alt="tabletki" />
 
+## Tags
+
+wellbeing worklifebalance workload relaxation Chess MedicalInsurance
+
 # What does work-life balance mean for you?
 
 In the options, 'W&P' equals to 'Work And Personal'
@@ -97,6 +62,7 @@ In the options, 'W&P' equals to 'Work And Personal'
 ## Tags
 
 wellbeing insurance medicalcare
+wellbeing worklifebalance workload relaxation Chess MedicalInsurance
 
 # Playing chess 2
 
@@ -106,6 +72,11 @@ If I start winning, I keep going until I lose. If I lose once, I propose a remat
 And yes, when I start competing, I am prepared beforehand to lose, just in case.
 
 <img src="./Images/chess.jpg" alt="chess" />
+
+## Tags
+
+wellbeing worklifebalance workload relaxation Chess MedicalInsurance
+wellbeing worklifebalance workload relaxation Chess MedicalInsurance
 
 # Cleanup
 
@@ -121,12 +92,13 @@ Do you have the same habit?
 ## Tags
 
 habits cleaningmotivation cleanbeauty
+wellbeing worklifebalance workload relaxation Chess MedicalInsurance
 
 # References
 
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
-| 1 | Playing chess        |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_worklifebalance-workload-relax-activity-7084787080802836480-jGcU?utm_source=share&utm_medium=member_desktop) | 12/07/2023 | Dmytro Nikulin | |
+| 1 | Playing chess        | |  | Dmytro Nikulin | |
 | 2 | Insurance case       |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_wellbeing-insurance-medicalcare-activity-7106889450810449920-rtpf?utm_source=share&utm_medium=member_desktop) | 11/09/2023 | Dmytro Nikulin |
 | 3 | What does work-life balance mean for you? | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_activity-7117415823085907968-RXT3?utm_source=share&utm_medium=member_desktop) | 10/10/2023 | Dmytro Nikulin |
 | 4 | Playing chess 2      |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_wellbeing-chess-relaxation-activity-7163062724321558528-w9IV?utm_source=share&utm_medium=member_desktop)  | 13/02/2024 | Dmytro Nikulin |
