@@ -5,7 +5,6 @@ TODO Table of contents
 - [Software Development](./SoftwareDevelopment.md) TODO to convert to table
 - [War in Ukraine](./WarInUkraine.md) TODO to convert to table
 - [Work in GlobalLogic](./WorkInGL.md) TODO to convert to table
-- [Work Life Balance](WorkLifeBalance.md)
 Interviews.md
 
 # Entertainment
