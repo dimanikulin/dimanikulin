@@ -1,70 +1,19 @@
-# Headline
-
-Working in GL
-
-# Table of contents
-
-- [Tags](./WorkInGL.md#tags)
-- [Overview](./WorkInGL.md#overview)
-- [Presents in GlobalLogic for an employer](./WorkInGL.md#presents-in-globallogic-for-an-employer)
-- [Tags](./WorkInGL.md#tags-1)
-- [Cool people create cool music!](./WorkInGL.md#cool-people-create-cool-music)
-- [Taras Chmut and GlobalLogic](./WorkInGL.md#taras-chmut-and-globallogic-)
-- [Tags](./WorkInGL.md#tags-2)
-- [Top Interviewer in Kyiv in C/C++](./WorkInGL.md#top-interviewer-in-kyiv-in-cc)
-- [7000 people in GL Ukraine](./WorkInGL.md#7000-people-in-gl-ukraine)
-- [Tags](./WorkInGL.md#tags-3)
-- [Люксембург, Люксембург](./WorkInGL.md#%D0%BB%D1%8E%D0%BA%D1%81%D0%B5%D0%BC%D0%B1%D1%83%D1%80%D0%B3-%D0%BB%D1%8E%D0%BA%D1%81%D0%B5%D0%BC%D0%B1%D1%83%D1%80%D0%B3)
-- [Олена Зеленська](./WorkInGL.md#%D0%BE%D0%BB%D0%B5%D0%BD%D0%B0-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D1%81%D1%8C%D0%BA%D0%B0)
-- [A white paper on GlobalLogic Insights](./WorkInGL.md#a-white-paper-on-globallogic-insights)
-- [Tags](./WorkInGL.md#tags-4)
-- [Олена Зеленська 2](./WorkInGL.md#%D0%BE%D0%BB%D0%B5%D0%BD%D0%B0-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D1%81%D1%8C%D0%BA%D0%B0-2)
-- [Tags](./WorkInGL.md#tags-5)
-- [Presents in GlobalLogic for an employer 2](./WorkInGL.md#presents-in-globallogic-for-an-employer-2)
-- [Tags](./WorkInGL.md#tags-6)
-- [Дмитро Антонов](./WorkInGL.md#%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%BE-%D0%B0%D0%BD%D1%82%D0%BE%D0%BD%D0%BE%D0%B2)
-- [Сергій Жадан](./WorkInGL.md#%D1%81%D0%B5%D1%80%D0%B3%D1%96%D0%B9-%D0%B6%D0%B0%D0%B4%D0%B0%D0%BD)
-- [Interview number](./WorkInGL.md#interview-number)
-- [Trusted Interviewers](./WorkInGL.md#top-interviewer-in-kyiv-in-cc-1)
-- [Tags](./WorkInGL.md#tags-7)
-- [References](./WorkInGL.md#references)
-
-# Tags
-
-GlobalLogic Work
-
-# Overview
-
-In this article, the author expresses gratitude to GlobalLogic for their thoughtful birthday presents over the years.
-The significance of these gifts is highlighted in the context of recent events related to war.
-The author also shares insights into interactions with notable individuals, including Olena Zelenska, and provides a link to a white paper discussing software architecture and design.
-Additionally, the article touches on the mental health program 'Ти як?', featuring Olena Zelenska.
-The content reflects the author's appreciation for GlobalLogic's support and their personal experiences.
-
----
-
-# Presents in GlobalLogic for an employer
-
-Each year in GlobalLogic an employer gets the present for birthday.
-I have got following 5:
-
-- Backpack;
-- Multitool knife;
-- Belt bag;
-- Power bank;
-- Bottle for water.
-
-This year I realized their value especially in terms of war.
-
-Thank you GlobalLogic for taking care of me in advance!
-
-P.S. Here I meant GL Ukraine.
-
-<img src="./Images/GLPresents.jpg" alt="PresentsInGL" />
-
-## Tags
-
-ukraine, war
+| # | Topic | Post name   | Tags           | Picture     | Release date, reactions |  Post    | Links         |
+| - | ------|-------------|----------------|-------------|-------------------------|----------|:-------------:|
+|  | Working in GL | Presents in GlobalLogic for an employer | GlobalLogic Work, Ukraine, War | <img src="./Images/GLPresents.jpg" alt="PresentsInGL" /> | [01/06/2022](https://www.linkedin.com/posts/dimanikulin_ukraine-war-globallogic-activity-6942043429455458304-eXr4?utm_source=share&utm_medium=member_desktop) | Each year in GlobalLogic an employer gets the present for birthday. I have got following 5: - Backpack; - Multitool knife; - Belt bag; - Power bank; - Bottle for water. This year I realized their value especially in terms of war. Thank you GlobalLogic for taking care of me in advance! P.S. Here I meant GL Ukraine. | |
+|  | Working in GL | | GlobalLogic Work | | | | |
+|  | Working in GL | | GlobalLogic Work | | | | |
+|  | Working in GL | | GlobalLogic Work | | | | |
+|  | Working in GL | | GlobalLogic Work | | | | |
+|  | Working in GL | | GlobalLogic Work | | | | |
+|  | Working in GL | | GlobalLogic Work | | | | |
+|  | Working in GL | | GlobalLogic Work | | | | |
+|  | Working in GL | | GlobalLogic Work | | | | |
+|  | Working in GL | | GlobalLogic Work | | | | |
+|  | Working in GL | | GlobalLogic Work | | | | |
+|  | Working in GL | | GlobalLogic Work | | | | |
+|  | Working in GL | | GlobalLogic Work | | | | |
+|  | Working in GL | | GlobalLogic Work | | | | |
 
 # Cool people create cool music
 
@@ -207,7 +156,7 @@ interview award
 
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
-| 1 | Presents in GlobalLogic for an employer | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_ukraine-war-globallogic-activity-6942043429455458304-eXr4?utm_source=share&utm_medium=member_desktop) | 01/06/2022 | Dmytro Nikulin | |
+| 1 | Presents in GlobalLogic for an employer |  |  | Dmytro Nikulin | |
 | 2 | Cool people create cool music! | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_%D1%89%D0%B5%D0%B4%D1%80%D0%B8%D0%BA-carol-of-the-bells-globallogic-edition-activity-7011336761649836032-IGHe?utm_source=share&utm_medium=member_desktop)| 01/06/2022 | Dmytro Nikulin | |
 | 3 | Carol of the Bells GlobalLogic Edition | [YouTube](https://www.youtube.com/watch?v=KFLl5cD9zp0) | 01/12/2022 | Dmytro Nikulin | |
 | 4 | Taras Chmut and GlobalLogic | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_globallogic-warinukraine-activity-6975103190170042368-br-O?utm_source=share&utm_medium=member_desktop)| 01/10/2022 | Dmytro Nikulin | |
