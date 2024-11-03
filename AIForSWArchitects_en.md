@@ -34,29 +34,29 @@ At [DOU Day 2024](https://dou.ua/dou-day-2024/) I found quite interesting the [C
 
 It gave me undersnading on how I can use AI to [create architecture vision](https://github.com/dovchar/architecture-vision-GPTs?tab=readme-ov-file) from scratch spending hours but not days.  
 
-So I decided to try it on my project to start.
-
 The assitante is located [here](https://chatgpt.com/g/g-J6uBbvDrm-solutions-architect-assistent) and the communication with it is in a form like with **ChatGPT** - Prompt from **User** and Response from **AI**.
-
-Cause the [Assistance model](https://chatgpt.com/g/g-J6uBbvDrm-solutions-architect-assistent) has been updating (in dev state) I have had to update my business case description and assitance output in progress of assitance.
-
-# Preparation to use assistant
-
-## Anonymization
-
-Here we need to write sabout business case anonymization, so **AI** that you use for assitance will not find out the details for commercial project if any.
-
-What you need to do at least is to remove any **PII** (*Personally Identifiable Information*) from input documentation.
-
-So I created *Sample case anonymizated.docx* from *Sample case.docx*.
-
-## Preparation for input docs
 
 As input documentation for creation architecture vision the following artifacts might be considered:
 
 - RFP (Request for Proposal)
 - RFI (Request for Information)
 - Text of customer request
+
+Cause the [Assistance model](https://chatgpt.com/g/g-J6uBbvDrm-solutions-architect-assistent) has been updating (in dev state) I have had to update my business case description and assitance output in progress of assitance.
+
+So I decided to try it on my project to help.
+
+# Preparation to use assistant
+
+## Anonymization
+
+Here we need to write about input anonymization, so **AI** that you use for assitance will not find out the details for commercial project if any.
+
+What you need to do at least is to remove any **PII** (*Personally Identifiable Information*) from input documentation.
+
+So I created *Sample case anonymizated.docx* from *Sample case.docx*.
+
+## Input docs
 
 Becacause I did not have any from those documents for my *Sample Case* I used *ChatGPT* (not Assistant meontioned previpsly) to help me to create [Assistance input 1](./AIForSWArchitects_Input1_en.md) from anonymizated input doc (*Sample case anonymizated.docx*).
 
