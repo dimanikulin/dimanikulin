@@ -24,7 +24,11 @@ TBD
 | - | ------------------------|:--------------:|
 | 1 |
 
-# Introduction
+# Architect Mentorship Case
+
+TBD
+
+# ChatGPT Solutions Architect Assistant
 
 At [DOU Day 2024](https://dou.ua/dou-day-2024/) I found quite interesting the [ChatGPT Solutions Architect Assistent](https://chatgpt.com/g/g-J6uBbvDrm-solutions-architect-assistent)
 
@@ -32,7 +36,11 @@ It gave me undersnading on how I can use AI to [create architecture vision](http
 
 So I decided to try it on my project to start.
 
-# Preparation
+The assitante is located [here](https://chatgpt.com/g/g-J6uBbvDrm-solutions-architect-assistent) and the communication with it is in a form like with **ChatGPT** - Prompt from **User** and Response from **AI**.
+
+Cause the [Assistance model](https://chatgpt.com/g/g-J6uBbvDrm-solutions-architect-assistent) has been updating (in dev state) I have had to update my business case description and assitance output in progress of assitance.
+
+# Preparation to use assistant
 
 ## Anonymization
 
@@ -54,11 +62,7 @@ Becacause I did not have any from those documents for my *Sample Case* I used *C
 
 # Assistance
 
-The assitante is located [here](https://chatgpt.com/g/g-J6uBbvDrm-solutions-architect-assistent) and the communication with it is in a form like with **ChatGPT** - Prompt from **User** and Response from **AI**.
-
-Cause the [Assistance model](https://chatgpt.com/g/g-J6uBbvDrm-solutions-architect-assistent) has been updating (in dev state) I have had to update my business case description and assitance output in progress of assitance.
-
-## Round 1
+## Getting familiar with assistant or first look
 
 Business case description kept such chapters as
 
@@ -92,7 +96,7 @@ This is what we started from:
 
 At each step it suggested to clarify current step response or go to next step.
 
-## Round 2
+## First valuable output from the assistant or second round
 
 So It did provide first a lot of output but output was not aligned well with real Business Case. And I thought the reason of being output too common and not aligned eith Business Case - the Business Case itself as it also was too common.
 
@@ -100,7 +104,7 @@ And new version of [Assistance Input 2](./AIForSWArchitects_Input2_en.md) appear
 
 The result I have put into [Round 2](./AIForSWArchitects_Assistance2_en.md).
 
-## Round 3
+## Final round
 
 As it still did not provide the assitance I need I decided to have one more round with it.
 
@@ -108,7 +112,7 @@ And new version of [Assistance Input 3](./AIForSWArchitects_Input3_en.md) appear
 
 The result I have put into [Round 2](./AIForSWArchitects_Assistance3_en.md).
 
-# Conclusion
+# To be or not to be - to use or not to use
 
 For each work I performed I noticed the time I spent and here a full table to describe that.
 
