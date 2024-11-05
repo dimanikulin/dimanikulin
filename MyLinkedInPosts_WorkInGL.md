@@ -1,6 +1,8 @@
 | # | Topic | Post name   | Tags           | Picture     | Release date, reactions |  Post    | Links         |
 | - | ------|-------------|----------------|-------------|-------------------------|----------|:-------------:|
 |  | Working in GL | Presents in GlobalLogic for an employer | GlobalLogic Work, Ukraine, War | <img src="./Images/GLPresents.jpg" alt="PresentsInGL" /> | [01/06/2022](https://www.linkedin.com/posts/dimanikulin_ukraine-war-globallogic-activity-6942043429455458304-eXr4?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD} | Each year in GlobalLogic an employer gets the present for birthday. I have got following 5: - Backpack; - Multitool knife; - Belt bag; - Power bank; - Bottle for water. This year I realized their value especially in terms of war. Thank you GlobalLogic for taking care of me in advance! P.S. Here I meant GL Ukraine. | |
+|  | Working in GL | Cool people create cool music | GlobalLogic Work | | [01/06/2022](https://www.linkedin.com/posts/dimanikulin_%D1%89%D0%B5%D0%B4%D1%80%D0%B8%D0%BA-carol-of-the-bells-globallogic-edition-activity-7011336761649836032-IGHe?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD} | | [YouTube](https://www.youtube.com/watch?v=KFLl5cD9zp0) |
+|  | Working in GL | Taras Chmut and GlobalLogic ))) | GlobalLogic Work warinukraine | | [01/10/2022](https://www.linkedin.com/posts/dimanikulin_globallogic-warinukraine-activity-6975103190170042368-br-O?utm_source=share&utm_medium=member_desktop)  {TBD/TBD/TBD/TBD} | | |
 |  | Working in GL | | GlobalLogic Work | | | | |
 |  | Working in GL | | GlobalLogic Work | | | | |
 |  | Working in GL | | GlobalLogic Work | | | | |
@@ -12,18 +14,6 @@
 |  | Working in GL | | GlobalLogic Work | | | | |
 |  | Working in GL | | GlobalLogic Work | | | | |
 |  | Working in GL | | GlobalLogic Work | | | | |
-|  | Working in GL | | GlobalLogic Work | | | | |
-|  | Working in GL | | GlobalLogic Work | | | | |
-
-# Cool people create cool music
-
-<https://www.youtube.com/watch?v=KFLl5cD9zp0>
-
-# Taras Chmut and GlobalLogic )))
-
-## Tags
-
-warinukraine
 
 # Top Interviewer in Kyiv in C/C++
 
@@ -152,14 +142,6 @@ This year, I conducted 56 interviews in 2023, averaging one interview per week.
 
 interview award
 
-# References
-
-| # | Name                 | Source                | Release date           |  Author                 | Description   |
-| - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
-| 1 | Presents in GlobalLogic for an employer |  |  | Dmytro Nikulin | |
-| 2 | Cool people create cool music! | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_%D1%89%D0%B5%D0%B4%D1%80%D0%B8%D0%BA-carol-of-the-bells-globallogic-edition-activity-7011336761649836032-IGHe?utm_source=share&utm_medium=member_desktop)| 01/06/2022 | Dmytro Nikulin | |
-| 3 | Carol of the Bells GlobalLogic Edition | [YouTube](https://www.youtube.com/watch?v=KFLl5cD9zp0) | 01/12/2022 | Dmytro Nikulin | |
-| 4 | Taras Chmut and GlobalLogic | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_globallogic-warinukraine-activity-6975103190170042368-br-O?utm_source=share&utm_medium=member_desktop)| 01/10/2022 | Dmytro Nikulin | |
 | 5 | Top Interviewer in Kyiv in C/C++, 2021 | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_globallogic-activity-6894337668830822401-iBcr?utm_source=share&utm_medium=member_desktop) | 01/01/2022 | Dmytro Nikulin | |
 | 6 | GlobalLogicUkraine7000 | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_7000-reasons-to-care-activity-6862097076923232257-iOMQ?utm_source=share&utm_medium=member_desktop)  | 01/12/2021 | Dmytro Nikulin | |
 | 7 | Люксембург, Люксембург | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_globallogic-activity-7067761572093247488-7J4Y?utm_source=share&utm_medium=member_desktop) | 26/05/2023 | Dmytro Nikulin | |
