@@ -36,6 +36,8 @@ It gave me undersnading on how I can use AI to [create architecture vision](http
 
 The assitante is located [here](https://chatgpt.com/g/g-J6uBbvDrm-solutions-architect-assistent) and the communication with it is in a form like with **ChatGPT** - Prompt from **User** and Response from **AI**.
 
+At each step it suggested to clarify current step response or go to next step.
+
 As input documentation for creation architecture vision the following artifacts might be considered:
 
 - RFP (Request for Proposal)
@@ -90,11 +92,9 @@ This is what we started from:
 
 **AI** - Please share the Request for Proposal (RFP) document or key details from it so I can assist you in defining the architecture vision for the unified data platform.
 
-**Me** - Sent [Assistance Input](./AIForSWArchitects_Input1_en.md).
+**Me** - Sent [Assistance Input 1](./AIForSWArchitects_Input1_en.md).
 
 **AI** - Thank you for sharing the details. Based on the RFP, we will proceed with defining the architecture vision for the MedConnect IoT Platform's Unified Data Platform. The first step is to define Architecture Drivers, which include business goals, constraints, and use cases. Let's begin with defining the main business goals.
-
-At each step it suggested to clarify current step response or go to next step.
 
 ## First valuable output from the assistant or second round
 
