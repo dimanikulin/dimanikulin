@@ -50,19 +50,15 @@ So I decided to try it on my project to help.
 
 ## Anonymization
 
-Here we need to write about input anonymization, so **AI** that you use for assitance will not find out the details for commercial project if any.
+Here we need to speak about input anonymization, so **AI** that you use for assitance will not find out the details for commercial project if any.
 
 What you need to do at least is to remove any **PII** (*Personally Identifiable Information*) from input documentation.
 
 So I created *Sample case anonymizated.docx* from *Sample case.docx*.
 
-## Input docs
+## Input docs preparation
 
 Becacause I did not have any from those documents for my *Sample Case* I used *ChatGPT* (not Assistant meontioned previpsly) to help me to create [Assistance input 1](./AIForSWArchitects_Input1_en.md) from anonymizated input doc (*Sample case anonymizated.docx*).
-
-# Assistance
-
-## Getting familiar with assistant or first look
 
 Business case description kept such chapters as
 
@@ -73,6 +69,10 @@ Business case description kept such chapters as
 - Schedule
 - Features
 - Actors
+
+# Assistance
+
+## Getting familiar with assistant or first look
 
 First I just wanted to try it out and just went from start to the end of assistance in way in suggested and without any clarification from my side. The result I have put into [Round 1](./AIForSWArchitects_Assistance1_en.md).
 
