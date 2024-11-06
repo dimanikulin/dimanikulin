@@ -7,54 +7,10 @@
 |  | Working in GL | 7000 people in GL Ukraine | GlobalLogic Work GlobalLogicUkraine GlobalLogicUkraine7000 | | [01/12/2021](https://www.linkedin.com/posts/dimanikulin_7000-reasons-to-care-activity-6862097076923232257-iOMQ?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD} | | |
 |  | Working in GL | Люксембург, Люксембург | GlobalLogic Work | <img src="./Images/Luxemburg,Luxemburg.jpeg" alt="Luxemburg, Luxemburg" /> | [26/05/2023](https://www.linkedin.com/posts/dimanikulin_globallogic-activity-7067761572093247488-7J4Y?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD} | Вгадайте, що за фільм. Якби у вас була можливість, то що б ви запитали режисера та акторів цього фільму? П.С. У коментарях відповідь. 18 травня до GlobalLogic Ukraine в гості завітали режисер Антоніо Лукіч та учасники реп-гурту "Курган і Agregat" – брати Раміл та Аміл Насирови. Цей творчий союз цього року подарував нам фільм "Люксембург, Люксембург" | |
 |  | Working in GL | Олена Зеленська | GlobalLogic Work | <img src="./Images/OlenaZelenska.jfif" alt="Olena Zelenska" /> | [07/08/2023](https://www.linkedin.com/posts/dimanikulin_%D1%8F%D0%BA%D0%B1%D0%B8-%D1%83-%D0%B2%D0%B0%D1%81-%D0%B1%D1%83%D0%BB%D0%B0-%D1%82%D0%B0%D0%BA%D0%B0-%D0%BC%D0%BE%D0%B6%D0%BB%D0%B8%D0%B2%D1%96%D1%81%D1%82%D1%8C-%D1%82%D0%BE-%D1%89%D0%BE-%D0%B1-activity-7094210810255675392-Cj5E?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD} | Якби у вас була така можливість, то що б ви запитали у Олени Зеленської? | |
-|  | Working in GL | A white paper on GlobalLogic Insights | GlobalLogic Work whitepaper softwarearchitecture softwaredesign | [09/06/2023](https://www.linkedin.com/posts/dimanikulin_detecting-architectural-gaps-with-automation-activity-7073919594154868738-CpcR?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD} | | I have just published a white paper on [Globallogic Insights](https://www.globallogic.com/insights/white-papers/detecting-architectural-gaps-with-automation/). In this paper, I delve into various manual architecture review methods and propose automated alternatives that not only reduce the time and resources required but also yield better outcomes. You will gain insights into: - Understanding architecture drift and erosion and their impact on business. - Exploring the workings of dependency analysis, peer reviews, and other manual inspections. - Recognizing the limitations of manual reviews as they may not address issues that arise despite adhering to best practices in architecture governance. - Considering specific factors related to compliance, data security, DevOps, and more when evaluating architecture review solutions. - Examining example use case scenarios to visualize the automation of architecture checks. I would like to extend my special thanks to Orkhan Gasimov for his valuable assistance! Enjoy your reading experience! | |
+|  | Working in GL | A white paper on GlobalLogic Insights | GlobalLogic Work whitepaper softwarearchitecture softwaredesign | | [09/06/2023](https://www.linkedin.com/posts/dimanikulin_detecting-architectural-gaps-with-automation-activity-7073919594154868738-CpcR?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD} | I have just published a white paper on [Globallogic Insights](https://www.globallogic.com/insights/white-papers/detecting-architectural-gaps-with-automation/). In this paper, I delve into various manual architecture review methods and propose automated alternatives that not only reduce the time and resources required but also yield better outcomes. You will gain insights into: - Understanding architecture drift and erosion and their impact on business. - Exploring the workings of dependency analysis, peer reviews, and other manual inspections. - Recognizing the limitations of manual reviews as they may not address issues that arise despite adhering to best practices in architecture governance. - Considering specific factors related to compliance, data security, DevOps, and more when evaluating architecture review solutions. - Examining example use case scenarios to visualize the automation of architecture checks. I would like to extend my special thanks to Orkhan Gasimov for his valuable assistance! Enjoy your reading experience! | |
 |  | Working in GL | Олена Зеленська 2 | GlobalLogic Work mentalhealth mentalhealthsupport zelensky | | [28/08/2023](https://www.linkedin.com/posts/dimanikulin_%D0%BE%D0%BB%D0%B5%D0%BD%D0%B0-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D1%81%D1%8C%D0%BA%D0%B0-%D0%B4%D0%B1%D0%B0%D1%82%D0%B8-%D0%BF%D1%80%D0%BE-%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5-%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2-activity-7101818614164389889-NNuc?utm_source=share&utm_medium=member_desktop)  {TBD/TBD/TBD/TBD} | Нещодавно співробітники GlobalLogic Ukraine мали нагоду поспілкуватися з Першою Леді, Оленою Зеленською, Оксаною Збітнєвою та Олегом Романчуком, експертами Програми “Ти як?” Могли заздалегідь поставити запитання щодо програми “Ти як?”. Мені особисто спілкування сподобалося корисністю та форматом. | [FB](https://www.facebook.com/olenazelenska.official/posts/pfbid025TUqBC1FcR1CnMt3eGDS8JHx9eXwJAnQDDRbrm9KomuZ3D62DLgdDbSHQMWh6ev4l) |
-|  | Working in GL | Presents in GlobalLogic for an employer 2 | GlobalLogic Work ukraine, war | <img src="./Images/GLPresents.jfif" alt="PresentsInGL" /> | [04/09/2023](https://www.linkedin.com/posts/dimanikulin_ukraine-war-globallogic-activity-7104355502528077825-Afg6?utm_source=share&utm_medium=member_desktop) | Each year in GlobalLogic an employer gets the present for birthday. I have got following 6: - Backpack; - Multitool knife; - Belt bag; - Power bank;- Bottle for water; - Blanket. I value it especially in terms of war, and thank GlobalLogic for taking care of me.P.S. Here I meant GL Ukraine. | |
-|  | Working in GL | | GlobalLogic Work | | | | |
-|  | Working in GL | | GlobalLogic Work | | | | |
-|  | Working in GL | | GlobalLogic Work | | | | |
-|  | Working in GL | | GlobalLogic Work | | | | |
-
-# Дмитро Антонов
-
-Якби у вас була така можливість, то що б ви запитали у Дмитра Антонова, пілота Авіаційно-наукового Технічного Комплексу АНТОНОВ?
-
-<img src="./Images/Antonov.jfif" alt="Antonov" />
-
-# Сергій Жадан
-
-Якби у вас була така можливість, то що б ви запитали у Сергія Жадана:
-письменника, волонтера, музиканта, засновника благодійного фонду, популяризатора міста-сонця Харкова в цілому та району ХТЗ зокрема?
-
-<img src="./Images/gadan.jfif" alt="gadan" />
-
-# Interview number
-
-or **Top Interviewer in Kyiv in C/C++, 2022**
-
-Do you think 81 interviews per year is a lot?
-
-I feel like no, it is about 1.5 interviews in a week only.
-
-And this year (the same as previous one) I was nominated as a Top Interviewer in Kyiv in C/C++ with 81 interviews.
-
-In 2022 it was quite the same
-
-<img src="./Images/NumberOfInterviews.jpg" alt="Number Of Interviews" />
-
-# Top Interviewer in Kyiv in C/C++
-
-Third time in a row, I have been nominated as a Top Interviewer in Kyiv for C/C++.
-
-This year, I conducted 56 interviews in 2023, averaging one interview per week.
-
-<img src="./Images/TrustedInterviewers.jpg" alt="Trusted Interviewers" />
-
-## Tags
-
-interview award
-
-| 12| Дмитро Антонов | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_%D1%8F%D0%BA%D0%B1%D0%B8-%D1%83-%D0%B2%D0%B0%D1%81-%D0%B1%D1%83%D0%BB%D0%B0-%D1%82%D0%B0%D0%BA%D0%B0-%D0%BC%D0%BE%D0%B6%D0%BB%D0%B8%D0%B2%D1%96%D1%81%D1%82%D1%8C-%D1%82%D0%BE-%D1%89%D0%BE-%D0%B1-activity-7122467952146153472-vlmd?utm_source=share&utm_medium=member_desktop) | 24/10/2023 | Dmytro Nikulin | |
-| 13| Сергій Жадан | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_warinukraine-activity-7138062207447138304-r2jI?utm_source=share&utm_medium=member_desktop) | 06/12/2023 | Dmytro Nikulin | |
-| 14| Top Interviewer in Kyiv in C/C++, 2022 | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_globallogic-interviewer-cplusplus-activity-7038422433585860608-Tr0W?utm_source=share&utm_medium=member_desktop) | 01/03/2023 | Dmytro Nikulin | |
-| 15| Top Interviewer in Kyiv in C/C++, 2023 | [LinkedIn](https://www.linkedin.com/posts/dimanikulin_globallogic-interview-award-activity-7150529520310087681-ya3A?utm_source=share&utm_medium=member_desktop) | 01/01/2024 | Dmytro Nikulin | |
+|  | Working in GL | Presents in GlobalLogic for an employer 2 | GlobalLogic Work ukraine, war | <img src="./Images/GLPresents.jfif" alt="PresentsInGL" /> | [04/09/2023](https://www.linkedin.com/posts/dimanikulin_ukraine-war-globallogic-activity-7104355502528077825-Afg6?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD} | Each year in GlobalLogic an employer gets the present for birthday. I have got following 6: - Backpack; - Multitool knife; - Belt bag; - Power bank;- Bottle for water; - Blanket. I value it especially in terms of war, and thank GlobalLogic for taking care of me.P.S. Here I meant GL Ukraine. | |
+|  | Working in GL | Дмитро Антонов | GlobalLogic Work | <img src="./Images/Antonov.jfif" alt="Antonov" /> | [24/10/2023](https://www.linkedin.com/posts/dimanikulin_%D1%8F%D0%BA%D0%B1%D0%B8-%D1%83-%D0%B2%D0%B0%D1%81-%D0%B1%D1%83%D0%BB%D0%B0-%D1%82%D0%B0%D0%BA%D0%B0-%D0%BC%D0%BE%D0%B6%D0%BB%D0%B8%D0%B2%D1%96%D1%81%D1%82%D1%8C-%D1%82%D0%BE-%D1%89%D0%BE-%D0%B1-activity-7122467952146153472-vlmd?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD} | Якби у вас була така можливість, то що б ви запитали у Дмитра Антонова, пілота Авіаційно-наукового Технічного Комплексу АНТОНОВ? | |
+|  | Working in GL | Сергій Жадан | GlobalLogic Work | <img src="./Images/gadan.jfif" alt="gadan" /> | [06/12/2023](https://www.linkedin.com/posts/dimanikulin_warinukraine-activity-7138062207447138304-r2jI?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD} | Якби у вас була така можливість, то що б ви запитали у Сергія Жадана: письменника, волонтера, музиканта, засновника благодійного фонду, популяризатора міста-сонця Харкова в цілому та району ХТЗ зокрема? | |
+|  | Working in GL | Interview number or **Top Interviewer in Kyiv in C/C++, 2022** | GlobalLogic Work | <img src="./Images/NumberOfInterviews.jpg" alt="Number Of Interviews" /> | [01/03/2023](https://www.linkedin.com/posts/dimanikulin_globallogic-interviewer-cplusplus-activity-7038422433585860608-Tr0W?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD} | Do you think 81 interviews per year is a lot? I feel like no, it is about 1.5 interviews in a week only. And this year (the same as previous one) I was nominated as a Top Interviewer in Kyiv in C/C++ with 81 interviews. In 2022 it was quite the same | |
+|  | Working in GL | # Top Interviewer in Kyiv in C/C++, 2023 | GlobalLogic Work interview award | <img src="./Images/TrustedInterviewers.jpg" alt="Trusted Interviewers" /> | [01/01/2024](https://www.linkedin.com/posts/dimanikulin_globallogic-interview-award-activity-7150529520310087681-ya3A?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD} | Third time in a row, I have been nominated as a Top Interviewer in Kyiv for C/C++. This year, I conducted 56 interviews in 2023, averaging one interview per week. | |
