@@ -78,24 +78,6 @@ Business case description kept such chapters as
 
 First I just wanted to try it out and just went from start to the end of assistance in way in suggested and without any clarification from my side. The result I have put into [Round 1](./AIForSWArchitects_Assistance1_en.md).
 
-This is what we started from:
-
-**Me** - Hi, Can you help me in solution architect advisory?
-
-**AI** - What type of help do you need?
-
-**Me** - To advise a customer on how to create unified data platform.
-
-**AI** - Great! For advising on a unified data platform, we need to create an architecture vision document. Could you provide additional information like: Request for Proposal (RFP), Request for Information (RFI), Text of the customer request. Let me know which one you have.
-
-**Me** - RFP
-
-**AI** - Please share the Request for Proposal (RFP) document or key details from it so I can assist you in defining the architecture vision for the unified data platform.
-
-**Me** - Sent [Assistance Input 1](./AIForSWArchitects_Input1_en.md).
-
-**AI** - Thank you for sharing the details. Based on the RFP, we will proceed with defining the architecture vision for the MedConnect IoT Platform's Unified Data Platform. The first step is to define Architecture Drivers, which include business goals, constraints, and use cases. Let's begin with defining the main business goals.
-
 ## First valuable output from the assistant or second round
 
 So It did provide first a lot of output but output was not aligned well with real Business Case. And I thought the reason of being output too common and not aligned eith Business Case - the Business Case itself as it also was too common.
