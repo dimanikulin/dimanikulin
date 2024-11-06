@@ -1,61 +1,17 @@
-# Headline
-
-War in Ukraine!
-
-# Table of contents
-
-- [Tags](./WarInUkraine.md#tags)
-- [Overview](./WarInUkraine.md#overview)
-- [Первый пост с 24 февраля 2022 года](./WarInUkraine.md#%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9-%D0%BF%D0%BE%D1%81%D1%82-%D1%81-24-%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8F-2022-%D0%B3%D0%BE%D0%B4%D0%B0)
-- [Usual talks in unsual time](./WarInUkraine.md#usual-talks-in-unsual-time)
-- [Summer time](./WarInUkraine.md#summer-time)
-- [How russians play chess?](./WarInUkraine.md#how-russians-play-chess)
-- [А на куди зибеться пУТЕНг?](./WarInUkraine.md#%D0%B0-%D0%BD%D0%B0-%D0%BA%D1%83%D0%B4%D0%B8-%D0%B7%D0%B8%D0%B1%D0%B5%D1%82%D1%8C%D1%81%D1%8F-%D0%BF%D1%83%D1%82%D0%B5%D0%BD%D0%B3)
-- [Яскрава місячна ніч](./WarInUkraine.md#%D1%8F%D1%81%D0%BA%D1%80%D0%B0%D0%B2%D0%B0-%D0%BC%D1%96%D1%81%D1%8F%D1%87%D0%BD%D0%B0-%D0%BD%D1%96%D1%87)
-- [Якби у Вас була можливість, то що б Ви запитали у Тараса Чмута?](./WarInUkraine.md#%D1%8F%D0%BA%D0%B1%D0%B8-%D1%83-%D0%B2%D0%B0%D1%81-%D0%B1%D1%83%D0%BB%D0%B0-%D0%BC%D0%BE%D0%B6%D0%BB%D0%B8%D0%B2%D1%96%D1%81%D1%82%D1%8C-%D1%82%D0%BE-%D1%89%D0%BE-%D0%B1-%D0%B2%D0%B8-%D0%B7%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BB%D0%B8-%D1%83-%D1%82%D0%B0%D1%80%D0%B0%D1%81%D0%B0-%D1%87%D0%BC%D1%83%D1%82%D0%B0)
-- [Які питання ставили хлопці з GlobalLogic Тарасу Чмуту](./WarInUkraine.md#%D1%8F%D0%BA%D1%96-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%BD%D1%8F-%D1%81%D1%82%D0%B0%D0%B2%D0%B8%D0%BB%D0%B8-%D1%85%D0%BB%D0%BE%D0%BF%D1%86%D1%96-%D0%B7-globallogic-%D1%82%D0%B0%D1%80%D0%B0%D1%81%D1%83-%D1%87%D0%BC%D1%83%D1%82%D1%83)
-- [junior is trying to find a job in summer in Ukraine in war](./WarInUkraine.md#junior-is-trying-to-find-a-job-in-summer-in-ukraine-in-war)
-- [Що мені допомогло минулої зими під час blackout-ів](./WarInUkraine.md#%D1%89%D0%BE-%D0%BC%D0%B5%D0%BD%D1%96-%D0%B4%D0%BE%D0%BF%D0%BE%D0%BC%D0%BE%D0%B3%D0%BB%D0%BE-%D0%BC%D0%B8%D0%BD%D1%83%D0%BB%D0%BE%D1%97-%D0%B7%D0%B8%D0%BC%D0%B8-%D0%BF%D1%96%D0%B4-%D1%87%D0%B0%D1%81-blackout-%D1%96%D0%B2)
-- [DOU and BackAlive bank](./WarInUkraine.md#dou-and-backalive-bank)
-TODO
-- [References](./WarInUkraine.md#references)
-
-# Tags
-
-armukrainenow staywithukraine stoprussia stopwar russiaterroriststate warinukraine ukrainewar ukraine
-
-# Overview
-
-Engaging in everyday conversations at unusual times.
-Exploring how Russians handle defeat in chess and their behavior in real-life conflicts.
-Options for Putin's future endeavors with humor and percentages.
-A set of questions for Taras Chmut, with some restrictions on topic areas.
-Listing questions posed to Taras Chmut by individuals from GlobalLogic during a recent meeting.
-A humorous take on junior job seekers in Ukraine during times of conflict.
-
-TBD
-
----
-
-# Первый пост с 24 февраля 2022 года
-
-Да, я говорил, что на Линкеде нет места для политоты.
-Но так-то было до 24 февраля
-
-<img src="./Images/RussansInUkraine.jpg" alt="UsualTalks" />
-
-# Usual talks in unsual time
-
-Обычный разговор, в "необычное" время.
-
-<img src="./Images/UsualTalks.jpg" alt="UsualTalks" />
-
-# Summer time
-
-Summer is definitely a time for vacation, relaxing ...
-But there are some "nuances"
-
-<img src="./Images/SummerTime.jpg" alt="SummerTime" />
+| # | Topic | Post name   | Tags           | Picture     | Release date, reactions |  Post    | Links         |
+| - | ------|-------------|----------------|-------------|-------------------------|----------|:-------------:|
+|   | War in Ukraine! | Первый пост с 24 февраля 2022 года | armukrainenow staywithukraine stoprussia stopwar russiaterroriststate warinukraine ukrainewar ukraine | <img src="./Images/RussansInUkraine.jpg" alt="UsualTalks" /> | [01/03/2022](https://www.linkedin.com/posts/dimanikulin_%D0%B4%D0%B0-%D1%8F-%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D0%BB-%D1%87%D1%82%D0%BE-%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%BA%D0%B5%D0%B4%D0%B5-%D0%BD%D0%B5%D1%82-%D0%BC%D0%B5%D1%81%D1%82%D0%B0-%D0%B4%D0%BB%D1%8F-activity-6927370042426707968-O7jY?utm_source=share&utm_medium=member_desktop)  {TBD/TBD/TBD/TBD} | Да, я говорил, что на Линкеде нет места для политоты. Но так-то было до 24 февраля  | |
+|   | War in Ukraine! | Usual talks in unsual time | armukrainenow staywithukraine stoprussia stopwar russiaterroriststate warinukraine ukrainewar ukraine | <img src="./Images/UsualTalks.jpg" alt="UsualTalks" /> | [01/08/2022](https://www.linkedin.com/posts/dimanikulin_standwithukraine-warinukraine-activity-6962298071544135680-Szog?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD} | Обычный разговор, в "необычное" время. | |
+|   | War in Ukraine! | Summer time | armukrainenow staywithukraine stoprussia stopwar russiaterroriststate warinukraine ukrainewar ukraine | <img src="./Images/SummerTime.jpg" alt="SummerTime" /> | [01/08/2022](https://www.linkedin.com/posts/dimanikulin_ukrainewar-ukraine-summer-activity-6957738620485005312-kqEc?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD} | Summer is definitely a time for vacation, relaxing ... But there are some "nuances" | |
+|   | War in Ukraine! | | armukrainenow staywithukraine stoprussia stopwar russiaterroriststate warinukraine ukrainewar ukraine | | | | |
+|   | War in Ukraine! | | armukrainenow staywithukraine stoprussia stopwar russiaterroriststate warinukraine ukrainewar ukraine | | | | |
+|   | War in Ukraine! | | armukrainenow staywithukraine stoprussia stopwar russiaterroriststate warinukraine ukrainewar ukraine | | | | |
+|   | War in Ukraine! | | armukrainenow staywithukraine stoprussia stopwar russiaterroriststate warinukraine ukrainewar ukraine | | | | |
+|   | War in Ukraine! | | armukrainenow staywithukraine stoprussia stopwar russiaterroriststate warinukraine ukrainewar ukraine | | | | |
+|   | War in Ukraine! | | armukrainenow staywithukraine stoprussia stopwar russiaterroriststate warinukraine ukrainewar ukraine | | | | |
+|   | War in Ukraine! | | armukrainenow staywithukraine stoprussia stopwar russiaterroriststate warinukraine ukrainewar ukraine | | | | |
+|   | War in Ukraine! | | armukrainenow staywithukraine stoprussia stopwar russiaterroriststate warinukraine ukrainewar ukraine | | | | |
+|   | War in Ukraine! | | armukrainenow staywithukraine stoprussia stopwar russiaterroriststate warinukraine ukrainewar ukraine | | | | |
 
 # How russians play chess?
 
@@ -166,11 +122,6 @@ doucommunity dou savelife backalive
 
 # References
 
-| # | Name                   | Source                | Release date           |  Author                 | Description   |
-| - | -----------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
-| 1 |Первый пост с 24 февраля|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_%D0%B4%D0%B0-%D1%8F-%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D0%BB-%D1%87%D1%82%D0%BE-%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%BA%D0%B5%D0%B4%D0%B5-%D0%BD%D0%B5%D1%82-%D0%BC%D0%B5%D1%81%D1%82%D0%B0-%D0%B4%D0%BB%D1%8F-activity-6927370042426707968-O7jY?utm_source=share&utm_medium=member_desktop)|01/02/2022| Dmytro Nikulin||
-| 2 |Обычный разговор, в "необычное" время|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_standwithukraine-warinukraine-activity-6962298071544135680-Szog?utm_source=share&utm_medium=member_desktop)|01/08/2022| Dmytro Nikulin||
-| 3 |Summer time|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_ukrainewar-ukraine-summer-activity-6957738620485005312-kqEc?utm_source=share&utm_medium=member_desktop)|01/08/2022| Dmytro Nikulin||
 | 4 |How russians play chess?|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_russiaterroriststate-warinukraine-stoprussia-activity-7000377148582563840-kZNd?utm_source=share&utm_medium=member_desktop)|01/11/2022| Dmytro Nikulin||
 | 5 |А на куди зибеться пУТЕНг?|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_warinukraine-staywithukraine-activity-6987497817262972928-os1e?utm_source=share&utm_medium=member_desktop)|01/11/2022| Dmytro Nikulin||
 | 6 |Яскрава місячна ніч|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_warinukraine-stoprussia-activity-7018150699758727169-qItq?utm_source=share&utm_medium=member_desktop)|01/01/2023| Dmytro Nikulin||
