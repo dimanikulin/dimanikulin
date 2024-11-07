@@ -113,7 +113,7 @@ Core Features of MedConnect IoT Platform:
 - *Medical Device Manufacturers*: Providers of smart medical devices that integrate with the platform, enabling data capture from patients.
 - *Insurance Companies*: Can leverage the platform’s data to optimize healthcare costs, adjust premiums, and offer wellness programs to policyholders.
 
-# 8. Solution advisory objective
+# 8. Solution advisory objectives
 
 *Goal*: Create unified data platform.
 
