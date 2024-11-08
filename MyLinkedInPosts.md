@@ -3,10 +3,10 @@
 TODO Table of contents
 
 - [Software Development](./MyLinkedPosts_SoftwareDevelopment.md) TODO to convert to table
-- [War in Ukraine](./MyLinkedPosts_WarInUkraine.md) TODO to convert to table
-- [Work in GlobalLogic](./MyLinkedPosts_WorkInGL.md) TODO to convert to table
+- [War in Ukraine](./MyLinkedInPosts_WarInUkraine.md) TODO to convert to table
 
-- [Work](./MyLinkedPosts_Work.md)
+- [Work in GlobalLogic](./MyLinkedInPosts_WorkInGL.md)
+- [Work](./MyLinkedInPosts_Work.md)
 
 # Entertainment
 
