@@ -2,9 +2,9 @@
 
 TODO Table of contents
 
-- [Software Development](./MyLinkedPosts_SoftwareDevelopment.md) TODO to convert to table
-- [War in Ukraine](./MyLinkedInPosts_WarInUkraine.md) TODO to convert to table
+- [Software Development](./MyLinkedInPosts_SoftwareDevelopment.md) TODO to convert to table
 
+- [War in Ukraine](./MyLinkedInPosts_WarInUkraine.md)
 - [Work in GlobalLogic](./MyLinkedInPosts_WorkInGL.md)
 - [Work](./MyLinkedInPosts_Work.md)
 
