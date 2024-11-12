@@ -1,86 +1,18 @@
-# Headline
-
-Everything about the Software Development
-
-# Table of contents
-
-- [Tags](./SoftwareDevelopment.md#tags)
-- [Definitions, Acronyms, Abbreviations](./SoftwareDevelopment.md#definitions-acronyms-abbreviations)
-- [Overview](./SoftwareDevelopment.md#overview)
-- [Just joined a project with Scrum](./SoftwareDevelopment.md#just-joined-a-project-with-scrum)
-- [Tags](./SoftwareDevelopment.md#tags-1)
-- [Software Complexity](./SoftwareDevelopment.md#software-complexity)
-- [Tags](./SoftwareDevelopment.md#tags-2)
-- [Which title describes better a real job?](./SoftwareDevelopment.md#which-title-describes-better-a-real-job)
-- [Tags](./SoftwareDevelopment.md#tags-3)
-- [What do you usually do to provide accurate estimations?](./SoftwareDevelopment.md#what-do-you-usually-do-to-provide-accurate-estimations)
-- [Tags](./SoftwareDevelopment.md#tags-4)
-- [C++ death](./SoftwareDevelopment.md#c-death)
-- [Tags](./SoftwareDevelopment.md#tags-5)
-- [Programming Languages and Guessing!](./SoftwareDevelopment.md#programming-languages-and-guessing)
-- [Tabs or Spaces](./SoftwareDevelopment.md#tabs-or-spaces)
-- [UIQ](./SoftwareDevelopment.md#uiq)
-- [Tags](./SoftwareDevelopment.md#tags-6)
-- [gmail](./SoftwareDevelopment.md#gmail)
-- [Tags](./SoftwareDevelopment.md#tags-7)
-- [Procrastination](./SoftwareDevelopment.md#procrastination)
-- [Tags](./SoftwareDevelopment.md#tags-8)
-- [Delegation Poker Cards](./SoftwareDevelopment.md#delegation-poker-cards)
-- [Tags](./SoftwareDevelopment.md#tags-9)
-- [Commit quantity](./SoftwareDevelopment.md#commit-quantity)
-- [Tags](./SoftwareDevelopment.md#tags-10)
-- [KPIs for software developers](./SoftwareDevelopment.md#kpis-for-software-developers)
-- [Tags](./SoftwareDevelopment.md#tags-11)
-- [References](./SoftwareDevelopment.md#references)
-
-# Tags
-
-Software Development
-
-# Definitions, Acronyms, Abbreviations
-
-| # | Abbreviation or Acronym | Definition     |
-| - | ------------------------|:--------------:|
-| 1 | CV | TBD
-| 2 | Scrum | TBD |
-
-# Overview
-
-TBD
-
----
-
-# Just joined a project with Scrum
-
-<img src="./Images/JoinedProjectWithScrum.jpg" alt="JoinedProjectWithScrum" />
-
-## Tags
-
-Scrum
-
-# Software Complexity
-
-<img src="./Images/SoftwareComplexity.jpg" alt="Software Complexity" />
-
-## Tags
-
-Software Complexity
-
-# Which title describes better a real job?
-
-I have seen a lot of different titles in CV, social networks like "Consultant", "Consulting" etc.
-From my side it is difficult to understand what "IT Consultant" really does and knows.
-
-Which title describes better a real job?
-
-- IT Consultant **10%**
-- C++ Developer **90%**
-
-87 Votes
-
-## Tags
-
-itconsulting cv
+| # | Topic | Post name   | Tags           | Picture     | Release date, reactions |  Post    | Links         |
+| - | ------|-------------|----------------|-------------|-------------------------|----------|:-------------:|
+| | Software Development | Just joined a project with Scrum | SoftwareDevelopment Scrum | <img src="./Images/JoinedProjectWithScrum.jpg" alt="JoinedProjectWithScrum" /> | [01/05/2022](https://www.linkedin.com/posts/dimanikulin_activity-6937092837654081540-brUA?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD} | | |
+| | Software Development | Software Complexity | SoftwareDevelopment SoftwareComplexity | <img src="./Images/SoftwareComplexity.jpg" alt="Software Complexity" /> | [01/04/2022](https://www.linkedin.com/posts/dimanikulin_activity-6934186023509741568-9mZu?utm_source=share&utm_medium=member_desktop)  {TBD/TBD/TBD/TBD} | | |
+| | Software Development | Which title describes better a real job? | SoftwareDevelopment itconsulting cv | | [01/11/2022](https://www.linkedin.com/posts/dimanikulin_itconsulting-itcompany-cv-activity-7000719821558411264-1dHl?utm_source=share&utm_medium=member_desktop)  {TBD/TBD/TBD/TBD} | I have seen a lot of different titles in CV, social networks like "Consultant", "Consulting" etc. From my side it is difficult to understand what "IT Consultant" really does and knows. Which title describes better a real job? - IT Consultant **10%**; - C++ Developer **90%**; 87 Votes | |
+| | Software Development | | SoftwareDevelopment | | | | |
+| | Software Development | | SoftwareDevelopment | | | | |
+| | Software Development | | SoftwareDevelopment | | | | |
+| | Software Development | | SoftwareDevelopment | | | | |
+| | Software Development | | SoftwareDevelopment | | | | |
+| | Software Development | | SoftwareDevelopment | | | | |
+| | Software Development | | SoftwareDevelopment | | | | |
+| | Software Development | | SoftwareDevelopment | | | | |
+| | Software Development | | SoftwareDevelopment | | | | |
+| | Software Development | | SoftwareDevelopment | | | | |
 
 # What do you usually do to provide accurate estimations?
 
@@ -254,13 +186,7 @@ What do you think is the best KPI for software developers? Can you explain why?
 
 KPI
 
-# References
-
-| # | Name                 | Source                | Release date           |  Author                 | Description   |
-| - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
-| 1 |Just joined a project with Scrum|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_activity-6937092837654081540-brUA?utm_source=share&utm_medium=member_desktop)| 01/05/2022 | Dmytro Nikulin||
-| 2 |Software Complexity|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_activity-6934186023509741568-9mZu?utm_source=share&utm_medium=member_desktop)| 01/04/2022 | Dmytro Nikulin||
-| 3 |Which title describes better a real job?|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_itconsulting-itcompany-cv-activity-7000719821558411264-1dHl?utm_source=share&utm_medium=member_desktop)| 01/11/2022 | Dmytro Nikulin||
+| 3 |Which title describes better a real job?||  | Dmytro Nikulin||
 | 4 |What do you usually do to provide accurate estimations?|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_experience-softwaredevelopment-estimation-activity-7069560555165876224-_Af3?utm_source=share&utm_medium=member_desktop)| 30/05/2023 | Dmytro Nikulin| |
 | 5 |C++ death |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_programminglanguage-technologytrends-cpplus-activity-7076463361500098560-ucVw?utm_source=share&utm_medium=member_desktop)| 19/06/2023 | Dmytro Nikulin| |
 | 6 |Programming Languages and Guessing! |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_languages-and-guessing-in-a-broader-sense-activity-7133365394043514880-WW4P?utm_source=share&utm_medium=member_desktop) | 23/11/2023 | Dmytro Nikulin | |
