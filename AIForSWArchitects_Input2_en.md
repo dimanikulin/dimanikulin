@@ -30,7 +30,7 @@ TBD
 
 TBD
 
-# Business case and business goals
+# Business goals
 
 *Goal*: Create unified data platform.
 
@@ -65,6 +65,17 @@ TBD
 | 6 | Data Export to Third-Party Systems | Export patient data to external healthcare systems or insurance companies for further analysis. | Insurance Companies |
 | 7 | Data Storage & Archiving | Store and archive patient health data, ensuring compliance with healthcare regulations like HIPAA.| Data Platform |
 | 8 | Data Sharing Across Environments | Synchronize and share data across cloud environments without duplicating or losing information.| Data Platform, Cloud Providers |
+
+# Main features
+
+| #  | Description                                                                                                     |
+|----|-----------------------------------------------------------------------------------------------------------------|
+| 1  | Real-Time Data Collection: Integration with wearable and non-wearable devices (smartwatches, glucose monitors, blood pressure monitors) to capture vital signs like heart rate, glucose levels, and blood pressure. |
+| 2  | Predictive Analytics & AI: Uses machine learning to analyze data trends and predict potential health risks, sending alerts to healthcare providers for necessary interventions. |
+| 3  | Remote Patient Monitoring (RPM): Enables healthcare providers to monitor patients remotely.                      |
+| 4  | Data Dashboard for Providers: A centralized dashboard for clinicians to monitor patient health, providing historical data, trend analysis, and personalized health insights. |
+| 5  | Patient Mobile App: Allows patients to view their health data in real-time, receive medication reminders, and get proactive health tips. |
+| 6  | Device Interoperability: Supports integration with multiple medical devices, offering flexibility for patients and healthcare providers. |
 
 # Quality attribute scenarios
 
