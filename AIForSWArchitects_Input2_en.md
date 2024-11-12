@@ -90,53 +90,6 @@ TBD
 | 7 | Maintainability |  The platform must allow updates to AI models without affecting the real-time data pipeline. |  Medium |  Predictive Analytics |
 | 8 | Reliability |  Data synchronization between cloud environments must ensure no data loss even during network disruptions. |  High | Data Sharing |
 
-# Other information
-
-The data lake(s) should store the data in the right format which is ideal for the relevant use cases
-This also includes consolidation of data per cloud and per environment. There is a need to explore solutions and architecture of the future state platform(s) in which the need to copy data from one platform to another, one environment to another, is effectively managed, minimized and potentially eliminated.
-
-*In Scope*:
-
-- Identify required Enterprise Data Producing systems
-- Data Producer Onboarding
-- Data Ingestion (push/pull, batch/streaming/API)
-- Archiving and Format Optimization
-- Transformation and Enrichment
-- Polyglot Storage
-- Access Interfaces (API, Export, Analytics Tools, etc.)
-- Identify Enterprise Data Consumer systems
-- Data Consumer Onboarding
-- Administration and Operational Tools
-- Data Warehouse Capability
-- Enterprise Data Governance
-- Enabling Data Science and other internal teams to effectively access/consume the data
-- Enabling various BI reports to effectively access/consume the data
-
-*Out-Of-Scope*:
-
-- Core Artificial Intelligence /Machine Learning/Data Science Capabilities
-- Core Reporting Capabilities
-- Surrounding Transactional Systems/Feature System/Teams’ Capabilities and Roadmaps
-- Market Study/Business Value Analysis
-- Data Producing/Consuming systems not identified as key/required systems
-
-# Current technical state
-
-Now size of AWS is ~20TB, Azure is ~5TB. Data includes among other - patient data, sensor data, click stream, and data like order data, supply chain data from the IT data platform.
-
-We have Java, .Net, NodeJS and Python in our technology portfolio.
-
-# Future technical state
-
-Today we have < 10 external partners but going to grow 5x times in next 3 years.
-
-We're looking forward to introduce SLAs.
-
-At the end of the day we would like to make our AI/ML teams to work in isolated environments to not interfer with each other. Data access policies should be supported in such case (e.g. we should be able to configure what kind of information should be available and what is not).
-The future plan is to reuse environments feature to expose the data for external partners.
-
-<img src="./Images/TBD.jpg" alt="TBD" />
-
 # References
 
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
