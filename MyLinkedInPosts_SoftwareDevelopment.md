@@ -6,66 +6,18 @@
 | | Software Development | What do you usually do to provide accurate estimations? | SoftwareDevelopment experience  estimation | | [30/05/2023](https://www.linkedin.com/posts/dimanikulin_experience-softwaredevelopment-estimation-activity-7069560555165876224-_Af3?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD} | I have had significant experience in software development, yet I still struggle with estimation. What I usually do is multiply my estimations by 2-3, but even that approach doesn't always work. I have rarely come across a developer who is consistently good at estimating. So what do you usually do to provide accurate estimations? - Break tasks into smaller parts **56%**; - Use historical data **10%**; - Involve the team **16%**; - Regularly review and learn **18%**; Please share your opinions in the comments.  | |
 | | Software Development | C++ death | SoftwareDevelopment programminglanguage technologytrends cpplus prediction | | [19/06/2023](https://www.linkedin.com/posts/dimanikulin_programminglanguage-technologytrends-cpplus-activity-7076463361500098560-ucVw?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD} | Do you have any programming language/technology that were predicted to die a long time ago but are still going strong? For me, it's C++. I started using it more than 20 years ago, and after a while (2-3 years), there were predictions that C++ would die soon due to the emergence of new languages and technologies. But that didn't happen, and those fast-approaching languages and technologies are still around.So, when was the first time you heard that your language/technology X would die? - 20 years ago **17%**; - 10 years ago **21%**; - 5 years ago  **20%**; - never heard  **42%**; 71 Votes. Please share in the comments your programming language/technology that was predicted to die but didn't. | |
 | | Software Development | Programming Languages and Guessing! | SoftwareDevelopment | <img src="./Images/buildingInStone.jfif" alt="Programming Languages and Guessing!" /> | [23/11/2023](https://www.linkedin.com/posts/dimanikulin_languages-and-guessing-in-a-broader-sense-activity-7133365394043514880-WW4P?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD} | In a broader sense, the relationship between programming languages and the role of guessing can depend on the nature of the language. It's not that guessing is universally opposed to programming; rather, different languages may encourage different approaches to problem-solving. For example, in languages like Python or JavaScript, often associated with scripting and rapid prototyping, developers might employ a more exploratory approach where they try out ideas, experiment, and make decisions on the fly. These languages are designed to be more flexible and expressive, allowing for a dynamic and iterative development process. On the contrary, a language like C++ is known for its precision, structure, and explicit coding, while guessing implies uncertainty and lack of precision. So, in the realm of programming, C++ and guessing can be considered on opposite sides. Do you agree with that? | |
-| | Software Development | | SoftwareDevelopment | | {TBD/TBD/TBD/TBD} | | |
-| | Software Development | | SoftwareDevelopment | | {TBD/TBD/TBD/TBD} | | |
-| | Software Development | | SoftwareDevelopment | | {TBD/TBD/TBD/TBD} | | |
+| | Software Development | Tabs or Spaces | SoftwareDevelopment | <img src="./Images/tabsvsspaces.jpg" alt="tabs vs spaces" /> | [15/12/2023](https://www.linkedin.com/posts/dimanikulin_softwaredevelopment-activity-7141376776915660800-whXp?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD} | "Tabs vs Spaces" - "Holy war" or settled matter? The "Tabs vs Spaces" holy war has been a long-standing debate among software developers regarding whether to use "tabs" or "spaces" for code indentation. Some developers prefer tabs, while others favor spaces. The choice between them is largely a matter of personal preference. So, what is your preference and why? | |
+| | Software Development | UIQ | SoftwareDevelopment old | <img src="./Images/UIQ3.jpg" alt="UIQ" /> | [16/01/2024](https://www.linkedin.com/posts/dimanikulin_old-activity-7152938805359001601-vGeW?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD} | About 15 years ago, I used to program for a rare operating system called UIQ. It was used for Sony Ericsson smartphones with touchable screens. The C++ language was used to make UI programming possible, as well as backend programming. The biggest problem was the lack of programming documentation and support. Can you share your experience with old operating systems, libraries, languages, etc., that you will never forget due to issues working with them? | |
+| | Software Development | Gmail | SoftwareDevelopment gmail sla email goodservice | <img src="./Images/gmail.jpg" alt="gmail" /> | [30/01/2024](https://www.linkedin.com/posts/dimanikulin_gmail-sla-email-activity-7158023530251530240-DNUk?utm_source=share&utm_medium=member_desktop) {TBD/TBD/TBD/TBD} | About 20 years ago, I created an email account on Gmail. At that time, it was quite simple in terms of the number of functions, but it was exceptionally fast and stable. Over the years, Gmail has added new features, and surprisingly, I have faced no issues. This means it has maintained a Service Level Agreement (SLA) of 99.9999% since I first got it. For me, it stands as a great example of wide functional software with high performance and stability. I want to express my gratitude to Google for providing such a reliable service! Can you provide other examples of functional software known for high performance and stability? PS. No, I am not an advertiser for Google. | |
 | | Software Development | | SoftwareDevelopment | | {TBD/TBD/TBD/TBD} | | |
 | | Software Development | | SoftwareDevelopment | | {TBD/TBD/TBD/TBD} | | |
 | | Software Development | | SoftwareDevelopment | | {TBD/TBD/TBD/TBD} | | |
 | | Software Development | | SoftwareDevelopment | | {TBD/TBD/TBD/TBD} | | |
 
-| 7 |Tabs or Spaces|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_softwaredevelopment-activity-7141376776915660800-whXp?utm_source=share&utm_medium=member_desktop) | 15/12/2023 | Dmytro Nikulin | |
-| 8 |UIQ|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_old-activity-7152938805359001601-vGeW?utm_source=share&utm_medium=member_desktop) | 16/01/2024 | Dmytro Nikulin | |
-| 9 |gmail|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_gmail-sla-email-activity-7158023530251530240-DNUk?utm_source=share&utm_medium=member_desktop)  | 30/01/2024 | Dmytro Nikulin | |
 | 10|Procrastination |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_procrastination-projectrisk-activity-7170691619946541056-Zu2h?utm_source=share&utm_medium=member_desktop) | 05/03/2024 | Dmytro Nikulin | |
 | 11|Delegation Poker Cards |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_agile-scrum-delegation-activity-7173227183098720257-UTef?utm_source=share&utm_medium=member_desktop) | 12/03/2024 | Dmytro Nikulin | |
 | 12|Commit quantity |[LinkedIn](https://www.linkedin.com/posts/dimanikulin_commits-activity-7180822960239239168-P_1m?utm_source=share&utm_medium=member_desktop) | 02/04/2024 | Dmytro Nikulin | |
 | 13|KPI|[LinkedIn](https://www.linkedin.com/posts/dimanikulin_they-talk-a-lot-about-kpis-for-software-developers-activity-7204740366183337985-I2wF?utm_source=share&utm_medium=member_desktop)| 07/06/2024 | Dmytro Nikulin | |
-
-## Tabs or Spaces
-
-"Tabs vs Spaces" - "Holy war" or settled matter?
-
-The "Tabs vs Spaces" holy war has been a long-standing debate among software developers regarding whether to use "tabs" or "spaces" for code indentation.
-Some developers prefer tabs, while others favor spaces.
-
-The choice between them is largely a matter of personal preference.
-
-So, what is your preference and why?
-
-<img src="./Images/tabsvsspaces.jpg" alt="tabs vs spaces" />
-
-# UIQ
-
-About 15 years ago, I used to program for a rare operating system called UIQ.
-It was used for Sony Ericsson smartphones with touchable screens.
-The C++ language was used to make UI programming possible, as well as backend programming.
-The biggest problem was the lack of programming documentation and support.
-
-Can you share your experience with old operating systems, libraries, languages, etc., that you will never forget due to issues working with them?
-
-<img src="./Images/UIQ3.jpg" alt="UIQ" />
-
-## Tags
-
-old
-
-# Gmail
-
-About 20 years ago, I created an email account on Gmail. At that time, it was quite simple in terms of the number of functions, but it was exceptionally fast and stable. Over the years, Gmail has added new features, and surprisingly, I have faced no issues. This means it has maintained a Service Level Agreement (SLA) of 99.9999% since I first got it.
-
-For me, it stands as a great example of wide functional software with high performance and stability.
-I want to express my gratitude to Google for providing such a reliable service!
-
-Can you provide other examples of functional software known for high performance and stability?
-
-PS. No, I am not an advertiser for Google.
-
-<img src="./Images/gmail.jpg" alt="gmail" />
-
-## Tags
-
-gmail sla email goodservice
 
 # Procrastination
 
