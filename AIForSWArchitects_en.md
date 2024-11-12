@@ -36,15 +36,11 @@ It gave me undersnading on how I can use AI to [create architecture vision](http
 
 The assitante is located [here](https://chatgpt.com/g/g-J6uBbvDrm-solutions-architect-assistent) and the communication with it is in a form like with **ChatGPT** - Prompt from **User** and Response from **AI**.
 
-At each step it suggested to clarify current step response or go to next step.
-
 As input documentation for creation architecture vision the following artifacts might be considered:
 
 - RFP (Request for Proposal)
 - RFI (Request for Information)
 - Text of customer request
-
-Cause the [Assistance model](https://chatgpt.com/g/g-J6uBbvDrm-solutions-architect-assistent) has been updating (in dev state) I have had to update my business case description and assitance output in progress of assitance.
 
 So I decided to try it on my project to help.
 
@@ -109,6 +105,17 @@ TODO to put a links to documets
 | 5 | Assitance, round 2 | 30 mins  | |
 | 6 | Input doc prepation, round 3 | 30 + 15 | |
 | 7 | Assitance, round 3 | 15 | |
+
+# Observations
+
+At each step it suggested to clarify current step response or go to next step.
+
+Still in development state. So you might need to align your input before next assistance round. Also the outputs for different sessions might be different even for the same input
+Cause the [Assistance model](https://chatgpt.com/g/g-J6uBbvDrm-solutions-architect-assistent) has been updating (in dev state) I have had to update my business case description and assitance output in progress of assitance.
+
+TBD iterative process.
+
+Can make mistakes as all AI and human. So you need to review the output.
 
 <img src="./Images/TBD.jpg" alt="TBD" />
 
