@@ -38,7 +38,9 @@ TBD images
 
 At [DOU Day 2024](https://dou.ua/dou-day-2024/) I found quite interesting the [ChatGPT Solutions Architect Assistent](https://chatgpt.com/g/g-J6uBbvDrm-solutions-architect-assistent)
 
-It gave me undersnading on how I can use AI to [create architecture vision](https://github.com/dovchar/architecture-vision-GPTs?tab=readme-ov-file) from scratch spending hours but not days.  
+The author is architect and created that assistant based on GPT LLM to speed up architecture work.
+
+And it gave me undersnading on how I can use AI to [create architecture vision](https://github.com/dovchar/architecture-vision-GPTs?tab=readme-ov-file) from scratch spending hours but not days.
 
 The assitante is located [here](https://chatgpt.com/g/g-J6uBbvDrm-solutions-architect-assistent) and the communication with it is in a form like with **ChatGPT** - Prompt from **User** and Response from **AI**.
 
@@ -76,11 +78,19 @@ Business case description kept such chapters as
 
 # Assistance
 
+I had three rounds.
+
 ## Getting familiar with assistant or first look
 
 First I just wanted to try it out and just went from start to the end of assistance in way in suggested and without any clarification from my side. The result I have put into [Round 1](./AIForSWArchitects_Assistance1_en.md).
 
+Despite it provided all the Views in text description format, for Deployment view it provided Example in PlantUML.
+
+TBD images
+
 ## First valuable output from the assistant or second round
+
+I used Output from Round 1 for Round 2 input.
 
 So It did provide first a lot of output but output was not aligned well with real Business Case. And I thought the reason of being output too common and not aligned eith Business Case - the Business Case itself as it also was too common.
 
