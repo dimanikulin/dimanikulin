@@ -1,12 +1,11 @@
 # LinkedIn posts
 
-TODO Table of contents
-
-- [Software Development](./MyLinkedInPosts_SoftwareDevelopment.md) TODO to convert to table
-
+- [Software Development](./MyLinkedInPosts_SoftwareDevelopment.md)
 - [War in Ukraine](./MyLinkedInPosts_WarInUkraine.md)
 - [Work in GlobalLogic](./MyLinkedInPosts_WorkInGL.md)
 - [Work](./MyLinkedInPosts_Work.md)
+- [Entertainment](./MyLinkedInPosts.md#entertainment)
+- [Other](./MyLinkedInPosts.md#other)
 
 # Entertainment
 
