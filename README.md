@@ -38,7 +38,7 @@ My areas of interest in technology include **Cloud**, **IoT**, **Data Platforms*
 
 I am fluent in three **languages**: Ukrainian, English, Russian. **Visas**: USA, B-1/B-2, 11-Apr-2028
 
-I have several scientific [publications](./MySciencePublications.md), other [publications](./MyPublications.md) and numerous [LinkedIn posts](./MyLinkedPosts.md).
+I have several scientific [publications](./MySciencePublications.md), other [publications](./MyPublications.md) and numerous [LinkedIn posts](./MyLinkedInPosts.md).
 
 Please see [this link](./MyEducation.md) for details regarding education, cources, certificates etc.
 
