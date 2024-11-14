@@ -26,7 +26,13 @@ TBD
 
 # Architect Mentorship Case
 
-TBD
+Two data platforms in AWS and Azure Clouds
+Create unified data platform and to migrate data from 2 Clouds into single one based on unified data platform
+The unified data platform should store the data in the right format which is ideal for the relevant use cases
+This also includes consolidation of data per cloud and per environment
+Expected output - At least 3 diagrams - target data platform functional, target data platform deployment and migration one.
+
+TBD images
 
 # ChatGPT Solutions Architect Assistant
 
