@@ -1,11 +1,3 @@
-# Headline
-
-My Publications
-
----
-
-Format is *{Reviews/Likes/Comments/Reposts}*
-
 |Name       | dev.to | hashnode   | medium     |reddit     | quora      | hackernoon | linkedin |
 |-----------|--------|------------|------------|-----------|------------|------------|:--------:|
 |[What is multimedia data?](./MultimediaData_en.md)| [14/06/2022](https://dev.to/dimanikulin/what-is-multimedia-data-111f) {97/7/0/0} |[16/06/2022](https://dimanikulin.hashnode.dev/what-is-multimedia-data) {33/0/0/0} | [16/06/2022](https://medium.com/@dimanikulin_43511/what-is-multimedia-data-16c2bfdb3829) {74/0/0/0} | [16/06/2022](https://www.reddit.com/r/fva/comments/ve7188/what_is_multimedia_data/) {320/0/0/0} | [19/06/2022](https://www.quora.com/profile/Dima-Nikulin-2/What-is-Multimedia-Data-We-live-in-the-digital-data-era-and-growing-of-the-Internet-gives-us-a-possibility-to-find-th) {34/0/0/0} | N/A | N/A |
@@ -42,3 +34,5 @@ Format is *{Reviews/Likes/Comments/Reposts}*
 |[Russian telegram channels](./MyRuTelegramChannels_ru.md)|TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
 |[Rules I use to work with Internet](./MyRulesWorkingWithInternet_uk.md)|TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
 |[AI For Software Architects](./AIForSWArchitects_en.md)| TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
+
+Format is *{Reviews/Likes/Comments/Reposts}*
