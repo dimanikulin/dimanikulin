@@ -110,7 +110,7 @@ The result I have put into [Round 2](./AIForSWArchitects_Assistance3_en.md).
 
 For each work I performed I noticed the time I spent and here a full table to describe that.
 
-TODO to put a links to documets
+TBD to put a links to documets
 
 | # | Name                 | Time Spent | Description   |
 | - | ---------------------|------------|:-------------:|
