@@ -44,12 +44,6 @@ And it gave me undersnading on how I can use AI to [create architecture vision](
 
 The assitante is located [here](https://chatgpt.com/g/g-J6uBbvDrm-solutions-architect-assistent) and the communication with it is in a form like with **ChatGPT** - Prompt from **User** and Response from **AI**.
 
-As input documentation for creation architecture vision the following artifacts might be considered:
-
-- RFP (Request for Proposal)
-- RFI (Request for Information)
-- Text of customer request
-
 So I decided to try it on my project to help.
 
 # Preparation to use assistant
@@ -63,6 +57,12 @@ What you need to do at least is to remove any **PII** (*Personally Identifiable 
 So I created *Sample case anonymizated.docx* from *Sample case.docx*.
 
 ## Input docs preparation
+
+As input documentation for creation architecture vision the following artifacts might be considered:
+
+- RFP (Request for Proposal)
+- RFI (Request for Information)
+- Text of customer request
 
 Becacause I did not have any from those documents for my *Sample Case* I used *ChatGPT* (not Assistant meontioned previpsly) to help me to create [Assistance input 1](./AIForSWArchitects_Input1_en.md) from anonymizated input doc (*Sample case anonymizated.docx*).
 
@@ -98,13 +98,19 @@ And new version of [Assistance Input 2](./AIForSWArchitects_Input2_en.md) appear
 
 The result I have put into [Round 2](./AIForSWArchitects_Assistance2_en.md).
 
+TBD images
+
 ## Final round
 
 As it still did not provide the assitance I need I decided to have one more round with it.
 
-And new version of [Assistance Input 3](./AIForSWArchitects_Input3_en.md) appeared with more details and much more targeted.
+And new version of [Assistance Input 3](./AIForSWArchitects_Input3_en.md) appeared with more details and much more targeted, but strcuture was the same as for round 2
 
 The result I have put into [Round 2](./AIForSWArchitects_Assistance3_en.md).
+
+Here it failed to generate proper PlantUML for Context View.
+
+TBD images
 
 # To be or not to be - to use or not to use
 
