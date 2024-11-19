@@ -100,15 +100,19 @@ The result I have put into [Round 2](./AIForSWArchitects_Assistance2_en.md).
 
 TBD images
 
-## Final round
+## Final round - Third round
 
 As it still did not provide the assitance I need I decided to have one more round with it.
 
 And new version of [Assistance Input 3](./AIForSWArchitects_Input3_en.md) appeared with more details and much more targeted, but strcuture was the same as for round 2
 
-The result I have put into [Round 2](./AIForSWArchitects_Assistance3_en.md).
+The result I have put into [Round 3](./AIForSWArchitects_Assistance3_en.md).
 
 Here it failed to generate proper PlantUML for Context View.
+
+TBD images
+
+## Final round - Fourth round
 
 TBD images
 
@@ -118,15 +122,15 @@ For each work I performed I noticed the time I spent and here a full table to de
 
 TBD to put a links to documets
 
-| # | Name                 | Time Spent | Description   |
+| # | Name                 | Time Spent | Output   |
 | - | ---------------------|------------|:-------------:|
-| 1 | Anonymization        | 120 (before me) +15 minutes | |
-| 2 | Input doc prepation, round 1 | 90 mins | |
-| 3 | Assitance, round 1 | 60 mins  | |
-| 4 | Input doc prepation, round 2 | 30 + 30 | |
-| 5 | Assitance, round 2 | 30 mins  | |
-| 6 | Input doc prepation, round 3 | 30 + 15 | |
-| 7 | Assitance, round 3 | 15 | |
+| 1 | Anonymization        | 120 (before me) +15 minutes | Sample case anonymizated.docx |
+| 2 | Input doc prepation, round 1 | 90 mins | [Assistance input 1](./AIForSWArchitects_Input1_en.md) |
+| 3 | Assitance, round 1 | 60 mins  | [Round 1](./AIForSWArchitects_Assistance1_en.md) |
+| 4 | Input doc prepation, round 2 | 30 + 30 | [Assistance Input 2](./AIForSWArchitects_Input2_en.md) |
+| 5 | Assitance, round 2 | 30 mins  | [Round 2](./AIForSWArchitects_Assistance2_en.md) |
+| 6 | Input doc prepation, round 3 | 30 + 15 | [Assistance Input 3](./AIForSWArchitects_Input3_en.md) |
+| 7 | Assitance, round 3 | 15 | [Round 3](./AIForSWArchitects_Assistance3_en.md) |
 
 # Observations
 
