@@ -185,16 +185,6 @@ There is no limit for budget but project shall be done in 4 months.
 - *Patients*: As end-users, they contribute through feedback and real-world testing. Primary beneficiaries of personalized health insights and real-time data tracking.
 - *Medical Device Manufacturers*: Providers of smart medical devices that integrate with the platform, enabling data capture from patients.
 
-#####################################################################
-
-# Current technical state
-
-We have Java, .Net, NodeJS and Python in our technology portfolio.
-
-# Future technical state
-
-We're looking forward to introduce SLAs.
-
 <img src="./Images/TBD.jpg" alt="TBD" />
 
 # References
