@@ -141,7 +141,9 @@ Cause the [Assistance model](https://chatgpt.com/g/g-J6uBbvDrm-solutions-archite
 
 TBD iterative process.
 
-Can make mistakes as all AI and human. So you need to review the output.
+Can make mistakes as all AI and human. So you need to review the output
+
+I used Draw.IO to draw diargams from PlantUML generated
 
 <img src="./Images/TBD.jpg" alt="TBD" />
 
