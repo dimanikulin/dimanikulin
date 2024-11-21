@@ -128,6 +128,11 @@ https://chromewebstore.google.com/detail/bellingcat-filename-finde/fdhodjpkigpaa
 
 ✅Fake News Debunker (https://chromewebstore.google.com/detail/fake-news-debunker-by-inv/mhccpoafgdgbhnjfhkcmgknndkeenfhe?pli=1) — плагін у браузері Chrome одразу з кількома функціями: зворотний пошук фото, аналіз метаданих чи змін, зроблених на фото.
 
+===========================================================================================
+TeleParser - простий парсер для чатів і каналів Telegram, записує дані в JSON, CSV і MongoDB. З міркувань безпеки краще не використовувати особистий акаунт для парсингу
+
+https://github.com/artmih24/TeleParser
+
 
 # References
 
