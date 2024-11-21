@@ -114,6 +114,8 @@ TBD images
 
 ## Final round - Fourth round
 
+And new version of [Assistance Input 4](./AIForSWArchitects_Input4_en.md) appeared with more details and much more targeted
+
 TBD images
 
 # To be or not to be - to use or not to use
