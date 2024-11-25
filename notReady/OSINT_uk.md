@@ -132,7 +132,13 @@ https://chromewebstore.google.com/detail/bellingcat-filename-finde/fdhodjpkigpaa
 TeleParser - простий парсер для чатів і каналів Telegram, записує дані в JSON, CSV і MongoDB. З міркувань безпеки краще не використовувати особистий акаунт для парсингу
 
 https://github.com/artmih24/TeleParser
+========================================================
+Пошук по архівованим сторінкам з Telegram за допомогою Wayback Machine: http://web.archive.org/collection-search/telegram/  
 
+- 629 мільйонів сторінок Telegram (t . me/*)
+- можливість знайти видалений контент
+- можливість побачити всі результати пошуку (а не лише невелику частину, як у Google)
+- розширені фільтри пошуку
 
 # References
 
