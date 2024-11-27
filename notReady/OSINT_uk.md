@@ -155,6 +155,12 @@ https://github.com/artmih24/TeleParser
 
 Клас! Як це автоматизувати?
 Для цього вам знадобляться: Python, VSCodium, Maltego та інструкція (https://hackernoon.com/whats-wrong-with-stickers-in-telegram-deanonymize-anonymous-channels-in-two-clicks) (ну і трохи вільного часу)
+=========================================================================================
+Іноді буває складно визначити, чи на фотографіях, зроблених в різному віці, знаходиться одна і та сама людина. 
+
+У такій ситуації допоможе інструмент Face Detection and Comparison
+
+https://6mzld2.csb.app
 
 # References
 
