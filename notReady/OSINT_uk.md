@@ -161,6 +161,16 @@ https://github.com/artmih24/TeleParser
 У такій ситуації допоможе інструмент Face Detection and Comparison
 
 https://6mzld2.csb.app
+=============================================================================
+Якщо зворотний пошук за обличчям не дав результатів, спробуйте зістарити фотографію за допомогою вікового фільтра ШІ, додавши 10-20 років (в задежності від віку вашої цілі). 
+
+Ось кілька прикладів інструментів:
+
+media.io/lab/ai-face-editor/
+fotor.com/features/old-filter/
+reface.ai/unboring/features/old-face-filter
+ailab.wondershare.com/tools/aging-filter.html
+
 
 # References
 
