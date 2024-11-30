@@ -149,6 +149,10 @@ I used Draw.IO to draw diargams from PlantUML generated
 
 <img src="./Images/TBD.jpg" alt="TBD" />
 
+# New case to consider
+
+The first case assistant output was not good enough to take into account, probably because of case complexity and i decided to take easier case:
+
 # References
 
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
