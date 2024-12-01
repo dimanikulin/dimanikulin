@@ -187,8 +187,12 @@ ODIN – пошукова система, яка дозволяє здійсню
 
 search.odin.io
 
+======================================================
+Як знайти електронну пошту власника профілю Linkedin, не маючи акаунта в Linkedin?
 
+Окрім використання різних сторонніх баз даних (Amazing Hiring, Prospeo, SalesQL тощо), можна експлойтнути сервіс recruitRyte (дозволяє витягнути 50 адрес безкоштовно)
 
+https://recruitryte.com
 # References
 
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
