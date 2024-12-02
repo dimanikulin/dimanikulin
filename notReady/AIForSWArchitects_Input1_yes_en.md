@@ -28,54 +28,54 @@ TBD
 
 # Overview
 
-TBD
-
 Request for Proposal (RFP)
-Software Development for [Product Name or Description]
-Issued by:
-[Your Organization Name]
-[Your Address]
-[Contact Name]
-[Contact Email]
-[Contact Phone]
+Software Development for *FVA Helpers*
+Issued by: FVA, FVA Address, FVA Contact Name, FVA Contact Email, FVA Contact Phone
+Date Issued: 02/12/2024
+Submission Deadline: 07/12/2024
 
-Date Issued: [Insert Date]
-Submission Deadline: [Insert Date and Time]
+# 1. Introduction
 
-1. Introduction
-DmytroN(c) is inviting proposals from qualified software development firms or individuals to design, develop, and deliver a new software product, [Product Name].
+DmytroN(c) is inviting proposals from qualified software development firms or individuals to design, develop, and deliver a new software product, *FVA Helpers*.
 This RFP outlines the project scope, requirements, and submission process to identify the most suitable partner for this initiative.
 
-2. Background Information
-[Your Organization Name] specializes in [brief description of your organization's industry and mission].
-The purpose of this project is to [briefly describe the problem the software will solve or the opportunity it will address].
+# 2. Background Information
 
-Example:
-“Our goal is to create a user-friendly platform for [target audience] to [key functionality, e.g., manage tasks, track expenses, collaborate on projects]. This product will help [describe the main benefits or impact].”
+Our goal is to create a user-friendly a web sevice for supliers and their customers to find each other.
+So this product will help to connect supliers with their customers as now it is almost done manually.
 
-3. Project Scope and Requirements
-3.1 Scope of Work
+# 3. Project Scope and Requirements
+
+# 3.1 Scope of Work
+
 The vendor is expected to:
 
 Analyze project requirements and provide recommendations.
-Design and develop [key features or modules].
-Ensure compatibility with [specific platforms, browsers, or devices].
-Integrate third-party APIs, if required (e.g., payment gateways, analytics).
+Design and develop a web sevice with payment gateway and notification setvice.
+Ensure compatibility with Visa Cards, WebMoney, and BitCoins, Google Chrome and Safary,  [specific platforms, browsers, or devices].
+Integrate third-party APIs - Payment Gateways, Google Analytics and Ad, TBD
+
 Conduct thorough testing (functional, performance, security).
 Provide documentation and training for end-users and administrators.
 Offer ongoing support and maintenance (if applicable).
-3.2 Key Features and Functionalities
+
+# 3.2 Key Features and Functionalities
+
 [Feature 1: e.g., User registration and authentication]
 [Feature 2: e.g., Dashboard with analytics]
 [Feature 3: e.g., Integration with external tools or APIs]
 [Feature 4: e.g., Mobile-responsive design or dedicated mobile app]
 (Add or modify features based on your needs.)
-3.3 Technical Requirements
+
+# 3.3 Technical Requirements
+
 Programming languages/frameworks: [Specify, e.g., Python, React, Java, etc.]
 Hosting: [e.g., cloud-based, on-premises]
 Scalability and performance requirements
 Data security and compliance standards (e.g., GDPR, HIPAA)
-4. Budget
+
+# 4. Budget
+
 (Optional) Proposals should include detailed cost estimates, including:
 
 Development costs (broken down by milestones or features).
@@ -97,7 +97,7 @@ Expected Completion Date: [Insert Date]
 6.1 Submission Requirements
 Each proposal should include:
 
-Executive Summary: Brief overview of your company and why you’re suited for this project.
+Executive Summary: Brief overview of your company and why youï¿½re suited for this project.
 Company Profile: Include relevant experience, team qualifications, and technical expertise.
 Approach and Methodology: Detailed plan for development, testing, and delivery.
 Case Studies/Portfolio: Examples of past projects similar to this scope.
@@ -126,8 +126,6 @@ For any questions or clarifications regarding this RFP, please contact:
 [Contact Name]
 Email: [Contact Email]
 Phone: [Contact Phone]
-
-
 
 <img src="./Images/TBD.jpg" alt="TBD" />
 
