@@ -51,31 +51,71 @@ So this product will help to connect supliers with their customers as now it is 
 The vendor is expected to:
 
 Analyze project requirements and provide recommendations.
-Design and develop a web sevice with payment gateway and notification setvice.
-Ensure compatibility with Visa Cards, WebMoney, and BitCoins, Google Chrome and Safary,  [specific platforms, browsers, or devices].
-Integrate third-party APIs - Payment Gateways, Google Analytics and Ad, TBD
-
-Conduct thorough testing (functional, performance, security).
+Design and develop a web sevice with payment gateway and notification service.
+Ensure compatibility with Visa Cards, WebMoney, and BitCoins, Google Chrome and Safary.
+Integrate third-party APIs - Two Payment Gateways, Google Analytics and Ad
+Conduct thorough testing - functional and security.
 Provide documentation and training for end-users and administrators.
-Offer ongoing support and maintenance (if applicable).
 
 # 3.2 Key Features and Functionalities
 
-[Feature 1: e.g., User registration and authentication]
-[Feature 2: e.g., Dashboard with analytics]
-[Feature 3: e.g., Integration with external tools or APIs]
-[Feature 4: e.g., Mobile-responsive design or dedicated mobile app]
-(Add or modify features based on your needs.)
+1. User Features
+
+For Suppliers:
+Profile Management: Create and update profiles with business details, product/service listings, and contact information.
+Product/Service Listings: Add, edit, and categorize offerings. Include images, descriptions, pricing, and availability.
+Order Management: Manage orders received, update statuses (e.g., pending, shipped, completed), and view history.
+Analytics Dashboard: Insights into customer engagement, order trends, and revenue using Google Analytics.
+Notifications: Alerts for new orders, messages, payment confirmations, and promotions.
+
+For Customers:
+User Registration: Register and manage profiles with preferences and saved searches.
+Search and Filtering: Advanced search filters (e.g., location, category, price range, ratings) to find suppliers.
+Favorites and Wishlists: Save preferred suppliers and products for easy access.
+Order Tracking: View order status and history.
+Review and Ratings: Rate suppliers and provide feedback.
+
+2. Platform Core Features
+Home Page with Search Functionality: A clean, intuitive home page with a prominent search bar for finding suppliers or products/services.
+Real-Time Communication: In-platform messaging system or integration with email notifications to facilitate communication between suppliers and customers.
+Payment Gateway Integration: Support Visa Cards, WebMoney, and Bitcoin for secure transactions.
+Multi-Currency Support: Allow transactions in multiple currencies depending on the location of the users.
+Multi-Language Support (optional): Offer content in multiple languages to cater to a global audience.
+
+3. Admin Panel Features
+User Management: Manage supplier and customer accounts, monitor activity, and enforce platform rules.
+Transaction Monitoring: Oversee payments, resolve disputes, and ensure compliance with financial regulations.
+Content Moderation: Approve or reject product/service listings and reviews.
+Analytics and Reporting: Generate platform-wide reports on user activity, revenue, and trends using integrated Google Analytics.
+
+4. Notifications Service
+Email/SMS Notifications: Notify users about account activities, promotions, order updates, and payment confirmations.
+In-App Notifications: Deliver real-time alerts within the platform for quick updates.
+
+5. Integrations
+Payment Gateways: Seamlessly integrate two gateways to offer payment flexibility.
+Google Analytics: Track and analyze user behavior and platform performance.
+Advertisement API: Allow suppliers to promote their listings via targeted ads on the platform.
+
+6. Security and Compliance
+Data Encryption: Secure sensitive user data, especially during payment transactions.
+Two-Factor Authentication: Enhance account security for both suppliers and customers.
+Compliance Standards: Ensure adherence to relevant standards like GDPR for data privacy and PCI DSS for payment security.
+
+7. Technical Requirements
+Cross-Browser Compatibility: Ensure functionality on Google Chrome and Safari.
+Scalability: Support an increasing number of users and transactions as the platform grows.
 
 # 3.3 Technical Requirements
 
-Programming languages/frameworks: [Specify, e.g., Python, React, Java, etc.]
-Hosting: [e.g., cloud-based, on-premises]
+Programming languages/frameworks: Python
+Hosting: cloud-based
 Scalability and performance requirements
 Data security and compliance standards (e.g., GDPR, HIPAA)
 
 # 4. Budget
 
+TBD
 (Optional) Proposals should include detailed cost estimates, including:
 
 Development costs (broken down by milestones or features).
