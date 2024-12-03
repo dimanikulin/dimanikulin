@@ -151,7 +151,9 @@ I used Draw.IO to draw diargams from PlantUML generated
 
 # New case to consider
 
-The first case assistant output was not good enough to take into account, probably because of case complexity and i decided to take easier case:
+The first case assistant output was not good enough to take into account, probably because of case complexity and i decided to take easier case:[Round 1](./AIForSWArchitects_Input1_yes_en.md)
+
+in format of RFP and ChatGPT helped again to provide template
 
 # References
 
