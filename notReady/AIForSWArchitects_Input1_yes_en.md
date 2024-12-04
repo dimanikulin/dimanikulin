@@ -111,61 +111,13 @@ Scalability: Support an increasing number of users and transactions as the platf
 Programming languages/frameworks: Python
 Hosting: cloud-based
 Scalability and performance requirements
-Data security and compliance standards (e.g., GDPR, HIPAA)
+Data security and compliance standards (GDPR, HIPAA)
 
-# 4. Budget
-
-TBD
-(Optional) Proposals should include detailed cost estimates, including:
-
-Development costs (broken down by milestones or features).
-Testing and quality assurance.
-Documentation and training.
-Support and maintenance (ongoing or post-launch).
-(Optional) Our estimated budget range for this project is [Insert Range].
-
-5. Timeline
-Proposals should include a project timeline aligned with the following key milestones:
-
-RFP Issued: [Insert Date]
-Questions Deadline: [Insert Date]
-Proposal Submission Deadline: [Insert Date]
-Shortlist Announcement: [Insert Date]
-Project Start Date: [Insert Date]
-Expected Completion Date: [Insert Date]
-6. Proposal Submission Guidelines
-6.1 Submission Requirements
-Each proposal should include:
-
-Executive Summary: Brief overview of your company and why you�re suited for this project.
-Company Profile: Include relevant experience, team qualifications, and technical expertise.
-Approach and Methodology: Detailed plan for development, testing, and delivery.
-Case Studies/Portfolio: Examples of past projects similar to this scope.
-Project Timeline: Milestone-based timeline with key deliverables.
-Cost Estimate: Itemized breakdown of costs.
-References: Contact information for at least three relevant clients.
-6.2 Submission Process
-Proposals must be submitted via [email/online portal] to [contact email/portal link].
-Deadline: [Insert Date and Time].
-Format: [PDF, Word, etc.].
-7. Evaluation Criteria
-Proposals will be evaluated based on the following criteria:
-
-Technical Expertise (30%): Demonstrated ability to build similar software.
-Approach and Methodology (25%): Clear, innovative, and aligned with our goals.
-Cost and Value (20%): Competitive pricing with clear ROI.
-Timeline (15%): Realistic and achievable schedule.
-References and Past Performance (10%): Feedback from previous clients.
-8. Terms and Conditions
+4. Terms and Conditions
 All submitted proposals will be kept confidential.
-[Your Organization Name] reserves the right to accept or reject any proposal without explanation.
-All deliverables will become the property of [Your Organization Name] upon completion.
+*Dmytro N* reserves the right to accept or reject any proposal without explanation.
+All deliverables will become the property of *Dmytro N* upon completion.
 The vendor must agree to sign a Non-Disclosure Agreement (NDA) and other legal contracts as required.
-9. Contact Information
-For any questions or clarifications regarding this RFP, please contact:
-[Contact Name]
-Email: [Contact Email]
-Phone: [Contact Phone]
 
 <img src="./Images/TBD.jpg" alt="TBD" />
 
