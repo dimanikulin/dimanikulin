@@ -67,6 +67,7 @@ Product/Service Listings: Add, edit, and categorize offerings. Include images, d
 Order Management: Manage orders received, update statuses (e.g., pending, shipped, completed), and view history.
 Analytics Dashboard: Insights into customer engagement, order trends, and revenue using Google Analytics.
 Notifications: Alerts for new orders, messages, payment confirmations, and promotions.
+Subscription managment:
 
 For Customers:
 User Registration: Register and manage profiles with preferences and saved searches.
