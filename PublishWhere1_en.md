@@ -46,7 +46,7 @@ I've created a separate table with columns for each **platform** and rows for in
 
 # hackernoon
 
-<img src="./Images/wheretopublish11.png" alt="TBD" />
+<img src="./Images/wheretopublish11.png" alt="where to publish 11" />
 
 [hackernoon](https://hackernoon.com/) is a website that covers technology and software development topics. It offers a platform for writers to publish their articles and connect with a community of readers.
 
@@ -134,7 +134,7 @@ For more information on how to publish, please [visit](https://dev.to/devteam/wr
 
 # Medium
 
-<img src="./Images/wheretopublish12.png" alt="TBD" />
+<img src="./Images/wheretopublish12.png" alt="where to publish 12" />
 
 [Medium](https://medium.com/) is an open platform where readers discover dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.
 
