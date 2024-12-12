@@ -75,13 +75,14 @@ Search and Filtering: Advanced search filters (e.g., location, category, price r
 Favorites and Wishlists: Save preferred suppliers and products for easy access.
 Order Tracking: View order status and history.
 Review and Ratings: Rate suppliers and provide feedback.
+Self-service with learning materials: mini-platform with tutorials, presentation, questionaries etc.
 
 2. Platform Core Features
 Home Page with Search Functionality: A clean, intuitive home page with a prominent search bar for finding suppliers or products/services.
 Real-Time Communication: In-platform messaging system or integration with email notifications to facilitate communication between suppliers and customers.
 Payment Gateway Integration: Support Visa Cards, WebMoney, and Bitcoin for secure transactions.
 Multi-Currency Support: Allow transactions in multiple currencies depending on the location of the users.
-Multi-Language Support (optional): Offer content in multiple languages to cater to a global audience.
+Self-service with learning materials - mini-platform with tutorials, presentation, questionaries etc.
 
 3. Admin Panel Features
 User Management: Manage supplier and customer accounts, monitor activity, and enforce platform rules.
@@ -106,6 +107,7 @@ Compliance Standards: Ensure adherence to relevant standards like GDPR for data 
 7. Technical Requirements
 Cross-Browser Compatibility: Ensure functionality on Google Chrome and Safari.
 Scalability: Support an increasing number of users and transactions as the platform grows.
+Multi-Language Support: English only is considered as main language but service in future shall support Multi-Language  
 
 # 3.3 Technical Requirements
 
