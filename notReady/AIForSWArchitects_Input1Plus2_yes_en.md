@@ -108,6 +108,7 @@ Compliance Standards: Ensure adherence to relevant standards like GDPR for data 
 Cross-Browser Compatibility: Ensure functionality on Google Chrome and Safari.
 Scalability: Support an increasing number of users and transactions as the platform grows.
 Multi-Language Support: English only is considered as main language but service in future shall support Multi-Language  
+Cloud: GCP.
 
 # 3.3 Technical Requirements
 
