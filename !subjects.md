@@ -1,5 +1,3 @@
-velo lenghht
-
 VS Code
 Notepad++Portable
 Sublime
@@ -20,9 +18,7 @@ joke about elrcticity - diod, conder
 
 headers in files means nothing content everything
 
-chatGPT translate from russin to eng but not from russin to ukr
-can not pass IQ tests
-
+chatgpt can not pass IQ tests
 it compared CoAP and LwM2M with description of libs
 
 уровень контент количество просмотров
