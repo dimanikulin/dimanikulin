@@ -117,7 +117,8 @@ Hosting: cloud-based
 Scalability and performance requirements
 Data security and compliance standards (GDPR, HIPAA)
 
-4. Terms and Conditions
+# 4. Terms and Conditions
+
 All submitted proposals will be kept confidential.
 *Dmytro N* reserves the right to accept or reject any proposal without explanation.
 All deliverables will become the property of *Dmytro N* upon completion.
