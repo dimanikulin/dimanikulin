@@ -32,8 +32,6 @@ or ---
 
 # Introduction
 
-<https://www.youtube.com/live/8sC8x79iyP8>
-
 Розвідка соціальних мереж (SOCMINT) - це різновид розвідки з відкритим кодом (OSINT), яка стосується збору та аналізу даних з веб-сайтів соціальних мереж. Вона охоплює всі соціальні медіа-платформи, а не лише соціальні мережі.
 
 З чого починати загальний пошук акаунту людини в соцмережах?
@@ -72,7 +70,7 @@ TBD
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
 WhatsMyName (<https://whatsmyname.app/>) by name
 Namecheckup (<https://namecheckup.com/>) domain names cjec
-Sherlock (<https://github.com/sherlock-project/sherlock>) Hunt down social media accounts by username across 400+ social networks
+<https://www.youtube.com/live/8sC8x79iyP8>
 
 Якщо вам потрібна більш розширена функціональність - скористайтеся локально встановленим інструментом [Maigret](https://github.com/soxoj/maigret), щоб налаштувати процес пошуку і створити HTML-звіти.
 
@@ -224,3 +222,5 @@ search.odin.io
 TODO боти з мого ТГ
 
 TODO for devs from gitHub
+
+Sherlock (<https://github.com/sherlock-project/sherlock>) Hunt down social media accounts by username across 400+ social networks
