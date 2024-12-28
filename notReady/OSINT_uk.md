@@ -70,6 +70,7 @@ flowchart TD
 ```
 
 ```mermaid
+flowchart TD
     A1(ДЕ ПРАЦЮ) --> A2(РЕЗЮМЕ+LINKEDIN)  
     A3(ДЕ НАВЧАВСЯ) --> A2(РЕЗЮМЕ+LINKEDIN)
 
@@ -78,6 +79,7 @@ flowchart TD
 ```
 
 ```mermaid
+flowchart TD
     A7(РОДИЧI) --> A9(ОДНОКЛАСНИКИ+INSTAGRAM+FB)  
     A8(ЗНАЙОМI) --> A9(ОДНОКЛАСНИКИ+INSTAGRAM+FB)
 
