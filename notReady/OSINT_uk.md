@@ -103,10 +103,10 @@ flowchart TD
 Пошук за іменем користувача - найшвидший спосіб для більшості соціальних мережах, за умови, що цільова особа постійно використовує одне й те саме ім'я користувача. Ім'я має бути унікальним, малоунікальне Іванов чи Джон дасть мало результатів.
 Крім того, ім'я користувача може виявити ім'я/прізвище, яке відрізняється від того, що вказано на сторінці в соціальній мережі.
 Це створює додаткові критерії для пошуку.
+
 Просто введіть ім'я користувача в [Namechk.com](https://namechk.com/) або [Instantusername.com](https://instantusername.com/#/) і проскануйте сотні веб-сайтів за лічені хвилини.
 
-TODO - to translate
-<https://webmii.com/> - a tool that collects publicly available information about a wanted person by name and indicates the source from which he found it
+[webmii](https://webmii.com/) - інструмент, який збирає загальнодоступну інформацію про розшукувану особу на ім’я та вказує джерело, з якого вона її знайшла
 
 # Пошук за pображенням
 
@@ -160,10 +160,11 @@ geohints.com
 
 [TeleParser](https://github.com/artmih24/TeleParser) - простий парсер для чатів і каналів Telegram, записує дані в JSON, CSV і MongoDB. З міркувань безпеки краще не використовувати особистий акаунт для парсингу
 
-TODO to translate
-[Telerecon](https://github.com/sockysec/Telerecon) - is a comprehensive OSINT-intelligence framework for investigating, investigating and extracting data from Telegram.
-[Geogramint](https://github.com/Alb-310/Geogramint) -  is an OSINT tool that uses Telegram's API to find nearby users and groups.
-[Sherlock](https://github.com/sherlock-project/sherlock) Hunt down social media accounts by username across 400+ social networks
+[Telerecon](https://github.com/sockysec/Telerecon) - це всеохоплююча OSINT-інтелектуальна структура для дослідження, дослідження та вилучення даних із Telegram.
+
+[Geogramint](https://github.com/Alb-310/Geogramint) - це OSINT-інструмент, який використовує API Telegram для пошуку користувачів і груп поблизу.
+
+[Sherlock](https://github.com/sherlock-project/sherlock) Шукайте облікові записи соціальних мереж за іменем користувача в понад 400 соціальних мережах.
 
 # Пошук за допомогою номера телефона
 
