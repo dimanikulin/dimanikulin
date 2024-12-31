@@ -164,7 +164,7 @@ geohints.com
 
 [Geogramint](https://github.com/Alb-310/Geogramint) - це OSINT-інструмент, який використовує API Telegram для пошуку користувачів і груп поблизу.
 
-[Sherlock](https://github.com/sherlock-project/sherlock) Шукайте облікові записи соціальних мереж за іменем користувача в понад 400 соціальних мережах.
+[Sherlock](https://github.com/sherlock-project/sherlock) - Шукайте облікові записи соціальних мереж за іменем користувача в понад 400 соціальних мережах.
 
 # Пошук за допомогою номера телефона
 
