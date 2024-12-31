@@ -53,7 +53,7 @@ flowchart TD
     A6(БОТИ ТА ПЗ)--> A5(АНАЛIЗ)
 ```
 
-Як відправну точку можна використовувати: <https://osintframework.com/>
+Як відправну точку можна використовувати: [osintframework](https://osintframework.com/)
 
 Використовуйте [Wayback Machine](https://web.archive.org/), щоб отримати доступ до історичних даних знайдених вами сторінок у соціальних мережах. Не всі вони архівуються, особливо менш популярні, але спробувати варто.
 
@@ -216,30 +216,28 @@ EXIF-дані зображення містять цінну інформаці�
 
 # Інструменти, які допоможуть розпізнати фейкові фото та відео
 
-TODO to fix links
-
 - [Forensically](https://29a.ch/photo-forensics/#forensic-magnifier),
- FotoForensics (<https://fotoforensics.com/>) дозволять виявляти елементи фото, які ймовірно могли відредагувати. Також тут можна перевірити метадані: автор файлу, дата і місце створення інше.
+ [FotoForensics] (<https://fotoforensics.com/>) дозволять виявляти елементи фото, які ймовірно могли відредагувати. Також тут можна перевірити метадані: автор файлу, дата і місце створення інше.
 
-- Fake News Debunker (<https://chromewebstore.google.com/detail/fake-news-debunker-by-inv/mhccpoafgdgbhnjfhkcmgknndkeenfhe?pli=1>) — плагін у браузері Chrome одразу з кількома функціями: зворотний пошук фото, аналіз метаданих чи змін, зроблених на фото.
+- [Fake News Debunker](https://chromewebstore.google.com/detail/fake-news-debunker-by-inv/mhccpoafgdgbhnjfhkcmgknndkeenfhe?pli=1) — плагін у браузері Chrome одразу з кількома функціями: зворотний пошук фото, аналіз метаданих чи змін, зроблених на фото.
 
-Як виявити контент, згенерований за допомогою ШІ, використовуючи OSINT?
+# Як виявити контент, згенерований за допомогою ШІ, використовуючи OSINT?
 
 Виявлення тексту, згенерованого штучним інтелектом:
 
-<https://copyleaks.com/ai-content-detector>
-<https://gptzero.me/>
-<https://crossplag.com/>
-<https://originality.ai/>
-<https://contentatscale.ai/ai-content-detector/>
-<https://undetectable.ai/>
+- <https://copyleaks.com/ai-content-detector>
+- <https://gptzero.me/>
+- <https://crossplag.com/>
+- <https://originality.ai/>
+- <https://contentatscale.ai/ai-content-detector/>
+- <https://undetectable.ai/>
 
 Виявлення зображень, згенерованих штучним інтелектом:
 
-<https://www.aiornot.com/>
-<https://contentatscale.ai/ai-image-detector/>
-<https://huggingface.co/spaces/umm-maybe/AI-image-detector>
-<https://deepmind.google/technologies/synthid/>
+- <https://www.aiornot.com/>
+- <https://contentatscale.ai/ai-image-detector/>
+- <https://huggingface.co/spaces/umm-maybe/AI-image-detector>
+- <https://deepmind.google/technologies/synthid/>
 
 # Як відстежити зміни в акаунтах?
 
@@ -253,6 +251,7 @@ TODO to fix links
 
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
-WhatsMyName (<https://whatsmyname.app/>) by name
-Namecheckup (<https://namecheckup.com/>) domain names cjec
+TODO
+[WhatsMyName](https://whatsmyname.app/) by name
+[Namecheckup](https://namecheckup.com/) domain names cjec
 <https://www.youtube.com/live/8sC8x79iyP8>
