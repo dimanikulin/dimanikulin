@@ -17,6 +17,7 @@
 |[What To Publish, 2](./PublishWhat2_en.md)|TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
 |[Where To Publish 1](./PublishWhere1_en.md)|TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
 |[Second Name History](./HistorySecondName_ru.md)| N/A | N/A | N/A | N/A | N/A | N/A | [14/02/2022](https://www.linkedin.com/posts/dimanikulin_%D0%B1%D1%8B%D0%BB-%D1%82%D1%83%D1%82-%D0%BF%D0%BE%D1%81%D1%82-%D0%BE-%D1%84%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F%D1%85-%D0%BD%D0%B5%D0%B4%D0%B0%D0%B2%D0%BD%D0%BE-https-activity-6899776405601611776-PJn7?utm_source=share&utm_medium=member_desktop) {6500/16/4/0} |
+|[History happended at work](./HistoryAtWork_uk.md)| N/A | N/A | N/A | N/A | N/A | N/A | N/A |
 
 # Not ready yet
 
@@ -24,7 +25,6 @@
 |[Search Requests for Multimedia](./MultimediaSearchRequests_en.md)| TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
 |[Enriching the Multimedia](./MultimediaEnriching_en.md)| TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
 |[Tagging Your Multimedia](./MultimediaTagging_en.md)| TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
-|[History happended at work](./HistoryAtWork_uk.md)| TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
 |[Profile and CV as a code](./ProfileAsCode_en.md) | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
 |[What I Learned As DevOps](./WhatILearnedAsDevOps_en.md)| TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
 |[What I Learned As Tester](./WhatILearnedAsTester_en.md)| TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
