@@ -255,3 +255,5 @@ TODO
 [WhatsMyName](https://whatsmyname.app/) by name
 [Namecheckup](https://namecheckup.com/) domain names cjec
 <https://www.youtube.com/live/8sC8x79iyP8>
+
+CryptoGmail <https://cryptogmail.com/>, TempMail <https://temp-mail.org/> Безплатний Сервіси тимчасових пошт
