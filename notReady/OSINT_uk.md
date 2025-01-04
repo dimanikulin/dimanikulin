@@ -257,3 +257,9 @@ TODO
 <https://www.youtube.com/live/8sC8x79iyP8>
 
 CryptoGmail <https://cryptogmail.com/>, TempMail <https://temp-mail.org/> Безплатний Сервіси тимчасових пошт
+
+Як переглянути профіль у Linkedin не маючи власного профілю?
+
+Цей сервіс безкоштовно показує фотографію та опис профілю в повному обсязі та деяку інформацію про досвід роботи та освіту.
+
+<https://nubela.co/proxycurl/demo/linkedin-profile-viewer>
