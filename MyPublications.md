@@ -20,6 +20,7 @@
 |[History happended at work](./HistoryAtWork_uk.md)| N/A | N/A | N/A | N/A | N/A | N/A | N/A |
 |[Rules I use to work with Telegram](./MyRulesWorkingWithTg_uk.md)| N/A | N/A | N/A | N/A | N/A | N/A | N/A |
 |[My Telegram Channel](./MyTelegramChannel_uk.md)| N/A | N/A | N/A | N/A | N/A | N/A | N/A |
+|[Russian telegram channels](./MyRuTelegramChannels_ru.md)| N/A | N/A | N/A | N/A | N/A | N/A | N/A |
 
 # Not ready yet
 
@@ -31,7 +32,6 @@
 |[What I Learned As DevOps](./WhatILearnedAsDevOps_en.md)| TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
 |[What I Learned As Tester](./WhatILearnedAsTester_en.md)| TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
 |[Where To Publish 2](./PublishWhere2_en.md)|TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
-|[Russian telegram channels](./MyRuTelegramChannels_ru.md)|TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
 |[Rules I use to work with Internet](./MyRulesWorkingWithInternet_uk.md)|TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
 |[AI For Software Architects](./AIForSWArchitects_en.md)| TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
 
