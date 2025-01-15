@@ -264,8 +264,16 @@ CryptoGmail <https://cryptogmail.com/>, TempMail <https://temp-mail.org/> Без
 
 <https://nubela.co/proxycurl/demo/linkedin-profile-viewer>
 
+№№№№№№
 При пошуку за повним ім'ям або нікнеймом, не забувайте про бібліотеки PDF-документів.
 
 Наприклад, scribd.com має 195 мільйонів різноманітних файлів (іноді навіть списки контактів), slideshare.net - понад 28 мільйонів файлів.
 
 Пошук на цих ресурсах працює краще, ніж дорк filetype:pdf
+
+№№№№№№№№№№№№№
+TGeocoder – парсить Telegram-канали та витягує дані про місцезнаходження, що містяться в повідомленнях, і знаходить координати довготи/широти для кожної події
+
+Потрібен ключ OpenAI API та ключ API Telegram (не використовуйте свої важливі акаунти Telegram для отримання ключа API, є ризик блокування).
+
+<https://github.com/MJCruickshank/TGeocoder>
