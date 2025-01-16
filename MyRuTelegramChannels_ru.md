@@ -358,6 +358,8 @@ Bots that collect coordinates to target strikes or post direct personal informat
 - наглый
 - Миха Анархист Чаплыга
 
+https://t.me/osvedomitell_alex
+
 # References
 
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
