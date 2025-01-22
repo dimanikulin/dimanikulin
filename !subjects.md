@@ -1,3 +1,5 @@
+что такое закон подлости
+
 VS Code
 Notepad++Portable
 Sublime
