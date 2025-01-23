@@ -359,6 +359,7 @@ Bots that collect coordinates to target strikes or post direct personal informat
 - Миха Анархист Чаплыга
 
 https://t.me/osvedomitell_alex
+https://t.me/pozyvnoy_leon
 
 # References
 
