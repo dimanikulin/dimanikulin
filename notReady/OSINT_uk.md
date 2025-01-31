@@ -197,6 +197,8 @@ TODO
 
 Окрім використання різних сторонніх баз даних (Amazing Hiring, Prospeo, SalesQL тощо), можна експлойтнути сервіс [recruitRyte](https://recruitryte.com) (дозволяє витягнути 50 адрес безкоштовно)
 
+А цей [сервіс](https://nubela.co/proxycurl/demo/linkedin-profile-viewer) безкоштовно показує фотографію та опис профілю в повному обсязі та деяку інформацію про досвід роботи та освіту.
+
 # Геолокалізація зображень
 
 [Picarta](https://www.picarta.ai)  - геолокалізація зображень за допомогою штучного інтелекту. АІ-модель прогнозує точне місце, де було зроблено фотографію в світі
@@ -255,14 +257,7 @@ TODO
 [WhatsMyName](https://whatsmyname.app/) by name
 [Namecheckup](https://namecheckup.com/) domain names cjec
 <https://www.youtube.com/live/8sC8x79iyP8>
-
 CryptoGmail <https://cryptogmail.com/>, TempMail <https://temp-mail.org/> Безплатний Сервіси тимчасових пошт
-
-Як переглянути профіль у Linkedin не маючи власного профілю?
-
-Цей сервіс безкоштовно показує фотографію та опис профілю в повному обсязі та деяку інформацію про досвід роботи та освіту.
-
-<https://nubela.co/proxycurl/demo/linkedin-profile-viewer>
 
 №№№№№№
 При пошуку за повним ім'ям або нікнеймом, не забувайте про бібліотеки PDF-документів.
