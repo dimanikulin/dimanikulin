@@ -36,6 +36,7 @@ one profile as a link to git hub to be used on all platforms I publish my conten
 <https://github.com/devicons/devicon>
 <https://simpleicons.org/uk/>
 <https://www.linkedin.com/posts/smirnova42_github-readme-markdown-activity-7219234421051174912-fzJh/?utm_source=share&utm_medium=member_desktop>
+https://github.com/MaksymRudnyi/MaksymRudnyi
 
 2. There is a site that tracks layoffs <https://lnkd.in/eUX7Mvpu>. So you can see that In Jan there were a lot of tech layoffs, so the market is competitive.
 3. Your linked in Profile & Resume need to updated to have all the correct keywords in it because most companies use Applicant Tracking Systems (ATS) and they specifically look for keywords and rate your resume against the job description. There is a site called <https://www.jobscan.co/> that will help evaluate your resume against a job description. (Not suggesting you pay for it, they give you 5 for free).
