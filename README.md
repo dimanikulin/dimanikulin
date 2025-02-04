@@ -49,10 +49,14 @@ Please see [this link](./MyEducation.md) for details regarding education, cource
 
 ---
 
-I am looking to collaborate on developing [my product](https://github.com/dimanikulin/fva) because the development is in a hot stage.
-
-Everyone can try themselves in different roles to learn something new and to help me, such as: [Product Manager](./WhatILearnedAsProductManager_en.md), [Delivery Manager](./WhatILearnedAsDeliveryManager_en.md),
+I am looking to collaborate on developing my Open Source projects. So everyone can try themselves in different roles to learn something new and to help me, such as: [Product Manager](./WhatILearnedAsProductManager_en.md), [Delivery Manager](./WhatILearnedAsDeliveryManager_en.md),
 [Application Architect](./WhatILearnedAsAppArchitect_en.md), [Software Developer](./WhatILearnedAsSoftwareDeveloper_en.md), [DevOps](./WhatILearnedAsDevOps_en.md) and [Subject Matter Expert](./WhatILearnedAsSubjectMatterExpert_en.md).
+
+| # | Project                     | Description| Status         |
+| - | ----------------------------|------------|:--------------:|
+|  | [FVA Tools](https://github.com/dimanikulin/fva) | A convergent tool set to automate the process of importing the multimedia data | <img alt="FVA Tools contributors" src="https://img.shields.io/github/contributors/dimanikulin/fva"> <img alt="FVA commit activity" src="https://img.shields.io/github/commit-activity/m/dimanikulin/fva"> <img alt="FVA last commit" src="https://img.shields.io/github/last-commit/dimanikulin/fva"> |
+|  | [Capable Cpp Template](<https://github.com/dimanikulin/capable-cpp-template>) | A capable template for C++ projects using CI, Building, Testing, Formatting, Documenting and more | <img alt="Template contributors" src="https://img.shields.io/github/contributors/dimanikulin/capable-cpp-template"> <img alt="Template commit activity" src="https://img.shields.io/github/commit-activity/m/dimanikulin/capable-cpp-template"> <img alt="Template last commit" src="https://img.shields.io/github/last-commit/dimanikulin/capable-cpp-template"> |
+|  | [FVA Helpers](https://github.com/dimanikulin/fva-helpers) | To be described | <img alt="Helpers contributors" src="https://img.shields.io/github/contributors/dimanikulin/fva-helpers"> <img alt="Helpers commit activity" src="https://img.shields.io/github/commit-activity/m/dimanikulin/fva-helpers"> <img alt="Helpers last commit" src="https://img.shields.io/github/last-commit/dimanikulin/fva-helperse"> |
 
 <div>
 <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=dimanikulin&show_icons=true&theme=transparent"/>
@@ -61,15 +65,6 @@ Everyone can try themselves in different roles to learn something new and to hel
 
 </br>
 
-<p>
-  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/dimanikulin/fva">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/dimanikulin?style=social">
-  <img alt="Profile commit activity" src="https://img.shields.io/github/commit-activity/m/dimanikulin/dimanikulin">
-  <img alt="FVA commit activity" src="https://img.shields.io/github/commit-activity/m/dimanikulin/fva">
-  <img alt="Profile last commit" src="https://img.shields.io/github/last-commit/dimanikulin/dimanikulin">
-  <img alt="FVA last commit" src="https://img.shields.io/github/last-commit/dimanikulin/fva">
-</p>
-
 ---
 
 [![Dima Nikulin profile views](https://u8views.com/api/v1/github/profiles/4226351/views/day-week-month-total-count.svg)](https://u8views.com/github/dimanikulin)
@@ -77,5 +72,10 @@ Everyone can try themselves in different roles to learn something new and to hel
 ---
 
 <div>
+
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/dimanikulin?style=social">
+<img alt="Profile commit activity" src="https://img.shields.io/github/commit-activity/m/dimanikulin/dimanikulin">
+<img alt="Profile last commit" src="https://img.shields.io/github/last-commit/dimanikulin/dimanikulin">
 <img alt="Made with Markdown" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg"/>
+
 </div>
