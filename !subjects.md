@@ -1,20 +1,6 @@
 top interviewer presnt
 что такое закон подлости
 
-VS Code
-Notepad++Portable
-Sublime
-CuteMarkEdPortable_0.11.3.paf.exe
-SqlitemanPortable
-SQLiteStudio
-SQLiteTool
-putty
-PuTTYPortable
-NSIeditor1011
-JSONedit_0_9_14
-DBFPlus
-CppcheckPortable
-
 qt creator (probably with AI) help a lot in code review - not suggested for using
 
 joke about elrcticity - diod, conder
