@@ -13,7 +13,7 @@
 
 My [name](./MyBio.md) is **Dmytro [Nikulin](./HistorySecondName_ru.md)** and I have **25** of years of experience as a Software Developer/Lead.
 
-Please see [this link](./MyExperience.md) for more details regarding experience, contribution, business trips and contribution.
+Please see [this link](./MyExperience.md) for more details regarding experience, contribution and business trips.
 
 <div>
 <img alt="Technologies" src="https://github-readme-stats.vercel.app/api/gist?id=7ff91d7c5a029de32a04b40bba890998"/>
