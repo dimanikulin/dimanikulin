@@ -11,7 +11,7 @@
 
 ---
 
-My [name](./MyBio.md) is **Dmytro [Nikulin](./HistorySecondName_ru.md)** and I have **25** of years of experience as a Software Developer/Lead.
+My [name](./MyBio_en.md) is **Dmytro [Nikulin](./HistorySecondName_ru.md)** and I have **25** of years of experience as a Software Developer/Lead.
 
 Please see [this link](./MyExperience.md) for more details regarding experience, contribution and business trips.
 
