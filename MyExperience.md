@@ -16,7 +16,8 @@ My Experience
 
 |Company, Place            |Duration       |Role     |Project Description   |Operation Systems              |Languages                        |Databases   |Libraries & FrameWorks                                 |Technologies|
 |--------------------------|---------------|---------|--------------------  |------------------------------ |---------------------------------|-------|-------------------------------------------------------|:----------:|
-|GlobalLogic, Kyiv         |05/2018-Present|Tech Lead|Huge medical product  |<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> QNX 6.6,7.1|<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white"/> <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/> SQL; QML; Gherkin; UML, YAML|<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>|QT 5.8; GTest; Boost; CMake; RTI DDS; flatbuf; Libcurl; Squish|<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/> <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"/> IPC; RTOS; Doxygen; DHCP; FTP; LAN; QoS; Fisheye-Cruceible; JAMA; SonarCube; Coverity; BDD; Docker|
+|GlobalLogic, Kyiv         |05/2018-Present|Tech Lead|Huge medical product  |<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> QNX 6.6,7.1|<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white"/> <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/> SQL; QML; Gherkin; UML, YAML|<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>|QT 5.8; GTest; Boost; CMake; RTI DDS; flatbuf; Libcurl; Squish|<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/> <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"/> IPC; RTOS; Doxygen; DHCP; FTP; LAN; QoS; Fisheye-Cruceible; JAMA; SonarCube; Coverity; BDD; Docker| 
+|GlobalLogic, Kyiv         |03/2024-Present|Tech Lead|Wireless communication| <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> | <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/> PlantUML; YAML | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> | GTest; GMock; CMake; Libcurl; cjson | <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/> APDU; TLV; C-Lang; Doxygen; lcov+gcov |
 |GlobalLogic, Kyiv         |03/2017-05/2018|SW Dev   |TV network company prj|<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>|<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> PLSQL|<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>|Corba; STL; ATL|ETL|
 |Mobisoft Ltd, Kyiv        |04/2015-09/2016|SW Dev   |Data gathering system |<img src="https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white"/> Win 7-10 |<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> SQL |<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>|STL; Poco; Boost; MadCodHook; Komodia; Wix; WinAPI |Win32 API hooks; Signing; Win login customization; IPC; OpenSSL; Certificate Authorities; Digital Certificates; Public and Private Keys; Hashing; VisualAssist |
 |Metacom Company, Lviv     |04/2013-03/2015|SW Dev   |Cloud data security system|<img src="https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white"/> Win 7,8|<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> XML | | WinAPI; STL; QT 4.8 | MSI; WiX; DropBox; Google; OneDrive|
@@ -27,7 +28,7 @@ My Experience
 |MaxBill, Donetsk          |04/2006-05/2008|SW Dev   |Billing systems       |<img src="https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white"/> MS 2003 Server; AIX 6 |<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> XML; PL-SQL; <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/> | <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>|STL; ACE; GSOAP |RTOS; Doxygen; DB optimization; Tomcat; VoIP-SIP, Billing Mediation|
 |Railway ISC, Donetsk      |08/2001-04/2006|SW Dev   |Railway systems products|<img src="https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white"/> Win 2000, NTTSE4.0, 2000 Server|<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> XML; XSLT; SQL; Jscript; Xpath; DHTMLX|<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>|WinAPI; ATL; MFC; STL; Stingray Objective Studio|COM objects; COM-port|
 |Railway Institute, Donetsk|1998-04/2007   |SW Dev   |Testing knowledge systems|<img src="https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white"/> Win NT; 2000 |<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> Pascal; XML; HTML; Jscript| | VCL; WinAPI; MFC; STL; Xerces; log4cpp | ActiveX; IPC; Doxygen|
-|Trubnikov Enterpr, Donetsk|1999�2005      |IT       |  |<img src="https://img.shields.io/badge/Windows_95-008080?style=for-the-badge&logo=windows-95&logoColor=white"/> MS DOS; NTTSE4.0, 2000 server|Visual Basic |<img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white"/>| |Active Directory|
+|Trubnikov Enterpr, Donetsk|1999-2005      |IT       |  |<img src="https://img.shields.io/badge/Windows_95-008080?style=for-the-badge&logo=windows-95&logoColor=white"/> MS DOS; NTTSE4.0, 2000 server|Visual Basic |<img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white"/>| |Active Directory|
 
 # Skills
 
@@ -44,14 +45,14 @@ RedMine, Trac.
 <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
 <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/>
-QT Creator, Carbide, C++ Builder, GDB, Profiling.
+QT Creator, Carbide, C++ Builder, GDB, Profiling, Coverage, Formatting, WSL.
 
 **Version control:** <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 SVN, CVS, SourceSafe
 
 **CI/CD:** <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
-Bamboo
+Gitlab, Bamboo
 
 **Office and design:**
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
@@ -61,17 +62,17 @@ Bamboo
 <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white"/>
 Enterprise Architect
 
-**AI:** ChatGPT, Copilot
+**AI:** ChatGPT, GitHub Copilot
 
 **SDLC:** Scrum, Kan Ban, Scaled Agile Framework, Waterfall.
 
-**Testing:** Black box, Conditions, Decision tables, GUI/Usability, Regression, Requirements, Sanity, Performance, Embedded, State transaition, A/B, Acceptance, Compatibility, Load, Mobile, Mutation, Network, Security, Unit, Whitebox testin, Technical reviews, Test Design, Test Plan.
+**Testing:** Black box, Conditions, Decision tables, GUI/Usability, Regression, Requirements, Sanity, Performance, Embedded, State transaition, A/B, Acceptance, Compatibility, Load, Mobile, Mutation, Network, Security, Unit, Whitebox, Technical reviews, Test Design, Test Plan.
 
 **Architectural Style:** Microservice, Serverless Architecture, Component Based Architecture.
 
 **Business Analysis:** Requirement management, Requirements elicitation (gathering), Requirements specification, Requirements validation.
 
-**Functional Area:** Architecture, Project Management, People Development, Quality Assurance, Software Development and Maintenance, Solution Architecture, Customer Support, Application Lifecycle Management, Software Detail Design, Team Leading.
+**Functional Area:** Architecture, Project Management, People Development, Quality Assurance, Software Development and Maintenance, Solution Architecture, Customer Support, Application Lifecycle Management, Software Detail Design, Team Leading, Code review, Addressing technical dept
 
 # Contribution
 
