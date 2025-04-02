@@ -330,3 +330,8 @@ DeepFindMe:
 https://www.deepfind.me/tools
 
 Репозиторій Gіthub: https://github.com/Buddhsen-tripathi/DeepFindMe
+
+#####
+Image Verification Assistant: інструменти для аналізу зображень + детальний аналізатор метаданих + два десятки пояснювальних прикладів (з поясненнями, як працювати з інструментами для аналізу зображень і що означають різні спотворення)
+
+https://mever.gr/forensics/
