@@ -312,3 +312,21 @@ PhoneInfoga (<https://github.com/sundowndev/phoneinfoga>) - один із най
 та десятки інших.
 
 https://github.com/webrecorder/public-web-archives
+########################################
+
+Usersearch.ai автоматично аналізує дані з Wayback Machine (archive.org) і дозволяє переглянути історію ніків акаунтів у Twitter.
+
+Історія змін профілю на інших сайтах - Експертиза сайту->Історія змін на сайті
+
+№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№
+DeepFindMe:
+
+- пошук за іменем користувача
+- геолокація за фото
+- витягування метаданих
+- пошук субдоменів/WHOIS/DNS
+- та багато іншого.
+
+https://www.deepfind.me/tools
+
+Репозиторій Gіthub: https://github.com/Buddhsen-tripathi/DeepFindMe
