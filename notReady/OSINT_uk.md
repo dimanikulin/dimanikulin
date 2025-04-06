@@ -341,3 +341,17 @@ https://mever.gr/forensics/
 DEEP FACE UI – автономний інструмент для аналізу та порівняння фотографій обличчя. Не вимагає ключів API.
 
 https://github.com/GONZOsint/deepfaceui
+
+
+
+HANDLEHAWK – за ніком збирає інформацію про профіль на різних платформах:
+
+Bluesky
+Mastodon
+Nostr
+TruthSocial
+Reddit
+Snapchat
+Twitter (через додатковий RapidAPI)
+
+https://github.com/C3n7ral051nt4g3ncy/HandleHawk
