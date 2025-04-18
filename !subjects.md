@@ -1,6 +1,4 @@
-
 top interviewer presnt
-что такое закон подлости
 
 qt creator (probably with AI) help a lot in code review - not suggested for using
 
