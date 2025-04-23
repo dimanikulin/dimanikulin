@@ -9,8 +9,6 @@ headers in files means nothing content everything
 chatgpt can not pass IQ tests
 it compared CoAP and LwM2M with description of libs
 
-уровень контент количество просмотров
-
 People are created to make mistakes but great people can learn from mistakes.
 And usual people
 есть тольео один в мире который верит в тебя по настоящему это ты
