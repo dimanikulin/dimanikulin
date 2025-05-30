@@ -346,3 +346,11 @@ Snapchat
 Twitter (через додатковий RapidAPI)
 
 https://github.com/C3n7ral051nt4g3ncy/HandleHawk
+
+
+///////
+Telegram Post Downloader – інструмент на Python для завантаження постів з декількох телеграм-каналів (можна задати діапазон дат публікації) та їх аналізу за допомогою LLM.
+
+https://github.com/Ironship/TelegramOSINTPolo
+
+Не використовуйте важливі акаунти для отримання ключів API (є ризик блокування)
