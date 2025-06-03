@@ -8,7 +8,6 @@ joke about elrcticity - diod, conder
 
 chatgpt can not pass IQ tests
 
-для тех легко вошел в айти легко с него яи выйти, все зависит от порога входа.
 лучше не обещай ничего, тем более если не уверен. просто делай
 
 <https://dou.eu/en/community/posts/what-are-multimedia-information-retrieval-systems>
