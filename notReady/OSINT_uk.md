@@ -326,3 +326,14 @@ https://github.com/Ironship/TelegramOSINTPolo
 
 Не використовуйте важливі акаунти для отримання ключів API (є ризик блокування)
 
+@anotherLeakOSINTrobotbot
+
+@TeleScanReserveBot
+
+Easy Osint @ehitngcvabfofurybot
+
+Leak – OSINT | BIO @anotherLeakOSINTbot
+
+HowToFind Bot @HowToFindRobot
+
+Unamer @unamer_search_bot
