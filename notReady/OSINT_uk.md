@@ -203,6 +203,9 @@ geohints.com
 
 [DEEP FACE UI](https://github.com/GONZOsint/deepfaceui) – автономний інструмент для аналізу та порівняння фотографій обличчя. Не вимагає ключів API.
 
+[Telegram Post Downloader](https://github.com/Ironship/TelegramOSINTPolo) – інструмент на Python для завантаження постів з декількох телеграм-каналів (можна задати діапазон дат публікації) та їх аналізу за допомогою LLM.
+
+Не використовуйте важливі акаунти для отримання ключів API (є ризик блокування)
 
 # Пошук за допомогою номера телефона
 
@@ -303,27 +306,6 @@ TempMail <https://temp-mail.org/> Безплатний Сервіси тимча
 https://www.comparitech.com/blog/vpn-privacy/russian-ip-address-vpn/
 
 
-#######
-
-HANDLEHAWK – за ніком збирає інформацію про профіль на різних платформах:
-
-Bluesky
-Mastodon
-Nostr
-TruthSocial
-Reddit
-Snapchat
-Twitter (через додатковий RapidAPI)
-
-https://github.com/C3n7ral051nt4g3ncy/HandleHawk
-
-
-///////
-Telegram Post Downloader – інструмент на Python для завантаження постів з декількох телеграм-каналів (можна задати діапазон дат публікації) та їх аналізу за допомогою LLM.
-
-https://github.com/Ironship/TelegramOSINTPolo
-
-Не використовуйте важливі акаунти для отримання ключів API (є ризик блокування)
 
 @anotherLeakOSINTrobotbot
 
