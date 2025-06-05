@@ -201,6 +201,8 @@ geohints.com
 - пошук субдоменів/WHOIS/DNS
 - та багато іншого на https://www.deepfind.me/tools
 
+[DEEP FACE UI](https://github.com/GONZOsint/deepfaceui) – автономний інструмент для аналізу та порівняння фотографій обличчя. Не вимагає ключів API.
+
 
 # Пошук за допомогою номера телефона
 
@@ -302,9 +304,6 @@ https://www.comparitech.com/blog/vpn-privacy/russian-ip-address-vpn/
 
 
 #######
-DEEP FACE UI – автономний інструмент для аналізу та порівняння фотографій обличчя. Не вимагає ключів API.
-
-https://github.com/GONZOsint/deepfaceui
 
 HANDLEHAWK – за ніком збирає інформацію про профіль на різних платформах:
 
