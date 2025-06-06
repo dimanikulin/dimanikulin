@@ -230,7 +230,18 @@ whatsapp.checkleaked.cc - Сервіс для пошуку інформації 
 
 # Пошук за допомогою Telegram ботів
 
-TODO
+Таки телеграмм боти можут статися у нагоді:
+- @anotherLeakOSINTrobotbot
+
+- @TeleScanReserveBot
+
+- [Easy Osint](@ehitngcvabfofurybot)
+
+- [Leak – OSINT | BIO ](@anotherLeakOSINTbot)
+
+- [HowToFind Bot](@HowToFindRobot)
+
+- [Unamer](@unamer_search_bot)
 
 # Пошук за данними LinkedIn
 
@@ -304,17 +315,3 @@ TODO
 CryptoGmail <https://cryptogmail.com/>,
 TempMail <https://temp-mail.org/> Безплатний Сервіси тимчасових пошт
 https://www.comparitech.com/blog/vpn-privacy/russian-ip-address-vpn/
-
-
-
-@anotherLeakOSINTrobotbot
-
-@TeleScanReserveBot
-
-Easy Osint @ehitngcvabfofurybot
-
-Leak – OSINT | BIO @anotherLeakOSINTbot
-
-HowToFind Bot @HowToFindRobot
-
-Unamer @unamer_search_bot
