@@ -312,7 +312,10 @@ EXIF-дані зображення містять цінну інформаці�
 
 | # | Name                 | Source                | Release date           |  Author                 | Description   |
 | - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
-<https://www.youtube.com/live/8sC8x79iyP8>
-CryptoGmail <https://cryptogmail.com/>,
-TempMail <https://temp-mail.org/> Безплатний Сервіси тимчасових пошт
-https://www.comparitech.com/blog/vpn-privacy/russian-ip-address-vpn/
+|   | CryptoGmail          | https://cryptogmail.com/   |            |                  | Безплатний Сервіс тимчасовой пошти   |
+|   | TempMail             | https://temp-mail.org/ |            |                  | Безплатний Сервіс тимчасовой пошти  |
+|   | VPN                  | https://www.comparitech.com/blog/vpn-privacy/russian-ip-address-vpn/ | |  | шо працює в рф  |
+
+ 
+
+
