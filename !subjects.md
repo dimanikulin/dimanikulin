@@ -1,8 +1,4 @@
-new position
-
 top interviewer presnt
-
-qt creator (probably with AI) help a lot in code review - not suggested for using
 
 joke about elrcticity - diod, conder
 
