@@ -315,7 +315,5 @@ EXIF-дані зображення містять цінну інформаці�
 |   | CryptoGmail          | https://cryptogmail.com/   |            |                  | Безплатний Сервіс тимчасовой пошти   |
 |   | TempMail             | https://temp-mail.org/ |            |                  | Безплатний Сервіс тимчасовой пошти  |
 |   | VPN                  | https://www.comparitech.com/blog/vpn-privacy/russian-ip-address-vpn/ | |  | шо працює в рф  |
-
- 
-
-
+|   | Tools for OSINT in Telegram | https://hackyourmom.com/en/servisy/instrumenty-dlya-osint-v-telegram/ | |  |  |
+|   | Tools for OSINT in Telegram 2 | https://github.com/Jieyab89/OSINT-Cheat-sheet?tab=readme-ov-file#telegram-tool | |  |  |
