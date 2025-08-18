@@ -19,17 +19,7 @@ TBD
 
 TBD
 
-# Definitions, Acronyms, Abbreviations
-
-| # | Abbreviation or Acronym | Definition     |
-| - | ------------------------|:--------------:|
-| 1 |
-
-# Overview
-
-TBD
-
-or ---
+---
 
 # Introduction
 
