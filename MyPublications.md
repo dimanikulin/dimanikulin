@@ -22,6 +22,7 @@
 |[Rules I use to work with Telegram](./MyRulesWorkingWithTg_uk.md)| N/A | N/A | N/A | N/A | N/A | N/A | N/A |
 |[My Telegram Channel](./MyTelegramChannel_uk.md)| N/A | N/A | N/A | N/A | N/A | N/A | N/A |
 |[Russian telegram channels](./MyRuTelegramChannels_ru.md)| N/A | N/A | N/A | N/A | N/A | N/A | N/A |
+|[OSINT](./OSINT_uk.md)| N/A | N/A | N/A | N/A | N/A | N/A | N/A |
 
 # Not ready yet
 
