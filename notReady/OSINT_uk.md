@@ -13,7 +13,20 @@
 - [Пошук за зображенням](./OSINT_uk.md#%D0%BF%D0%BE%D1%88%D1%83%D0%BA-%D0%B7%D0%B0-%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F%D0%BC)
 - [Пошук за поштою](./OSINT_uk.md#%D0%BF%D0%BE%D1%88%D1%83%D0%BA-%D0%B7%D0%B0-%D0%BF%D0%BE%D1%88%D1%82%D0%BE%D1%8E)
 - [Пошук за обличчям](./OSINT_uk.md#%D0%BF%D0%BE%D1%88%D1%83%D0%BA-%D0%B7%D0%B0-%D0%BE%D0%B1%D0%BB%D0%B8%D1%87%D1%87%D1%8F%D0%BC)
-TODO
+- [Пошук за допомогою developer tools](https://github.com/dimanikulin/dimanikulin/blob/main/notReady/OSINT_uk.md#%D0%BF%D0%BE%D1%88%D1%83%D0%BA-%D0%B7%D0%B0-%D0%B4%D0%BE%D0%BF%D0%BE%D0%BC%D0%BE%D0%B3%D0%BE%D1%8E-developer-tools)
+- [Пошук за допомогою номера телефона](https://github.com/dimanikulin/dimanikulin/blob/main/notReady/OSINT_uk.md#%D0%BF%D0%BE%D1%88%D1%83%D0%BA-%D0%B7%D0%B0-%D0%B4%D0%BE%D0%BF%D0%BE%D0%BC%D0%BE%D0%B3%D0%BE%D1%8E-%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%B0-%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD%D0%B0)
+- [Пошук за даними Whatsapp](https://github.com/dimanikulin/dimanikulin/blob/main/notReady/OSINT_uk.md#%D0%BF%D0%BE%D1%88%D1%83%D0%BA-%D0%B7%D0%B0-%D0%B4%D0%B0%D0%BD%D0%B8%D0%BC%D0%B8-whatsapp)
+- [Пошук за данними мережи](https://github.com/dimanikulin/dimanikulin/blob/main/notReady/OSINT_uk.md#%D0%BF%D0%BE%D1%88%D1%83%D0%BA-%D0%B7%D0%B0-%D0%B4%D0%B0%D0%BD%D0%BD%D0%B8%D0%BC%D0%B8-%D0%BC%D0%B5%D1%80%D0%B5%D0%B6%D0%B8)
+- [Пошук за даними Телеграму](https://github.com/dimanikulin/dimanikulin/blob/main/notReady/OSINT_uk.md#%D0%BF%D0%BE%D1%88%D1%83%D0%BA-%D0%B7%D0%B0-%D0%B4%D0%B0%D0%BD%D0%B8%D0%BC%D0%B8-%D1%82%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%D1%83)
+- [Пошук за допомогою Telegram ботів](https://github.com/dimanikulin/dimanikulin/blob/main/notReady/OSINT_uk.md#%D0%BF%D0%BE%D1%88%D1%83%D0%BA-%D0%B7%D0%B0-%D0%B4%D0%BE%D0%BF%D0%BE%D0%BC%D0%BE%D0%B3%D0%BE%D1%8E-telegram-%D0%B1%D0%BE%D1%82%D1%96%D0%B2)
+- [Пошук за данними LinkedIn](https://github.com/dimanikulin/dimanikulin/blob/main/notReady/OSINT_uk.md#%D0%BF%D0%BE%D1%88%D1%83%D0%BA-%D0%B7%D0%B0-%D0%B4%D0%B0%D0%BD%D0%BD%D0%B8%D0%BC%D0%B8-linkedin)
+- [Геолокалізація зображень](https://github.com/dimanikulin/dimanikulin/blob/main/notReady/OSINT_uk.md#%D0%B3%D0%B5%D0%BE%D0%BB%D0%BE%D0%BA%D0%B0%D0%BB%D1%96%D0%B7%D0%B0%D1%86%D1%96%D1%8F-%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D1%8C)
+- [Метаданні](https://github.com/dimanikulin/dimanikulin/blob/main/notReady/OSINT_uk.md#%D0%BC%D0%B5%D1%82%D0%B0%D0%B4%D0%B0%D0%BD%D0%BD%D1%96)
+- [Інструменти, які допоможуть розпізнати фейкові фото та відео](https://github.com/dimanikulin/dimanikulin/blob/main/notReady/OSINT_uk.md#%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8-%D1%8F%D0%BA%D1%96-%D0%B4%D0%BE%D0%BF%D0%BE%D0%BC%D0%BE%D0%B6%D1%83%D1%82%D1%8C-%D1%80%D0%BE%D0%B7%D0%BF%D1%96%D0%B7%D0%BD%D0%B0%D1%82%D0%B8-%D1%84%D0%B5%D0%B9%D0%BA%D0%BE%D0%B2%D1%96-%D1%84%D0%BE%D1%82%D0%BE-%D1%82%D0%B0-%D0%B2%D1%96%D0%B4%D0%B5%D0%BE)
+- [Як виявити контент, згенерований за допомогою ШІ, використовуючи OSINT?](https://github.com/dimanikulin/dimanikulin/blob/main/notReady/OSINT_uk.md#%D1%8F%D0%BA-%D0%B2%D0%B8%D1%8F%D0%B2%D0%B8%D1%82%D0%B8-%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82-%D0%B7%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9-%D0%B7%D0%B0-%D0%B4%D0%BE%D0%BF%D0%BE%D0%BC%D0%BE%D0%B3%D0%BE%D1%8E-%D1%88%D1%96-%D0%B2%D0%B8%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%B2%D1%83%D1%8E%D1%87%D0%B8-osint)
+- [Як відстежити зміни в акаунтах?](https://github.com/dimanikulin/dimanikulin/blob/main/notReady/OSINT_uk.md#%D1%8F%D0%BA-%D0%B2%D1%96%D0%B4%D1%81%D1%82%D0%B5%D0%B6%D0%B8%D1%82%D0%B8-%D0%B7%D0%BC%D1%96%D0%BD%D0%B8-%D0%B2-%D0%B0%D0%BA%D0%B0%D1%83%D0%BD%D1%82%D0%B0%D1%85)
+- [References](https://github.com/dimanikulin/dimanikulin/blob/main/notReady/OSINT_uk.md#references)
+
 
 # Tags
 
