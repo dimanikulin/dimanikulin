@@ -23,6 +23,9 @@
 |[My Telegram Channel](./MyTelegramChannel_uk.md)| N/A | N/A | N/A | N/A | N/A | N/A | N/A |
 |[Russian telegram channels](./MyRuTelegramChannels_ru.md)| N/A | N/A | N/A | N/A | N/A | N/A | N/A |
 |[OSINT](./OSINT_uk.md)| N/A | N/A | N/A | N/A | N/A | N/A | N/A |
+|[Static Analyzer](./StaticAnalyzer_en.md)| N/A | N/A | N/A | N/A | N/A | N/A | N/A |
+
+
 
 # Not ready yet
 
@@ -36,6 +39,5 @@
 |[Where To Publish 2](./PublishWhere2_en.md)|TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
 |[AI For Software Architects](./AIForSWArchitects_en.md)| TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
 
-TODO StaticAnalyzer
 
 Format is *{Reviews/Likes/Comments/Reposts}*
