@@ -1,9 +1,9 @@
 # Headline
-TBD
+Comprehensive Comparison of C++ Static Analyzers: From Open Source to Enterprise Solutions
 
 # Alternative headline
 
-TBD
+C++ Static Analysis Tools Compared: Cppcheck, SonarQube, Clang SA, Coverity, PVS-Studio, Infer, and CodeChecker
 
 # Table of contents
 
@@ -12,10 +12,11 @@ TBD
 - [Overview](./!Template.md#overview)
 - [Introduction](./!Template.md#introduction)
 - [References](./!Template.md#references)
+TBD
 
 # Tags
 
-TBD
+C++, Static Analysis, Cppcheck, SonarQube, Clang Static Analyzer, Coverity, PVS-Studio, Infer, CodeChecker
 
 # Definitions, Acronyms, Abbreviations
 
