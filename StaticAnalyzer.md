@@ -7,22 +7,28 @@ C++ Static Analysis Tools Compared: Cppcheck, SonarQube, Clang SA, Coverity, PVS
 
 # Table of contents
 
-- [Tags](./!Template.md#tags)
-- [Definitions, Acronyms, Abbreviations](./!Template.md#definitions-acronyms-abbreviations)
-- [Overview](./!Template.md#overview)
-- [Introduction](./!Template.md#introduction)
-- [References](./!Template.md#references)
-TBD
+- [Tags](./StaticAnalyzer.md#tags)TBD
+- [Overview](./StaticAnalyzer.md#overview)
+- [C++ Static Analyzers Comparison](./StaticAnalyzer.md#c-static-analyzers-comparison)
+- [Legend:](./StaticAnalyzer.md#legend)
+- [Use - case recommendations](./StaticAnalyzer.md#use---case-recommendations)
+- [Embedded Systems](./StaticAnalyzer.md#-embedded-systems)
+- [Real-Time Applications (e.g., robotics, audio/video, SCADA)](./StaticAnalyzer.md#%EF%B8%8F-real-time-applications-eg-robotics-audiovideo-scada)
+- [Safety-Critical Systems (e.g., automotive, aerospace, medical)](./StaticAnalyzer.md#-safety-critical-systems-eg-automotive-aerospace-medical)
+- [Budget-based Recommendations](./StaticAnalyzer.md#-budget-based-recommendations)
+- [No Budget](./StaticAnalyzer.md#-no-budget)
+- [Limited Budget (~$500–$2,000/year)](./StaticAnalyzer.md#-limited-budget-5002000year)
+- [No Budget Limit (Enterprise / Mission-critical)](./StaticAnalyzer.md#-no-budget-limit-enterprise--mission-critical)
+- [Open Source vs Commercial Projects](./StaticAnalyzer.md#open-source-vs-commercial-projects)
+- [Summary](./StaticAnalyzer.md#summary)
+- [GitHub vs GitLab Tooling Advice](./StaticAnalyzer.md#-github-vs-gitlab-tooling-advice)
+- [GitHub Highlights:](./StaticAnalyzer.md#github-highlights)
+- [GitLab Highlights:](./StaticAnalyzer.md#gitlab-highlights)
+- [TL;DR Recommendations](./StaticAnalyzer.md#tldr-recommendations)
 
 # Tags
 
 C++, Static Analysis, Cppcheck, SonarQube, Clang Static Analyzer, Coverity, PVS-Studio, Infer, CodeChecker
-
-# Definitions, Acronyms, Abbreviations
-
-| # | Abbreviation or Acronym | Definition     |
-| - | ------------------------|:--------------:|
-| 1 |
 
 # Overview
 
@@ -134,11 +140,3 @@ If you're dealing with **tight safety or real-time constraints**, tools like **C
 | **Enterprise with safety/security needs** | `Coverity + PVS-Studio + SonarQube Enterprise` |
 | **GitHub-hosted repo** | `SonarCloud + Clang SA + Infer` |
 | **GitLab-hosted repo** | `CodeChecker + SonarQube + Cppcheck` |
-
-
-<img src="./Images/TBD.jpg" alt="TBD" />
-
-# References
-
-| # | Name                 | Source                | Release date           |  Author                 | Description   |
-| - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
