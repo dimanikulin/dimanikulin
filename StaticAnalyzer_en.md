@@ -7,24 +7,24 @@ C++ Static Analysis Tools Compared: Cppcheck, SonarQube, Clang SA, Coverity, PVS
 
 # Table of contents
 
-- [Tags](./StaticAnalyzer.md#tags)TBD
-- [Overview](./StaticAnalyzer.md#overview)
-- [C++ Static Analyzers Comparison](./StaticAnalyzer.md#c-static-analyzers-comparison)
-- [Legend:](./StaticAnalyzer.md#legend)
-- [Use - case recommendations](./StaticAnalyzer.md#use---case-recommendations)
-- [Embedded Systems](./StaticAnalyzer.md#-embedded-systems)
-- [Real-Time Applications (e.g., robotics, audio/video, SCADA)](./StaticAnalyzer.md#%EF%B8%8F-real-time-applications-eg-robotics-audiovideo-scada)
-- [Safety-Critical Systems (e.g., automotive, aerospace, medical)](./StaticAnalyzer.md#-safety-critical-systems-eg-automotive-aerospace-medical)
-- [Budget-based Recommendations](./StaticAnalyzer.md#-budget-based-recommendations)
-- [No Budget](./StaticAnalyzer.md#-no-budget)
-- [Limited Budget (~$500–$2,000/year)](./StaticAnalyzer.md#-limited-budget-5002000year)
-- [No Budget Limit (Enterprise / Mission-critical)](./StaticAnalyzer.md#-no-budget-limit-enterprise--mission-critical)
-- [Open Source vs Commercial Projects](./StaticAnalyzer.md#open-source-vs-commercial-projects)
-- [Summary](./StaticAnalyzer.md#summary)
-- [GitHub vs GitLab Tooling Advice](./StaticAnalyzer.md#-github-vs-gitlab-tooling-advice)
-- [GitHub Highlights:](./StaticAnalyzer.md#github-highlights)
-- [GitLab Highlights:](./StaticAnalyzer.md#gitlab-highlights)
-- [TL;DR Recommendations](./StaticAnalyzer.md#tldr-recommendations)
+- [Tags](./StaticAnalyzer_en.md#tags)
+- [Overview](./StaticAnalyzer_en.md#overview)
+- [C++ Static Analyzers Comparison](./StaticAnalyzer_en.md#c-static-analyzers-comparison)
+- [Legend:](./StaticAnalyzer_en.md#legend)
+- [Use - case recommendations](./StaticAnalyzer_en.md#use---case-recommendations)
+- [Embedded Systems](./StaticAnalyzer_en.md#-embedded-systems)
+- [Real-Time Applications (e.g., robotics, audio/video, SCADA)](./StaticAnalyzer_en.md#%EF%B8%8F-real-time-applications-eg-robotics-audiovideo-scada)
+- [Safety-Critical Systems (e.g., automotive, aerospace, medical)](./StaticAnalyzer_en.md#-safety-critical-systems-eg-automotive-aerospace-medical)
+- [Budget-based Recommendations](./StaticAnalyzer_en.md#-budget-based-recommendations)
+- [No Budget](./StaticAnalyzer_en.md#-no-budget)
+- [Limited Budget (~$500–$2,000/year)](./StaticAnalyzer_en.md#-limited-budget-5002000year)
+- [No Budget Limit (Enterprise / Mission-critical)](./StaticAnalyzer_en.md#-no-budget-limit-enterprise--mission-critical)
+- [Open Source vs Commercial Projects](./StaticAnalyzer_en.md#open-source-vs-commercial-projects)
+- [Summary](./StaticAnalyzer_en.md#summary)
+- [GitHub vs GitLab Tooling Advice](./StaticAnalyzer_en.md#-github-vs-gitlab-tooling-advice)
+- [GitHub Highlights:](./StaticAnalyzer_en.md#github-highlights)
+- [GitLab Highlights:](./StaticAnalyzer_en.md#gitlab-highlights)
+- [TL;DR Recommendations](./StaticAnalyzer_en.md#tldr-recommendations)
 
 # Tags
 
