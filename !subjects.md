@@ -18,8 +18,6 @@ healthcare мониторинг
 
 presents from EPAM
 
-если у вас зависимость от лайков на ваши посты в соц сетях следиту делаете ли посты что б
-
 RecursiveDrinking.jpg
 
 task to find optimum place and time when thing are mixed for 10 passangger and for 10 their suite cases with 10 things inside
