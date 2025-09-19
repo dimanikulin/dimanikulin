@@ -2,10 +2,6 @@ top interviewer presnt
 
 joke about elrcticity - diod, conder
 
-chatgpt can not pass IQ tests
-
-лучше не обещай ничего, тем более если не уверен. просто делай
-
 <https://dou.eu/en/community/posts/what-are-multimedia-information-retrieval-systems>
 
 portbable app
