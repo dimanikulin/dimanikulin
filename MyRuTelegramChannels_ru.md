@@ -200,6 +200,9 @@ Bots that collect coordinates to target strikes or post direct personal informat
 | [ПУТИН МОЙ ПРЕЗИДЕНТ](https://t.me/bratsavaleriacccr) |
 | [tedivi](https://t.me/tedivi) |
 | [Сущность чернигова](https://t.me/sysnost_hernigova) |
+| [Херсон Освобожденный](https://t.me/Kherson_Svoboda) |
+| [ХАБР БПЛА](t.me/bpla_habr) |
+| [Код7 - Первый Международный](https://t.me/codeseven_Z)
 
 # Ban in chats
 
