@@ -1,16 +1,6 @@
 top interviewer presnt
 
-<https://dou.eu/en/community/posts/what-are-multimedia-information-retrieval-systems>
-
-portbable app
-archive
-essentiali epim
-
-видучаывай
-
 healthcare мониторинг
-
-presents from EPAM
 
 RecursiveDrinking.jpg
 
