@@ -45,6 +45,8 @@ one profile as a link to git hub to be used on all platforms I publish my conten
 2. There is a site that tracks layoffs <https://lnkd.in/eUX7Mvpu>. So you can see that In Jan there were a lot of tech layoffs, so the market is competitive.
 3. Your linked in Profile & Resume need to updated to have all the correct keywords in it because most companies use Applicant Tracking Systems (ATS) and they specifically look for keywords and rate your resume against the job description. There is a site called <https://www.jobscan.co/> that will help evaluate your resume against a job description. (Not suggesting you pay for it, they give you 5 for free).
 
+https://www.linkedin.com/posts/saienkoanastasia_%D1%8F%D0%BA-%D0%B7%D1%80%D0%BE%D0%B1%D0%B8%D1%82%D0%B8-%D1%96%D0%B4%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9-github-readme-%D0%B4%D0%BB%D1%8F-%D1%81%D0%B2%D0%BE%D0%B3%D0%BE-activity-7401728097462423552-hXWy/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAlsWb8BPAbKMyDiy56H2KfpjQJ1GthAUxM
+
 <img src="./Images/TBD.jpg" alt="TBD" />
 
 # References
