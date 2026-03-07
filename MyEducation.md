@@ -49,7 +49,8 @@ Generally I have about 20 certificates and please find my certificates here:
 |17|EPAM    |[Solution Architecture 2.0](./Images/CertsEPAM.jpg)                                          |Jun 2021| |
 |18|Prometheus|[English for STEM](./Images/certStem.jpg)                                                  |Apr 2020|[4d46d985b02647d0b457f0c8d183ab99](https://courses.prometheus.org.ua:18090/cert/4d46d985b02647d0b457f0c8d183ab99)|
 |19|Scaled Agile, Inc.|[Certified SAFe� 5 Agilist](./Images/certSAFe.jpg)                                 |Jul 2021/Expired Jul 2022|[IEORZNDr](https://www.credly.com/go/IEORZNDr) |
-|20|GlobalLogic|[Pair Programming With Copilot](./Images/CertGLPairProgrammingWithCopilot.jpg)            |24/04/2024| |
+|20|GlobalLogic|[Pair Programming With Copilot](./Images/CertGLPairProgrammingWithCopilot.jpg)            | | |
+|21|Microsoft | [GitHub Copilot](./Images/certCopilot.png)                                                | 18/02/2026/ Expired 19/02/2028 | [91FA9E92F0F746D1](https://learn.microsoft.com/en-us/credentials/certifications/github-copilot/?practice-assessment-type=certification)| 
 
 # Cources
 
