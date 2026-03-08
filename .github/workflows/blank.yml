@@ -43,7 +43,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
             card: gist
-            options: id=7ff91d7c5a029de32a04b40bba890998&username=readme-tools&repo=github-readme-stats
+            options: id=7ff91d7c5a029de32a04b40bba890998&username=${{ github.repository_owner }}&repo=github-readme-stats
             path: profile/technologies.svg
             token: ${{ secrets.PAT }}
 
