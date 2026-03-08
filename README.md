@@ -80,5 +80,6 @@ I am looking to collaborate on developing my Open Source projects. So everyone c
 <img alt="Profile last commit" src="https://img.shields.io/github/last-commit/dimanikulin/dimanikulin">
 <img alt="Made with Markdown" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg"/>
 <img alt="GitHub stats" src="https://github.com/dimanikulin/dimanikulin/blob/main/profile/pin-readme-tools-github-readme-stats.svg" />
+![Stats](./profile/stats.svg)
 
 </div>
