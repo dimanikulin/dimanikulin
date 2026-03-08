@@ -47,6 +47,8 @@ Please see [this link](./MyEducation.md) for details regarding education, cource
 <img alt="Education" src="https://github-readme-stats.vercel.app/api/gist?id=1ce3421ecd4b81519d6f080a3260bcaa"/>
 </div>
 
+<script src="https://gist.github.com/dimanikulin/7ff91d7c5a029de32a04b40bba890998.js"></script>
+
 ---
 
 I am looking to collaborate on developing my Open Source projects. So everyone can try themselves in different roles to learn something new and to help me, such as: [Product Manager](./WhatILearnedAsProductManager_en.md), [Delivery Manager](./WhatILearnedAsDeliveryManager_en.md),
