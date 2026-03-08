@@ -59,10 +59,10 @@ I am looking to collaborate on developing my Open Source projects. So everyone c
 |  | [FVA Helpers](https://github.com/dimanikulin/fva-helpers) | A site designed to guide inexperienced users through the basics of photo search. It will teach them what’s possible, what to expect, and how to troubleshoot when things go wrong — all without any interactivity, just clear content, visuals, and examples| Made with MarkDown | <img alt="Helpers contributors" src="https://img.shields.io/github/contributors/dimanikulin/fva-helpers"> <img alt="Helpers commit activity" src="https://img.shields.io/github/commit-activity/m/dimanikulin/fva-helpers"> <img alt="Helpers last commit" src="https://img.shields.io/github/last-commit/dimanikulin/fva-helpers"> |
 |  | [Congrats generator](https://github.com/dimanikulin/shoko-generation)  | A web app to generate audio messages for any celebratory event. The AI voice can be fully synthetic or based on a user’s own recording, with customizable tone and style. Outputs a downloadable audio file for sharing. | Uses the OpenAI, HTML and Javascript |  <img alt="Congrats generator" src="https://img.shields.io/github/contributors/dimanikulin/shoko-generation"> <img alt="Helpers commit activity" src="https://img.shields.io/github/commit-activity/m/dimanikulin/shoko-generation"> <img alt="Helpers last commit" src="https://img.shields.io/github/last-commit/dimanikulin/shoko-generation"> |
 
-
+![Stats](./profile/stats.svg)
+![Stats](./profile/top-langs.svg)
 <div>
-<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=dimanikulin&show_icons=true&theme=transparent"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimanikulin&layout=compact&&langs_count=5"/>
+
 </div>
 
 </br>
@@ -72,7 +72,6 @@ I am looking to collaborate on developing my Open Source projects. So everyone c
 [![Dima Nikulin profile views](https://u8views.com/api/v1/github/profiles/4226351/views/day-week-month-total-count.svg)](https://u8views.com/github/dimanikulin)
 
 ---
-![Stats](./profile/stats.svg)
 
 <div>
 
@@ -80,6 +79,5 @@ I am looking to collaborate on developing my Open Source projects. So everyone c
 <img alt="Profile commit activity" src="https://img.shields.io/github/commit-activity/m/dimanikulin/dimanikulin">
 <img alt="Profile last commit" src="https://img.shields.io/github/last-commit/dimanikulin/dimanikulin">
 <img alt="Made with Markdown" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg"/>
-<img alt="GitHub stats" src="https://github.com/dimanikulin/dimanikulin/blob/main/profile/pin-readme-tools-github-readme-stats.svg" />
 
 </div>
