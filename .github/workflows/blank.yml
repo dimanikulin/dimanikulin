@@ -44,6 +44,7 @@ jobs:
         with:
             card: gist
             options: id=7ff91d7c5a029de32a04b40bba890998
+            path: profile/technologies.svg
             token: ${{ secrets.PAT }}
 
       - name: Commit cards
