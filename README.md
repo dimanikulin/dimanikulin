@@ -16,8 +16,8 @@ My [name](./MyBio_en.md) is **Dmytro [Nikulin](./HistorySecondName_ru.md)** and 
 Please see [this link](./MyExperience.md) for more details regarding experience, contribution and business trips.
 
 <div>
-<img alt="Technologies" src="https://github-readme-stats.vercel.app/api/gist?id=7ff91d7c5a029de32a04b40bba890998"/>
-<img alt="Domains" src="https://github-readme-stats.vercel.app/api/gist?id=a7e18d8123709bc2645a742a1dbc232e"/>
+<img alt="Technologies" src="./profile/gist-tech.png"/>
+<img alt="Domains" src="./profile/gist-domains.png"/>
 </div>
 
 My interests include **Automotive**, **Manufacturing**, **Logistic** and **Security**.
@@ -46,8 +46,6 @@ Please see [this link](./MyEducation.md) for details regarding education, cource
 <img alt="Awards" src="https://github-readme-stats.vercel.app/api/gist?id=67fd1012dd1c668aeb6c88ba98ffc7af"/>
 <img alt="Education" src="https://github-readme-stats.vercel.app/api/gist?id=1ce3421ecd4b81519d6f080a3260bcaa"/>
 </div>
-
-<script src="https://gist.github.com/dimanikulin/7ff91d7c5a029de32a04b40bba890998.js"></script>
 
 ---
 
