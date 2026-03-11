@@ -16,8 +16,8 @@ My [name](./MyBio_en.md) is **Dmytro [Nikulin](./HistorySecondName_ru.md)** and 
 Please see [this link](./MyExperience.md) for more details regarding experience, contribution and business trips.
 
 <div>
-<img alt="Technologies" src="./profile/gist-tech.png"/>
-<img alt="Domains" src="./profile/gist-domains.png"/>
+<img alt="Technologies" src="https://github-readme-stats.vercel.app/api/gist?id=7ff91d7c5a029de32a04b40bba890998"/>
+<img alt="Domains" src="https://github-readme-stats.vercel.app/api/gist?id=a7e18d8123709bc2645a742a1dbc232e"/>
 </div>
 
 My interests include **Automotive**, **Manufacturing**, **Logistic** and **Security**.
