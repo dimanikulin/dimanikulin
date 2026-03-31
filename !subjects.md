@@ -15,3 +15,5 @@ https://www.linkedin.com/posts/danielmoka_we-used-to-write-all-code-by-hand-acti
 https://www.linkedin.com/posts/ellina-medynska_8000-connections-here-which-feels-like-activity-7439648108982214656-NqnO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAlsWb8BPAbKMyDiy56H2KfpjQJ1GthAUxM
 
 новая позиция
+
+https://dou.ua/birthday21/?from=tg&utm_source=telegram&utm_medium=social
