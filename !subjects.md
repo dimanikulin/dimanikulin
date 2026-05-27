@@ -5,3 +5,5 @@ healthcare мониторинг
 https://www.linkedin.com/posts/danielmoka_we-used-to-write-all-code-by-hand-activity-7427969535426732033-8aNm/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAlsWb8BPAbKMyDiy56H2KfpjQJ1GthAUxM
 
 https://dou.ua/birthday21/?from=tg&utm_source=telegram&utm_medium=social
+
+c++ cources
