@@ -86,53 +86,6 @@ TBD
 
 # Advanced - (recommended for production teams)
 
-## Responsible AI with GitHub Copilot
-- Mitigate AI risks
-- Microsoft and GitHub's six principles of responsible AI
-
-## Introduction to prompt engineering with GitHub Copilot
-- Prompt engineering foundations and best practices
-- GitHub Copilot user prompt process flow
-- GitHub Copilot data
-- GitHub Copilot Large Language Models (LLMs)
-
-## Management and customization considerations with GitHub Copilot
-- Explore GitHub Copilot plans and their associated management and customization features
-- Explore contractual protections in GitHub Copilot and disabling matching public code
-- Manage content exclusions
-- Troubleshoot common problems with GitHub Copilot
-
-## Introduction to Copilot Spaces
-- Creating your first space
-- Sharing, Discoverability, and Governance
-- Do's and Don'ts of Working in a Space
-- Exercise - Democratize tribal knowledge using Copilot Spaces
-
-## Building applications with GitHub Copilot agent mode
-- What is GitHub Copilot Agent Mode?
-- Explore the power of autonomous development assistance
-- GitHub skills exercise
-
-## Accelerate development with GitHub Copilot coding agent
-- Understanding and enabling the GitHub Copilot coding agent
-- Security, risks, and limitations of the Copilot coding agent
-- Assigning, tracking, and troubleshooting Copilot coding agent tasks
-- Customizing, extending, and validating the Copilot coding agent
-- Responsible use of GitHub Copilot coding agent on GitHub.com
-- Exercise - Expand your team with Copilot coding agent
-
-## Developer use cases for AI with GitHub Copilot
-- Boost developer productivity with AI
-- Align with developer preferences
-- AI in the Software Development Lifecycle (SDLC)
-- Understand limitations and measure impact
-
-## Introduction to MCP Server
-- Simplify your AI workflow with GitHub MCP Server
-- Configure, connect, and use GitHub MCP Server in VS Code
-- Using GitHub MCP Server with Copilot Chat
-- Exercise - Integrate MCP with GitHub Copilot
-
 # Advanced Prompt Engineering for C++
 ## Topics
 Writing effective prompts:
