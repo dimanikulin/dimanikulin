@@ -11,13 +11,13 @@
 
 ---
 
-My [name](./https://github.com/dimanikulin/dimanikulin/blob/main/MyBio_en.md) is **Dmytro [Nikulin](./https://github.com/dimanikulin/dimanikulin/blob/main/HistorySecondName_ru.md)** and I have **25** of years of experience as a Software Developer/Lead/Architect.
+My [name](https://github.com/dimanikulin/dimanikulin/blob/main/MyBio_en.md) is **Dmytro [Nikulin](https://github.com/dimanikulin/dimanikulin/blob/main/HistorySecondName_ru.md)** and I have **25** of years of experience as a Software Developer/Lead/Architect.
 
 **Domains** - Billing systems, Embedded systems, Media, Healthcare,Communication, Geoinformatics, Railways, Technologies
 
 **Technologies** - IoT, Microsoft OS and Cross-platform (with Multi-language UIs) programming, Mobile applications, Software Verification Testing with GTest and Squish
 
-Please see [this link](./https://github.com/dimanikulin/dimanikulin/blob/main/MyExperience.md) for more details regarding experience, contribution and business trips.
+Please see [this link](https://github.com/dimanikulin/dimanikulin/blob/main/MyExperience.md) for more details regarding experience, contribution and business trips.
 
 <div>
 <!--img alt="Technologies" src="https://github-readme-stats.vercel.app/api/gist?id=7ff91d7c5a029de32a04b40bba890998"/>
@@ -45,7 +45,7 @@ I am fluent in three **languages**: Ukrainian, English, Russian. **Visas**: USA,
 
 I have several scientific [publications](./MySciencePublications.md), other [publications](./publications/README.md) and numerous [LinkedIn posts](./MyLinkedInPosts.md).
 
-Please see [this link](./MyEducation.md) for details regarding education, cources, certificates etc.
+Please see [this link](https://github.com/dimanikulin/dimanikulin/blob/main/MyEducation.md) for details regarding education, cources, certificates etc.
 
 <div>
 <!--img alt="Awards" src="https://github-readme-stats.vercel.app/api/gist?id=67fd1012dd1c668aeb6c88ba98ffc7af"/>
